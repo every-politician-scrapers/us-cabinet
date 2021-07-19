@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/tmtmtmtm/every-politician-scraper.git
-  revision: 1f10f8ca9066fa2d68699ec820f8e66b359f6b01
+  revision: edf73548ccfb42a8b45dcb321ab39b10aa8898d9
   specs:
-    every-politician-scraper (0.0.1)
+    every-politician-scraper (0.0.2)
       daff (~> 1.3.0)
       scraped (~> 0.5)
 
