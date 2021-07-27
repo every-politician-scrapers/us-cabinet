@@ -1,6 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q4714600,Alejandro Mayorkas,Alejandro Mayorkas,male,1959-11-24T00:00:00Z,11,,Q642859,United States Secretary of Homeland Security,Q4714600-ae091140-473e-1f43-df14-34023278230e
-Q19920980,Ambassador to the United Nations,Linda Thomas-Greenfield,female,1952-11-22T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q1785225,United States Ambassador to the United Nations,Q19920980-3ce1a008-4032-5f29-f6bb-1d2979c32b62
 Q7821917,Antony Blinken,Antony Blinken,male,1962-04-16T00:00:00Z,11,,Q14213,United States Secretary of State,Q7821917-cc066559-44c8-d8fe-95ec-f5fcdcf6d89f
 Q14525857,Avril Haines,Avril Haines,female,1969-08-27T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q1154057,Director of National Intelligence,Q14525857-320d50a1-416f-0f2a-b77c-8fb5212e257a
 Q616305,Cecilia Rouse,Cecilia Rouse,female,1963-12-18T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q27907217,Chair of the Council of Economic Advisers,Q616305-7578d21b-441f-7104-db6b-6b1b8952755d
@@ -12,6 +11,8 @@ Q104717188,Isabel Guzman,Isabel Guzman,female,1971-01-01T00:00:00Z,9,https://www
 Q263725,Janet Yellen,Janet Yellen,female,1946-08-13T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q4215834,Secretary of the Treasury,Q263725-de321abd-4166-be7b-8372-e942d365b43e
 Q234994,Jennifer Granholm,Jennifer Granholm,female,1959-02-05T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q1029968,Secretary of Energy,Q234994-517d7858-4229-2fc3-234b-6ecfb21bdc86
 Q10853588,Kamala Harris,Kamala Harris,female,1964-10-20T00:00:00Z,11,,Q11699,Vice President of the United States,Q10853588-107e4743-43cd-61b0-794d-10eac87d7e42
+Q104076331,Katherine Tai,Katherine Tai,female,1974-01-01T00:00:00Z,9,https://www.whitehouse.gov/administration/cabinet/,Q27907212,United States Trade Representative,Q104076331-103276eb-45ea-c17c-2699-f72980e2b87e
+Q19920980,Linda Thomas-Greenfield,Linda Thomas-Greenfield,female,1952-11-22T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q1785225,United States Ambassador to the United Nations,Q19920980-3ce1a008-4032-5f29-f6bb-1d2979c32b62
 Q941013,Lloyd Austin,Lloyd Austin,male,1953-08-08T00:00:00Z,11,,Q735015,United States Secretary of Defense,Q941013-37e4b86f-48e2-0d0c-87df-a5482b76a4db
 Q461746,Marcia Fudge,Marcia Fudge,female,1952-10-29T00:00:00Z,11,,Q2419581,United States Secretary of Housing and Urban Development,Q461746-6eeb04cc-485a-bae8-1221-05689d65b733
 Q15126384,Marty Walsh,Marty Walsh,male,1967-04-10T00:00:00Z,11,,Q967750,United States Secretary of Labor,Q15126384-c450d0b7-4f9f-5fe6-8eb2-c7af7a4b9ea2
@@ -21,5 +22,4 @@ Q104244043,Miguel Cardona,Miguel Cardona,male,1975-07-11T00:00:00Z,11,https://ww
 Q7173106,Pete Buttigieg,Pete Buttigieg,male,1982-01-19T00:00:00Z,11,,Q967737,United States Secretary of Transportation,Q7173106-464e63fd-473d-16ac-e495-93b938a2fdc2
 Q649898,Ron Klain,Ron Klain,male,1961-08-08T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q786242,Chief of Staff,Q649898-4acae9b1-47e1-3286-568a-3f3c8f5a7684
 Q353826,Tom Vilsack,Tom Vilsack,male,1950-12-13T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q1029955,Secretary of Agriculture,Q353826-6575e335-440e-3539-2b82-9dfe43ee72cb
-Q104076331,Trade Representative,Katherine Tai,female,1974-01-01T00:00:00Z,9,https://www.whitehouse.gov/administration/cabinet/,Q27907212,United States Trade Representative,Q104076331-103276eb-45ea-c17c-2699-f72980e2b87e
 Q1855840,Xavier Becerra,Xavier Becerra,male,1958-01-26T00:00:00Z,11,https://www.whitehouse.gov/administration/cabinet/,Q2305968,United States Secretary of Health and Human Services,Q1855840-2bd1ab65-4606-dc0a-f067-070c8e8f9d79
