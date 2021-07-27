@@ -1,5 +1,6 @@
 {
     "cabinet": "Q101250904",
     "lang":    "en",
-    "agent":   "every-politican-scrapers/usa-cabinet"
+    "agent":   "every-politican-scrapers/usa-cabinet",
+    "source_match": "whitehouse.gov/administration/cabinet/"
 }
