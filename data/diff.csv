@@ -1,7 +1,10 @@
 @@,name,position
----,Michael S. Regan,Michael Regan
----,Linda McMahon,Administrator of the Small Business Administration
-+++,Michael Regan,ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY
-+++,Linda Thomas-Greenfield,United States Ambassador to the United Nations
-+++,Katherine Tai,United States Trade Representative
+->,Michael Regan,Administrator of the Environmental Protection Agency->ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY
+->,Linda Thomas-Greenfield,Ambassador to the United Nations->United States Ambassador to the United Nations
+->,Katherine Tai,Trade Representative->United States Trade Representative
+---,Richard Grenell,Director of National Intelligence
+---,James R. Clapper,Director of National Intelligence
+---,Director of National Intelligence,Director of National Intelligence
+---,Dennis C. Blair,Director of National Intelligence
+---,Dan Coats,Director of National Intelligence
 +++,Avril Haines,Director of National Intelligence
