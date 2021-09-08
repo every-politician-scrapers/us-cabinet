@@ -1,0 +1,54 @@
+{
+  "no_inception": {
+    "presidency of Andrew Johnson (Q2824539)": "1865-04-15",
+    "presidency of Millard Fillmore (Q2824549)": "1850-07-09",
+    "presidency of James K. Polk (Q2824570)": "1845-03-04"
+  },
+  "no_abolished": {
+    "presidency of Andrew Johnson (Q2824539)": "1869-03-04",
+    "presidency of Millard Fillmore (Q2824549)": "1853-03-04",
+    "presidency of James K. Polk (Q2824570)": "1849-03-04"
+  },
+  "multiple_inception": {
+  },
+  "multiple_abolished": {
+  },
+  "mismatched_inception": {
+  },
+  "mismatched_abolished": {
+  },
+  "no_replaces": {
+    "presidency of Andrew Johnson (Q2824539)": "presidency of Abraham Lincoln (Q7241091)",
+    "presidency of Millard Fillmore (Q2824549)": "presidency of Zachary Taylor (Q2824574)",
+    "presidency of James K. Polk (Q2824570)": "presidency of John Tyler (Q2824576)",
+    "George H. W. Bush Administration cabinet (Q28464554)": ""
+  },
+  "multiple_replaces": {
+  },
+  "no_replacedby": {
+    "presidency of Andrew Johnson (Q2824539)": "presidency of Ulysses S. Grant (Q7241112)",
+    "presidency of Millard Fillmore (Q2824549)": "presidency of James Buchanan (Q2824544)",
+    "presidency of James K. Polk (Q2824570)": "presidency of Zachary Taylor (Q2824574)"
+  },
+  "multiple_replacedby": {
+  },
+  "replaces_ne_follows": {
+  },
+  "replacedby_ne_followedby": {
+  },
+  "replaces_not_present": [
+
+  ],
+  "replacedby_not_present": [
+
+  ],
+  "replacedby_doesnt_reciprocate": [
+
+  ],
+  "replaces_doesnt_reciprocate": [
+
+  ],
+  "abolished_before_successor_inception": [
+
+  ]
+}
