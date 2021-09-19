@@ -73,7 +73,7 @@ Q878739,Bruce Babbitt,American lawyer and politician,Q6581097,male,1938-06-27T00
 Q509225,C. Douglas Dillon,United States Navy officer (1909-2003),Q6581097,male,1909-08-21T00:00:00Z,11,2003-01-10T00:00:00Z,11
 Q1025419,Caesar Augustus Rodney,American politician (1772-1824),Q6581097,male,1772-01-04T00:00:00Z,11,1824-06-10T00:00:00Z,11
 Q177650,Caleb Cushing,American politician (1800-1879),Q6581097,male,1800-01-17T00:00:00Z,11,1879-01-02T00:00:00Z,11
-Q36023,Calvin Coolidge,30th president of the United States (1872-1933),Q6581097,male,1872-07-04T00:00:00Z,11,1933-01-05T00:00:00Z,11
+Q36023,Calvin Coolidge,30th president of the United States (1872−1933),Q6581097,male,1872-07-04T00:00:00Z,11,1933-01-05T00:00:00Z,11
 Q5026282,Cameron Kerry,American politician,Q6581097,male,1950-09-06T00:00:00Z,11,,
 Q127437,Carl Schurz,"Union Army general, politician (1829-1906)",Q6581097,male,1829-03-02T00:00:00Z,11,1906-05-14T00:00:00Z,11
 Q457445,Carla Anderson Hills,American lawyer and Secretary of Housing,Q6581072,female,1934-01-03T00:00:00Z,11,,
@@ -307,7 +307,7 @@ Q724515,Henry Stanbery,American lawyer (1803-1881),Q6581097,male,1803-02-20T00:0
 Q313302,Henry Wilson,"Union Army officer, Vice president, politician, historian (1812-1875)",Q6581097,male,1812-02-16T00:00:00Z,11,1875-11-22T00:00:00Z,11
 Q1607976,Herbert Alton Meyer,American politician (1886-1950),Q6581097,male,1886-08-30T00:00:00Z,11,1950-10-02T00:00:00Z,11
 Q351761,Herbert Brownell,American politician (1904-1996),Q6581097,male,1904-02-20T00:00:00Z,11,1996-05-01T00:00:00Z,11
-Q35236,Herbert Hoover,31st President of the United States of America (1874-1964).,Q6581097,male,1874-08-10T00:00:00Z,11,1964-10-20T00:00:00Z,11
+Q35236,Herbert Hoover,31st President of the United States of America (1874−1964).,Q6581097,male,1874-08-10T00:00:00Z,11,1964-10-20T00:00:00Z,11
 Q937285,Hershel W. Gober,Recipient of the Purple Heart medal,Q6581097,male,1936-12-21T00:00:00Z,11,,
 Q31213846,Hilary J. Sandoval Jr.,,Q6581097,male,1930-01-29T00:00:00Z,11,1973-06-11T00:00:00Z,11
 Q50610,Hilda Solis,25th United States Secretary of Labor,Q6581072,female,1957-10-20T00:00:00Z,11,,
@@ -355,7 +355,7 @@ Q1680613,James John Davies,American politician (1873-1947),Q6581097,male,1873-10
 Q1680613,James John Davies,American politician (1873-1947),Q6581097,male,1873-10-27T00:00:00Z,11,1947-11-22T00:00:00Z,11
 Q372969,James Kirke Paulding,American government official (1778-1860),Q6581097,male,1778-08-22T00:00:00Z,11,1860-04-06T00:00:00Z,11
 Q1314442,James Loy,Commander of the US Coast Guard and Deputy Secretary of Homeland Security,Q6581097,male,1942-08-10T00:00:00Z,11,,
-Q11813,James Madison,5th president of the United States (1751-1836),Q6581097,male,1751-03-16T00:00:00Z,11,1836-06-28T00:00:00Z,11
+Q11813,James Madison,4th president of the United States (1751−1836),Q6581097,male,1751-03-16T00:00:00Z,11,1836-06-28T00:00:00Z,11
 Q331036,James Madison Porter,American politician (1793-1862),Q6581097,male,1793-01-06T00:00:00Z,11,1862-11-11T00:00:00Z,11
 Q267902,James Mattis,26th United States Secretary of Defense; United States Marine Corps general,Q6581097,male,1950-09-08T00:00:00Z,11,,
 Q266119,James McHenry,American politician (1753-1816),Q6581097,male,1753-11-16T00:00:00Z,11,1816-05-03T00:00:00Z,11
@@ -395,7 +395,7 @@ Q6279,Joe Biden,46th and current president of the United States,Q6581097,male,19
 Q723956,Joel Roberts Poinsett,politician and diplomat (1779-1851),Q6581097,male,1779-03-02T00:00:00Z,11,1851-12-12T00:00:00Z,11
 Q6095801,John A. Scali,American diplomat,Q6581097,male,1918-04-27T00:00:00Z,11,1995-10-09T00:00:00Z,11
 Q718922,John Aaron Rawlins,"Union Army general, 29th Secretary of War (1831-1869)",Q6581097,male,1831-02-13T00:00:00Z,11,1869-09-06T00:00:00Z,11
-Q11806,John Adams,2nd president of the United States (1735-1826),Q6581097,male,1735-10-30T00:00:00Z,11,1826-07-04T00:00:00Z,11
+Q11806,John Adams,2nd president of the United States (1735−1826),Q6581097,male,1735-10-30T00:00:00Z,11,1826-07-04T00:00:00Z,11
 Q720259,John Adams Dix,Union Army General (1798-1879),Q6581097,male,1798-07-24T00:00:00Z,11,1879-04-21T00:00:00Z,11
 Q928640,John Albert Knebel,American politician,Q6581097,male,1936-10-04T00:00:00Z,11,,
 Q368192,John Anthony Volpe,American politician (1908-1994),Q6581097,male,1908-12-08T00:00:00Z,11,1994-11-11T00:00:00Z,11
@@ -448,7 +448,7 @@ Q938005,John P. Kennedy,"Novelist, politician (1795-1870)",Q6581097,male,1795-10
 Q1333315,John Palmer Usher,American lawyer,Q6581097,male,1816-01-09T00:00:00Z,11,1889-04-13T00:00:00Z,11
 Q1333315,John Palmer Usher,American lawyer,Q6581097,male,1818-01-18T00:00:00Z,11,1889-04-13T00:00:00Z,11
 Q1290476,John Podesta,former White House Chief of Staff,Q6581097,male,1949-01-08T00:00:00Z,11,,
-Q11816,John Quincy Adams,6th president of the United States (1767-1848),Q6581097,male,1767-07-11T00:00:00Z,11,1848-02-23T00:00:00Z,11
+Q11816,John Quincy Adams,6th president of the United States (1767−1848),Q6581097,male,1767-07-11T00:00:00Z,11,1848-02-23T00:00:00Z,11
 Q311269,John R. Bolton,American lawyer and diplomat,Q6581097,male,1948-11-20T00:00:00Z,11,,
 Q63104663,John R. Quarles Jr.,,Q6581097,male,1935-04-26T00:00:00Z,11,2012-10-29T00:00:00Z,11
 Q1701503,John R. Steelman,"Director of the U.S. Conciliation Service, first White House Chief of Staff",Q6581097,male,1900-06-23T00:00:00Z,11,1999-07-14T00:00:00Z,11
@@ -531,7 +531,7 @@ Q889227,Luke Edward Wright,Confederate Army officer (1846-1922),Q6581097,male,18
 Q361275,Luther H. Hodges,American politician (1898-1974),Q6581097,male,1898-03-09T00:00:00Z,11,1974-10-06T00:00:00Z,11
 Q6705568,"Luther H. Hodges, Jr.",American politician,Q6581097,male,1936-11-19T00:00:00Z,11,,
 Q1358688,Lyman J. Gage,American financier and 42nd Secretary of the Treasury,Q6581097,male,1836-06-28T00:00:00Z,11,1927-01-26T00:00:00Z,11
-Q9640,Lyndon B. Johnson,36th president of the United States (1908-1973),Q6581097,male,1908-08-27T00:00:00Z,11,1973-01-22T00:00:00Z,11
+Q9640,Lyndon B. Johnson,36th president of the United States (1908−1973),Q6581097,male,1908-08-27T00:00:00Z,11,1973-01-22T00:00:00Z,11
 Q959007,Mack McLarty,American politician,Q6581097,male,1946-06-14T00:00:00Z,11,,
 Q174438,Madeleine Albright,former U.S. Secretary of State,Q6581072,female,1937-05-15T00:00:00Z,11,,
 Q1886985,"Malcolm Baldrige, Jr.",American businessman (1922-1987),Q6581097,male,1922-10-04T00:00:00Z,11,1987-07-25T00:00:00Z,11
@@ -549,7 +549,7 @@ Q3956796,Mark Randall Meadows,North Carolina politician and White House Chief of
 Q33190271,Mark T. Esper,27th United States Secretary of Defense,Q6581097,male,1964-04-26T00:00:00Z,11,,
 Q1904711,Martin Patrick Durkin,American Secretary of Labor (1894-1955),Q6581097,male,1894-03-18T00:00:00Z,11,1955-11-13T00:00:00Z,11
 Q949072,Martin Richard Hoffmann,American government official (1932-2014),Q6581097,male,1932-04-20T00:00:00Z,11,2014-07-14T00:00:00Z,11
-Q11820,Martin Van Buren,8th president of the United States (1782-1862),Q6581097,male,1782-12-05T00:00:00Z,11,1862-07-24T00:00:00Z,11
+Q11820,Martin Van Buren,8th president of the United States (1782−1862),Q6581097,male,1782-12-05T00:00:00Z,11,1862-07-24T00:00:00Z,11
 Q15126384,Marty Walsh,American politician from Massachusetts (born 1967),Q6581097,male,1967-04-10T00:00:00Z,11,,
 Q6779939,Mary Jo White,31st Chairwoman of the Securities and Exchange Commission,Q6581072,female,1947-09-27T00:00:00Z,11,,
 Q7481,Mary L. Good,American chemist,Q6581072,female,1931-06-20T00:00:00Z,11,2019-11-20T00:00:00Z,11
@@ -653,7 +653,7 @@ Q7326068,Richard Grenell,American diplomat,Q6581097,male,1966-09-18T00:00:00Z,11
 Q155649,Richard Holbrooke,American diplomat (1941-2010),Q6581097,male,1941-04-24T00:00:00Z,11,2010-12-13T00:00:00Z,11
 Q521427,Richard Kleindienst,United States Attorney General (1923-2000),Q6581097,male,1923-08-05T00:00:00Z,11,2000-02-03T00:00:00Z,11
 Q109463,Richard Mentor Johnson,ninth vice president of the United States (1780-1850),Q6581097,male,1780-10-17T00:00:00Z,11,1850-11-19T00:00:00Z,11
-Q9588,Richard Nixon,37th President of the United States of America (1913-1994),Q6581097,male,1913-01-09T00:00:00Z,11,1994-04-22T00:00:00Z,11
+Q9588,Richard Nixon,37th President of the United States of America (1913−1994),Q6581097,male,1913-01-09T00:00:00Z,11,1994-04-22T00:00:00Z,11
 Q708039,Richard Olney,American politician and statesman (1835-1917),Q6581097,male,1835-09-15T00:00:00Z,11,1917-04-08T00:00:00Z,11
 Q880774,Richard Riley,American politician,Q6581097,male,1933-01-02T00:00:00Z,11,,
 Q62567719,Richard Rominger,California politician,Q6581097,male,1927-07-01T00:00:00Z,11,2020-12-21T00:00:00Z,11
@@ -758,7 +758,7 @@ Q2423569,Thomas E. White,American Army General,Q6581097,male,1943-12-14T00:00:00
 Q1335443,Thomas Ewing,American politician (1789-1871),Q6581097,male,1789-12-28T00:00:00Z,11,1871-10-26T00:00:00Z,11
 Q708034,Thomas F. Bayard,"American lawyer, politician and diplomat (1828-1898)",Q6581097,male,1828-10-29T00:00:00Z,11,1898-09-28T00:00:00Z,11
 Q47333628,Thomas Harker,United States Department of Defense official,Q6581097,male,,,,
-Q11812,Thomas Jefferson,3rd President of the United States of America (1743-1826),Q6581097,male,1743-04-13T00:00:00Z,11,1826-07-04T00:00:00Z,11
+Q11812,Thomas Jefferson,3rd President of the United States of America (1743−1826),Q6581097,male,1743-04-13T00:00:00Z,11,1826-07-04T00:00:00Z,11
 Q7793121,Thomas Perez,DNC Chair and 26th United States Secretary of Labor,Q6581097,male,1961-10-07T00:00:00Z,11,,
 Q968268,Thomas R. Pickering,American diplomat,Q6581097,male,1931-05-11T00:00:00Z,11,,
 Q968268,Thomas R. Pickering,American diplomat,Q6581097,male,1931-11-05T00:00:00Z,11,,
