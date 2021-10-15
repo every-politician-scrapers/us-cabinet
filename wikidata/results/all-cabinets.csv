@@ -1,9 +1,9 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q2824544,presidency of James Buchanan,,,1857-03-04T00:00:00Z,11,1861-03-04T00:00:00Z,11,,,Q15284636,presidential term,,,,,,,Q2824549,presidency of Millard Fillmore,Q7241091,presidency of Abraham Lincoln
-,Q2824574,presidency of Zachary Taylor,,,1849-03-04T00:00:00Z,11,1850-07-09T00:00:00Z,11,,,Q15284636,presidential term,,,,,,,Q2824570,presidency of James K. Polk,Q2824549,presidency of Millard Fillmore
 ,Q2824539,presidency of Andrew Johnson,,,1865-04-15T00:00:00Z,11,,,1869-03-04T00:00:00Z,11,Q15284636,presidential term,,,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
 ,Q2824549,presidency of Millard Fillmore,,,1850-07-09T00:00:00Z,11,,,1853-03-04T00:00:00Z,11,Q15284636,presidential term,,,,,,,Q2824574,presidency of Zachary Taylor,Q2824544,presidency of James Buchanan
 ,Q2824570,presidency of James K. Polk,,,1845-03-04T00:00:00Z,11,,,1849-03-04T00:00:00Z,11,Q15284636,presidential term,,,,,,,Q2824576,presidency of John Tyler,Q2824574,presidency of Zachary Taylor
+,Q2824544,presidency of James Buchanan,,,1857-03-04T00:00:00Z,11,1861-03-04T00:00:00Z,11,,,Q15284636,presidential term,,,,,,,Q2824549,presidency of Millard Fillmore,Q7241091,presidency of Abraham Lincoln
+,Q2824574,presidency of Zachary Taylor,,,1849-03-04T00:00:00Z,11,1850-07-09T00:00:00Z,11,,,Q15284636,presidential term,,,,,,,Q2824570,presidency of James K. Polk,Q2824549,presidency of Millard Fillmore
 ,Q2824539,presidency of Andrew Johnson,,,1865-04-15T00:00:00Z,11,,,1869-03-04T00:00:00Z,11,Q639738,United States Cabinet,,,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
 ,Q2824549,presidency of Millard Fillmore,,,1850-07-09T00:00:00Z,11,,,1853-03-04T00:00:00Z,11,Q639738,United States Cabinet,,,,,,,Q2824574,presidency of Zachary Taylor,Q2824544,presidency of James Buchanan
 ,Q2824570,presidency of James K. Polk,,,1845-03-04T00:00:00Z,11,,,1849-03-04T00:00:00Z,11,Q639738,United States Cabinet,,,,,,,Q2824576,presidency of John Tyler,Q2824574,presidency of Zachary Taylor
