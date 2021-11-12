@@ -70,9 +70,14 @@ if [ ${#warnings[@]} -gt 0 ]; then
   printf '\t%s\n' "${warnings[@]}"
 fi
 
-warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv behead))
+warnings=($(qsv join --left-anti wdid data/wikidata.csv personID html/current.csv | qsv select wdid,name,pid,position | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "In data/wikidata but not current.csv:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv sort -N -s dobp | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "Missing/short DOB:"
   printf '\t%s\n' "${warnings[@]}"
 fi
-
