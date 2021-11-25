@@ -47,8 +47,8 @@ Q4772543,Anthony Foxx,Q967737,United States Secretary of Transportation,2013-07-
 Q359333,Anthony J. Celebrezze,Q3310559,"United States Secretary of Health, Education, and Welfare",1962-07-31T00:00:00Z,1965-08-17T00:00:00Z,,,5,Q323417,Abraham A. Ribicoff,Q445258,John W. Gardner,,,,,,Q359333-7385123A-F297-45BC-A9E6-683C442F3D0D
 Q573825,Anthony Principi,Q1658460,United States Secretary of Veterans Affairs,1992-09-26T00:00:00Z,1993-01-20T00:00:00Z,,,,Q546986,Ed Derwinski,Q1386815,Jesse Brown,Q4676846,acting,,,,Q573825-3116282D-EB0D-4DE5-9635-9EBA1350CB5D
 Q573825,Anthony Principi,Q1658460,United States Secretary of Veterans Affairs,2001-01-23T00:00:00Z,2005-01-26T00:00:00Z,,,,Q937285,Hershel W. Gober,Q1288295,Jim Nicholson,,,,,,Q573825-E4B39A6D-1FD4-4D46-98B9-78AEF06E8681
-Q7821917,Antony Blinken,Q14213,United States Secretary of State,2021-01-26T00:00:00Z,,,,,,,,,,,https://apnews.com/article/joe-biden-donald-trump-biden-cabinet-antony-blinken-cabinets-d74929057a9e8e5f74e0ee553a6baced,,,Q7821917-cc066559-44c8-d8fe-95ec-f5fcdcf6d89f
-Q7821917,Antony Blinken,Q14213,United States Secretary of State,2021-01-26T00:00:00Z,,,,,,,,,,,https://www.whitehouse.gov/administration/cabinet/,Antony Blinken,Secretary of State,Q7821917-cc066559-44c8-d8fe-95ec-f5fcdcf6d89f
+Q7821917,Antony Blinken,Q14213,United States Secretary of State,2021-01-26T00:00:00Z,,,,71,Q473239,Mike Pompeo,,,,,https://apnews.com/article/joe-biden-donald-trump-biden-cabinet-antony-blinken-cabinets-d74929057a9e8e5f74e0ee553a6baced,,,Q7821917-cc066559-44c8-d8fe-95ec-f5fcdcf6d89f
+Q7821917,Antony Blinken,Q14213,United States Secretary of State,2021-01-26T00:00:00Z,,,,71,Q473239,Mike Pompeo,,,,,https://www.whitehouse.gov/administration/cabinet/,Antony Blinken,Secretary of State,Q7821917-cc066559-44c8-d8fe-95ec-f5fcdcf6d89f
 Q349922,Arne Duncan,Q967762,United States Secretary of Education,,,,,,,,,,,,,,,Q349922-D220DB06-9D3C-443B-A62E-4A3CEEC4C8D1
 Q709513,Arthur Goldberg,Q1785225,United States Ambassador to the United Nations,1965-07-28T00:00:00Z,1968-06-24T00:00:00Z,,,6,Q311719,Adlai Stevenson II,Q997635,George Ball,,,,,,Q709513-5EAB70D1-D9BF-4E35-8C9C-4B255D1EFFA1
 Q709513,Arthur Goldberg,Q967750,United States Secretary of Labor,1961-01-21T00:00:00Z,1962-09-20T00:00:00Z,,,9,Q456907,James P. Mitchell,Q597813,W. Willard Wirtz,,,,,,Q709513-CB99B2E4-67DE-406E-8BA3-8A3DAF97E33C
@@ -111,7 +111,7 @@ Q1065003,Charles J. Folger,Q4215834,United States Secretary of the Treasury,1881
 Q919015,Charles Joseph Bonaparte,Q636207,United States Attorney General,1906-12-17T00:00:00Z,1909-03-04T00:00:00Z,,,,Q724503,William Henry Moody,Q351949,George Woodward Wickersham,,,,,,Q919015-236A3484-A3D5-4BC5-9579-A7FFFC067A95
 Q919015,Charles Joseph Bonaparte,Q940135,United States Secretary of the Navy,1905-07-01T00:00:00Z,1906-12-16T00:00:00Z,,,,Q374153,Paul Morton,Q374162,Victor H. Metcalf,,,,,,Q919015-DCBF7852-8300-4F58-BE16-3E4661B77E3A
 Q724252,Charles Lee,Q636207,United States Attorney General,1795-12-10T00:00:00Z,1801-02-19T00:00:00Z,,,,Q709229,William Bradford,Q720568,Levi Lincoln,,,,,,Q724252-677D2511-130A-4F2A-BC31-C74E6A3BB298
-Q724252,Charles Lee,Q14213,United States Secretary of State,1800-05-13T00:00:00Z,1800-06-05T00:00:00Z,,,,,,,,,,,,,Q724252-16fd3b52-4dee-47b2-50e2-41e11fb6cd23
+Q724252,Charles Lee,Q14213,United States Secretary of State,1800-05-13T00:00:00Z,1800-06-05T00:00:00Z,,,,Q435168,Timothy Pickering,Q310829,John Marshall,,,,,,Q724252-16fd3b52-4dee-47b2-50e2-41e11fb6cd23
 Q1065426,Charles Magill Conrad,Q14213,United States Secretary of State,1852-10-25T00:00:00Z,1852-11-05T00:00:00Z,,,,Q106231,Daniel Webster,Q434905,Edward Everett,,,,,,Q1065426-d4a0244e-4f8e-1ec1-7e63-9a67d94e4da3
 Q1065426,Charles Magill Conrad,Q2419102,United States Secretary of War,1850-08-15T00:00:00Z,1853-03-07T00:00:00Z,,,22,Q330995,George W. Crawford,Q162269,Jefferson Davis,,,,,,Q1065426-18c16d6e-4d84-ca27-3f10-295f5fc523d3
 Q1065984,Charles Stebbins Fairchild,Q4215834,United States Secretary of the Treasury,1887-04-01T00:00:00Z,1889-03-06T00:00:00Z,,,,,,,,,,,,,Q1065984-4654DEA0-D1A2-4FBE-8477-A8DE730E82CB
@@ -197,7 +197,7 @@ Q546986,Ed Derwinski,Q1658460,United States Secretary of Veterans Affairs,1989-0
 Q887102,Ed Schafer,Q1029955,United States Secretary of Agriculture,2008-01-28T00:00:00Z,2009-01-20T00:00:00Z,,,29,Q448880,Mike Johanns,Q353826,Tom Vilsack,,,,,,Q887102-ff4cd599-43e9-d0f5-56f7-84dfe30d26f9
 Q319867,Edmund Muskie,Q14213,United States Secretary of State,1980-05-08T00:00:00Z,1981-01-20T00:00:00Z,,,58,Q296661,Cyrus Vance,Q107957,Alexander Haig,,,,,,Q319867-0C2A9FFD-B404-4777-AE65-6504280FFCFD
 Q318703,Edmund Randolph,Q636207,United States Attorney General,1789-09-26T00:00:00Z,1794-01-26T00:00:00Z,,,1,,,Q709229,William Bradford,,,,,,Q318703-386E3BB7-2848-47D9-BC4F-8AD73C43CA75
-Q318703,Edmund Randolph,Q14213,United States Secretary of State,1794-01-02T00:00:00Z,1795-08-20T00:00:00Z,,,,Q11812,Thomas Jefferson,Q435168,Timothy Pickering,,,,,,Q318703-C04C3435-A63E-43AD-A7BB-94A8271332DF
+Q318703,Edmund Randolph,Q14213,United States Secretary of State,1794-01-02T00:00:00Z,1795-08-20T00:00:00Z,,,2,Q11812,Thomas Jefferson,Q435168,Timothy Pickering,,,,,,Q318703-C04C3435-A63E-43AD-A7BB-94A8271332DF
 Q1291670,Edward Bates,Q636207,United States Attorney General,1861-03-05T00:00:00Z,1864-11-24T00:00:00Z,,,26,Q448803,Edwin M. Stanton,Q910781,James Speed,,,,,,Q1291670-31082930-D4C1-4E7B-B079-22E60304A525
 Q5342126,"Edward C. Aldridge, Jr.",Q261746,United States Secretary of the Air Force,,,,,,,,,,,,,,,Q5342126-964967b1-35d3-4cf6-8883-0a536ecf3185
 Q5342139,Edward C. Hugler,Q967750,United States Secretary of Labor,2009-02-02T00:00:00Z,2009-02-24T00:00:00Z,,,,Q5920259,Howard M. Radzely,Q50610,Hilda Solis,Q4676846,acting,,,,Q5342139-b81606a0-47db-c0c4-4ad5-de896d2c4590
@@ -404,7 +404,7 @@ Q724197,James Howard McGrath,Q636207,United States Attorney General,1949-07-27T0
 Q1680613,James John Davies,Q967750,United States Secretary of Labor,,,,,,,,,,,,,,,Q1680613-071d2b83-415c-b90b-9da1-a153d8a88388
 Q372969,James Kirke Paulding,Q940135,United States Secretary of the Navy,,,,,,,,,,,,,,,Q372969-9fa05afb-acfc-420b-b631-e6420f0ece38
 Q1314442,James Loy,Q642859,United States Secretary of Homeland Security,2005-02-01T00:00:00Z,2005-02-15T00:00:00Z,,,,Q559822,Tom Ridge,Q733612,Michael Chertoff,Q4676846,acting,,,,Q1314442-6CB653A5-623F-43AE-A69E-A52478E9C542
-Q11813,James Madison,Q14213,United States Secretary of State,1801-05-02T00:00:00Z,1809-03-03T00:00:00Z,,,,Q310829,John Marshall,Q549532,Robert Smith,,,,,,Q11813-24BF41FC-3384-44B1-8590-D0FD4D826AD5
+Q11813,James Madison,Q14213,United States Secretary of State,1801-05-02T00:00:00Z,1809-03-03T00:00:00Z,,,5,Q720568,Levi Lincoln,Q549532,Robert Smith,,,,,,Q11813-24BF41FC-3384-44B1-8590-D0FD4D826AD5
 Q331036,James Madison Porter,Q2419102,United States Secretary of War,1843-03-08T00:00:00Z,1844-01-30T00:00:00Z,,,18,Q1381825,John C. Spencer,Q718718,William Wilkins,,,,,,Q331036-E70D2C9E-EF10-4D2A-92D2-90E4FAFEC43A
 Q267902,James Mattis,Q735015,United States Secretary of Defense,2017-01-20T00:00:00Z,2018-12-31T00:00:00Z,,,,Q4806029,Ashton Carter,,,,,,,,Q267902-24cc0c54-4bc1-038a-3b05-d2cd6273c6c6
 Q266119,James McHenry,Q2419102,United States Secretary of War,1796-01-27T00:00:00Z,1800-05-13T00:00:00Z,,,3,Q435168,Timothy Pickering,Q594570,Samuel Dexter,,,,,,Q266119-65D46FAC-B96F-40E3-BD2F-4A2CDD004B0B
@@ -494,7 +494,8 @@ Q1700757,John L. McLucas,Q261746,United States Secretary of the Air Force,,,,,,,
 Q327486,John Lehman,Q940135,United States Secretary of the Navy,,,,,,,,,,,,,,,Q327486-BCF05288-A566-44A6-B5A4-58C5194E5E27
 Q457729,John M. McHugh,Q1591470,United States Secretary of the Army,2009-01-01T00:00:00Z,2015-01-01T00:00:00Z,,,,,,,,,,http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000472,,,Q457729-d73ec613-4cb8-5f8f-f5f7-ceae123706b5
 Q1376165,John Macpherson Berrien,Q636207,United States Attorney General,1829-03-09T00:00:00Z,1831-06-22T00:00:00Z,,,,Q1244572,William Wirt,Q359470,Roger B. Taney,,,,,,Q1376165-AEB46977-394B-480A-8ED9-285F905E24A1
-Q310829,John Marshall,Q14213,United States Secretary of State,1800-06-13T00:00:00Z,1801-03-04T00:00:00Z,,,4,Q435168,Timothy Pickering,Q11813,James Madison,,,,,,Q310829-2b462d7b-4a4c-60ce-c83d-647380e51c08
+Q310829,John Marshall,Q14213,United States Secretary of State,1800-06-13T00:00:00Z,1801-02-04T00:00:00Z,,,4,Q724252,Charles Lee,Q310829,John Marshall,,,,,,Q310829-2b462d7b-4a4c-60ce-c83d-647380e51c08
+Q310829,John Marshall,Q14213,United States Secretary of State,1801-02-04T00:00:00Z,1801-03-04T00:00:00Z,,,,Q310829,John Marshall,Q720568,Levi Lincoln,,,,,,Q310829-323db69a-40bd-f637-83c4-136da3a2f1e8
 Q1379781,John Michael McConnell,Q1154057,Director of National Intelligence,2007-02-20T00:00:00Z,2009-01-27T00:00:00Z,,,2,Q453868,John Negroponte,Q1189023,Dennis C. Blair,,,,,,Q1379781-6B248CC1-9F77-4156-A39B-6761BE7792E9
 Q17889,John Middleton Clayton,Q14213,United States Secretary of State,1849-03-08T00:00:00Z,1850-07-22T00:00:00Z,,,,Q12325,James Buchanan,Q106231,Daniel Webster,,,,,,Q17889-73597A45-9AC6-414C-A01F-116D8494E792
 Q1347566,John N. Mitchell,Q636207,United States Attorney General,1969-01-21T00:00:00Z,1972-03-01T00:00:00Z,,,,Q708795,Ramsey Clark,Q521427,Richard Kleindienst,,,,,,Q1347566-FDEE2902-7446-44BF-A6E6-978FC3927AFA
@@ -779,7 +780,7 @@ Q718828,Robert Reich,Q967750,United States Secretary of Labor,1993-01-20T00:00:0
 Q370316,Robert Rubin,Q4215834,United States Secretary of the Treasury,1995-01-11T00:00:00Z,1999-07-02T00:00:00Z,,,,Q455401,Lloyd Bentsen,Q317953,Lawrence Summers,,,,,,Q370316-14F20FA1-27DD-43AE-BEF5-29AABFC36ED9
 Q2158806,Robert Seamans,Q261746,United States Secretary of the Air Force,,,,,,,,,,,,,,,Q2158806-779aaba9-2f15-4e23-9d38-cfb723d1ed05
 Q549532,Robert Smith,Q636207,United States Attorney General,1805-03-02T00:00:00Z,1805-08-07T00:00:00Z,,,,Q720568,Levi Lincoln,Q959976,John Breckinridge,,,,,,Q549532-D3A0E692-C78B-491D-BCF8-30B20E04FF5E
-Q549532,Robert Smith,Q14213,United States Secretary of State,1809-01-01T00:00:00Z,1811-01-01T00:00:00Z,,,6,Q11813,James Madison,Q11815,James Monroe,,,,,,q549532-54576aef-4807-ffe9-8b13-ea13a61fdccb
+Q549532,Robert Smith,Q14213,United States Secretary of State,1809-03-06T00:00:00Z,1811-04-01T00:00:00Z,,,6,Q11813,James Madison,Q11815,James Monroe,,,,,,q549532-54576aef-4807-ffe9-8b13-ea13a61fdccb
 Q549532,Robert Smith,Q940135,United States Secretary of the Navy,1801-01-01T00:00:00Z,1809-01-01T00:00:00Z,,,2,Q817705,Benjamin Stoddert,Q743802,Paul Hamilton,,,,,,q549532-8cb54ac1-4cb6-6359-c82d-dfa38c7ef27a
 Q28543113,Robert Snyder,Q1658460,United States Secretary of Veterans Affairs,2017-01-20T00:00:00Z,2017-02-14T00:00:00Z,,,,Q1681148,Robert A. McDonald,Q5239766,David Shulkin,Q4676846,acting,,,,Q28543113-7258e5bf-9639-492c-a133-03bd7d2931e2
 Q2158975,Robert T. Stevens,Q1591470,United States Secretary of the Army,,,,,,,,,,,,,,,Q2158975-B62C811A-6409-4645-96A9-F618C5633457
@@ -855,7 +856,7 @@ Q1335443,Thomas Ewing,Q2287650,United States Secretary of the Interior,1849-03-0
 Q1335443,Thomas Ewing,Q4215834,United States Secretary of the Treasury,1841-03-04T00:00:00Z,1841-09-11T00:00:00Z,,,14,Q579228,Levi Woodbury,Q1605667,Walter Forward,,,,,,Q1335443-B2EC7D42-F8B8-4471-BB6B-06F6632775A3
 Q708034,Thomas F. Bayard,Q14213,United States Secretary of State,1885-03-07T00:00:00Z,1889-03-06T00:00:00Z,,,,Q709453,Frederick Theodore Frelinghuysen,Q448778,James G. Blaine,,,,,,Q708034-7A4E61BC-3B37-47B2-9E0B-0F2E95066D11
 Q47333628,Thomas Harker,Q940135,United States Secretary of the Navy,,,,,,,,,,,,,,,Q47333628-969C25C6-4B23-4CFB-8CA2-71D82AD57A76
-Q11812,Thomas Jefferson,Q14213,United States Secretary of State,1790-03-22T00:00:00Z,1793-12-31T00:00:00Z,,,,Q310847,John Jay,Q318703,Edmund Randolph,,,,,,q11812-ec23a17f-4779-915b-28b1-930a463658ba
+Q11812,Thomas Jefferson,Q14213,United States Secretary of State,1790-03-22T00:00:00Z,1793-12-31T00:00:00Z,,,1,Q310847,John Jay,Q318703,Edmund Randolph,,,,,,q11812-ec23a17f-4779-915b-28b1-930a463658ba
 Q11812,Thomas Jefferson,Q11699,Vice President of the United States,1797-03-04T00:00:00Z,1801-03-04T00:00:00Z,,,2,Q11806,John Adams,Q179090,Aaron Burr,,,https://www.whitehouse.gov/about-the-white-house/presidents/thomas-jefferson/,,,q11812-c4383790-4ff2-79c5-90b6-ea2cfa420c25
 Q7793121,Thomas Perez,Q967750,United States Secretary of Labor,2013-07-23T00:00:00Z,2017-01-20T00:00:00Z,,,,Q4120997,Seth Harris,Q5342139,Edward C. Hugler,,,,,,Q7793121-23f27cac-4e75-9752-d1ea-2fb701ca6b83
 Q968268,Thomas R. Pickering,Q1785225,United States Ambassador to the United Nations,1989-03-20T00:00:00Z,1992-05-07T00:00:00Z,,,,,,,,,,,,,Q968268-e6c8bfc8-4dfb-a895-3a06-e7eab0d7eba0
@@ -864,7 +865,8 @@ Q1361114,"Thomas S. Gates, Jr.",Q735015,United States Secretary of Defense,1959-
 Q1361114,"Thomas S. Gates, Jr.",Q940135,United States Secretary of the Navy,1957-04-01T00:00:00Z,1959-06-08T00:00:00Z,,,,Q888144,Charles S. Thomas,Q4019940,William B. Franke,,,,,,Q1361114-CDE47AC6-27C3-4760-81BC-254813779A8D
 Q351938,Thomas Watt Gregory,Q636207,United States Attorney General,,,,,,,,,,,,,,,Q351938-C4978D3E-191C-4689-ACBD-7DB042C84F48
 Q311211,Timothy Geithner,Q4215834,United States Secretary of the Treasury,2009-01-26T00:00:00Z,2013-01-25T00:00:00Z,,,75,Q311025,Henry Paulson,Q1677579,Jack Lew,,,,,,Q311211-450015b4-4912-3234-88e7-53be06f25dc2
-Q435168,Timothy Pickering,Q14213,United States Secretary of State,1795-08-20T00:00:00Z,1800-05-12T00:00:00Z,,,3,Q318703,Edmund Randolph,Q310829,John Marshall,,,,,,Q435168-2DC7696B-B80D-4CD9-A4A2-6E5983FE4D0A
+Q435168,Timothy Pickering,Q14213,United States Secretary of State,1795-08-20T00:00:00Z,1795-12-10T00:00:00Z,,,,Q318703,Edmund Randolph,Q435168,Timothy Pickering,,,,,,Q435168-d77e9d15-4666-a35d-004d-4082966e91c2
+Q435168,Timothy Pickering,Q14213,United States Secretary of State,1795-12-10T00:00:00Z,1800-05-12T00:00:00Z,,,3,Q435168,Timothy Pickering,Q724252,Charles Lee,,,,,,Q435168-2DC7696B-B80D-4CD9-A4A2-6E5983FE4D0A
 Q435168,Timothy Pickering,Q2419102,United States Secretary of War,1795-01-02T00:00:00Z,1796-01-27T00:00:00Z,,,2,Q355680,Henry Knox,Q266119,James McHenry,,,,,,Q435168-CF9B3FA8-040F-4101-92BC-7BBE2C226597
 Q1406519,"Togo D. West, Jr.",Q1658460,United States Secretary of Veterans Affairs,1998-01-02T00:00:00Z,1998-05-04T00:00:00Z,,,,Q937285,Hershel W. Gober,Q1406519,"Togo D. West, Jr.",Q4676846,acting,,,,Q1406519-ed996100-49df-0ddf-23a9-4eebe5299685
 Q1406519,"Togo D. West, Jr.",Q1658460,United States Secretary of Veterans Affairs,1998-05-04T00:00:00Z,2000-07-25T00:00:00Z,,,,Q1406519,"Togo D. West, Jr.",Q937285,Hershel W. Gober,,,,,,Q1406519-855990f9-4a9e-1b5b-a9b0-8cf5957cdaee
