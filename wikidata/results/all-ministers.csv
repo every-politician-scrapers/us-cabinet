@@ -339,7 +339,7 @@ Q465586,Hazel R. O'Leary,Q1029968,United States Secretary of Energy,1993-01-22T0
 Q459712,Heather Wilson,Q261746,United States Secretary of the Air Force,2017-05-16T00:00:00Z,,,,24,Q16189325,Deborah Lee James,,,,,,,,Q459712-EBEC8634-F43D-468F-8BC3-19E3D43F6CF5
 Q16152084,Hector Barreto,Q15623718,Administrator of the Small Business Administration,,,,,,,,,,,,,,,Q16152084-5b148da7-efd5-499e-86ac-c105b82abb73
 Q251666,Henry A. Wallace,Q1029955,United States Secretary of Agriculture,1933-03-04T00:00:00Z,1940-09-04T00:00:00Z,,,,Q710508,Arthur M. Hyde,Q373253,Claude R. Wickard,,,,,,Q251666-819635F7-90E6-41D0-A108-4E0FBC3A88AC
-Q251666,Henry A. Wallace,Q2003296,United States Secretary of Commerce,1945-03-02T00:00:00Z,1946-09-20T00:00:00Z,,,,Q1511130,Jesse H. Jones,Q345531,William Averell Harriman,,,,,,Q251666-46BDA7B7-A830-4DE3-9677-A8E9E1080160
+Q251666,Henry A. Wallace,Q2003296,United States Secretary of Commerce,1945-03-02T00:00:00Z,1946-09-20T00:00:00Z,,,,Q1511130,Jesse H. Jones,Q345531,W. Averell Harriman,,,,,,Q251666-46BDA7B7-A830-4DE3-9677-A8E9E1080160
 Q251666,Henry A. Wallace,Q11699,Vice President of the United States,1941-01-20T00:00:00Z,1945-01-20T00:00:00Z,,,33,Q298991,John Nance Garner,Q11613,Harry S Truman,,,,,,Q251666-57CD0A7B-2108-4952-8143-4B710DB1AFF4
 Q450984,Henry Cabot Lodge Jr.,Q1785225,United States Ambassador to the United Nations,1953-01-01T00:00:00Z,1960-01-01T00:00:00Z,,,,,,,,,,http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000394,,,Q450984-2702e243-4c60-1b90-65c7-ba97cf2587ca
 Q464219,Henry Cantwell Wallace,Q1029955,United States Secretary of Agriculture,,,,,,,,,,,,,,,Q464219-01523616-1135-4c4d-b7a3-3f2417b08c4a
@@ -907,6 +907,7 @@ Q732804,Tommy Thompson,Q2305968,United States Secretary of Health and Human Serv
 Q962189,Truman Handy Newberry,Q940135,United States Secretary of the Navy,1908-12-01T00:00:00Z,1909-03-04T00:00:00Z,,,39,Q374162,Victor H. Metcalf,Q924013,George von Lengerke Meyer,,,,,,Q962189-C1CA13E0-8D6A-4AB3-A783-AD0C164BA867
 Q7921977,Verne Orr,Q261746,United States Secretary of the Air Force,,,,,,,,,,,,,,,Q7921977-a0d335eb-c81f-4667-88e9-74a1476f6396
 Q660629,Vernon A. Walters,Q1785225,United States Ambassador to the United Nations,1985-01-01T00:00:00Z,1989-01-01T00:00:00Z,,,,,,,,,,,,,Q660629-5E44D458-BD9C-4E57-BF52-384A777EE758
+Q345531,W. Averell Harriman,Q2003296,United States Secretary of Commerce,1946-10-07T00:00:00Z,1948-04-22T00:00:00Z,,,11,Q251666,Henry A. Wallace,Q977204,Charles W. Sawyer,,,,,,Q345531-4AD39D19-3A23-4F24-A585-1DAE692DC428
 Q981379,"W. Graham Claytor, Jr.",Q940135,United States Secretary of the Navy,1977-02-14T00:00:00Z,1979-08-24T00:00:00Z,,,,Q382493,J. William Middendorf,Q1292540,Edward Hidalgo,,,,,,Q981379-aa310c47-41e0-69cf-7ba7-b679d3ce095c
 Q366201,W. Marvin Watson,Q786242,White House Chief of Staff,1963-11-22T00:00:00Z,1968-04-26T00:00:00Z,,,,Q332170,Kenneth O'Donnell,Q1268791,James Robert Jones,,,,,,Q366201-e977a27e-43b4-073b-65f7-fb8a07122e46
 Q62988,W. Michael Blumenthal,Q4215834,United States Secretary of the Treasury,1977-01-23T00:00:00Z,1979-08-04T00:00:00Z,,,64,Q2006144,William E. Simon,Q939880,G. William Miller,,,,,,Q62988-FAAD630B-847F-4F92-B202-064C942745A8
@@ -929,7 +930,6 @@ Q8000233,Wilbur Ross,Q2003296,United States Secretary of Commerce,2017-02-28T00:
 Q310835,William A. Wheeler,Q11699,Vice President of the United States,1877-03-04T00:00:00Z,1881-03-04T00:00:00Z,,,19,Q313302,Henry Wilson,Q35498,Chester A. Arthur,,,,,,Q310835-435BDAF8-5A97-402D-8D81-04600992E65F
 Q1711147,William Adams Richardson,Q4215834,United States Secretary of the Treasury,,,,,,,,,,,,,,,Q1711147-0CCD87DA-091A-4127-B357-0696A7E0EE80
 Q730936,William Alexander Graham,Q940135,United States Secretary of the Navy,1850-08-02T00:00:00Z,1852-07-25T00:00:00Z,,,20,Q376510,William Ballard Preston,Q938005,John P. Kennedy,,,,,,Q730936-5A451B85-7C98-4042-AB8F-45E545241977
-Q345531,William Averell Harriman,Q2003296,United States Secretary of Commerce,1946-10-07T00:00:00Z,1948-04-22T00:00:00Z,,,11,Q251666,Henry A. Wallace,Q977204,Charles W. Sawyer,,,,,,Q345531-4AD39D19-3A23-4F24-A585-1DAE692DC428
 Q1334578,William B. Saxbe,Q636207,United States Attorney General,1974-01-04T00:00:00Z,1975-02-02T00:00:00Z,,,,Q719808,Elliot Richardson,Q1292438,Edward H. Levi,,,,,,Q1334578-2E908AE0-7D9F-443D-B952-0B6CAFCED649
 Q376510,William Ballard Preston,Q940135,United States Secretary of the Navy,1849-03-08T00:00:00Z,1850-07-22T00:00:00Z,,,19,Q1258123,John Y. Mason,Q730936,William Alexander Graham,,,,,,Q376510-F68D7FFB-521E-414D-80E7-873D936424FE
 Q723917,William Barr,Q636207,United States Attorney General,1991-08-16T00:00:00Z,1991-11-26T00:00:00Z,,,,Q885091,Dick Thornburgh,Q723917,William Barr,Q4676846,acting,,,,Q723917-7b2f3b78-48f9-8b97-78d2-9c2811081013
