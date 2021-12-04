@@ -1,0 +1,302 @@
+{
+  "title": "Kay Ivey",
+  "pageID": 17539463,
+  "categories": [
+    "1944 births",
+    "20th-century American politicians",
+    "20th-century American women politicians",
+    "21st-century American politicians",
+    "21st-century American women politicians",
+    "Alabama Democrats",
+    "Alabama Republicans",
+    "Auburn University alumni",
+    "Baptists from Alabama",
+    "Governors of Alabama",
+    "Lieutenant Governors of Alabama",
+    "Living people",
+    "People from Camden, Alabama",
+    "Republican Party state governors of the United States",
+    "State treasurers of Alabama",
+    "Women state governors of the United States",
+    "Schoolteachers from California",
+    "American women educators",
+    "Women state constitutional officers of Alabama"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kay Ellen Ivey (born October 15, 1944) is an American politician serving as the 54th and current governor of Alabama since 2017.",
+              "links": [
+                {
+                  "text": "governor of Alabama",
+                  "type": "internal",
+                  "page": "List of governors of Alabama"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kay Ellen Ivey"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Republican Party, she was the 38th Alabama state treasurer from 2003 to 2011 and the 30th lieutenant governor of Alabama from 2011 to 2017.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "text": "Alabama state treasurer",
+                  "type": "internal",
+                  "page": "Alabama State Treasurer"
+                },
+                {
+                  "text": "lieutenant governor of Alabama",
+                  "type": "internal",
+                  "page": "List of lieutenant governors of Alabama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ivey became Alabama's second female governor and the first female Republican governor upon the resignation of her predecessor, Robert J. Bentley.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert J. Bentley"
+                }
+              ]
+            },
+            {
+              "text": "She won a full term in the 2018 gubernatorial election by a wide margin against challenger Walt Maddox.",
+              "links": [
+                {
+                  "text": "2018 gubernatorial election",
+                  "type": "internal",
+                  "page": "2018 Alabama gubernatorial election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Walt Maddox"
+                }
+              ]
+            },
+            {
+              "text": "At age 77, Ivey is the oldest currently serving governor in the United States.",
+              "links": [
+                {
+                  "text": "oldest currently serving governor in the United States",
+                  "type": "internal",
+                  "page": "List of current United States governors"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "54th Governor of Alabama",
+          "template": "short description"
+        },
+        {
+          "year": "1944",
+          "month": "10",
+          "day": "15",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kay Ivey"
+          },
+          "image": {
+            "text": "Governor Kay Ivey 2017 (cropped).jpg"
+          },
+          "order": {
+            "text": "54th Governor of Alabama",
+            "links": [
+              {
+                "text": "Governor of Alabama",
+                "type": "internal",
+                "page": "List of governors of Alabama"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Ivey in 2017"
+          },
+          "lieutenant": {
+            "text": "Will Ainsworth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Will Ainsworth"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "April 10, 2017"
+          },
+          "predecessor": {
+            "text": "Robert Bentley",
+            "links": [
+              {
+                "text": "Robert Bentley",
+                "type": "internal",
+                "page": "Robert J. Bentley"
+              }
+            ]
+          },
+          "office1": {
+            "text": "30th Lieutenant Governor of Alabama",
+            "links": [
+              {
+                "text": "Lieutenant Governor of Alabama",
+                "type": "internal",
+                "page": "List of lieutenant governors of Alabama"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Robert Bentley"
+          },
+          "term_start1": {
+            "text": "January 17, 2011"
+          },
+          "term_end1": {
+            "text": "April 10, 2017"
+          },
+          "predecessor1": {
+            "text": "Jim Folsom Jr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jim Folsom Jr."
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Will Ainsworth"
+          },
+          "office2": {
+            "text": "38th Treasurer of Alabama",
+            "links": [
+              {
+                "text": "Treasurer of Alabama",
+                "type": "internal",
+                "page": "Alabama State Treasurer"
+              }
+            ]
+          },
+          "governor2": {
+            "text": "Bob Riley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bob Riley"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "January 20, 2003"
+          },
+          "term_end2": {
+            "text": "January 17, 2011"
+          },
+          "predecessor2": {
+            "text": "Lucy Baxley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lucy Baxley"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Young Boozer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Young Boozer"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Kay Ellen Ivey"
+          },
+          "birth_date": {
+            "text": "October 15, 1944"
+          },
+          "birth_place": {
+            "text": "Camden, Alabama, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Camden, Alabama"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican (since 2002)",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Democratic (before 2002)",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Governor's Mansion",
+            "links": [
+              {
+                "text": "Governor's Mansion",
+                "type": "internal",
+                "page": "Alabama Governor's Mansion"
+              }
+            ]
+          },
+          "education": {
+            "text": "Auburn University (BA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Auburn University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Kay Ivey signature.svg"
+          }
+        }
+      ]
+    }
+  ]
+}

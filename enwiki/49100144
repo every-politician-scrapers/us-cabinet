@@ -1,0 +1,312 @@
+{
+  "title": "Doug Burgum",
+  "pageID": 49100144,
+  "categories": [
+    "1956 births",
+    "20th-century American businesspeople",
+    "21st-century American businesspeople",
+    "21st-century American politicians",
+    "Businesspeople from North Dakota",
+    "Governors of North Dakota",
+    "Living people",
+    "Microsoft people",
+    "North Dakota Republicans",
+    "North Dakota State University alumni",
+    "People from Cass County, North Dakota",
+    "American philanthropists",
+    "Republican Party state governors of the United States",
+    "Stanford Graduate School of Business alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Douglas James Burgum (born August 1, 1956) is an American entrepreneur and politician serving as the 33rd and current Governor of North Dakota since 2016.",
+              "links": [
+                {
+                  "text": "33rd",
+                  "type": "internal",
+                  "page": "List of governors of North Dakota"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of North Dakota"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Douglas James Burgum"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Republican Party.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Burgum joined Great Plains Software in 1983 and became its president in 1984.",
+              "links": [
+                {
+                  "text": "Great Plains Software",
+                  "type": "internal",
+                  "page": "Microsoft Dynamics GP"
+                }
+              ]
+            },
+            {
+              "text": "He sold the company to Microsoft for $1.1 billion in 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Microsoft"
+                }
+              ]
+            },
+            {
+              "text": "At Microsoft, he became the head of Microsoft Business Solutions."
+            },
+            {
+              "text": "He began serving as chairman of the board for Atlassian in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Atlassian"
+                }
+              ]
+            },
+            {
+              "text": "He also served on the board for SuccessFactors starting in 2007 and as chairman from 2010 to 2012."
+            },
+            {
+              "text": "Burgum is the founder of Kilbourne Group, a Fargo-based real-estate development firm, as well as a co-founder of Arthur Ventures.",
+              "links": [
+                {
+                  "text": "Fargo",
+                  "type": "internal",
+                  "page": "Fargo, North Dakota"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016 Burgum announced his intention to run for the governorship of North Dakota as a Republican."
+            },
+            {
+              "text": "With no formal political experience and despite losing the state party's endorsement to longtime Attorney General Wayne Stenehjem at the party convention in April, Burgum defeated Stenehjem in the primary election to claim the Republican nomination.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wayne Stenehjem"
+                }
+              ]
+            },
+            {
+              "text": "He faced Democrat Marvin Nelson and Libertarian Marty Riske in the November general election; he won with over 75% of the vote.",
+              "links": [
+                {
+                  "text": "Democrat",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marvin Nelson"
+                },
+                {
+                  "text": "Libertarian",
+                  "type": "internal",
+                  "page": "Libertarian Party (United States)"
+                },
+                {
+                  "text": "November general election",
+                  "type": "internal",
+                  "page": "2016 North Dakota gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "He was reelected in 2020 with 66% of the vote.",
+              "links": [
+                {
+                  "text": "2020",
+                  "type": "internal",
+                  "page": "2020 North Dakota gubernatorial election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "33rd Governor of North Dakota",
+          "template": "short description"
+        },
+        {
+          "date": "December 2016",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1956",
+          "month": "8",
+          "day": "1",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Karen Stoker",
+          "from": "1991",
+          "to": "2003",
+          "end": "divorced",
+          "template": "marriage"
+        },
+        {
+          "spouse": "Kathryn Helgaas",
+          "from": "2016",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Doug Burgum"
+          },
+          "image": {
+            "text": "Governor Doug Burgum.jpg"
+          },
+          "order": {
+            "text": "33rd Governor of North Dakota",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of North Dakota"
+              }
+            ]
+          },
+          "lieutenant": {
+            "text": "Brent Sanford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brent Sanford"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 15, 2016"
+          },
+          "predecessor": {
+            "text": "Jack Dalrymple",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jack Dalrymple"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Douglas James Burgum"
+          },
+          "birth_date": {
+            "text": "August 1, 1956"
+          },
+          "birth_place": {
+            "text": "Arthur, North Dakota, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arthur, North Dakota"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Governor's Residence",
+            "links": [
+              {
+                "text": "Governor's Residence",
+                "type": "internal",
+                "page": "North Dakota Governor's Residence"
+              }
+            ]
+          },
+          "education": {
+            "text": "North Dakota State University (BA) Stanford University (MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North Dakota State University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Stanford University"
+              },
+              {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Karen Stoker (m. 1991-2003)\n\nKathryn Helgaas (m. 2016)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "website": {
+            "text": "Government website"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.wday.com/news/4155069-doug-burgum-elected-governor-speech-upcoming-wday",
+          "title": "Doug Burgum elected Governor; speech upcoming on WDAY",
+          "access-date": "November 10, 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.inforum.com/news/3924330-live-stream-doug-burgum-announcement-11-am",
+          "title": "Live stream: Doug Burgum announcement at 11 a.m.",
+          "author": "Forum staff reports",
+          "work": "INFORUM",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

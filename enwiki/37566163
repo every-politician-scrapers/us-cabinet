@@ -1,0 +1,258 @@
+{
+  "title": "Lemanu Peleti Mauga",
+  "pageID": 37566163,
+  "categories": [
+    "21st-century American politicians",
+    "American Samoa Democrats",
+    "American Samoa Senators",
+    "American Samoan politicians",
+    "Democratic Party state governors of the United States",
+    "Governors of American Samoa",
+    "Lieutenant Governors of American Samoa",
+    "Living people",
+    "People from Nu'uuli",
+    "San Diego State University alumni",
+    "United States Army officers",
+    "United States Marines",
+    "University of Hawaiʻi at Mānoa alumni",
+    "Year of birth uncertain"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lemanu Palepoi Sialega \"Peleti\" Mauga (born January 1, 1949 ) is an American Samoan politician and the 58th governor of American Samoa since January 3, 2021.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "governor of American Samoa",
+                  "type": "internal",
+                  "page": "List of governors of American Samoa"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lemanu Palepoi Sialega",
+                  "Peleti",
+                  "Mauga"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Democratic Party, Mauga served as Senator in the American Samoa Senate, where he became the Chairman of both the Budget and Appropriations Committee and the Senate Homeland Security Committee.",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senator"
+                },
+                {
+                  "type": "internal",
+                  "page": "American Samoa Senate"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "1949",
+            "1",
+            "1"
+          ],
+          "mf": "y",
+          "template": "birthdate and age"
+        },
+        {
+          "spouse": "Pohakalani Mauga",
+          "from": "1988",
+          "to": "2016",
+          "end": "died",
+          "template": "marriage"
+        },
+        {
+          "spouse": "Ella Failautusi",
+          "from": "2018",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Peleti Mauga"
+          },
+          "image": {
+            "text": "Lemanu Peleti Mauga.jpg"
+          },
+          "order": {
+            "text": "58th Governor of American Samoa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of American Samoa"
+              }
+            ]
+          },
+          "lieutenant": {
+            "text": "Salo Ale",
+            "links": [
+              {
+                "text": "Salo Ale",
+                "type": "internal",
+                "page": "Eleasalo Ale"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 3, 2021"
+          },
+          "predecessor": {
+            "text": "Lolo Matalasi Moliga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lolo Matalasi Moliga"
+              }
+            ]
+          },
+          "order1": {
+            "text": "9th Lieutenant Governor of American Samoa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant Governor of American Samoa"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Lolo Matalasi Moliga"
+          },
+          "term_start1": {
+            "text": "January 3, 2013"
+          },
+          "term_end1": {
+            "text": "January 3, 2021"
+          },
+          "predecessor1": {
+            "text": "Faoa Aitofele Sunia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Faoa Aitofele Sunia"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Salo Ale"
+          },
+          "birth_place": {
+            "text": "Nu'uuli, American Samoa, U.S.",
+            "links": [
+              {
+                "text": "Nu'uuli",
+                "type": "internal",
+                "page": "Nu'uuli, American Samoa"
+              },
+              {
+                "type": "internal",
+                "page": "American Samoa"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Pohakalani Mauga (m. 1988-2016) Ella Failautusi (m. 2018)"
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "education": {
+            "text": "American Samoa Community College University of Hawaii, Manoa (BA) San Diego State University (MPA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "American Samoa Community College"
+              },
+              {
+                "text": "University of Hawaii, Manoa",
+                "type": "internal",
+                "page": "University of Hawaii at Manoa"
+              },
+              {
+                "type": "internal",
+                "page": "San Diego State University"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "United States"
+          },
+          "branch": {
+            "text": "United States Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Army"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Persian Gulf War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Persian Gulf War"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Major"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nga.org/governor/lemanu-p-s-mauga/",
+          "title": "Gov. Lemanu P. S. Mauga",
+          "via": "nga.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first": "Fili",
+          "last": "Sagapolutele",
+          "title": "Lolo and Lemanu declare their candidacy for governor and lt. governor in the 2012 general election",
+          "url": "http://ip-208-109-238-104.ip.secureserver.net/viewstory.php?storyid=31343",
+          "work": "Samoa News",
+          "date": "2011-10-19",
+          "access-date": "2012-11-06",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20131029204600/http://ip-208-109-238-104.ip.secureserver.net/viewstory.php?storyid=31343",
+          "archive-date": "2013-10-29",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

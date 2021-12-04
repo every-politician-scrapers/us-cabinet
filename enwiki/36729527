@@ -1,0 +1,476 @@
+{
+  "title": "Ron DeSantis",
+  "pageID": 36729527,
+  "categories": [
+    "1978 births",
+    "Florida Republicans",
+    "21st-century American politicians",
+    "21st-century American writers",
+    "American military lawyers",
+    "United States Navy personnel of the Iraq War",
+    "American people of Italian descent",
+    "American prosecutors",
+    "Florida lawyers",
+    "Governors of Florida",
+    "Harvard Law School alumni",
+    "Judge Advocate General's Corps, United States Navy",
+    "Living people",
+    "Members of the United States House of Representatives from Florida",
+    "Military personnel from Florida",
+    "Politicians from Jacksonville, Florida",
+    "Republican Party members of the United States House of Representatives",
+    "Republican Party state governors of the United States",
+    "United States Navy officers",
+    "United States Navy reservists",
+    "Yale University alumni",
+    "Dunedin High School alumni",
+    "Catholics from Florida",
+    "Yale Bulldogs baseball players"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ronald Dion DeSantis (born September 14, 1978) is an American politician and attorney serving as the 46th governor of Florida since 2019.",
+              "links": [
+                {
+                  "text": "governor of Florida",
+                  "type": "internal",
+                  "page": "List of governors of Florida"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ronald Dion DeSantis"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Republican Party, he represented in the United States House of Representatives from 2013 to 2018.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States House of Representatives"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "DeSantis was first elected to Congress in 2012 and was reelected in 2014 and 2016.",
+              "links": [
+                {
+                  "text": "2012",
+                  "type": "internal",
+                  "page": "2012 United States House of Representatives elections in Florida"
+                },
+                {
+                  "text": "2014",
+                  "type": "internal",
+                  "page": "2014 United States House of Representatives elections in Florida"
+                },
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 United States House of Representatives elections in Florida"
+                }
+              ]
+            },
+            {
+              "text": "He briefly ran for U.S. Senate in 2016, but withdrew when incumbent senator Marco Rubio sought reelection.",
+              "links": [
+                {
+                  "text": "U.S. Senate",
+                  "type": "internal",
+                  "page": "United States Senate"
+                },
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 United States Senate election in Florida"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marco Rubio"
+                }
+              ]
+            },
+            {
+              "text": "During his tenure, he became known as an ally of President Donald Trump.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            },
+            {
+              "text": "DeSantis frequently criticized Special Counsel Robert Mueller's investigation into Russian interference in the 2016 presidential election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robert Mueller"
+                },
+                {
+                  "text": "Russian interference",
+                  "type": "internal",
+                  "page": "Russian interference in the 2016 United States elections"
+                },
+                {
+                  "text": "2016 presidential election",
+                  "type": "internal",
+                  "page": "2016 United States presidential election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "DeSantis won the Republican primary for Florida's gubernatorial election on August 28, 2018.",
+              "links": [
+                {
+                  "text": "gubernatorial election",
+                  "type": "internal",
+                  "page": "2018 Florida gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "The close results of the general election between DeSantis and the Democratic nominee, Tallahassee mayor Andrew Gillum, triggered a machine recount.",
+              "links": [
+                {
+                  "text": "general election",
+                  "type": "internal",
+                  "page": "2018 Florida gubernatorial election"
+                },
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "text": "Tallahassee",
+                  "type": "internal",
+                  "page": "Tallahassee, Florida"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrew Gillum"
+                }
+              ]
+            },
+            {
+              "text": "DeSantis was certified the winner on November 20."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the COVID-19 pandemic in Florida, DeSantis resisted imposing restrictions such as face mask mandates, stay-at-home orders and vaccination requirements.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Florida"
+                }
+              ]
+            },
+            {
+              "text": "In May 2021, he signed into law a bill that prohibited businesses, schools, cruise ships and government entities from requiring proof of vaccination."
+            },
+            {
+              "text": "As Florida experienced a record surge in COVID-19 cases in July and August 2021, he banned public schools from implementing mask mandates.",
+              "links": [
+                {
+                  "text": "mask mandates",
+                  "type": "internal",
+                  "page": "Face masks during the COVID-19 pandemic"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "46th governor of Florida",
+          "template": "short description"
+        },
+        {
+          "date": "July 2020",
+          "template": "use american english"
+        },
+        {
+          "date": "November 2018",
+          "template": "use mdy dates"
+        },
+        {
+          "list": [
+            "FL",
+            "6",
+            "6th"
+          ],
+          "template": "ushr"
+        },
+        {
+          "year": "1978",
+          "month": "9",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Casey Black",
+          "from": "2010",
+          "template": "marriage"
+        },
+        {
+          "list": [
+            "United States"
+          ],
+          "template": "flagu"
+        },
+        {
+          "list": [
+            "USNO4",
+            "25"
+          ],
+          "template": "dodseal"
+        },
+        {
+          "list": [
+            "FL",
+            "6"
+          ],
+          "template": "ushr"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ron DeSantis"
+          },
+          "image": {
+            "text": "Ron DeSantis 2020 (cropped).jpg"
+          },
+          "caption": {
+            "text": "DeSantis in 2020"
+          },
+          "order": {
+            "text": "46th Governor of Florida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Florida"
+              }
+            ]
+          },
+          "lieutenant": {
+            "text": "Jeanette Nuñez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeanette Nuñez"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 8, 2019"
+          },
+          "predecessor": {
+            "text": "Rick Scott",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rick Scott"
+              }
+            ]
+          },
+          "state1": {
+            "text": "Florida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florida"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 3, 2013"
+          },
+          "term_end1": {
+            "text": "September 10, 2018"
+          },
+          "predecessor1": {
+            "text": "Cliff Stearns",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cliff Stearns"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Michael Waltz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Waltz"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Ronald Dion DeSantis"
+          },
+          "birth_date": {
+            "text": "September 14, 1978"
+          },
+          "birth_place": {
+            "text": "Jacksonville, Florida, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacksonville, Florida"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Casey Black (m. 2010)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "residence": {
+            "text": "Governor's Mansion",
+            "links": [
+              {
+                "text": "Governor's Mansion",
+                "type": "internal",
+                "page": "Florida Governor's Mansion"
+              }
+            ]
+          },
+          "education": {
+            "text": "Yale University (BA) Harvard University (JD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yale University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
+              },
+              {
+                "text": "JD",
+                "type": "internal",
+                "page": "Juris Doctor"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website"
+          },
+          "branch": {
+            "text": "United States Navy",
+            "links": [
+              {
+                "text": "United States Navy",
+                "type": "internal",
+                "page": "undefined"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "2004–2010 (Active) 2010–present (Reserve)"
+          },
+          "rank": {
+            "text": "Lieutenant Commander",
+            "links": [
+              {
+                "text": "Lieutenant Commander",
+                "type": "internal",
+                "page": "Lieutenant commander (United States)"
+              }
+            ]
+          },
+          "unit": {
+            "text": "Judge Advocate General's Corps",
+            "links": [
+              {
+                "text": "Judge Advocate General's Corps",
+                "type": "internal",
+                "page": "Judge Advocate General's Corps, U.S. Navy"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Iraq War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iraq War"
+              }
+            ]
+          },
+          "mawards": {
+            "text": "USN - Fleet Marine Force Officer Insignia.png FMF Warfare Officer Insignia\nBronze Star Medal ribbon.svg Bronze Star\nNavy and Marine Corps Commendation Medal ribbon.svg Navy and Marine Corps Commendation Medal\nGlobal War on Terrorism Service ribbon.svg GWOT Service Medal\nIraq Campaign Medal ribbon.svg Iraq Campaign Medal",
+            "links": [
+              {
+                "text": "FMF Warfare Officer Insignia",
+                "type": "internal",
+                "page": "Fleet Marine Force insignia"
+              },
+              {
+                "text": "Bronze Star",
+                "type": "internal",
+                "page": "Bronze Star Medal"
+              },
+              {
+                "type": "internal",
+                "page": "Navy and Marine Corps Commendation Medal"
+              },
+              {
+                "text": "GWOT Service Medal",
+                "type": "internal",
+                "page": "Global War on Terrorism Service Medal"
+              },
+              {
+                "type": "internal",
+                "page": "Iraq Campaign Medal"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

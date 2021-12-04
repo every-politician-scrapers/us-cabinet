@@ -1,0 +1,299 @@
+{
+  "title": "Kim Reynolds",
+  "pageID": 23234523,
+  "categories": [
+    "1959 births",
+    "21st-century American politicians",
+    "21st-century American women politicians",
+    "Governors of Iowa",
+    "Iowa Republicans",
+    "Iowa state senators",
+    "Iowa State University alumni",
+    "Lieutenant Governors of Iowa",
+    "Living people",
+    "Northwest Missouri State University alumni",
+    "People from Madison County, Iowa",
+    "People from Osceola, Iowa",
+    "Republican Party state governors of the United States",
+    "Southeastern Community College (Iowa) alumni",
+    "Upper Iowa University",
+    "Women state governors of the United States",
+    "Women state legislators in Iowa"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kimberly Kay Reynolds (born August 4, 1959) is an American politician serving as the current governor of Iowa since 2017.",
+              "formatting": {
+                "bold": [
+                  "Kimberly Kay Reynolds"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of the Republican Party.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Reynolds previously served as the 46th Lieutenant Governor of Iowa from 2011 to 2017.",
+              "links": [
+                {
+                  "text": "Lieutenant Governor of Iowa",
+                  "type": "internal",
+                  "page": "List of lieutenant governors of Iowa"
+                }
+              ]
+            },
+            {
+              "text": "Before she was elected Lieutenant Governor, Reynolds served as Clarke County Treasurer for four terms and then served in the Iowa Senate from 2009 to 2010.",
+              "links": [
+                {
+                  "text": "Clarke County",
+                  "type": "internal",
+                  "page": "Clarke County, Iowa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Treasurer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iowa Senate"
+                }
+              ]
+            },
+            {
+              "text": "Reynolds became Governor of Iowa in May 2017 when her predecessor, Terry Branstad, stepped down to become United States Ambassador to China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Terry Branstad"
+                },
+                {
+                  "text": "United States Ambassador to China",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United States to China"
+                }
+              ]
+            },
+            {
+              "text": "She won a full term as governor in the 2018 gubernatorial election.",
+              "links": [
+                {
+                  "text": "2018 gubernatorial election",
+                  "type": "internal",
+                  "page": "2018 Iowa gubernatorial election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "43rd Governor of Iowa",
+          "template": "short description"
+        },
+        {
+          "date": "February 2019",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1959",
+          "month": "8",
+          "day": "4",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Kevin Reynolds",
+          "from": "1982",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kim Reynolds"
+          },
+          "image": {
+            "text": "Kim Reynolds by Gage Skidmore (2).jpg"
+          },
+          "order": {
+            "text": "43rd Governor of Iowa",
+            "links": [
+              {
+                "text": "Governor of Iowa",
+                "type": "internal",
+                "page": "List of governors of Iowa"
+              }
+            ]
+          },
+          "lieutenant": {
+            "text": "Adam Gregg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adam Gregg"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "May 24, 2017"
+          },
+          "predecessor": {
+            "text": "Terry Branstad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Terry Branstad"
+              }
+            ]
+          },
+          "office1": {
+            "text": "46th Lieutenant Governor of Iowa",
+            "links": [
+              {
+                "text": "Lieutenant Governor of Iowa",
+                "type": "internal",
+                "page": "List of lieutenant governors of Iowa"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Terry Branstad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Terry Branstad"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 14, 2011"
+          },
+          "term_end1": {
+            "text": "May 24, 2017"
+          },
+          "predecessor1": {
+            "text": "Patty Judge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patty Judge"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Adam Gregg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adam Gregg"
+              }
+            ]
+          },
+          "state_senate2": {
+            "text": "Iowa"
+          },
+          "district2": {
+            "text": "48th"
+          },
+          "term_start2": {
+            "text": "January 11, 2009"
+          },
+          "term_end2": {
+            "text": "November 12, 2010"
+          },
+          "predecessor2": {
+            "text": "Jeff Angelo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeff Angelo"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Joni Ernst",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joni Ernst"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Kimberly Kay Strawn"
+          },
+          "birth_date": {
+            "text": "August 4, 1959"
+          },
+          "birth_place": {
+            "text": "St. Charles, Iowa, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "St. Charles, Iowa"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Kevin Reynolds (m. 1982)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "residence": {
+            "text": "Terrace Hill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Terrace Hill"
+              }
+            ]
+          },
+          "education": {
+            "text": "Iowa State University (BLS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iowa State University"
+              },
+              {
+                "text": "BLS",
+                "type": "internal",
+                "page": "Bachelor of Liberal Studies"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

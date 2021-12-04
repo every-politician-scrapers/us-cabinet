@@ -1,0 +1,303 @@
+{
+  "title": "Dan McKee",
+  "pageID": 16790825,
+  "categories": [
+    "1951 births",
+    "20th-century American businesspeople",
+    "20th-century American politicians",
+    "21st-century American politicians",
+    "Assumption University (Worcester) alumni",
+    "Businesspeople from Rhode Island",
+    "Governors of Rhode Island",
+    "Harvard Kennedy School alumni",
+    "Lieutenant Governors of Rhode Island",
+    "Living people",
+    "Mayors of places in Rhode Island",
+    "People from Cumberland, Rhode Island",
+    "Rhode Island Democrats",
+    "Rhode Island city council members"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel J. McKee (born June 16, 1951) is an American businessman and politician serving as the 76th governor of Rhode Island since March 2021.",
+              "links": [
+                {
+                  "text": "governor of Rhode Island",
+                  "type": "internal",
+                  "page": "governor of Rhode Island"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel J. McKee"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Democratic Party.",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "McKee served as a member of the Cumberland Town Council from 1992 to 1998 and Mayor of Cumberland twice, from 2000 to 2004 and from 2006 until 2014.",
+              "links": [
+                {
+                  "text": "Cumberland",
+                  "type": "internal",
+                  "page": "Cumberland, Rhode Island"
+                },
+                {
+                  "text": "Town Council",
+                  "type": "internal",
+                  "page": "Town council"
+                }
+              ]
+            },
+            {
+              "text": "He was elected as the lieutenant governor of Rhode Island in 2014.",
+              "links": [
+                {
+                  "text": "lieutenant governor of Rhode Island",
+                  "type": "internal",
+                  "page": "List of lieutenant governors of Rhode Island"
+                }
+              ]
+            },
+            {
+              "text": "When Governor Gina Raimondo resigned to become President Joe Biden's Secretary of Commerce in 2021, McKee acceded to the post of Governor of Rhode Island.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gina Raimondo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                },
+                {
+                  "text": "Secretary of Commerce",
+                  "type": "internal",
+                  "page": "United States Secretary of Commerce"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "76th Governor of Rhode Island",
+          "template": "short description"
+        },
+        {
+          "year": "1951",
+          "month": "06",
+          "day": "16",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Dan McKee"
+          },
+          "image": {
+            "text": "File:Lt. Gov. McKee on Coast Guard Auxiliary Day (cropped).jpg"
+          },
+          "order": {
+            "text": "76th Governor of Rhode Island",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Rhode Island"
+              }
+            ]
+          },
+          "lieutenant": {
+            "text": "Sabina Matos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sabina Matos"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 2, 2021"
+          },
+          "predecessor": {
+            "text": "Gina Raimondo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gina Raimondo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "69th Lieutenant Governor of Rhode Island",
+            "links": [
+              {
+                "text": "Lieutenant Governor of Rhode Island",
+                "type": "internal",
+                "page": "List of lieutenant governors of Rhode Island"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Gina Raimondo"
+          },
+          "term_start1": {
+            "text": "January 6, 2015"
+          },
+          "term_end1": {
+            "text": "March 2, 2021"
+          },
+          "predecessor1": {
+            "text": "Elizabeth Roberts",
+            "links": [
+              {
+                "text": "Elizabeth Roberts",
+                "type": "internal",
+                "page": "Elizabeth H. Roberts"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Sabina Matos"
+          },
+          "office3": {
+            "text": "Mayor of Cumberland",
+            "links": [
+              {
+                "text": "Cumberland",
+                "type": "internal",
+                "page": "Cumberland, Rhode Island"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "January 2001"
+          },
+          "term_end4": {
+            "text": "January 2005"
+          },
+          "predecessor4": {
+            "text": "Frank Gaschen"
+          },
+          "successor4": {
+            "text": "David Iwuc"
+          },
+          "term_start3": {
+            "text": "January 7, 2007"
+          },
+          "term_end3": {
+            "text": "January 6, 2015"
+          },
+          "predecessor3": {
+            "text": "David Iwuc"
+          },
+          "successor3": {
+            "text": "William Murray"
+          },
+          "birth_date": {
+            "text": "June 16, 1951"
+          },
+          "birth_place": {
+            "text": "Cumberland, Rhode Island, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cumberland, Rhode Island"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Susan McGill"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "education": {
+            "text": "Assumption College (BA) Harvard University (MPA)",
+            "links": [
+              {
+                "text": "Assumption College",
+                "type": "internal",
+                "page": "Assumption College (Worcester)"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
+              },
+              {
+                "text": "MPA",
+                "type": "internal",
+                "page": "Master of Public Administration"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.providencejournal.com/article/20131113/NEWS/311139978",
+          "title": "Cumberland Mayor McKee announces bid for R.I. lieutenant governor",
+          "last": "Edgar",
+          "first": "Randal",
+          "website": "providencejournal.com",
+          "language": "en",
+          "access-date": "November 21, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Anderson",
+          "first": "Katherine Gregg and Patrick",
+          "title": "Raimondo resigns after winning Senate confirmation as U.S. commerce secretary; McKee sworn in as RI governor",
+          "url": "https://www.providencejournal.com/story/news/politics/2021/03/02/ri-may-have-new-governor-today-heres-how-would-happen/6883302002/",
+          "access-date": "2021-03-12",
+          "website": "The Providence Journal",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

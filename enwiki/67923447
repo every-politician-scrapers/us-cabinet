@@ -1,0 +1,228 @@
+{
+  "title": "Carlos Del Toro",
+  "pageID": 67923447,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "Biden administration personnel",
+    "George Washington University alumni",
+    "Naval War College alumni",
+    "People from Havana",
+    "People from Hell's Kitchen, Manhattan",
+    "United States Department of Defense officials",
+    "United States Naval Academy alumni",
+    "United States Navy officers",
+    "United States Secretaries of the Navy"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Del Toro (born 1961) is a Cuban-American businessman and retired United States Navy officer who serves as the 78th United States Secretary of the Navy since 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Navy"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States Secretary of the Navy"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Del Toro"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cuban-American businessman and retired United States Navy officer",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the artist",
+            "Carlos del Toro Orihuela"
+          ],
+          "template": "for"
+        },
+        {
+          "birth_year": "1961",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Del Toro"
+          },
+          "image": {
+            "text": "Carlos Del Toro SECNAV portrait.jpg"
+          },
+          "office": {
+            "text": "78th United States Secretary of the Navy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Secretary of the Navy"
+              }
+            ]
+          },
+          "president": {
+            "text": "Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "James Geurts (acting) Meredith Berger (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Geurts"
+              },
+              {
+                "type": "internal",
+                "page": "Meredith Berger"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Secretary"
+          },
+          "1namedata": {
+            "text": "Lloyd Austin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lloyd Austin"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "August 9, 2021"
+          },
+          "predecessor": {
+            "text": "Kenneth Braithwaite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenneth Braithwaite"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1961 (age 60)"
+          },
+          "birth_place": {
+            "text": "Havana, Cuba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Havana"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Betty Del Toro"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "education": {
+            "text": "United States Naval Academy (BS) Naval Postgraduate School (MS) Naval War College (MA) George Washington University (MPS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Naval Academy"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
+                "type": "internal",
+                "page": "Naval Postgraduate School"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              },
+              {
+                "type": "internal",
+                "page": "Naval War College"
+              },
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "George Washington University"
+              },
+              {
+                "text": "MPS",
+                "type": "internal",
+                "page": "Master of Professional Studies"
+              }
+            ]
+          },
+          "branch": {
+            "text": "United States Navy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Navy"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Commander",
+            "links": [
+              {
+                "text": "Commander",
+                "type": "internal",
+                "page": "Commander (United States)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://books.google.com/books?id=DD8BVZeVFP4C&pg=PA88",
+          "title": "Register of Commissioned and Warrant Officers of the United States Navy on Active Duty",
+          "date": "October 1, 1990",
+          "page": "88",
+          "publisher": "Bureau of Naval Personnel",
+          "access-date": "2021-06-12",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "date": "December 14, 2012",
+          "title": "Guantanamo says goodbye to last Cuban ‘commuters’",
+          "work": "AP News",
+          "url": "https://apnews.com/article/archive-cuba-338a3b23ee3244c78f67216797207e24",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

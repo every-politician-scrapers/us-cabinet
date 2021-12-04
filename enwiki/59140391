@@ -1,0 +1,171 @@
+{
+  "title": "Albert Bryan (politician)",
+  "pageID": 59140391,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "21st-century American politicians",
+    "Democratic Party of the Virgin Islands politicians",
+    "Democratic Party state governors of the United States",
+    "Governors of the United States Virgin Islands",
+    "University of the Virgin Islands alumni",
+    "Wittenberg University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Albert Bryan Jr. (born February 21, 1968) is an American Virgin Islander politician who is the ninth elected Governor of the United States Virgin Islands, since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of the United States Virgin Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Albert Bryan Jr."
+                ]
+              }
+            },
+            {
+              "text": "A member of the Democratic Party, he was Commissioner of Labor from 2007 to 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Governor of the United States Virgin Islands",
+          "template": "short description"
+        },
+        {
+          "year": "1968",
+          "month": "2",
+          "day": "21",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Yolanda Cabodevilla",
+          "from": "1998",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Albert Bryan"
+          },
+          "image": {
+            "text": "Governor Albert Bryan Jr..jpg"
+          },
+          "order": {
+            "text": "9th Governor of the United States Virgin Islands",
+            "links": [
+              {
+                "text": "Governor of the United States Virgin Islands",
+                "type": "internal",
+                "page": "List of Governors of the United States Virgin Islands"
+              }
+            ]
+          },
+          "lieutenant": {
+            "text": "Tregenza Roach",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tregenza Roach"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 7, 2019"
+          },
+          "predecessor": {
+            "text": "Kenneth Mapp",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenneth Mapp"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Albert Bryan Jr."
+          },
+          "birth_date": {
+            "text": "February 21, 1968"
+          },
+          "birth_place": {
+            "text": "Saint Thomas, U.S. Virgin Islands",
+            "links": [
+              {
+                "text": "Saint Thomas",
+                "type": "internal",
+                "page": "Saint Thomas, U.S. Virgin Islands"
+              },
+              {
+                "type": "internal",
+                "page": "U.S. Virgin Islands"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Yolanda Cabodevilla (m. 1998)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "residence": {
+            "text": "Government House",
+            "links": [
+              {
+                "text": "Government House",
+                "type": "internal",
+                "page": "U.S. Virgin Islands Governor's Mansion"
+              }
+            ]
+          },
+          "education": {
+            "text": "Wittenberg University (BA) University of the Virgin Islands (MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wittenberg University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of the Virgin Islands"
+              },
+              {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

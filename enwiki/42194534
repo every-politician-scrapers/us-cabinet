@@ -1,0 +1,337 @@
+{
+  "title": "Larry Hogan",
+  "pageID": 42194534,
+  "categories": [
+    "1956 births",
+    "20th-century American businesspeople",
+    "20th-century American politicians",
+    "21st-century American businesspeople",
+    "21st-century American politicians",
+    "American people of Irish descent",
+    "American real estate businesspeople",
+    "Candidates in the 1992 United States elections",
+    "Florida State University alumni",
+    "Governors of Maryland",
+    "Living people",
+    "Maryland Republicans",
+    "People from Anne Arundel County, Maryland",
+    "People from Prince George's County, Maryland",
+    "Politicians from Washington, D.C.",
+    "Republican Party state governors of the United States",
+    "State cabinet secretaries of Maryland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lawrence Joseph Hogan Jr. (born May 25, 1956) is an American politician serving as the 62nd governor of Maryland since 2015.",
+              "links": [
+                {
+                  "text": "62nd",
+                  "type": "internal",
+                  "page": "List of governors of Maryland"
+                },
+                {
+                  "text": "governor of Maryland",
+                  "type": "internal",
+                  "page": "governor of Maryland"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lawrence Joseph Hogan Jr."
+                ]
+              }
+            },
+            {
+              "text": "A member of the Republican Party, Hogan was previously the secretary of appointments under Maryland Governor Bob Ehrlich from 2003 to 2007, and served as chair of the National Governors Association from 2019 to 2020.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maryland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bob Ehrlich"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Governors Association"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hogan ran unsuccessful campaigns for Maryland's 5th congressional district in 1981 and 1992, the latter of which was incumbent Steny Hoyer's closest race.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maryland's 5th congressional district"
+                },
+                {
+                  "text": "1981",
+                  "type": "internal",
+                  "page": "1981 United States House of Representatives elections",
+                  "anchor": "Maryland"
+                },
+                {
+                  "text": "1992",
+                  "type": "internal",
+                  "page": "1992 United States House of Representatives elections",
+                  "anchor": "Maryland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Steny Hoyer"
+                }
+              ]
+            },
+            {
+              "text": "Hogan founded the Change Maryland organization in 2011, which he used to promote his 2014 gubernatorial campaign."
+            },
+            {
+              "text": "Hogan has enjoyed high approval ratings during his time as governor and was rated as one of the most popular governors in the United States."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2020",
+          "template": "use mdy dates"
+        },
+        {
+          "list": [
+            "his father, a former congressman",
+            "Lawrence Hogan"
+          ],
+          "template": "for"
+        },
+        {
+          "description": "American politician, 62nd Governor of Maryland",
+          "template": "short description"
+        },
+        {
+          "year": "1956",
+          "month": "5",
+          "day": "25",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Yumi Kim",
+          "from": "2004",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Larry Hogan"
+          },
+          "image": {
+            "text": "Larry Hogan (2021) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Hogan in 2021"
+          },
+          "order": {
+            "text": "62nd"
+          },
+          "office": {
+            "text": "Governor of Maryland"
+          },
+          "lieutenant": {
+            "text": "Boyd Rutherford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boyd Rutherford"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 21, 2015"
+          },
+          "predecessor": {
+            "text": "Martin O'Malley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin O'Malley"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chair of the National Governors Association",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Governors Association"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Andrew Cuomo"
+          },
+          "term_start1": {
+            "text": "July 26, 2019"
+          },
+          "term_end1": {
+            "text": "August 5, 2020"
+          },
+          "predecessor1": {
+            "text": "Steve Bullock"
+          },
+          "successor1": {
+            "text": "Andrew Cuomo"
+          },
+          "office2": {
+            "text": "Vice Chair of the National Governors Association",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Governors Association"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "July 21, 2018"
+          },
+          "term_end2": {
+            "text": "July 26, 2019"
+          },
+          "predecessor2": {
+            "text": "Steve Bullock",
+            "links": [
+              {
+                "text": "Steve Bullock",
+                "type": "internal",
+                "page": "Steve Bullock (American politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Andrew Cuomo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Cuomo"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Secretary of Appointments of Maryland"
+          },
+          "governor3": {
+            "text": "Bob Ehrlich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bob Ehrlich"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 15, 2003"
+          },
+          "term_end3": {
+            "text": "January 17, 2007"
+          },
+          "predecessor3": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Jeanne Hitchcock"
+          },
+          "birth_name": {
+            "text": "Lawrence Joseph Hogan Jr."
+          },
+          "birth_date": {
+            "text": "May 25, 1956"
+          },
+          "birth_place": {
+            "text": "Washington, D.C., U.S."
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Yumi Kim (m. 2004)"
+          },
+          "parents": {
+            "text": "Lawrence Hogan Nora Maguire",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawrence Hogan"
+              }
+            ]
+          },
+          "relatives": {
+            "text": "Patrick N. Hogan (half-brother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick N. Hogan"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Government House",
+            "links": [
+              {
+                "text": "Government House",
+                "type": "internal",
+                "page": "Government House (Maryland)"
+              }
+            ]
+          },
+          "education": {
+            "text": "Florida State University (BA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florida State University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Larry_Hogan_Signature.svg"
+          },
+          "website": {
+            "text": "Government website"
+          }
+        }
+      ]
+    }
+  ]
+}

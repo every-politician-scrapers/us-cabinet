@@ -1,0 +1,255 @@
+{
+  "title": "Mike Dunleavy (politician)",
+  "pageID": 40933016,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "21st-century American educators",
+    "21st-century American politicians",
+    "Alaska Republicans",
+    "Alaska state senators",
+    "Educators from Alaska",
+    "Educators from Pennsylvania",
+    "Governors of Alaska",
+    "Misericordia University alumni",
+    "People from Wasilla, Alaska",
+    "Politicians from Scranton, Pennsylvania",
+    "Republican Party state governors of the United States",
+    "University of Alaska Fairbanks alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael James Dunleavy (born May 5, 1961) is an American educator and politician serving as the 12th governor of Alaska.",
+              "links": [
+                {
+                  "text": "governor of Alaska",
+                  "type": "internal",
+                  "page": "List of governors of Alaska"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michael James Dunleavy"
+                ]
+              }
+            },
+            {
+              "text": "Dunleavy was a Republican member of the Alaska Senate from 2013 to 2018.",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alaska Senate"
+                }
+              ]
+            },
+            {
+              "text": "He defeated former Democratic United States senator Mark Begich in the 2018 gubernatorial election after incumbent governor Bill Walker dropped out of the race.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mark Begich"
+                },
+                {
+                  "text": "2018 gubernatorial election",
+                  "type": "internal",
+                  "page": "2018 Alaska gubernatorial election"
+                },
+                {
+                  "text": "Bill Walker",
+                  "type": "internal",
+                  "page": "Bill Walker (American politician)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "12th Governor of Alaska",
+          "template": "short description"
+        },
+        {
+          "date": "March 2019",
+          "template": "use mdy dates"
+        },
+        {
+          "list": [
+            "Gubernatorial recall effort against Mike Dunleavy"
+          ],
+          "discuss": "Talk:Mike Dunleavy (politician)#Merger proposal",
+          "date": "April 2021",
+          "template": "merge from"
+        },
+        {
+          "list": [
+            "Mike Dunleavy"
+          ],
+          "template": "other people"
+        },
+        {
+          "year": "1961",
+          "month": "5",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mike Dunleavy"
+          },
+          "image": {
+            "text": "Mike Dunleavy official photo.jpg"
+          },
+          "order": {
+            "text": "12th Governor of Alaska",
+            "links": [
+              {
+                "text": "Governor of Alaska",
+                "type": "internal",
+                "page": "List of governors of Alaska"
+              }
+            ]
+          },
+          "lieutenant": {
+            "text": "Kevin Meyer",
+            "links": [
+              {
+                "text": "Kevin Meyer",
+                "type": "internal",
+                "page": "Kevin Meyer (politician)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 3, 2018"
+          },
+          "predecessor": {
+            "text": "Bill Walker",
+            "links": [
+              {
+                "text": "Bill Walker",
+                "type": "internal",
+                "page": "Bill Walker (American politician)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Alaska Senate",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alaska Senate"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "District D (2013–2015) District E (2015–2018)"
+          },
+          "term_start1": {
+            "text": "January 15, 2013"
+          },
+          "term_end1": {
+            "text": "January 15, 2018"
+          },
+          "predecessor1": {
+            "text": "Redistricted",
+            "links": [
+              {
+                "text": "Redistricted",
+                "type": "internal",
+                "page": "Redistricting"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Mike Shower",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mike Shower"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Michael James Dunleavy"
+          },
+          "birth_date": {
+            "text": "May 5, 1961"
+          },
+          "birth_place": {
+            "text": "Scranton, Pennsylvania, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scranton, Pennsylvania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Rose Newlin"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "residence": {
+            "text": "Governor's Mansion",
+            "links": [
+              {
+                "text": "Governor's Mansion",
+                "type": "internal",
+                "page": "Alaska Governor's Mansion"
+              }
+            ]
+          },
+          "education": {
+            "text": "Misericordia University (BA) University of Alaska Fairbanks (MEd)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Misericordia University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of Alaska Fairbanks"
+              },
+              {
+                "text": "MEd",
+                "type": "internal",
+                "page": "Master of Education"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

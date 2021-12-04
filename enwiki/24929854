@@ -1,0 +1,294 @@
+{
+  "title": "Tom Wolf",
+  "pageID": 24929854,
+  "categories": [
+    "1948 births",
+    "20th-century American businesspeople",
+    "21st-century American businesspeople",
+    "21st-century American politicians",
+    "Alumni of the University of London",
+    "American Episcopalians",
+    "Businesspeople from Pennsylvania",
+    "Dartmouth College alumni",
+    "Democratic Party state governors of the United States",
+    "Governors of Pennsylvania",
+    "Living people",
+    "MIT School of Humanities, Arts, and Social Sciences alumni",
+    "Peace Corps volunteers",
+    "Pennsylvania Democrats",
+    "People from York County, Pennsylvania",
+    "State cabinet secretaries of Pennsylvania",
+    "The Hill School alumni",
+    "Former Methodists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Thomas Westerman Wolf (born November 17, 1948) is an American politician and businessman serving as the 47th and current Governor of Pennsylvania since 2015.",
+              "links": [
+                {
+                  "text": "Governor of Pennsylvania",
+                  "type": "internal",
+                  "page": "List of governors of Pennsylvania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Thomas Westerman Wolf"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Democratic Party, he defeated Republican incumbent Tom Corbett in the 2014 gubernatorial election and was reelected in 2018 by a margin of 17.1%.",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tom Corbett"
+                },
+                {
+                  "text": "2014 gubernatorial election",
+                  "type": "internal",
+                  "page": "2014 Pennsylvania gubernatorial election"
+                },
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Pennsylvania gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his election to the governorship, Wolf was the Secretary of the Pennsylvania Department of Revenue from April 2007 to November 2008 and an executive in his family-owned business.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania Department of Revenue"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "47th governor of Pennsylvania",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Tom Wolfe"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "list": [
+            "",
+            "Thomas Wolf (disambiguation)"
+          ],
+          "template": "other people"
+        },
+        {
+          "date": "September 2018",
+          "template": "use mdy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2015",
+            "month": "01",
+            "date": "20",
+            "template": "start date",
+            "text": "January 20, 2015"
+          }
+        },
+        {
+          "year": "1948",
+          "month": "11",
+          "day": "17",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Frances Donnelly",
+          "from": "1975",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Tom Wolf governor portrait 2019.jpg"
+          },
+          "caption": {
+            "text": "Wolf in 2019"
+          },
+          "order": {
+            "text": "47th"
+          },
+          "office": {
+            "text": "Governor of Pennsylvania"
+          },
+          "lieutenant": {
+            "text": "Mike Stack\n\nJohn Fetterman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mike Stack"
+              },
+              {
+                "type": "internal",
+                "page": "John Fetterman"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 20, 2015"
+          },
+          "predecessor": {
+            "text": "Tom Corbett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tom Corbett"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary of Revenue of Pennsylvania",
+            "links": [
+              {
+                "text": "Secretary of Revenue of Pennsylvania",
+                "type": "internal",
+                "page": "Pennsylvania Department of Revenue"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Ed Rendell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ed Rendell"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "April 25, 2007"
+          },
+          "term_end1": {
+            "text": "November 30, 2008"
+          },
+          "predecessor1": {
+            "text": "Gregory Fajt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gregory Fajt"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Stephen Stetler",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Stetler"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Thomas Westerman Wolf"
+          },
+          "birth_date": {
+            "text": "November 17, 1948"
+          },
+          "birth_place": {
+            "text": "Mount Wolf, Pennsylvania, U.S."
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Frances Donnelly (m. 1975)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "education": {
+            "text": "Dartmouth College (BA) University of London (MPhil) Massachusetts Institute of Technology (PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dartmouth College"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of London"
+              },
+              {
+                "text": "MPhil",
+                "type": "internal",
+                "page": "Master of Philosophy"
+              },
+              {
+                "type": "internal",
+                "page": "Massachusetts Institute of Technology"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Tom Wolf Signature.svg"
+          },
+          "website": {
+            "text": "Government website"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sen. Harris Wofford's Advisory Committee on Judicial and U.S. Attorney Nominations for the Middle District",
+          "url": "http://archives.timesleader.com/1993_2/1993_01_28_THE_ADVISORY_COMMITTEE_HERE_ARE_THE_NAMES_AND_BIOGRAPHIES_OF_THE.html",
+          "archive-url": "https://web.archive.org/web/20141018102333/http://archives.timesleader.com/1993_2/1993_01_28_THE_ADVISORY_COMMITTEE_HERE_ARE_THE_NAMES_AND_BIOGRAPHIES_OF_THE.html",
+          "url-status": "dead",
+          "archive-date": "October 18, 2014",
+          "publisher": "Times Leader",
+          "access-date": "October 18, 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

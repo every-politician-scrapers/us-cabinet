@@ -1,0 +1,207 @@
+{
+  "title": "Isabel Guzman",
+  "pageID": 66318556,
+  "categories": [
+    "1970s births",
+    "American people of Mexican descent",
+    "American people of German descent",
+    "American people of Jewish descent",
+    "Administrators of the Small Business Administration",
+    "Biden administration cabinet members",
+    "Hispanic and Latino American members of the Cabinet of the United States",
+    "Hispanic and Latino American women in politics",
+    "Living people",
+    "People from Burbank, California",
+    "University of Pennsylvania alumni",
+    "Wharton School of the University of Pennsylvania alumni",
+    "Women members of the Cabinet of the United States",
+    "Year of birth missing (living people)",
+    "21st-century American women"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Isabella Casillas Guzman (born 1970/1971) is an American government official serving as the administrator of the Small Business Administration in the Biden administration.",
+              "links": [
+                {
+                  "text": "administrator of the Small Business Administration",
+                  "type": "internal",
+                  "page": "administrator of the Small Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Biden administration"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Isabella Casillas Guzman"
+                ]
+              }
+            },
+            {
+              "text": "She assumed office on March 17, 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American government administrator and business advocate",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "January 2021",
+          "template": "use american english"
+        },
+        {
+          "age": "48",
+          "year": "2019",
+          "month": "3",
+          "day": "28",
+          "template": "birth based on age as of date"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Isabel Guzman"
+          },
+          "image": {
+            "text": "Isabella Casillas Guzman, SBA Administrator.png"
+          },
+          "office": {
+            "text": "27th Administrator of the Small Business Administration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Administrator of the Small Business Administration"
+              }
+            ]
+          },
+          "president": {
+            "text": "Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Dilawar Syed (nominee)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dilawar Syed"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 17, 2021"
+          },
+          "predecessor": {
+            "text": "Jovita Carranza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jovita Carranza"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1971 (age 48)"
+          },
+          "birth_place": {
+            "text": "Burbank, California, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Burbank, California"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of Pennsylvania (BS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Pennsylvania"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.ca.gov/2019/03/28/appointments-6-3/",
+          "title": "Governor Newsom Announces Appointments 3.28.19",
+          "publisher": "Governor of California",
+          "date": "March 28, 2019",
+          "access-date": "January 7, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "December 2, 2020",
+          "title": "Small business advocate Isabella Casillas Guzman named California Steward Leader of the Year",
+          "url": "https://cafwd.org/news/small-business-advocate-isabella-casillas-guzman-named-california-steward-leader-of-the-year/",
+          "access-date": "January 7, 2021",
+          "website": "California Forward",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first": "Jennifer Epstein",
+          "last": "Bloomberg",
+          "date": "January 7, 2021",
+          "title": "Biden reportedly picks California official Isabel Guzman to head SBA",
+          "newspaper": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2021/01/07/business/biden-reportedly-picks-california-official-isabel-guzman-head-sba/",
+          "access-date": "January 7, 2021",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "April 22, 2020",
+          "title": "Supporting California's Small Businesses in Covid-19 Recovery",
+          "url": "https://ncg.org/events/supporting-californias-small-businesses-covid-19-recovery",
+          "access-date": "January 8, 2021",
+          "website": "Northern California Grantmakers",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Bloomberg",
+          "first": "Jennifer Epstein",
+          "title": "Biden Picks California Official Isabel Guzman to Head SBA",
+          "language": "en-US",
+          "work": "The Washington Post",
+          "url": "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/c6b1b354-5123-11eb-a1f5-fdaf28cfca90_story.html",
+          "date": "January 7, 2021",
+          "access-date": "January 8, 2021",
+          "issn": "0190-8286",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

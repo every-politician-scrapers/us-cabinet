@@ -1,0 +1,304 @@
+{
+  "title": "Miguel Cardona",
+  "pageID": 58735564,
+  "categories": [
+    "1975 births",
+    "21st-century American educators",
+    "American politicians of Puerto Rican descent",
+    "Biden administration cabinet members",
+    "Central Connecticut State University alumni",
+    "Connecticut State Board of Education members",
+    "Hispanic and Latino American members of the Cabinet of the United States",
+    "Hispanic and Latino American teachers",
+    "Living people",
+    "People from Meriden, Connecticut",
+    "Schoolteachers from Connecticut",
+    "State cabinet secretaries of Connecticut",
+    "United States Secretaries of Education",
+    "University of Connecticut alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Miguel Angel Cardona (born July 11, 1975) is an American educator and is currently serving as the 12th United States Secretary of Education under President Joe Biden since 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Secretary of Education"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Miguel Angel Cardona"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Democratic Party, he was confirmed by the U.S. Senate by a vote of 64–33 on March 1, 2021.",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "text": "U.S. Senate",
+                  "type": "internal",
+                  "page": "United States Senate"
+                }
+              ]
+            },
+            {
+              "text": "Cardona previously served as commissioner of the Connecticut State Department of Education from 2019 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Connecticut State Department of Education"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A native of Meriden, Connecticut, Cardona began his career as a fourth-grade teacher at Israel Putnam Elementary School in Meriden.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Meriden, Connecticut"
+                }
+              ]
+            },
+            {
+              "text": "In 2003, at the age of 27, he was named principal of Hanover School, also in Meriden, making him the youngest principal in the state."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "12th United States Secretary of Education",
+          "template": "short description"
+        },
+        {
+          "date": "December 2020",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2020",
+          "template": "use american english"
+        },
+        {
+          "year": "1975",
+          "month": "7",
+          "day": "11",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Marissa Pérez",
+          "from": "2002",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Miguel Cardona"
+          },
+          "image": {
+            "text": "Secretary of Education Miguel Cardona, official portrait.jpg"
+          },
+          "office": {
+            "text": "12th United States Secretary of Education",
+            "links": [
+              {
+                "text": " United States Secretary of Education",
+                "type": "internal",
+                "page": " United States Secretary of Education"
+              }
+            ]
+          },
+          "president": {
+            "text": "Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Cindy Marten",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cindy Marten"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 2, 2021"
+          },
+          "predecessor": {
+            "text": "Betsy DeVos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Betsy DeVos"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Connecticut Commissioner of Education",
+            "links": [
+              {
+                "text": "Connecticut Commissioner of Education",
+                "type": "internal",
+                "page": "Connecticut State Department of Education"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Ned Lamont",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ned Lamont"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 8, 2019"
+          },
+          "term_end1": {
+            "text": "March 1, 2021"
+          },
+          "predecessor1": {
+            "text": "Dianna Wentzell"
+          },
+          "successor1": {
+            "text": "Charlene Russell-Tucker"
+          },
+          "birth_name": {
+            "text": "Miguel Angel Cardona"
+          },
+          "birth_date": {
+            "text": "July 11, 1975"
+          },
+          "birth_place": {
+            "text": "Meriden, Connecticut, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meriden, Connecticut"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Educator\n\ngovernment official"
+          },
+          "spouse": {
+            "text": "Marissa Pérez (m. 2002)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "education": {
+            "text": "Central Connecticut State University (BS) University of Connecticut (MS, SYC, EdD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central Connecticut State University"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
+                "type": "internal",
+                "page": "University of Connecticut"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              },
+              {
+                "text": "SYC",
+                "type": "internal",
+                "page": "Educational specialist"
+              },
+              {
+                "text": "EdD",
+                "type": "internal",
+                "page": "Doctor of Education"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=1&vote=00068",
+          "title": "On the Nomination (Confirmation: Miguel A. Cardona, of Connecticut, to be Secretary of Education)",
+          "date": "2021-03-01",
+          "website": "U.S. Senate",
+          "access-date": "2021-03-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first": "Rachel R.",
+          "last": "Makwana",
+          "title": "New principal is popular pick",
+          "work": "Record-Journal",
+          "date": "May 22, 2003",
+          "pages": "1,4",
+          "url": "https://www.newspapers.com/clip/65431196/",
+          "accessdate": "December 16, 2020",
+          "via": "Newspapers.com",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Kathleen",
+          "last": "Megan",
+          "title": "The state's new education commissioner: collaborator, listener, hard worker",
+          "work": "The Connecticut Mirror",
+          "date": "August 21, 2019",
+          "url": "https://ctmirror.org/2019/08/21/the-states-new-education-commissioner-collaborator-listener-hard-worker/",
+          "accessdate": "December 16, 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

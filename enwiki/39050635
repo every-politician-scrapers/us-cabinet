@@ -1,0 +1,289 @@
+{
+  "title": "Marty Walsh",
+  "pageID": 39050635,
+  "categories": [
+    "1967 births",
+    "21st-century American politicians",
+    "American people of Irish descent",
+    "Biden administration cabinet members",
+    "Boston College alumni",
+    "Catholics from Massachusetts",
+    "Living people",
+    "Massachusetts Democrats",
+    "Mayors of Boston",
+    "Members of the Massachusetts House of Representatives",
+    "People from Dorchester, Massachusetts",
+    "Politicians from Boston",
+    "United States Secretaries of Labor"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martin Joseph Walsh (born April 10, 1967) is an American politician and former union official.",
+              "formatting": {
+                "bold": [
+                  "Martin Joseph Walsh"
+                ]
+              }
+            },
+            {
+              "text": "He has been the 29th United States Secretary of Labor since March 23, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Secretary of Labor"
+                }
+              ]
+            },
+            {
+              "text": "A Democrat, he previously served as the 54th mayor of Boston from 2014, until resigning in 2021 after being confirmed by the United States Senate to serve as secretary of labor in the Cabinet of President Joe Biden.",
+              "links": [
+                {
+                  "text": "Democrat",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "text": "mayor of Boston",
+                  "type": "internal",
+                  "page": "mayor of Boston"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States Senate"
+                },
+                {
+                  "text": "the Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Joe Biden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                }
+              ]
+            },
+            {
+              "text": "Before his mayoralty, he served as a member of the Massachusetts House of Representatives, representing the Thirteenth Suffolk district from 1997 until 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Massachusetts House of Representatives"
+                },
+                {
+                  "text": "Thirteenth Suffolk district",
+                  "type": "internal",
+                  "page": "Massachusetts House of Representatives' 13th Suffolk district"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "persons of a similar name",
+            "Martin Walsh (disambiguation)"
+          ],
+          "template": "for"
+        },
+        {
+          "date": "March 2019",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1967",
+          "month": "4",
+          "day": "10",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Marty Walsh"
+          },
+          "image": {
+            "text": "Secretary Marty Walsh official portrait.jpg"
+          },
+          "alt": {
+            "text": "Official Portrait of the 29th Secretary of Labor, Marty Walsh"
+          },
+          "office": {
+            "text": "29th United States Secretary of Labor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Secretary of Labor"
+              }
+            ]
+          },
+          "president": {
+            "text": "Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Julie Su",
+            "links": [
+              {
+                "text": "Julie Su",
+                "type": "internal",
+                "page": "Julie Su (attorney)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 23, 2021"
+          },
+          "predecessor": {
+            "text": "Eugene Scalia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eugene Scalia"
+              }
+            ]
+          },
+          "office1": {
+            "text": "54th Mayor of Boston",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Boston"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 6, 2014"
+          },
+          "term_end1": {
+            "text": "March 22, 2021"
+          },
+          "predecessor1": {
+            "text": "Thomas Menino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thomas Menino"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Kim Janey (acting) Michelle Wu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kim Janey"
+              },
+              {
+                "type": "internal",
+                "page": "Michelle Wu"
+              }
+            ]
+          },
+          "state_house2": {
+            "text": "Massachusetts"
+          },
+          "district2": {
+            "text": "13th Suffolk",
+            "links": [
+              {
+                "text": "13th Suffolk",
+                "type": "internal",
+                "page": "Massachusetts House of Representatives' 13th Suffolk district"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "April 12, 1997"
+          },
+          "term_end2": {
+            "text": "January 3, 2014"
+          },
+          "predecessor2": {
+            "text": "James T. Brett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James T. Brett"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Daniel J. Hunt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel J. Hunt"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Martin Joseph Walsh"
+          },
+          "birth_date": {
+            "text": "April 10, 1967"
+          },
+          "birth_place": {
+            "text": "Boston, Massachusetts, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boston"
+              },
+              {
+                "type": "internal",
+                "page": "Massachusetts"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "education": {
+            "text": "Boston College (BA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boston College"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website"
+          },
+          "caption": {
+            "text": "Off‌icial portrait, 2021"
+          }
+        }
+      ]
+    }
+  ]
+}

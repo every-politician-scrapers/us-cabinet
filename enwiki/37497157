@@ -1,0 +1,239 @@
+{
+  "title": "Mark Gordon (politician)",
+  "pageID": 37497157,
+  "categories": [
+    "1957 births",
+    "21st-century American politicians",
+    "Living people",
+    "Middlebury College alumni",
+    "People from Buffalo, Wyoming",
+    "People from Kaycee, Wyoming",
+    "Politicians from Cheyenne, Wyoming",
+    "Ranchers from Wyoming",
+    "Republican Party state governors of the United States",
+    "School board members in Wyoming",
+    "St. Paul's School (New Hampshire) alumni",
+    "State treasurers of Wyoming",
+    "Wyoming Republicans",
+    "Candidates in the 2008 United States elections"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mark Gordon (born March 14, 1957) is an American politician serving as the 33rd governor of Wyoming.",
+              "links": [
+                {
+                  "text": "governor of Wyoming",
+                  "type": "internal",
+                  "page": "List of governors of Wyoming"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mark Gordon"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Republican Party, he previously served as state treasurer; he was appointed to that position by then-Governor Matt Mead on October 26, 2012, to fill the vacancy created by the death of Joseph Meyer.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "text": "state treasurer",
+                  "type": "internal",
+                  "page": "state treasurer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Matt Mead"
+                },
+                {
+                  "text": "Joseph Meyer",
+                  "type": "internal",
+                  "page": "Joseph Meyer (Wyoming politician)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2019",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "33rd Governor of Wyoming",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the 33rd Governor of Wyoming",
+            "other people with the same name",
+            "Mark Gordon (disambiguation)"
+          ],
+          "template": "about"
+        },
+        {
+          "year": "1957",
+          "month": "3",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Sarah Hildreth Gilmore",
+          "from": "1981",
+          "to": "1993",
+          "end": "died",
+          "template": "marriage"
+        },
+        {
+          "spouse": "Jennie Muir",
+          "from": "2000",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mark Gordon"
+          },
+          "image": {
+            "text": "Mark Gordon of Wyoming.jpg"
+          },
+          "office": {
+            "text": "33rd Governor of Wyoming",
+            "links": [
+              {
+                "text": "Governor of Wyoming",
+                "type": "internal",
+                "page": "List of governors of Wyoming"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 7, 2019"
+          },
+          "predecessor": {
+            "text": "Matt Mead",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matt Mead"
+              }
+            ]
+          },
+          "office1": {
+            "text": "29th Treasurer of Wyoming",
+            "links": [
+              {
+                "text": "Treasurer",
+                "type": "internal",
+                "page": "State treasurer"
+              },
+              {
+                "type": "internal",
+                "page": "Wyoming"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Matt Mead"
+          },
+          "term_start1": {
+            "text": "November 1, 2012"
+          },
+          "term_end1": {
+            "text": "January 7, 2019"
+          },
+          "predecessor1": {
+            "text": "Joseph Meyer",
+            "links": [
+              {
+                "text": "Joseph Meyer",
+                "type": "internal",
+                "page": "Joseph Meyer (Wyoming politician)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Curt Meier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Curt Meier"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 14, 1957"
+          },
+          "birth_place": {
+            "text": "New York City, New York, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New York City"
+              },
+              {
+                "text": "New York",
+                "type": "internal",
+                "page": "New York (state)"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Sarah Hildreth Gilmore (m. 1981-1993)\nJennie Muir (m. 2000)"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "residence": {
+            "text": "Governor's Mansion",
+            "links": [
+              {
+                "text": "Governor's Mansion",
+                "type": "internal",
+                "page": "Wyoming Governor's Mansion"
+              }
+            ]
+          },
+          "education": {
+            "text": "Middlebury College (BA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Middlebury College"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
