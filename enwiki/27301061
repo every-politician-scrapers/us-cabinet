@@ -103,14 +103,7 @@
         {
           "sentences": [
             {
-              "text": "In 2015, Kemp's office erroneously distributed the Social Security numbers and dates of birth of registered Georgia voters.",
-              "links": [
-                {
-                  "text": "Social Security",
-                  "type": "internal",
-                  "page": "Social Security number"
-                }
-              ]
+              "text": "Kemp was criticized after a data breach of over six million voters' personal information to twelve organizations occurred in 2015."
             },
             {
               "text": "During the 2016 election, Kemp was the only state official to reject help from the Department of Homeland Security to guard against Russian interference.",
@@ -128,17 +121,22 @@
               ]
             },
             {
-              "text": "Kemp also encountered criticism from voting rights advocates; from 2012 to 2018, Kemp's office cancelled more than 1.4 million voter registrations, and during the 2018 election, Kemp held up more than 53,000 voter registration applications, with nearly 70% of the voter registrations belonging to African Americans.",
+              "text": "Kemp was criticized by voting rights advocates for purging 1.4 million inactive voters from voter rolls during his tenure, including 668,000 in 2017.",
               "links": [
                 {
                   "text": "voting rights",
                   "type": "internal",
                   "page": "voting rights"
+                },
+                {
+                  "text": "voter rolls",
+                  "type": "internal",
+                  "page": "Electoral roll"
                 }
               ]
             },
             {
-              "text": "In 2018, Kemp was a candidate for governor where he faced Democratic nominee Stacey Abrams.",
+              "text": "In 2018, he was a candidate for governor, where he faced Democratic nominee Stacey Abrams.",
               "links": [
                 {
                   "text": "2018",
@@ -152,7 +150,17 @@
               ]
             },
             {
-              "text": "Kemp refused to resign as secretary of state while campaigning for governor, which stirred controversy and accusations of abuse of power.",
+              "text": "A few weeks before the election, Kemp was criticized for putting 53,000 voter registration applications on hold, with 70% of the applicants being African American.",
+              "links": [
+                {
+                  "text": "African American",
+                  "type": "internal",
+                  "page": "African Americans"
+                }
+              ]
+            },
+            {
+              "text": "He refused to resign as secretary of state while campaigning for governor, which stirred controversy and accusations of abuse of power.",
               "links": [
                 {
                   "text": "abuse of power",
@@ -162,10 +170,17 @@
               ]
             },
             {
-              "text": "Following the general election on November 6, Kemp was declared the winner with 50.2% of the vote."
+              "text": "Following the general election on November 6, Kemp was declared the winner with 50.2% of the vote, and resigned as Secretary of State on November 8."
             },
             {
-              "text": "Abrams suspended her campaign on November 16 while maintaining that she believed he engaged in voter suppression."
+              "text": "Abrams suspended her campaign on November 16, but did not concede, maintaining that she believed Kemp engaged in voter suppression.",
+              "links": [
+                {
+                  "text": "concede",
+                  "type": "internal",
+                  "page": "Concession (politics)"
+                }
+              ]
             }
           ]
         },
@@ -200,11 +215,16 @@
               ]
             },
             {
-              "text": "In 2021, Kemp signed into law the Election Integrity Act of 2021,which allowed the state government to replace local elections boards and placed restrictions on absentee voting and the number of drop boxes for ballots.",
+              "text": "In 2021, Kemp signed into law the Election Integrity Act of 2021, which increased the state government's control over local election officials, and placed restrictions on absentee voting and the number of ballot drop boxes per county.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Election Integrity Act of 2021"
+                },
+                {
+                  "text": "county",
+                  "type": "internal",
+                  "page": "List of counties in Georgia"
                 }
               ]
             },
@@ -450,6 +470,29 @@
           "type": "web"
         },
         {
+          "last": "undefined",
+          "title": "Georgia voters to get credit monitoring in massive data breach",
+          "language": "English",
+          "work": "The Atlanta Journal-Constitution",
+          "url": "https://www.ajc.com/news/state--regional-govt--politics/georgia-voters-get-credit-monitoring-massive-data-breach/ltp8wFqT9tabUDrI2bUmpM/",
+          "access-date": "2021-12-05",
+          "issn": "1539-7459",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Niesse",
+          "first": "Mark",
+          "title": "Georgia cancels fewer voter registrations after surge last year",
+          "language": "English",
+          "work": "The Atlanta Journal-Constitution",
+          "url": "https://www.ajc.com/news/local-govt--politics/georgia-cancels-fewer-voter-registrations-after-surge-last-year/fqT1bcSzGu33UEpTMDzMVK/",
+          "access-date": "2021-12-05",
+          "issn": "1539-7459",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Voting Rights Become A Flashpoint In Georgia Governor's Race",
           "url": "https://www.wabe.org/voting-rights-become-a-flashpoint-in-georgia-governors-race",
           "agency": "Associated Press",
@@ -459,19 +502,34 @@
           "type": "web"
         },
         {
-          "url": "https://www.cnn.com/2018/11/16/politics/stacey-abrams-concession/index.html",
-          "title": "Stacey Abrams says 'democracy failed' Georgia as she ends bid for governor",
-          "first": "Gregory",
-          "last": "Krieg",
-          "website": "CNN",
-          "date": "November 17, 2016",
-          "access-date": "January 18, 2019",
-          "archive-url": "https://web.archive.org/web/20190207121939/https://www.cnn.com/2018/11/16/politics/stacey-abrams-concession/index.html",
-          "archive-date": "February 7, 2019",
-          "url-status": "live",
-          "df": "mdy-all",
+          "last": "Lee",
+          "first": "Ella",
+          "title": "Fact check: Post online about Georgia Gov. Brian Kemp's 2018 win is partly false",
+          "url": "https://www.usatoday.com/story/news/factcheck/2020/11/18/fact-check-partly-false-claim-gov-brian-kemp-and-2018-election/6327447002/",
+          "access-date": "2021-12-05",
+          "website": "USA TODAY",
+          "language": "en-US",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "Blinder",
+          "first": "Alan",
+          "date": "2018-11-08",
+          "title": "Brian Kemp Resigns as Georgia Secretary of State, With Governor’s Race Still Disputed",
+          "language": "en-US",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/2018/11/08/us/georgia-brian-kemp-resign-stacey-abrams.html",
+          "access-date": "2021-12-04",
+          "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "Georgia Code Title 21. Elections § 21-2-499",
@@ -481,6 +539,21 @@
           "language": "en-US",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "Corasaniti",
+          "first": "Nick",
+          "last2": "Epstein",
+          "first2": "Reid J.",
+          "date": "2021-04-02",
+          "title": "What Georgia’s Voting Law Really Does",
+          "language": "en-US",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/2021/04/02/us/politics/georgia-voting-law-annotated.html",
+          "access-date": "2021-12-04",
+          "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
         },
         {
           "date": "2021-03-25",

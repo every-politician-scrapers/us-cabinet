@@ -246,7 +246,7 @@
               "text": "Nonpartisan polls consistently list him among the nation's most popular governors."
             },
             {
-              "text": "Baker announced in December 2021 that he would not seek re-election in 2022, in order to spend more time with his family.",
+              "text": "In December 2021, Baker announced that he would not seek reelection in 2022 in order to spend more time with his family.",
               "links": [
                 {
                   "text": "2022",
@@ -486,6 +486,9 @@
                 "page": "Master of Business Administration"
               }
             ]
+          },
+          "signature": {
+            "text": "Baker Signature.svg"
           },
           "salary": {
             "text": "$185,000"
