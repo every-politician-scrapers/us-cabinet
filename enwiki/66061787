@@ -103,6 +103,22 @@
           "month": "3",
           "day": "18",
           "template": "birth date and age"
+        },
+        {
+          "text": "4",
+          "template": "sup"
+        },
+        {
+          "text": "2",
+          "template": "sup"
+        },
+        {
+          "text": "3",
+          "template": "sup"
+        },
+        {
+          "text": "4",
+          "template": "sup"
         }
       ],
       "infoboxes": [
@@ -114,13 +130,13 @@
             "text": "戴琪"
           },
           "w": {
-            "text": "Tai 4 Ch'i 2"
+            "text": "Tai4 Ch'i2"
           },
           "p": {
             "text": "Dài Qí"
           },
           "j": {
-            "text": "Dai 3 Kei 4"
+            "text": "Dai3 Kei4"
           }
         },
         {
