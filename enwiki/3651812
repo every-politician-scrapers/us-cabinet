@@ -141,7 +141,7 @@
         {
           "sentences": [
             {
-              "text": "As governor, Lamont signed cannabis legalization, sports betting and online gaming, and two balanced state budgets without income tax increases into law.",
+              "text": "As governor, Lamont signed cannabis legalization, sports betting and online gambling, and two balanced state budgets without income tax increases into law.",
               "links": [
                 {
                   "text": "cannabis legalization",
@@ -154,14 +154,14 @@
                   "page": "sports betting"
                 },
                 {
-                  "text": "online gaming",
+                  "text": "online gambling",
                   "type": "internal",
-                  "page": "Online gambling"
+                  "page": "online gambling"
                 }
               ]
             },
             {
-              "text": "He also oversaw Connecticut's COVID-19 pandemic response, including the state's vaccination campaign for eligibile adults and children and administration of Connecticut's CARES Act and American Rescue Plan Act funds for economic recovery and stimulus.",
+              "text": "He also oversaw Connecticut's COVID-19 pandemic response, including the state's vaccination campaign for eligible adults and children and administration of Connecticut's CARES Act and American Rescue Plan Act funds for economic recovery and stimulus.",
               "links": [
                 {
                   "type": "internal",

@@ -158,7 +158,7 @@
               ]
             },
             {
-              "text": "He oversaw the state's response to the COVID-19 pandemic, where he issued a temporary stay-at-home order in April 2020, allowed schools districts to decide whether or not to close, and limited postal voting during the 2020 U.S. elections.",
+              "text": "He oversaw the state's response to the COVID-19 pandemic, where he issued a temporary stay-at-home order in April 2020 but allowed schools districts to decide whether or not to close.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
@@ -174,9 +174,14 @@
                   "text": "allowed schools districts to decide",
                   "type": "internal",
                   "page": "impact of the COVID-19 pandemic on education"
-                },
+                }
+              ]
+            },
+            {
+              "text": "Parson placed restrictions on mail-in voting during the 2020 U.S. elections, and oversaw Missouri's reaction to the George Floyd protests.",
+              "links": [
                 {
-                  "text": "postal voting",
+                  "text": "mail-in voting",
                   "type": "internal",
                   "page": "postal voting"
                 },
@@ -184,19 +189,10 @@
                   "text": "2020 U.S. elections",
                   "type": "internal",
                   "page": "2020 United States elections"
-                }
-              ]
-            },
-            {
-              "text": "Parson also oversaw Missouri's reaction to the George Floyd protests, during which he pledged to pardon Mark and Patricia McCloskey, the couple involved in the St. Louis gun-toting controversy, if they were convicted of any crimes; he issued their pardons in August 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "George Floyd protests"
                 },
                 {
                   "type": "internal",
-                  "page": "St. Louis gun-toting controversy"
+                  "page": "George Floyd protests"
                 }
               ]
             }

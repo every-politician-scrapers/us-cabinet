@@ -137,7 +137,7 @@
                 {
                   "text": "conservative Democrat",
                   "type": "internal",
-                  "page": "Conservative Democrat"
+                  "page": "conservative Democrat"
                 }
               ]
             }
@@ -145,6 +145,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "56th Governor of Louisiana",
+          "template": "short description"
+        },
         {
           "list": [
             "the current Governor of Louisiana",
@@ -156,10 +160,6 @@
         {
           "date": "November 2015",
           "template": "use mdy dates"
-        },
-        {
-          "description": "56th Governor of Louisiana",
-          "template": "short description"
         },
         {
           "year": "1966",

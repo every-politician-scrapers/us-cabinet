@@ -31,11 +31,12 @@
         {
           "sentences": [
             {
-              "text": "John Kevin Stitt (born December 28, 1972) is an American businessman and politician who is currently serving as the Governor of Oklahoma.",
+              "text": "John Kevin Stitt (born December 28, 1972) is an American businessman and politician serving as the 28th governor of Oklahoma.",
               "links": [
                 {
+                  "text": "governor of Oklahoma",
                   "type": "internal",
-                  "page": "Governor of Oklahoma"
+                  "page": "governor of Oklahoma"
                 }
               ],
               "formatting": {
@@ -45,7 +46,7 @@
               }
             },
             {
-              "text": "He is a member of the Republican party and began his term as the 28th Governor of Oklahoma in January 2019."
+              "text": "He is a member of the Republican party and began his term as governor in January 2019."
             },
             {
               "text": "As a member of the Cherokee Nation, Stitt is the first tribally enrolled Native American to serve as governor of a U.S. state, and Oklahoma's second governor of Native descent after Johnston Murray.",
@@ -66,7 +67,7 @@
               ]
             },
             {
-              "text": "Stitt grew up in Norman, Oklahoma and graduated from Oklahoma State University with a degree in accounting.",
+              "text": "Stitt grew up in Norman, Oklahoma, and graduated from Oklahoma State University with a degree in accounting.",
               "links": [
                 {
                   "type": "internal",
