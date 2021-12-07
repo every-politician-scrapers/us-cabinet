@@ -87,6 +87,16 @@
                   "page": "2018 Texas gubernatorial election"
                 }
               ]
+            },
+            {
+              "text": "Abbott is paralyzed from the waist down and uses a wheelchair.",
+              "links": [
+                {
+                  "text": "wheelchair",
+                  "type": "internal",
+                  "page": "wheelchair"
+                }
+              ]
             }
           ]
         },
