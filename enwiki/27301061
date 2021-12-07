@@ -173,12 +173,17 @@
               "text": "Following the general election on November 6, Kemp was declared the winner with 50.2% of the vote, and resigned as Secretary of State on November 8."
             },
             {
-              "text": "Abrams suspended her campaign on November 16, but did not concede, maintaining that she believed Kemp engaged in voter suppression.",
+              "text": "Abrams suspended her campaign on November 16 but did not concede, accusing Kemp of voter suppression, which he denied.",
               "links": [
                 {
                   "text": "concede",
                   "type": "internal",
                   "page": "Concession (politics)"
+                },
+                {
+                  "text": "voter suppression",
+                  "type": "internal",
+                  "page": "voter suppression"
                 }
               ]
             }
@@ -229,7 +234,7 @@
               ]
             },
             {
-              "text": "He is currently being challenged in the Republican primary of the 2022 Georgia gubernatorial election by former Georgia State Representative Vernon Jones.",
+              "text": "He is currently being challenged in the Republican primary of the 2022 Georgia gubernatorial election by former Georgia State Representative Vernon Jones and former Georgia Senator David Perdue.",
               "links": [
                 {
                   "text": "2022 Georgia gubernatorial election",
@@ -239,6 +244,10 @@
                 {
                   "type": "internal",
                   "page": "Vernon Jones"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Perdue"
                 }
               ]
             }
