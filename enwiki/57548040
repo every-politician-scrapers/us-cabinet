@@ -39,10 +39,9 @@
         {
           "sentences": [
             {
-              "text": "Debra Anne Haaland (born December 2, 1960) is an American politician serving as the 54th United States secretary of the interior.",
+              "text": "Debra Anne Haaland (born December 2, 1960) is an American politician serving as the 54th United States Secretary of the Interior.",
               "links": [
                 {
-                  "text": "United States secretary of the interior",
                   "type": "internal",
                   "page": "United States Secretary of the Interior"
                 }
