@@ -214,6 +214,12 @@
           "template": "marriage"
         },
         {
+          "list": [
+            "United States"
+          ],
+          "template": "army"
+        },
+        {
           "template": "ipac",
           "transcription": "w,ɔː,l,z"
         },
@@ -382,12 +388,12 @@
               }
             ]
           },
-          "branch": {
-            "text": "United States Army National Guard",
+          "unit": {
+            "text": "Army National Guard",
             "links": [
               {
                 "type": "internal",
-                "page": "United States Army National Guard"
+                "page": "Army National Guard"
               }
             ]
           },
@@ -395,10 +401,10 @@
             "text": "1981–2005"
           },
           "rank": {
-            "text": "Command Sergeant Major",
+            "text": "Command sergeant major",
             "links": [
               {
-                "text": "Command Sergeant Major",
+                "text": "Command sergeant major",
                 "type": "internal",
                 "page": "Sergeant major",
                 "anchor": "United States Army"
