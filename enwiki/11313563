@@ -32,17 +32,11 @@
         {
           "sentences": [
             {
-              "text": "Pedro Rafael Pierluisi Urrutia (born April 26, 1959) is a Puerto Rican attorney, lobbyist, and politician who has been the governor of Puerto Rico since January 2, 2021.",
+              "text": "Pedro Rafael Pierluisi Urrutia is the Governor of Puerto Rico.",
               "links": [
                 {
-                  "text": "attorney",
                   "type": "internal",
-                  "page": "lawyer"
-                },
-                {
-                  "text": "governor of Puerto Rico",
-                  "type": "internal",
-                  "page": "governor of Puerto Rico"
+                  "page": "Governor of Puerto Rico"
                 }
               ],
               "formatting": {
@@ -52,21 +46,56 @@
               }
             },
             {
-              "text": "He has previously served as the Secretary of Justice from 1993 to 1997, as the Resident Commissioner of Puerto Rico from 2009 to 2017 and as Acting Secretary of State.",
+              "text": "Pierluisi is a attorney from San Juan with 35 years of experience in both the public and private sectors, has extensive litigation and negotiation experience, as well as an arbitrator and mediator.",
               "links": [
                 {
-                  "text": "Secretary of Justice",
+                  "text": "attorney",
                   "type": "internal",
-                  "page": "Secretary of Justice of Puerto Rico"
-                },
+                  "page": "lawyer"
+                }
+              ]
+            },
+            {
+              "text": "He was elected on November 3rd, 2020."
+            },
+            {
+              "text": "He began his professional career in Washington D.C. as an assistant to then Resident Commissioner of Puerto Rico Baltasar Corrada del Río, and then worked for six years as a trial attorney in prominent law firms.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Resident Commissioner of Puerto Rico"
                 },
                 {
-                  "text": "Secretary of State",
                   "type": "internal",
-                  "page": "Secretary of State of Puerto Rico"
+                  "page": "Baltasar Corrada del Río"
+                }
+              ]
+            },
+            {
+              "text": "He returned to practice law in Puerto Rico in 1990 and served as Puerto Rico's Secretary of Justice from 1993 to 1996.",
+              "links": [
+                {
+                  "text": "Secretary of Justice",
+                  "type": "internal",
+                  "page": "Secretary of Justice of Puerto Rico"
+                }
+              ]
+            },
+            {
+              "text": "As chief legal officer of our government he published numerous opinions and argued two important constitutional cases before the Puerto Rico Supreme Court, supervised over 500 lawyers and prosecutors and led the fight against crime obtaining Puerto Rico's designation as a High Incidence of Drug Trafficking Area."
+            },
+            {
+              "text": "Commissioned by the White House, he lobbied Congress for the passage of President Clinton's Crime bill."
+            },
+            {
+              "text": "He then became a partner at a prestigious law firm for 10 years before returning to public service."
+            },
+            {
+              "text": "He was elected Resident Commissioner of Puerto Rico in Washington and served from January.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Resident Commissioner of Puerto Rico"
                 }
               ]
             }
@@ -75,29 +104,46 @@
         {
           "sentences": [
             {
-              "text": "Pierluisi was positioned as de facto governor of Puerto Rico from August 2 to August 7, 2019, when the territory's Supreme Court ruled his assumption of office was unconstitutional.",
+              "text": "2009 to December 2016, and during his tenure in Congress he compiled an impressive record of achievements in multiple areas."
+            },
+            {
+              "text": "He secured billions of dollars in federal funds and tax credits for Puerto Rico under the American Reinvestment and Recovery Act (ARRA), worked to ensure that Puerto Rico and the other U.S. territories were treated fairly in the federal health reform, which tripled the amount of federal funds assigned to Puerto Rico annually to fund the public health system."
+            },
+            {
+              "text": "Similarly, Pierluisi worked to advance multiple initiatives from federal agencies to benefit the people of Puerto Rico in the areas of public safety, economic development, education, health and environmental protection."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The former Resident Commissioner of Puerto Rico, a Democrat, has always advocated to ensure fair treatment for American citizens residing in Puerto Rico, including a relentless fight to achieve equality for Puerto Rico under all federal programs and under all U.S. law that is only possible with statehood.",
               "links": [
                 {
-                  "text": "de facto",
                   "type": "internal",
-                  "page": "de facto"
-                },
-                {
-                  "text": "governor of Puerto Rico",
-                  "type": "internal",
-                  "page": "governor of Puerto Rico"
-                },
-                {
-                  "text": "Supreme Court",
-                  "type": "internal",
-                  "page": "Supreme Court of Puerto Rico"
+                  "page": "Resident Commissioner of Puerto Rico"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "de facto"
-                ]
-              }
+              ]
+            },
+            {
+              "text": "A clear majority of the people of Puerto Rico voted in November of 2020 in favor of becoming a state of the Union."
+            },
+            {
+              "text": "Pierluisi, who is the father of four adult children and the grandfather of five grandchildren, earned his Bachelor’s degree in 1981 from Tulane University in New Orleans and his Juris Doctor degree from George Washington University Law School in 1984.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tulane University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juris Doctor"
+                },
+                {
+                  "type": "internal",
+                  "page": "George Washington University Law School"
+                }
+              ]
             }
           ]
         }
@@ -126,21 +172,15 @@
           "month": "4",
           "day": "26",
           "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Primera Hora (2009) \"El nuevo comisionado residente en Washington, Pedro Rafael Pierluisi Urrutia...\""
-          ],
-          "template": "efn"
         }
       ],
       "infoboxes": [
         {
           "name": {
-            "text": "Pedro Pierluisi"
+            "text": "Pedro R. Pierluisi"
           },
           "image": {
-            "text": "Pedro R. Pierluisi (cropped)2.jpg"
+            "text": "Governor Pierluisi of Puerto Rico.jpg"
           },
           "office": {
             "text": "Governor of Puerto Rico",
@@ -364,35 +404,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.primerahora.com/noticias/gobierno-politica/nota/buscaauxiliofederal-261641/",
-          "title": "Busca auxilio federal",
-          "date": "January 7, 2009",
-          "newspaper": "Primera Hora",
-          "language": "es",
-          "access-date": "September 2, 2013",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.senado.pr.gov:443/Pages/Registro-de-Cabilderos.aspx",
-          "title": "Senado Registro de Cabilderos",
-          "website": "www.senado.pr.gov",
-          "language": "es",
-          "access-date": "2019-08-03",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.ramajudicial.pr/Prensa/comunicados/2019/08-07-19b.htm",
-          "title": "Portal de la Rama Judicial de Puerto Rico",
-          "website": "www.ramajudicial.pr",
-          "access-date": "2019-08-07",
-          "template": "citation",
-          "type": "web"
         }
       ]
     }

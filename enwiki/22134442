@@ -556,10 +556,10 @@
           "type": "news"
         },
         {
-          "title": "Gov. Charlie Baker of Massachusetts Says He Won’t Run for Re-election",
+          "title": "Gov. Charlie Baker of Massachusetts Says He Won't Run for Re-election",
           "url": "https://www.nytimes.com/2021/12/01/us/politics/charlie-baker-massachusetts-governor.html",
           "access-date": "1 December 2021",
-          "publisher": "New York Times",
+          "work": "New York Times",
           "template": "citation",
           "type": "news"
         },
