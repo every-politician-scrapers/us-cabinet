@@ -61,10 +61,10 @@
         {
           "sentences": [
             {
-              "text": "Walz was the U.S. Representative for from 2007 to 2019.",
+              "text": "Walz was the U.S. representative for from 2007 to 2019.",
               "links": [
                 {
-                  "text": "U.S. Representative",
+                  "text": "U.S. representative",
                   "type": "internal",
                   "page": "United States House of Representatives"
                 }
