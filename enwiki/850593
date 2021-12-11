@@ -42,7 +42,7 @@
               }
             },
             {
-              "text": "He is a member of the Democratic Party, and served as the U.S. Representative for from 2011 to 2017.",
+              "text": "He is a member of the Democratic Party, and served as the U.S. representative for from 2011 to 2017.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -50,7 +50,7 @@
                   "page": "Democratic Party (United States)"
                 },
                 {
-                  "text": "U.S. Representative",
+                  "text": "U.S. representative",
                   "type": "internal",
                   "page": "United States House of Representatives"
                 }
