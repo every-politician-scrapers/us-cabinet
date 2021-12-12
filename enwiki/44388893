@@ -76,7 +76,7 @@
               ]
             },
             {
-              "text": "He then challenged and defeated the unpopular Bevin in a close race for governor in 2019, by a margin of 0.37% of the vote, the closest Kentucky gubernatorial election ever by percentage.",
+              "text": "He then challenged and defeated Bevin in a close race for governor in 2019, by a margin of 0.37% of the vote, the closest Kentucky gubernatorial election ever by percentage.",
               "links": [
                 {
                   "text": "2019",
@@ -99,12 +99,17 @@
         {
           "sentences": [
             {
-              "text": "His tenure has been marked by him vetoing bills of the Kentucky legislature, and the legislature in turn overriding his vetoes.",
+              "text": "His tenure has been marked by him vetoing bills of the Kentucky Legislature, and the Legislature in turn overriding his vetoes.",
               "links": [
                 {
                   "text": "vetoing",
                   "type": "internal",
                   "page": "veto"
+                },
+                {
+                  "text": "Kentucky Legislature",
+                  "type": "internal",
+                  "page": "Kentucky General Assembly"
                 }
               ]
             }
