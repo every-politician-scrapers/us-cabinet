@@ -282,9 +282,6 @@
           "spouse": "Susan Gianforte",
           "from": "1988",
           "template": "marriage"
-        },
-        {
-          "template": "increase"
         }
       ],
       "infoboxes": [
@@ -427,36 +424,12 @@
               }
             ]
           },
-          "net_worth": {
-            "text": "US$315 million (2017)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "US$"
-              }
-            ]
-          },
           "signature": {
             "text": "Greg Gianforte signature.jpg"
           }
         }
       ],
       "references": [
-        {
-          "url": "http://www.foxnews.com/politics/2017/05/26/greg-gianforte-look-at-newly-elected-montana-congressman-accused-assaulting-reporter.html",
-          "title": "Greg Gianforte: A look at the newly-elected Montana congressman accused of assaulting reporter",
-          "date": "May 26, 2017",
-          "access-date": "May 30, 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nydailynews.com/news/politics/greg-gianforte-montana-election-article-1.3195401",
-          "title": "What you need to know about Greg Gianforte and Montana's election",
-          "access-date": "May 30, 2017",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "url": "http://msp.imirus.com/Mpowered/book/vds11/i1/p116",
           "title": "Native & Newcomer",
