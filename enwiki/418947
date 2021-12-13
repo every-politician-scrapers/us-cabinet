@@ -586,10 +586,14 @@
           "type": "citation"
         },
         {
+          "url": "https://calmatters.org/politics/2019/10/gavin-newsom-moderate-governor-california-political-spectrum/",
+          "title": "Gov. Newsom the moderate? On this spectrum, almost every Democratic legislator is further left",
+          "newspaper": "Calmatters",
+          "date": "October 22, 2019",
+          "last1": "Christopher",
+          "first1": "Ben",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "url": "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2000/09/15/MN61774.DTL",

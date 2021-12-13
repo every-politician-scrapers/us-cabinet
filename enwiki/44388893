@@ -95,25 +95,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "His tenure has been marked by him vetoing bills of the Kentucky Legislature, and the Legislature in turn overriding his vetoes.",
-              "links": [
-                {
-                  "text": "vetoing",
-                  "type": "internal",
-                  "page": "veto"
-                },
-                {
-                  "text": "Kentucky Legislature",
-                  "type": "internal",
-                  "page": "Kentucky General Assembly"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
@@ -293,42 +274,6 @@
           "signature": {
             "text": "Andy Beshear signature.jpg"
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "https://wfpl.org/ky-lawmakers-override-nearly-all-of-beshears-vetoes/",
-          "title": "Ky. Lawmakers Override Nearly All Of Beshear's Vetoes",
-          "first": "Ryland",
-          "last": "Barton",
-          "date": "March 30, 2021",
-          "website": "89.3 WFPL News Louisville",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.courier-journal.com/get-access/?return=https://www.courier-journal.com/story/news/politics/2020/04/14/kentucky-legislature-overrides-five-beshear-vetoes-passes-marsys-law/2990434001/",
-          "title": "Kentucky Legislature Overrides Five Beshear Vetoes",
-          "website": "The Courier-Journal",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://archive.kftc.org/bill-tracker",
-          "title": "Bill Tracker; KFTC's legislative issues during the 2021 Kentucky General Assembly",
-          "website": "Kentuckians For The Commonwealth",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.fortthomasmatters.com/2021/02/this-week-in-frankfort.html",
-          "title": "This week in Frankfort",
-          "first": "Mark",
-          "last": "Collier",
-          "work": "Fort Thomas Matters",
-          "date": "February 5, 2021",
-          "template": "citation",
-          "type": "web"
         }
       ]
     }
