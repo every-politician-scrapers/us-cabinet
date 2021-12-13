@@ -92,6 +92,9 @@
                   "page": "2018 Arizona gubernatorial election"
                 }
               ]
+            },
+            {
+              "text": "Ducey was elected by his fellow Republican governors to serve as Chair of the Republican Governors Association for 2021 and co-Chair in 2022 after serving as Vice Chair in 2020."
             }
           ]
         }
@@ -267,6 +270,29 @@
               }
             ]
           }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Polletta",
+          "first1": "Maria",
+          "title": "As he faces backlash from Trump, Arizona GOP, Ducey is picked to lead Republican Governors Association",
+          "url": "https://www.azcentral.com/story/news/politics/arizona/2020/12/09/arizona-gov-ducey-elected-chair-republican-governors-association/3866232001/",
+          "access-date": "13 December 2021",
+          "publisher": "Arizona Republic",
+          "date": "12/9/2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Republican Governors Association",
+          "first1": "RGA",
+          "title": "RGA Announces Future 2022 Leadership",
+          "url": "https://www.rga.org/rga-announces-future-2022-leadership/",
+          "website": "The Republican Governors Association",
+          "access-date": "13 December 2021",
+          "template": "citation",
+          "type": "web"
         }
       ]
     }
