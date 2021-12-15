@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Douglas Anthony Ducey Jr. (born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of Arizona since 2015.",
+              "text": "Douglas Anthony Ducey Jr. (born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of Arizona.",
               "links": [
                 {
                   "text": "governor of Arizona",
@@ -42,7 +42,7 @@
               }
             },
             {
-              "text": "He previously was the CEO of Cold Stone Creamery, a chain of ice cream parlors based in Scottsdale, Arizona.",
+              "text": "He was previosuly the CEO of Cold Stone Creamery, a chain of ice cream parlors based in Scottsdale, Arizona.",
               "links": [
                 {
                   "type": "internal",
@@ -59,7 +59,7 @@
         {
           "sentences": [
             {
-              "text": "A member of the Republican Party, Ducey was Arizona State Treasurer from 2011 to 2015.",
+              "text": "A member of the Republican Party, Ducey was Arizona state treasurer from 2011 to 2015.",
               "links": [
                 {
                   "text": "Republican Party",
@@ -67,7 +67,7 @@
                   "page": "Republican Party (United States)"
                 },
                 {
-                  "text": "Arizona State Treasurer",
+                  "text": "Arizona state treasurer",
                   "type": "internal",
                   "page": "State Treasurer of Arizona"
                 }
@@ -94,7 +94,7 @@
               ]
             },
             {
-              "text": "Ducey was elected by his fellow Republican governors to serve as Chair of the Republican Governors Association for 2021 and co-Chair in 2022 after serving as Vice Chair in 2020."
+              "text": "Ducey was elected by his fellow Republican governors to serve as chair of the Republican Governors Association for 2021 and co-chair in 2022 after serving as vice chair in 2020."
             }
           ]
         }
