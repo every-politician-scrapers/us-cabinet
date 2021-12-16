@@ -68,10 +68,9 @@
         {
           "sentences": [
             {
-              "text": "Janet Louise Yellen (born August 13, 1946) is an American economist, educator and government official who has served as the 78th United States secretary of the treasury since January 26, 2021.",
+              "text": "Janet Louise Yellen (born August 13, 1946) is an American economist, educator and government official who has served as the 78th United States Secretary of the Treasury since January 26, 2021.",
               "links": [
                 {
-                  "text": "United States secretary of the treasury",
                   "type": "internal",
                   "page": "United States Secretary of the Treasury"
                 }
@@ -336,7 +335,7 @@
             "text": "Secretary Janet Yellen portrait.jpg"
           },
           "caption": {
-            "text": "Yellen in 2021"
+            "text": "Official portrait, 2021"
           },
           "office1": {
             "text": "78th United States Secretary of the Treasury",
