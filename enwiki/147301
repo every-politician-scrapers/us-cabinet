@@ -118,7 +118,7 @@
               ]
             },
             {
-              "text": "He had served as a U.S. representative from Maryland and Mayor of Baltimore.",
+              "text": "He had served as a U.S. representative from Maryland and mayor of Baltimore.",
               "links": [
                 {
                   "text": "U.S. representative from Maryland",
@@ -126,7 +126,7 @@
                   "page": "Maryland's 3rd congressional district"
                 },
                 {
-                  "text": "Mayor of Baltimore",
+                  "text": "mayor of Baltimore",
                   "type": "internal",
                   "page": "List of mayors of Baltimore"
                 }
@@ -157,7 +157,7 @@
               ]
             },
             {
-              "text": "She initially represented the (1987–1993), and then, when district boundaries were redrawn after the 1990 Census, the  (1993–2013).",
+              "text": "She initially represented the (1987–1993), and then, when district boundaries were redrawn after the 1990 census, the  (1993–2013).",
               "links": [
                 {
                   "text": "redrawn",
@@ -165,9 +165,9 @@
                   "page": "redistricting"
                 },
                 {
-                  "text": "1990 Census",
+                  "text": "1990 census",
                   "type": "internal",
-                  "page": "1990 United States Census"
+                  "page": "1990 United States census"
                 }
               ]
             },
