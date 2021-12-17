@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Philip Brian Scott (born August 4, 1958) is an American politician serving as the 82nd Governor of Vermont since 2017.",
+              "text": "Philip Brian Scott (born August 4, 1958) is an American politician serving as the 82nd governor of Vermont since 2017.",
               "links": [
                 {
                   "text": "82nd",
@@ -34,8 +34,9 @@
                   "page": "List of governors of Vermont"
                 },
                 {
+                  "text": "governor of Vermont",
                   "type": "internal",
-                  "page": "Governor of Vermont"
+                  "page": "governor of Vermont"
                 }
               ],
               "formatting": {
@@ -90,16 +91,17 @@
               ]
             },
             {
-              "text": "He was previously the 80th Lieutenant Governor of Vermont, an office he held from 2011 to 2017.",
+              "text": "He was previously the 81st lieutenant governor of Vermont, an office he held from 2011 to 2017.",
               "links": [
                 {
+                  "text": "lieutenant governor of Vermont",
                   "type": "internal",
-                  "page": "Lieutenant Governor of Vermont"
+                  "page": "lieutenant governor of Vermont"
                 }
               ]
             },
             {
-              "text": "Before serving as Lieutenant Governor, he was a State Senator representing the Washington County district from 2001 to 2011.",
+              "text": "Before serving as lieutenant governor, he was a State Senator representing the Washington County district from 2001 to 2011.",
               "links": [
                 {
                   "text": "State Senator",
