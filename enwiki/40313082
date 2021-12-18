@@ -168,18 +168,17 @@
             ]
           },
           "lieutenant": {
-            "text": "Kate Marshall (2019–21) Vacant (since 2021)",
+            "text": "Kate Marshall (2019–21) Lisa Cano Burkhead (since 2021)",
             "links": [
               {
                 "type": "internal",
                 "page": "Kate Marshall"
+              },
+              {
+                "type": "internal",
+                "page": "Lisa Cano Burkhead"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "Vacant"
-              ]
-            }
+            ]
           },
           "term_start": {
             "text": "January 7, 2019"
