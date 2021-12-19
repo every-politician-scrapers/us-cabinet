@@ -400,7 +400,13 @@
             ]
           },
           "deputy2": {
-            "text": "Stanley Fischer"
+            "text": "Stanley Fischer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stanley Fischer"
+              }
+            ]
           },
           "term_start2": {
             "text": "February 3, 2014"
@@ -454,13 +460,7 @@
             ]
           },
           "successor3": {
-            "text": "Stanley Fischer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stanley Fischer"
-              }
-            ]
+            "text": "Stanley Fischer"
           },
           "office4": {
             "text": "Member of the Federal Reserve Board of Governors",
