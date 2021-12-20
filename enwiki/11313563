@@ -154,6 +154,22 @@
           "template": "short description"
         },
         {
+          "date": "December 2021",
+          "template": "cleanup reorganize"
+        },
+        {
+          "1": "article",
+          "date": "December 2021",
+          "template": "cleanup-pr"
+        },
+        {
+          "date": "December 2021",
+          "template": "autobiography"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
           "list": [
             "Pierluisi",
             "Urrutia"

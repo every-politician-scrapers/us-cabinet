@@ -241,6 +241,19 @@
                   "page": "COVID-19 pandemic in Texas"
                 }
               ]
+            },
+            {
+              "text": "In 2021, Abbott announced that Texas would extend the Trump border wall that was cancelled by the Biden administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trump border wall"
+                },
+                {
+                  "type": "internal",
+                  "page": "Biden administration"
+                }
+              ]
             }
           ]
         }
