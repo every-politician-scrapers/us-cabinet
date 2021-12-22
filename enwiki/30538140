@@ -99,7 +99,7 @@
         {
           "sentences": [
             {
-              "text": "Parson was the Sheriff of Polk County from 1993 to 2004.",
+              "text": "Parson was the sheriff of Polk County from 1993 to 2004.",
               "links": [
                 {
                   "text": "Polk County",
@@ -201,7 +201,7 @@
       ],
       "templates": [
         {
-          "description": "57th Governor of Missouri",
+          "description": "57th governor of Missouri",
           "template": "short description"
         },
         {

@@ -76,10 +76,10 @@
         {
           "sentences": [
             {
-              "text": "Lujan Grisham served as Secretary of Health of New Mexico from 2004 to 2007 and as Bernalillo County Commissioner from 2010 to 2012.",
+              "text": "Lujan Grisham served as the state secretary of health from 2004 to 2007 and as Bernalillo County commissioner from 2010 to 2012.",
               "links": [
                 {
-                  "text": "Secretary of Health of New Mexico",
+                  "text": "secretary of health",
                   "type": "internal",
                   "page": "New Mexico Department of Health"
                 },
@@ -89,7 +89,7 @@
                   "page": "Bernalillo County, New Mexico"
                 },
                 {
-                  "text": "Commissioner",
+                  "text": "commissioner",
                   "type": "internal",
                   "page": "County commission"
                 }
@@ -147,7 +147,7 @@
           "template": "use mdy dates"
         },
         {
-          "description": "32nd Governor of New Mexico",
+          "description": "32nd governor of New Mexico",
           "template": "short description"
         },
         {

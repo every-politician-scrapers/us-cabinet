@@ -50,17 +50,17 @@
         {
           "sentences": [
             {
-              "text": "Reynolds previously served as the 46th Lieutenant Governor of Iowa from 2011 to 2017.",
+              "text": "Reynolds previously served as the 46th lieutenant governor of Iowa from 2011 to 2017.",
               "links": [
                 {
-                  "text": "Lieutenant Governor of Iowa",
+                  "text": "lieutenant governor of Iowa",
                   "type": "internal",
                   "page": "List of lieutenant governors of Iowa"
                 }
               ]
             },
             {
-              "text": "Before she was elected Lieutenant Governor, Reynolds served as Clarke County Treasurer for four terms and then served in the Iowa Senate from 2009 to 2010.",
+              "text": "Before she was elected lieutenant governor, Reynolds served as Clarke County treasurer for four terms and then served in the Iowa Senate from 2009 to 2010.",
               "links": [
                 {
                   "text": "Clarke County",
@@ -68,8 +68,9 @@
                   "page": "Clarke County, Iowa"
                 },
                 {
+                  "text": "treasurer",
                   "type": "internal",
-                  "page": "Treasurer"
+                  "page": "treasurer"
                 },
                 {
                   "type": "internal",
@@ -78,14 +79,14 @@
               ]
             },
             {
-              "text": "Reynolds became Governor of Iowa in May 2017 when her predecessor, Terry Branstad, stepped down to become United States Ambassador to China.",
+              "text": "Reynolds became governor of Iowa in May 2017 when her predecessor, Terry Branstad, stepped down to become the United States ambassador to China.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Terry Branstad"
                 },
                 {
-                  "text": "United States Ambassador to China",
+                  "text": "United States ambassador to China",
                   "type": "internal",
                   "page": "List of ambassadors of the United States to China"
                 }

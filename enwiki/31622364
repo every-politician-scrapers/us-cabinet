@@ -50,11 +50,12 @@
         {
           "sentences": [
             {
-              "text": "Gregory Richard Gianforte (born April 17, 1961) is an American businessman, politician, software engineer, and writer serving as the 25th Governor of Montana since 2021.",
+              "text": "Gregory Richard Gianforte (born April 17, 1961) is an American businessman, politician, software engineer, and writer serving as the 25th governor of Montana since 2021.",
               "links": [
                 {
+                  "text": "governor of Montana",
                   "type": "internal",
-                  "page": "Governor of Montana"
+                  "page": "governor of Montana"
                 }
               ],
               "formatting": {
@@ -118,7 +119,7 @@
         {
           "sentences": [
             {
-              "text": "In 2016, Gianforte ran for Governor of Montana as the Republican candidate, losing to incumbent Democratic Governor Steve Bullock.",
+              "text": "In 2016, Gianforte ran for governor of Montana as the Republican candidate, losing to incumbent Democratic Governor Steve Bullock.",
               "links": [
                 {
                   "text": "2016",
@@ -126,8 +127,9 @@
                   "page": "2016 Montana gubernatorial election"
                 },
                 {
+                  "text": "governor of Montana",
                   "type": "internal",
-                  "page": "Governor of Montana"
+                  "page": "governor of Montana"
                 },
                 {
                   "text": "Steve Bullock",

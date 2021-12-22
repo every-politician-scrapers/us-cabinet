@@ -65,7 +65,7 @@
               ]
             },
             {
-              "text": "A member of the Democratic Party, he served as the United States Ambassador to Germany from 2009 to 2013 under President Barack Obama.",
+              "text": "A member of the Democratic Party, he served as the United States ambassador to Germany from 2009 to 2013 under President Barack Obama.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -73,8 +73,9 @@
                   "page": "Democratic Party (United States)"
                 },
                 {
+                  "text": "United States ambassador to Germany",
                   "type": "internal",
-                  "page": "United States Ambassador to Germany"
+                  "page": "List of ambassadors of the United States to Germany"
                 },
                 {
                   "type": "internal",
@@ -112,7 +113,7 @@
               ]
             },
             {
-              "text": "In the Obama administration, Murphy served as the United States Ambassador to Germany from 2009 to 2013, during which time he dealt with the international fallout from the United States diplomatic cables leak.",
+              "text": "In the Obama administration, Murphy served as the United States ambassador to Germany from 2009 to 2013, during which time he dealt with the international fallout from the United States diplomatic cables leak.",
               "links": [
                 {
                   "text": "Obama administration",
@@ -121,7 +122,7 @@
                   "anchor": "Administration"
                 },
                 {
-                  "text": "United States Ambassador to Germany",
+                  "text": "United States ambassador to Germany",
                   "type": "internal",
                   "page": "List of ambassadors of the United States to Germany"
                 },
@@ -197,7 +198,7 @@
       ],
       "templates": [
         {
-          "description": "American businessman and diplomat, 56th Governor of New Jersey",
+          "description": "American businessman and diplomat, 56th governor of New Jersey",
           "template": "short description"
         },
         {

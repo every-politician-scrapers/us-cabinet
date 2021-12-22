@@ -91,7 +91,7 @@
               ]
             },
             {
-              "text": "Edwards won a second term in 2019, becoming the first Democrat to win reelection as Governor of Louisiana since Edwin Edwards (no relation) in 1975.",
+              "text": "Edwards won a second term in 2019, becoming the first Democrat to win reelection as governor of Louisiana since Edwin Edwards (no relation) in 1975.",
               "links": [
                 {
                   "text": "2019",
@@ -146,13 +146,13 @@
       ],
       "templates": [
         {
-          "description": "56th Governor of Louisiana",
+          "description": "56th governor of Louisiana",
           "template": "short description"
         },
         {
           "list": [
-            "the current Governor of Louisiana",
-            "the (unrelated) former Louisiana Governor",
+            "the current governor of Louisiana",
+            "the (unrelated) former Louisiana governor",
             "Edwin Edwards"
           ],
           "template": "about"
