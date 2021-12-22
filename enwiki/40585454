@@ -89,7 +89,7 @@
               ]
             },
             {
-              "text": "Sununu is a son of former New Hampshire Governor and White House Chief of Staff John H. Sununu, and a younger brother of former U.S. Representative and Senator John E. Sununu.",
+              "text": "Sununu is a son of former New Hampshire governor and White House Chief of Staff John H. Sununu, and a younger brother of former U.S. representative and senator John E. Sununu.",
               "links": [
                 {
                   "type": "internal",
@@ -104,12 +104,12 @@
                   "page": "John H. Sununu"
                 },
                 {
-                  "text": "Representative",
+                  "text": "representative",
                   "type": "internal",
                   "page": "United States House of Representatives"
                 },
                 {
-                  "text": "Senator",
+                  "text": "senator",
                   "type": "internal",
                   "page": "United States Senate"
                 },
@@ -224,7 +224,7 @@
       ],
       "templates": [
         {
-          "description": "82nd Governor of New Hampshire",
+          "description": "82nd governor of New Hampshire",
           "template": "short description"
         },
         {
@@ -408,10 +408,11 @@
           "type": "web"
         },
         {
+          "url": "https://www.politico.com/news/2021/11/09/chris-sununu-new-hampshire-gov-senate-520533",
+          "title": "Sununu announcement act rubs top Republicans the wrong way",
+          "website": "Politico",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",

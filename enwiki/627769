@@ -617,22 +617,6 @@
               }
             ]
           },
-          "occupation": {
-            "text": "Economist\n\neducator\n\ngovernment official"
-          },
-          "residence": {
-            "text": "San Francisco, California, U.S.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "San Francisco"
-              },
-              {
-                "type": "internal",
-                "page": "California"
-              }
-            ]
-          },
           "party": {
             "text": "Democratic",
             "links": [
@@ -650,8 +634,33 @@
             "text": "1",
             "number": 1
           },
+          "residence": {
+            "text": "San Francisco, California, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Francisco"
+              },
+              {
+                "type": "internal",
+                "page": "California"
+              }
+            ]
+          },
           "education": {
+            "text": "Fort Hamilton High School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fort Hamilton High School"
+              }
+            ]
+          },
+          "alma_mater": {
             "text": "Brown University (AB)\n\nYale University (MA, PhD)"
+          },
+          "occupation": {
+            "text": "Economist · educator · government official"
           },
           "signature": {
             "text": "Janet Yellen signature.png"

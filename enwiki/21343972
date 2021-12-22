@@ -61,7 +61,7 @@
         {
           "sentences": [
             {
-              "text": "A member of the Democratic Party, Mills was first elected Maine Attorney General by the Maine Legislature on January 6, 2009, succeeding G. Steven Rowe.",
+              "text": "A member of the Democratic Party, Mills was first elected attorney general by the Maine Legislature on January 6, 2009, succeeding G. Steven Rowe.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -111,7 +111,7 @@
               ]
             },
             {
-              "text": "Her party nominated her for governor of Maine in the 2018 election, and she won, defeating Republican Shawn Moody and Independent Terry Hayes.",
+              "text": "Her party nominated her for governor of Maine in the 2018 election, and she won, defeating Republican Shawn Moody and independent Terry Hayes.",
               "links": [
                 {
                   "type": "internal",
@@ -147,8 +147,8 @@
       "templates": [
         {
           "list": [
-            "the incumbent Governor of Maine",
-            "the Connecticut State Representative",
+            "the incumbent governor of Maine",
+            "the Connecticut state representative",
             "Janet M. Mills"
           ],
           "template": "about"

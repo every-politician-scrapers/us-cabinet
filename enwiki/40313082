@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Stephen F. Sisolak (born December 26, 1953) is an American businessman and politician serving as the 30th and current Governor of Nevada since 2019.",
+              "text": "Stephen F. Sisolak (born December 26, 1953) is an American businessman and politician serving as the 30th and current governor of Nevada since 2019.",
               "links": [
                 {
                   "text": "30th",
@@ -31,7 +31,7 @@
                   "page": "List of governors of Nevada"
                 },
                 {
-                  "text": "Governor of Nevada",
+                  "text": "governor of Nevada",
                   "type": "internal",
                   "page": "List of governors of Nevada"
                 }
@@ -74,10 +74,10 @@
               "text": "In 2008, he won election to the Clark County Commission and was reelected in 2012 and 2016."
             },
             {
-              "text": "In 2018, Sisolak won the Democratic nomination for Governor of Nevada, defeating Clark County Commission colleague Chris Giunchigliani in the primary election.",
+              "text": "In 2018, Sisolak won the Democratic nomination for governor of Nevada, defeating Clark County Commission colleague Chris Giunchigliani in the primary election.",
               "links": [
                 {
-                  "text": "Governor of Nevada",
+                  "text": "governor of Nevada",
                   "type": "internal",
                   "page": "List of governors of Nevada"
                 },
@@ -120,7 +120,7 @@
       ],
       "templates": [
         {
-          "description": "30th Governor of Nevada",
+          "description": "30th governor of Nevada",
           "template": "short description"
         },
         {

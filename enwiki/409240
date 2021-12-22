@@ -243,13 +243,12 @@
         },
         {
           "list": [
-            "",
             "the Irish cyclist",
             "Heather Wilson (cyclist)",
             "the author",
             "Heather Gemmen Wilson"
           ],
-          "template": "about"
+          "template": "for multi"
         },
         {
           "date": "March 2019",
