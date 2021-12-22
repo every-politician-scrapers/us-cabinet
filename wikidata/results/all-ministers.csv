@@ -326,7 +326,7 @@ Q5628234,H. Freeman Matthews,Q14213,United States Secretary of State,1953-01-20T
 Q685992,Hamilton Fish,Q14213,United States Secretary of State,1869-03-17T00:00:00Z,1877-03-12T00:00:00Z,,,26,Q731492,Elihu B. Washburne,Q709167,William M. Evarts,,,,,,Q685992-f7966a4c-4b8c-5fe4-becd-247769a02cc8
 Q366343,Hamilton Jordan,Q786242,White House Chief of Staff,1979-08-06T00:00:00Z,1980-06-12T00:00:00Z,,,,Q48259,Dick Cheney,Q366337,Jack Watson,,,,,,Q366343-8BD8AA5A-E66A-4522-8F55-2BAD492265FB
 Q273546,Hannibal Hamlin,Q11699,Vice President of the United States,1861-03-04T00:00:00Z,1865-03-04T00:00:00Z,,,15,Q273212,John C. Breckinridge,Q8612,Andrew Johnson,,,,,,Q273546-F3F9C5B8-D915-4616-9632-92789D92C426
-Q11974076,Hans Mark,Q261746,United States Secretary of the Air Force,,,,,,,,,,,,,,,Q11974076-6fc6a9e7-ed98-4e09-9db3-d759bc3108e3
+Q11974076,Hans Mark,Q261746,United States Secretary of the Air Force,1979-05-18T00:00:00Z,1981-02-09T00:00:00Z,,,13,Q6225786,John Charles Stetson,Q7921977,Verne Orr,,,,,,Q11974076-6fc6a9e7-ed98-4e09-9db3-d759bc3108e3
 Q5651089,Hansford T. Johnson,Q940135,United States Secretary of the Navy,,,,,,,,,,,,,,,Q5651089-a234bd92-cceb-4d08-a1ac-b0c0220d00f4
 Q942386,Harlan F. Stone,Q636207,United States Attorney General,1924-04-07T00:00:00Z,1925-03-01T00:00:00Z,,,52,Q351931,Harry Micajah Daugherty,Q351943,John G. Sargent,,,,,,Q942386-2F36F265-447B-4435-A303-024806AA140A
 Q552916,Harold Brown,Q735015,United States Secretary of Defense,1977-01-21T00:00:00Z,1981-01-20T00:00:00Z,,,,Q184650,Donald Rumsfeld,Q434142,Caspar Weinberger,,,,,,Q552916-f90d0f97-40ea-2a01-3577-4ecdc595466d
@@ -692,7 +692,7 @@ Q879432,Mike Leavitt,Q2305968,United States Secretary of Health and Human Servic
 Q24313,Mike Pence,Q11699,Vice President of the United States,2017-01-20T00:00:00Z,2021-01-20T00:00:00Z,,,48,Q6279,Joe Biden,Q10853588,Kamala Harris,,,https://www.govtrack.us/congress/members/mike_pence/400315,,,Q24313-9b14f0fb-4135-c779-1a9a-944f1a25a483
 Q24313,Mike Pence,Q11699,Vice President of the United States,2017-01-20T00:00:00Z,2021-01-20T00:00:00Z,,,48,Q6279,Joe Biden,Q10853588,Kamala Harris,,,https://www.whitehouse.gov/administration/vice-president-pence,,,Q24313-9b14f0fb-4135-c779-1a9a-944f1a25a483
 Q473239,Mike Pompeo,Q14213,United States Secretary of State,2018-04-26T00:00:00Z,2021-01-20T00:00:00Z,Q27811470,Trump Administration cabinet,70,Q6241291,John J. Sullivan,Q30106114,Daniel Bennett Smith,,,,,,Q473239-8018b07d-4c14-e6a7-1fc3-bb9f4ddf92d8
-Q30274534,Mike Young (agriculture official),Q1029955,United States Secretary of Agriculture,,,,,,,,,,,,,,,Q30274534-8cc45b6c-4661-49b7-9a9a-5b9f4dacdbc5
+Q30274534,Mike Young (agriculture official),Q1029955,United States Secretary of Agriculture,2017-01-20T00:00:00Z,2017-04-25T00:00:00Z,,,,Q28317075,Michael Scuse,Q525362,Sonny Perdue,,,,,,Q30274534-E2A1BCBD-02D5-444D-BBEC-BA7E38AAAF84
 Q12306,Millard Fillmore,Q11699,Vice President of the United States,1849-03-04T00:00:00Z,1850-07-09T00:00:00Z,,,12,Q310849,George M. Dallas,Q298985,William R. King,,,,,,Q12306-611AACA4-8052-4978-BD7F-5018352D3D53
 Q31801704,Mitchell P. Kobelinski,Q15623718,Administrator of the Small Business Administration,,,,,,,,,,,,,,,Q31801704-4c5e1611-a89d-4a62-aa0d-0ff81f74208e
 Q104907580,Monty Wilkinson,Q636207,United States Attorney General,2021-01-20T00:00:00Z,2021-03-10T00:00:00Z,,,,Q41800022,John Demers,Q1922011,Merrick Garland,Q4676846,acting,,,,Q104907580-c47bfdde-4817-4e7a-ce3b-7a286bbaea34
@@ -858,6 +858,7 @@ Q310852,Schuyler Colfax,Q11699,Vice President of the United States,1869-03-04T00
 Q7437083,Scott Pruitt,Q2087596,Administrator of the Environmental Protection Agency,2017-02-17T00:00:00Z,2018-07-09T00:00:00Z,,,,Q28469527,Catherine McCabe,Q37936461,Andrew R. Wheeler,,,,,,Q7437083-f4aa2950-4227-6797-38c2-bf68996c408c
 Q983423,Sean O'Keefe,Q940135,United States Secretary of the Navy,1992-07-07T00:00:00Z,1993-01-20T00:00:00Z,,,,Q5217532,Daniel Howard,Q464685,Frank Kelso,,,,,,Q983423-895D6E93-8B33-4D88-8D45-903C9B249496
 Q7441451,Sean Stackley,Q940135,United States Secretary of the Navy,,,,,,,,,,,,,,,Q7441451-7cdff341-6716-456c-8ae3-8ba414555cb8
+Q7441451,Sean Stackley,Q940135,United States Secretary of the Navy,2017-01-20T00:00:00Z,2017-08-03T00:00:00Z,,,,Q531247,Ray Mabus,Q29342932,Richard V. Spencer,,,,,,Q7441451-5D91159F-ED2F-473C-AE0A-E454A79A143A
 Q4120997,Seth Harris,Q967750,United States Secretary of Labor,2013-01-22T00:00:00Z,2013-07-23T00:00:00Z,,,,Q50610,Hilda Solis,Q7793121,Thomas Perez,Q4676846,acting,,,,Q4120997-d1f7e284-29c9-486f-a7ee-8491d941693f
 Q379739,Shaun Donovan,Q2419581,United States Secretary of Housing and Urban Development,2009-01-26T00:00:00Z,2014-07-28T00:00:00Z,,,,Q4963500,Brian D. Montgomery,Q970720,Julián Castro,,,,,,Q379739-dcead862-642e-4be1-b4dd-30330e824371
 Q55175,Sheila Widnall,Q261746,United States Secretary of the Air Force,,,,,,,,,,,,,,,Q55175-E911FA5D-40EE-408C-83D5-764A5C11B5BA
