@@ -58,7 +58,7 @@
               }
             },
             {
-              "text": "A member of the Democratic Party, she served three terms as the state representative from the 13th district of the Oregon House of Representatives from 1991 to 1997, three terms as the state senator from the 21st district of the Oregon Senate from 1997 to 2009, three terms as Majority Leader of the Oregon Senate from 2003 to 2009, as well as two terms as Oregon Secretary of State from 2009 to 2015.",
+              "text": "A member of the Democratic Party, she served three terms as the state representative from the 13th district of the Oregon House of Representatives from 1991 to 1997, three terms as the state senator from the 21st district of the Oregon Senate from 1997 to 2009, three terms as majority leader of the Oregon Senate from 2003 to 2009, as well as two terms as Oregon Secretary of State from 2009 to 2015.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -84,8 +84,9 @@
                   "page": "Oregon Senate"
                 },
                 {
+                  "text": "majority leader",
                   "type": "internal",
-                  "page": "Majority Leader"
+                  "page": "majority leader"
                 },
                 {
                   "type": "internal",
@@ -174,7 +175,7 @@
       ],
       "templates": [
         {
-          "description": "38th Governor of Oregon",
+          "description": "38th governor of Oregon",
           "template": "short description"
         },
         {

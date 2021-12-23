@@ -47,7 +47,7 @@
               }
             },
             {
-              "text": "A member of the Democratic Party, Mauga served as Senator in the American Samoa Senate, where he became the Chairman of both the Budget and Appropriations Committee and the Senate Homeland Security Committee.",
+              "text": "A member of the Democratic Party, Mauga served as a senator in the American Samoa Senate, where he became the chairman of both the Budget and Appropriations Committee and the Senate Homeland Security Committee.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -55,8 +55,9 @@
                   "page": "Democratic Party (United States)"
                 },
                 {
+                  "text": "senator",
                   "type": "internal",
-                  "page": "Senator"
+                  "page": "senator"
                 },
                 {
                   "type": "internal",
