@@ -32,11 +32,12 @@
         {
           "sentences": [
             {
-              "text": "Pedro Rafael Pierluisi Urrutia is the Governor of Puerto Rico.",
+              "text": "Pedro Rafael Pierluisi Urrutia is the governor of Puerto Rico.",
               "links": [
                 {
+                  "text": "governor of Puerto Rico",
                   "type": "internal",
-                  "page": "Governor of Puerto Rico"
+                  "page": "governor of Puerto Rico"
                 }
               ],
               "formatting": {
@@ -72,10 +73,10 @@
               ]
             },
             {
-              "text": "He returned to practice law in Puerto Rico in 1990 and served as Puerto Rico's Secretary of Justice from 1993 to 1996.",
+              "text": "He returned to practice law in Puerto Rico in 1990 and served as Puerto Rico's secretary of justice from 1993 to 1996.",
               "links": [
                 {
-                  "text": "Secretary of Justice",
+                  "text": "secretary of justice",
                   "type": "internal",
                   "page": "Secretary of Justice of Puerto Rico"
                 }
@@ -85,26 +86,23 @@
               "text": "As chief legal officer of our government he published numerous opinions and argued two important constitutional cases before the Puerto Rico Supreme Court, supervised over 500 lawyers and prosecutors and led the fight against crime obtaining Puerto Rico's designation as a High Incidence of Drug Trafficking Area."
             },
             {
-              "text": "Commissioned by the White House, he lobbied Congress for the passage of President Clinton's Crime bill."
+              "text": "Commissioned by the White House, he lobbied Congress for the passage of President Clinton's crime bill."
             },
             {
               "text": "He then became a partner at a prestigious law firm for 10 years before returning to public service."
-            },
-            {
-              "text": "He was elected Resident Commissioner of Puerto Rico in Washington and served from January.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Resident Commissioner of Puerto Rico"
-                }
-              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "2009 to December 2016, and during his tenure in Congress he compiled an impressive record of achievements in multiple areas."
+              "text": "He was elected Resident Commissioner of Puerto Rico in Washington and served from January 2009 to December 2016, and during his tenure in Congress he compiled an impressive record of achievements in multiple areas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Resident Commissioner of Puerto Rico"
+                }
+              ]
             },
             {
               "text": "He secured billions of dollars in federal funds and tax credits for Puerto Rico under the American Reinvestment and Recovery Act (ARRA), worked to ensure that Puerto Rico and the other U.S. territories were treated fairly in the federal health reform, which tripled the amount of federal funds assigned to Puerto Rico annually to fund the public health system."

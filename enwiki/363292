@@ -54,7 +54,7 @@
               }
             },
             {
-              "text": "A member of the Republican Party, DeWine previously served as Ohio Attorney General from 2011 to 2019, United States Senator from 1995 to 2007, Lieutenant Governor of Ohio under George Voinovich from 1991 until 1994, and U.S. Representative from 1983 until 1991.",
+              "text": "A member of the Republican Party, DeWine previously served as the 50th attorney general of Ohio from 2011 to 2019, United States senator from 1995 to 2007, 59th lieutenant governor under George Voinovich from 1991 until 1994, and U.S. representative from 1983 until 1991.",
               "links": [
                 {
                   "text": "Republican Party",
@@ -62,16 +62,17 @@
                   "page": "Republican Party (United States)"
                 },
                 {
+                  "text": "attorney general of Ohio",
                   "type": "internal",
                   "page": "Ohio Attorney General"
                 },
                 {
-                  "text": "United States Senator",
+                  "text": "United States senator",
                   "type": "internal",
                   "page": "United States Senate"
                 },
                 {
-                  "text": "Lieutenant Governor of Ohio",
+                  "text": "lieutenant governor",
                   "type": "internal",
                   "page": "List of lieutenant governors of Ohio"
                 },
@@ -80,7 +81,7 @@
                   "page": "George Voinovich"
                 },
                 {
-                  "text": "U.S. Representative",
+                  "text": "U.S. representative",
                   "type": "internal",
                   "page": "United States House of Representatives"
                 }

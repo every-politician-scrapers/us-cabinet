@@ -29,10 +29,10 @@
         {
           "sentences": [
             {
-              "text": "Thomas Westerman Wolf (born November 17, 1948) is an American politician and businessman serving as the 47th and current Governor of Pennsylvania since 2015.",
+              "text": "Thomas Westerman Wolf (born November 17, 1948) is an American politician and businessman serving as the 47th and current governor of Pennsylvania since 2015.",
               "links": [
                 {
-                  "text": "Governor of Pennsylvania",
+                  "text": "governor of Pennsylvania",
                   "type": "internal",
                   "page": "List of governors of Pennsylvania"
                 }
@@ -73,7 +73,7 @@
               ]
             },
             {
-              "text": "Prior to his election to the governorship, Wolf was the Secretary of the Pennsylvania Department of Revenue from April 2007 to November 2008 and an executive in his family-owned business.",
+              "text": "Prior to his election to the governorship, Wolf was the secretary of the Pennsylvania Department of Revenue from April 2007 to November 2008 and an executive in his family-owned business.",
               "links": [
                 {
                   "type": "internal",

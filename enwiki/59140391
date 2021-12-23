@@ -19,11 +19,12 @@
         {
           "sentences": [
             {
-              "text": "Albert Bryan Jr. (born February 21, 1968) is an American Virgin Islander politician who is the ninth elected Governor of the United States Virgin Islands, since 2019.",
+              "text": "Albert Bryan Jr. (born February 21, 1968) is an American Virgin Islander politician who is the ninth elected governor of the United States Virgin Islands, since 2019.",
               "links": [
                 {
+                  "text": "governor of the United States Virgin Islands",
                   "type": "internal",
-                  "page": "Governor of the United States Virgin Islands"
+                  "page": "governor of the United States Virgin Islands"
                 }
               ],
               "formatting": {
@@ -33,7 +34,7 @@
               }
             },
             {
-              "text": "A member of the Democratic Party, he served as Commissioner of Labor from 2007 to 2015."
+              "text": "A member of the Democratic Party, he served as the commissioner of labor from 2007 to 2015."
             }
           ]
         }

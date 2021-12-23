@@ -54,7 +54,7 @@
         {
           "sentences": [
             {
-              "text": "McKee served as a member of the Cumberland Town Council from 1992 to 1998 and Mayor of Cumberland twice, from 2000 to 2004 and from 2006 until 2014.",
+              "text": "McKee served as a member of the Cumberland town council from 1992 to 1998 and mayor of Cumberland twice, from 2000 to 2004 and from 2006 until 2014.",
               "links": [
                 {
                   "text": "Cumberland",
@@ -62,9 +62,9 @@
                   "page": "Cumberland, Rhode Island"
                 },
                 {
-                  "text": "Town Council",
+                  "text": "town council",
                   "type": "internal",
-                  "page": "Town council"
+                  "page": "town council"
                 }
               ]
             },
@@ -79,7 +79,7 @@
               ]
             },
             {
-              "text": "When Governor Gina Raimondo resigned to become President Joe Biden's Secretary of Commerce in 2021, McKee acceded to the post of Governor of Rhode Island.",
+              "text": "When Governor Gina Raimondo resigned to become President Joe Biden's secretary of commerce in 2021, McKee acceded to the post of governor of Rhode Island.",
               "links": [
                 {
                   "type": "internal",
@@ -90,7 +90,7 @@
                   "page": "Joe Biden"
                 },
                 {
-                  "text": "Secretary of Commerce",
+                  "text": "secretary of commerce",
                   "type": "internal",
                   "page": "United States Secretary of Commerce"
                 }
@@ -105,7 +105,7 @@
           "template": "use mdy dates"
         },
         {
-          "description": "76th Governor of Rhode Island",
+          "description": "76th governor of Rhode Island",
           "template": "short description"
         },
         {
