@@ -42,12 +42,11 @@
         {
           "sentences": [
             {
-              "text": "Nancy Patricia Pelosi (born March 26, 1940) is an American politician serving as speaker of the United States House of Representatives since 2019, and previously from 2007 to 2011.",
+              "text": "Nancy Patricia Pelosi (born March 26, 1940) is an American politician serving as Speaker of the United States House of Representatives since 2019, and previously from 2007 to 2011.",
               "links": [
                 {
-                  "text": "speaker of the United States House of Representatives",
                   "type": "internal",
-                  "page": "speaker of the United States House of Representatives"
+                  "page": "Speaker of the United States House of Representatives"
                 }
               ],
               "formatting": {
