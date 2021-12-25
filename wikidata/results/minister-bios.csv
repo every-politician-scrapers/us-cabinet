@@ -256,6 +256,9 @@ Q310841,Garret Hobart,U.S. Vice President (1844-1899),Q6581097,male,1844-06-03T0
 Q350378,Gary Locke,American politician,Q6581097,male,1950-01-21T00:00:00Z,11,,
 Q1334556,George B. Cortelyou,American politician (1862-1940),Q6581097,male,1862-07-26T00:00:00Z,11,1940-10-23T00:00:00Z,11
 Q997635,George Ball,American diplomat (1909-1994),Q6581097,male,1909-12-21T00:00:00Z,11,1994-05-26T00:00:00Z,11
+Q741482,George Bancroft,"American historian, statesman, founder of United States Naval Academy (1800-1891)",Q6581097,male,1800-01-01T00:00:00Z,9,1891-01-01T00:00:00Z,9
+Q741482,George Bancroft,"American historian, statesman, founder of United States Naval Academy (1800-1891)",Q6581097,male,1800-01-01T00:00:00Z,9,1891-01-17T00:00:00Z,11
+Q741482,George Bancroft,"American historian, statesman, founder of United States Naval Academy (1800-1891)",Q6581097,male,1800-10-03T00:00:00Z,11,1891-01-01T00:00:00Z,9
 Q741482,George Bancroft,"American historian, statesman, founder of United States Naval Academy (1800-1891)",Q6581097,male,1800-10-03T00:00:00Z,11,1891-01-17T00:00:00Z,11
 Q201646,George Clinton,"American soldier and statesman, considered one of the Founding Fathers of the United States (1739-1812)",Q6581097,male,1739-07-26T00:00:00Z,11,1812-04-20T00:00:00Z,11
 Q925084,George Edmund Badger,American Secretary of the Navy and senator for North Carolina (1795-1866),Q6581097,male,1795-04-17T00:00:00Z,11,1866-05-11T00:00:00Z,11
@@ -357,6 +360,9 @@ Q6133157,James E. McPherson,United States admiral,Q6581097,male,1955-01-01T00:00
 Q432726,James F. Byrnes,American politician,Q6581097,male,1882-05-02T00:00:00Z,11,1972-04-09T00:00:00Z,11
 Q16107422,James F. McGovern,American government official,Q6581097,male,1946-01-01T00:00:00Z,9,,
 Q463385,James Forrestal,"United States Navy officer and civil servant, Undersecretary of the Navy (1892-1949)",Q6581097,male,1892-02-15T00:00:00Z,11,1949-05-22T00:00:00Z,11
+Q448778,James G. Blaine,American Republican politician (1830-1893),Q6581097,male,1830-01-01T00:00:00Z,9,1893-01-01T00:00:00Z,9
+Q448778,James G. Blaine,American Republican politician (1830-1893),Q6581097,male,1830-01-01T00:00:00Z,9,1893-01-27T00:00:00Z,11
+Q448778,James G. Blaine,American Republican politician (1830-1893),Q6581097,male,1830-01-31T00:00:00Z,11,1893-01-01T00:00:00Z,9
 Q448778,James G. Blaine,American Republican politician (1830-1893),Q6581097,male,1830-01-31T00:00:00Z,11,1893-01-27T00:00:00Z,11
 Q6134388,James G. Roche,United States Navy officer,Q6581097,male,1939-12-16T00:00:00Z,11,,
 Q710501,James G. Watt,United States Secretary of the Interior,Q6581097,male,1938-01-31T00:00:00Z,11,,
@@ -738,7 +744,6 @@ Q7384672,Ryan Zinke,52nd United States Secretary of the Interior and former Cong
 Q4231614,Sally Jewell,US politician (born 1956),Q6581072,female,1956-02-21T00:00:00Z,11,,
 Q21062855,Sally Yates,American lawyer,Q6581072,female,1960-08-20T00:00:00Z,11,,
 Q433051,Salmon P. Chase,former Chief Justice and Secretary of the Treasury of the United States (1808–1873),Q6581097,male,1808-01-13T00:00:00Z,11,1873-05-07T00:00:00Z,11
-Q454970,Samantha Power,"Irish-American academic, author and diplomat",Q6581072,female,1970-01-01T00:00:00Z,9,,
 Q454970,Samantha Power,"Irish-American academic, author and diplomat",Q6581072,female,1970-09-21T00:00:00Z,11,,
 Q1276376,Samuel Bodman,United States Secretary of Energy and previously Deputy Secretary of the U.S. Treasury Department.,Q6581097,male,1938-11-26T00:00:00Z,11,2018-09-07T00:00:00Z,11
 Q1773351,Samuel D. Ingham,American politician (1779-1860),Q6581097,male,1779-09-16T00:00:00Z,11,1860-06-05T00:00:00Z,11
