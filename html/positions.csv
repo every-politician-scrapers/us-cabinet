@@ -1,0 +1,76 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q11696,President of the United States,Q30,Q30,Q11699,Q35073,1787-04-30,,,,President of the United States
+Q11699,Vice President of the United States,Q30,Q30,Q1140848,Q1030359,1789-04-21,,,,Vice President of the United States
+Q2003296,United States Secretary of Commerce,Q30,Q30,Q7889749,,1913,,,,United States Secretary of Commerce
+Q735015,United States Secretary of Defense,Q30,Q30,Q2297543,,1947-09-19,,,,United States Secretary of Defense
+Q1029968,United States Secretary of Energy,Q30,Q30,Q16973531,,,,,,United States Secretary of Energy
+Q2419581,United States Secretary of Housing and Urban Development,Q30,Q30,Q7889753,,1965-09-09,,,,United States Secretary of Housing and Urban Development
+Q967750,United States Secretary of Labor,Q30,Q30,,,1913-03-04,,,,United States Secretary of Labor
+Q14213,United States Secretary of State,Q30,Q30,Q2301213,Q15725590,1789-07-27,,,,United States Secretary of State
+Q2287650,United States Secretary of the Interior,Q30,Q30,Q7889756,,1849-03-03,,,,United States Secretary of the Interior
+Q4215834,United States Secretary of the Treasury,Q30,Q30,Q11285124,,1789-09-11,,,,United States Secretary of the Treasury
+Q967737,United States Secretary of Transportation,Q30,Q30,Q16829406,,1966-10-15,,,,United States Secretary of Transportation
+Q1658460,United States Secretary of Veterans Affairs,Q30,Q30,,,1989-03-15,,,,United States Secretary of Veterans Affairs
+Q11147,Chief Justice of the United States,Q30,Q30,,,1789-03-04,,,,Chief Justice of the United States
+Q636207,United States Attorney General,Q30,Q30,Q1364289,,1789-09-26,,,,United States Attorney General
+Q1763459,Chairman of the Joint Chiefs of Staff,Q30,Q30,Q2916001,Q20379709,1949-08-19,,,,Chairman of the Joint Chiefs of Staff
+Q1414246,National Security Advisor,Q30,,Q5261055,,1953,,,,National Security Advisor (United States)
+Q27907212,United States Trade Representative,Q30,Q30,,,1962,,,,United States Trade Representative
+Q2087596,Administrator of the Environmental Protection Agency,Q30,Q30,,,1970,,,,Administrator of the Environmental Protection Agency
+Q15623718,Administrator of the Small Business Administration,Q30,Q30,,,1953-07-30,,,,Administrator of the Small Business Administration
+Q1785225,United States Ambassador to the United Nations,Q30,Q30,,,1945,,,,List of ambassadors of the United States to the United Nations
+Q27907217,Chair of the Council of Economic Advisers,Q30,Q30,,,,,,,
+Q786242,White House Chief of Staff,Q30,Q30,,Q4432975,1946,,,,White House Chief of Staff
+Q19817711,Science Advisor to the President,Q30,Q30,,,,,,,Science Advisor to the President
+Q912994,Speaker of the United States House of Representatives,Q30,Q30,,Q1760109,1789-04-01,,,,Speaker of the United States House of Representatives
+Q29514575,Governor of Alabama,Q30,Q173,Q845950,Q558677,1819-12-14,,,,
+Q20801644,Governor of Alaska,Q30,Q797,Q1853510,Q575942,1959-01-03,,,,
+Q20804530,Governor of American Samoa,Q30,Q16641,Q6544406,Q888821,1900-02-17,,,,
+Q29514606,Governor of Arizona,Q30,Q816,,Q777288,1912-02-14,,,,
+Q1540336,Governor of Arkansas,Q81931,Q1612,Q1853515,Q777346,1836-09-13,,,,
+Q29514964,Governor of Colorado,Q30,Q1261,Q179261,Q868353,1876-08-01,,,,Governor of Colorado
+Q887090,Governor of Connecticut,Q30,Q779,Q20948752,Q29529315,1776-10-10,,,,
+Q20801656,Governor of Delaware,Q30,Q1393,Q17031696,Q887210,1777-02-12,,,,
+Q20198851,Governor of Florida,Q30,Q812,Q913797,Q878313,1845-06-25,,,,
+Q880198,Governor of Georgia,Q30,Q1428,Q846307,Q29529370,1775-07-12,,,,Governor of Georgia
+Q20804488,Governor of Guam,Q30,Q16635,Q6544413,Q888795,1971-01-04,,,,
+Q5589655,Governor of Hawaii,Q30,Q782,Q912560,Q500406,1959-08-21,,,,Governor of Hawaii
+Q29514674,Governor of Idaho,Q30,Q1221,Q929060,Q878260,1890-10-01,,,,
+Q3112719,Governor of Illinois,Q30,Q1204,Q3238288,Q878602,1818-10-06,,,,Governor of Illinois
+Q16147601,Governor of Indiana,Q30,Q1415,Q288316,Q578733,1816-11-07,,,,Governor of Indiana
+Q20801664,Governor of Iowa,Q30,Q1546,Q1853520,Q878594,1846-12-03,,,,Governor of Iowa
+Q5589668,Governor of Kansas,Q30,Q1558,Q1853527,Q878628,1861-02-09,,,,Governor of Kansas
+Q4151335,Governor of Kentucky,Q30,Q1603,Q1532983,Q878605,1792-06-04,,,,Governor of Kentucky
+Q20766109,Governor of Louisiana,Q30,Q1588,Q1420322,Q878620,1812-04-30,,,,
+Q3506352,Governor of Maine,Q30,Q724,,Q878623,1820-03-15,,,,Governor of Maine
+Q693032,Governor of Maryland,Q30,Q1391,Q383699,Q878575,1777-03-21,,,,Governor of Maryland
+Q887117,Governor of Massachusetts,Q30,Q771,Q1274366,,1780-10-25,,,,Governor of Massachusetts
+Q5589680,Governor of Michigan,Q30,Q1166,Q1586403,Q888386,1835-11-03,,,,Governor of Michigan
+Q5589682,Governor of Minnesota,Q30,Q1527,Q61612454,Q878657,1858-05-24,,,,Governor of Minnesota
+Q878632,Governor of Mississippi,Q30,Q1494,Q6544423,Q29529184,1817-12-10,,,,
+Q20801667,Governor of Missouri,Q30,Q1581,Q1853532,Q886943,1820-09-18,,,,
+Q20801646,Governor of Montana,Q30,Q1212,Q1853534,Q878613,1889-11-08,,,,
+Q5589688,Governor of Nebraska,Q30,Q1553,Q1853536,Q878585,1867-02-21,,,,Governor of Nebraska
+Q20801651,Governor of Nevada,Q30,Q1227,Q16191529,Q878598,1864-12-05,,,,
+Q5589687,Governor of New Hampshire,Q30,Q759,,Q878617,1776-06-15,,,,Governor of New Hampshire
+Q17089908,Governor of New Mexico,Q30,Q1522,Q238994,Q367079,1912-01-14,,,,Governor of New Mexico
+Q16202700,Governor of North Carolina,Q30,Q1454,Q1538949,Q878647,1776-11-12,,,,Governor of North Carolina
+Q3773741,Governor of North Dakota,Q30,Q1207,Q17059070,Q888375,1889-11-20,,,,Governor of North Dakota
+Q17989863,Governor of Ohio,Q30,Q1397,Q1660669,Q878581,1803-03-03,,,,
+Q2550683,Governor of Oklahoma,Q30,Q1649,Q1853541,Q887344,1907-11-16,,,,Governor of Oklahoma
+Q16149111,Governor of Oregon,Q30,Q824,,Q887224,1859-03-03,,,,Governor of Oregon
+Q20801659,Governor of Pennsylvania,Q30,Q1400,Q1402980,Q879318,1790-12-21,,,,
+Q456951,Governor of Puerto Rico,Q30,Q1183,Q6123144,Q16197464,1508,,,,Governor of Puerto Rico
+Q20765611,Governor of Rhode Island,Q30,Q1387,,Q878609,1775-11-07,,,,Governor of Rhode Island
+Q3773752,Governor of South Carolina,Q30,Q1456,Q28020371,Q879269,1776-03-26,,,,Governor of South Carolina
+Q2626318,Governor of South Dakota,Q30,Q1211,Q1853549,Q878640,1889-03-22,,,,Governor of South Dakota
+Q5589724,Governor of Tennessee,Q30,Q1509,Q6544436,Q878326,1796-03-30,,,,Governor of Tennessee
+Q5589725,Governor of Texas,Q30,Q1439,Q639115,Q878323,1846-02-19,,,,Governor of Texas
+Q20551567,Governor of the United States Virgin Islands,Q30,Q11703,Q6544443,Q888236,1969-07-01,,,,
+Q887220,Governor of Utah,Q30,Q829,Q1853553,Q15718082,1896-01-06,,,,
+Q3773745,Governor of Vermont,Q30,Q16551,Q28132187,Q886950,1790-10-20,,,,Governor of Vermont
+Q878942,Governor of Virginia,Q30,Q1370,Q931202,Q887234,1776-07-05,,,,Governor of Virginia
+Q19647220,Governor of Washington,Q30,Q1223,Q1853559,Q878264,1889-11-11,,,,
+Q20801652,Governor of West Virginia,Q30,Q1371,,Q878590,1863-06-20,,,,
+Q3112727,Governor of Wisconsin,Q30,Q1537,Q6544440,Q886959,1848-06-07,,,,Governor of Wisconsin
+Q20801647,Governor of Wyoming,Q30,Q1214,,Q887205,1890-10-11,,,,
