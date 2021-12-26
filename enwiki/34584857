@@ -8,7 +8,7 @@
     "21st-century Roman Catholics",
     "Alumni of New College, Oxford",
     "American business executives",
-    "American people of Italian descent",
+    "American politicians of Italian descent",
     "American Rhodes Scholars",
     "American venture capitalists",
     "American women business executives",
@@ -148,16 +148,16 @@
       ],
       "templates": [
         {
+          "description": "40th United States Secretary of Commerce",
+          "template": "short description"
+        },
+        {
           "date": "February 2020",
           "template": "use american english"
         },
         {
           "date": "March 2021",
           "template": "use mdy dates"
-        },
-        {
-          "description": "40th United States Secretary of Commerce",
-          "template": "short description"
         },
         {
           "year": "1971",
