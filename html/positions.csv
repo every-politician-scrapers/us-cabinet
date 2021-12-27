@@ -1,13 +1,20 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q11696,President of the United States,Q30,Q30,Q11699,Q35073,1787-04-30,,,,President of the United States
 Q11699,Vice President of the United States,Q30,Q30,Q1140848,Q1030359,1789-04-21,,,,Vice President of the United States
+Q1029955,United States Secretary of Agriculture,Q30,Q30,Q7889748,,1889-02-15,,,,United States Secretary of Agriculture
 Q2003296,United States Secretary of Commerce,Q30,Q30,Q7889749,,1913,,,,United States Secretary of Commerce
 Q735015,United States Secretary of Defense,Q30,Q30,Q2297543,,1947-09-19,,,,United States Secretary of Defense
+Q967762,United States Secretary of Education,Q30,Q30,Q7889750,,1979-11-30,,Q3310559,,United States Secretary of Education
 Q1029968,United States Secretary of Energy,Q30,Q30,Q16973531,,,,,,United States Secretary of Energy
+Q2305968,United States Secretary of Health and Human Services,Q30,Q30,,,1980-05-04,,Q3310559,,United States Secretary of Health and Human Services
+Q642859,United States Secretary of Homeland Security,Q30,Q30,Q7889752,,2003-01-24,,Q70002100,,United States Secretary of Homeland Security
 Q2419581,United States Secretary of Housing and Urban Development,Q30,Q30,Q7889753,,1965-09-09,,,,United States Secretary of Housing and Urban Development
 Q967750,United States Secretary of Labor,Q30,Q30,,,1913-03-04,,,,United States Secretary of Labor
 Q14213,United States Secretary of State,Q30,Q30,Q2301213,Q15725590,1789-07-27,,,,United States Secretary of State
+Q261746,United States Secretary of the Air Force,Q30,Q30,,,1947-09-18,,Q2419102,,United States Secretary of the Air Force
+Q1591470,United States Secretary of the Army,Q30,Q30,Q7892254,,1947-09-18,,Q2419102,,United States Secretary of the Army
 Q2287650,United States Secretary of the Interior,Q30,Q30,Q7889756,,1849-03-03,,,,United States Secretary of the Interior
+Q940135,United States Secretary of the Navy,Q30,Q30,,,1798-06-18,,Q2419102,,United States Secretary of the Navy
 Q4215834,United States Secretary of the Treasury,Q30,Q30,Q11285124,,1789-09-11,,,,United States Secretary of the Treasury
 Q967737,United States Secretary of Transportation,Q30,Q30,Q16829406,,1966-10-15,,,,United States Secretary of Transportation
 Q1658460,United States Secretary of Veterans Affairs,Q30,Q30,,,1989-03-15,,,,United States Secretary of Veterans Affairs
@@ -15,6 +22,7 @@ Q11147,Chief Justice of the United States,Q30,Q30,,,1789-03-04,,,,Chief Justice 
 Q636207,United States Attorney General,Q30,Q30,Q1364289,,1789-09-26,,,,United States Attorney General
 Q1763459,Chairman of the Joint Chiefs of Staff,Q30,Q30,Q2916001,Q20379709,1949-08-19,,,,Chairman of the Joint Chiefs of Staff
 Q1414246,National Security Advisor,Q30,,Q5261055,,1953,,,,National Security Advisor (United States)
+Q1154057,Director of National Intelligence,Q30,Q30,Q15612133,,2005-04-22,,Q1227524,,Director of National Intelligence
 Q27907212,United States Trade Representative,Q30,Q30,,,1962,,,,United States Trade Representative
 Q2087596,Administrator of the Environmental Protection Agency,Q30,Q30,,,1970,,,,Administrator of the Environmental Protection Agency
 Q15623718,Administrator of the Small Business Administration,Q30,Q30,,,1953-07-30,,,,Administrator of the Small Business Administration
@@ -28,6 +36,7 @@ Q20801644,Governor of Alaska,Q30,Q797,Q1853510,Q575942,1959-01-03,,,,
 Q20804530,Governor of American Samoa,Q30,Q16641,Q6544406,Q888821,1900-02-17,,,,
 Q29514606,Governor of Arizona,Q30,Q816,,Q777288,1912-02-14,,,,
 Q1540336,Governor of Arkansas,Q81931,Q1612,Q1853515,Q777346,1836-09-13,,,,
+Q887010,Governor of California,Q30,Q99,Q3238284,Q842551,1849-12-20,,Q27973979,,Governor of California
 Q29514964,Governor of Colorado,Q30,Q1261,Q179261,Q868353,1876-08-01,,,,Governor of Colorado
 Q887090,Governor of Connecticut,Q30,Q779,Q20948752,Q29529315,1776-10-10,,,,
 Q20801656,Governor of Delaware,Q30,Q1393,Q17031696,Q887210,1777-02-12,,,,
@@ -53,7 +62,9 @@ Q20801646,Governor of Montana,Q30,Q1212,Q1853534,Q878613,1889-11-08,,,,
 Q5589688,Governor of Nebraska,Q30,Q1553,Q1853536,Q878585,1867-02-21,,,,Governor of Nebraska
 Q20801651,Governor of Nevada,Q30,Q1227,Q16191529,Q878598,1864-12-05,,,,
 Q5589687,Governor of New Hampshire,Q30,Q759,,Q878617,1776-06-15,,,,Governor of New Hampshire
+Q3112728,Governor of New Jersey,Q30,Q1408,Q6544426,Q886931,1776-08-31,,Q47516336,,Governor of New Jersey
 Q17089908,Governor of New Mexico,Q30,Q1522,Q238994,Q367079,1912-01-14,,,,Governor of New Mexico
+Q2347975,Governor of New York,Q30,Q1384,Q6544428,Q845547,1777-07-30,,Q28311491,,Governor of New York
 Q16202700,Governor of North Carolina,Q30,Q1454,Q1538949,Q878647,1776-11-12,,,,Governor of North Carolina
 Q3773741,Governor of North Dakota,Q30,Q1207,Q17059070,Q888375,1889-11-20,,,,Governor of North Dakota
 Q17989863,Governor of Ohio,Q30,Q1397,Q1660669,Q878581,1803-03-03,,,,
