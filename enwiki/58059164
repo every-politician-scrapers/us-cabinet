@@ -159,8 +159,7 @@
             "text": "Carol Ann Lee (m. 1984-2000) Maria Lee (m. 2008)"
           },
           "children": {
-            "text": "4",
-            "number": 4
+            "text": "Caleb, Jacob, Jessica, Sarah Kate."
           },
           "residence": {
             "text": "Governor's Mansion",
@@ -192,6 +191,12 @@
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "url": "https://www.nga.org/governors/tennessee/",
           "title": "Gov. Bill Lee",
