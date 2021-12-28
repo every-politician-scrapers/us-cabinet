@@ -164,10 +164,9 @@
             ]
           },
           "office1": {
-            "text": "Connecticut Commissioner of Education",
+            "text": "Commissioner of the Connecticut State Department of Education",
             "links": [
               {
-                "text": "Connecticut Commissioner of Education",
                 "type": "internal",
                 "page": "Connecticut State Department of Education"
               }
