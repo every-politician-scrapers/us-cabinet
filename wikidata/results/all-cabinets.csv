@@ -1,19 +1,19 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q2824539,presidency of Andrew Johnson,,,1865-04-15T00:00:00Z,11,,,1869-03-04T00:00:00Z,11,Q15284636,presidential term,,,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
-,Q2824549,presidency of Millard Fillmore,,,1850-07-09T00:00:00Z,11,,,1853-03-04T00:00:00Z,11,Q15284636,presidential term,,,,,,,Q2824574,presidency of Zachary Taylor,Q2824544,presidency of James Buchanan
-,Q2824570,presidency of James K. Polk,,,1845-03-04T00:00:00Z,11,,,1849-03-04T00:00:00Z,11,Q15284636,presidential term,,,,,,,Q2824576,presidency of John Tyler,Q2824574,presidency of Zachary Taylor
-,Q2824544,presidency of James Buchanan,,,1857-03-04T00:00:00Z,11,1861-03-04T00:00:00Z,11,,,Q15284636,presidential term,,,,,,,Q2824549,presidency of Millard Fillmore,Q7241091,presidency of Abraham Lincoln
-,Q2824574,presidency of Zachary Taylor,,,1849-03-04T00:00:00Z,11,1850-07-09T00:00:00Z,11,,,Q15284636,presidential term,,,,,,,Q2824570,presidency of James K. Polk,Q2824549,presidency of Millard Fillmore
-,Q2824539,presidency of Andrew Johnson,,,1865-04-15T00:00:00Z,11,,,1869-03-04T00:00:00Z,11,Q639738,United States Cabinet,,,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
-,Q2824549,presidency of Millard Fillmore,,,1850-07-09T00:00:00Z,11,,,1853-03-04T00:00:00Z,11,Q639738,United States Cabinet,,,,,,,Q2824574,presidency of Zachary Taylor,Q2824544,presidency of James Buchanan
-,Q2824570,presidency of James K. Polk,,,1845-03-04T00:00:00Z,11,,,1849-03-04T00:00:00Z,11,Q639738,United States Cabinet,,,,,,,Q2824576,presidency of John Tyler,Q2824574,presidency of Zachary Taylor
-,Q2824544,presidency of James Buchanan,,,1857-03-04T00:00:00Z,11,1861-03-04T00:00:00Z,11,,,Q640506,cabinet,,,,,,,Q2824549,presidency of Millard Fillmore,Q7241091,presidency of Abraham Lincoln
-,Q2824574,presidency of Zachary Taylor,,,1849-03-04T00:00:00Z,11,1850-07-09T00:00:00Z,11,,,Q640506,cabinet,,,,,,,Q2824570,presidency of James K. Polk,Q2824549,presidency of Millard Fillmore
-,Q2824576,presidency of John Tyler,1841-01-01T00:00:00Z,9,1841-04-04T00:00:00Z,11,1845-03-04T00:00:00Z,11,,,Q15284636,presidential term,,,,,,,Q2824578,presidency of William Henry Harrison,Q2824570,presidency of James K. Polk
-,Q2824576,presidency of John Tyler,1841-01-01T00:00:00Z,9,1841-04-04T00:00:00Z,11,1845-03-04T00:00:00Z,11,,,Q640506,cabinet,,,,,,,Q2824578,presidency of William Henry Harrison,Q2824570,presidency of James K. Polk
-,Q28464554,George H. W. Bush Administration cabinet,1989-01-01T00:00:00Z,9,,,1993-01-01T00:00:00Z,9,,,Q639738,United States Cabinet,,,,,Q28464553,Clinton Administration cabinet,,,,
-,Q28464553,Clinton Administration cabinet,1993-01-01T00:00:00Z,9,,,2001-01-01T00:00:00Z,9,,,Q639738,United States Cabinet,,,Q28464554,George H. W. Bush Administration cabinet,Q28464532,George W. Bush Administration cabinet,,,,
-,Q28464532,George W. Bush Administration cabinet,2001-01-01T00:00:00Z,9,,,2009-01-01T00:00:00Z,9,,,Q639738,United States Cabinet,,,Q28464553,Clinton Administration cabinet,Q4206667,Confirmations of Barack Obama's Cabinet,,,,
-,Q4206667,Confirmations of Barack Obama's Cabinet,2009-01-01T00:00:00Z,9,,,2017-01-01T00:00:00Z,9,,,Q639738,United States Cabinet,,,Q28464532,George W. Bush Administration cabinet,Q27811470,Trump Administration cabinet,,,,
-,Q27811470,Trump Administration cabinet,2017-01-20T00:00:00Z,11,,,2021-01-20T00:00:00Z,11,,,Q639738,United States Cabinet,,,Q4206667,Confirmations of Barack Obama's Cabinet,Q101250904,Cabinet of Joe Biden,,,,
-,Q101250904,Cabinet of Joe Biden,2021-01-20T00:00:00Z,11,,,,,,,Q639738,United States Cabinet,,,Q27811470,Trump Administration cabinet,,,,,,
+,Q2824539,presidency of Andrew Johnson,,,1865-04-15,11,,,1869-03-04,11,Q15284636,presidential term,,,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
+,Q2824549,presidency of Millard Fillmore,,,1850-07-09,11,,,1853-03-04,11,Q15284636,presidential term,,,,,,,Q2824574,presidency of Zachary Taylor,Q2824544,presidency of James Buchanan
+,Q2824570,presidency of James K. Polk,,,1845-03-04,11,,,1849-03-04,11,Q15284636,presidential term,,,,,,,Q2824576,presidency of John Tyler,Q2824574,presidency of Zachary Taylor
+,Q2824544,presidency of James Buchanan,,,1857-03-04,11,1861-03-04,11,,,Q15284636,presidential term,,,,,,,Q2824549,presidency of Millard Fillmore,Q7241091,presidency of Abraham Lincoln
+,Q2824574,presidency of Zachary Taylor,,,1849-03-04,11,1850-07-09,11,,,Q15284636,presidential term,,,,,,,Q2824570,presidency of James K. Polk,Q2824549,presidency of Millard Fillmore
+,Q2824539,presidency of Andrew Johnson,,,1865-04-15,11,,,1869-03-04,11,Q639738,United States Cabinet,,,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
+,Q2824549,presidency of Millard Fillmore,,,1850-07-09,11,,,1853-03-04,11,Q639738,United States Cabinet,,,,,,,Q2824574,presidency of Zachary Taylor,Q2824544,presidency of James Buchanan
+,Q2824570,presidency of James K. Polk,,,1845-03-04,11,,,1849-03-04,11,Q639738,United States Cabinet,,,,,,,Q2824576,presidency of John Tyler,Q2824574,presidency of Zachary Taylor
+,Q2824544,presidency of James Buchanan,,,1857-03-04,11,1861-03-04,11,,,Q640506,cabinet,,,,,,,Q2824549,presidency of Millard Fillmore,Q7241091,presidency of Abraham Lincoln
+,Q2824574,presidency of Zachary Taylor,,,1849-03-04,11,1850-07-09,11,,,Q640506,cabinet,,,,,,,Q2824570,presidency of James K. Polk,Q2824549,presidency of Millard Fillmore
+,Q2824576,presidency of John Tyler,1841-01-01,9,1841-04-04,11,1845-03-04,11,,,Q15284636,presidential term,,,,,,,Q2824578,presidency of William Henry Harrison,Q2824570,presidency of James K. Polk
+,Q2824576,presidency of John Tyler,1841-01-01,9,1841-04-04,11,1845-03-04,11,,,Q640506,cabinet,,,,,,,Q2824578,presidency of William Henry Harrison,Q2824570,presidency of James K. Polk
+,Q28464554,George H. W. Bush Administration cabinet,1989-01-01,9,,,1993-01-01,9,,,Q639738,United States Cabinet,,,,,Q28464553,Clinton Administration cabinet,,,,
+,Q28464553,Clinton Administration cabinet,1993-01-01,9,,,2001-01-01,9,,,Q639738,United States Cabinet,,,Q28464554,George H. W. Bush Administration cabinet,Q28464532,George W. Bush Administration cabinet,,,,
+,Q28464532,George W. Bush Administration cabinet,2001-01-01,9,,,2009-01-01,9,,,Q639738,United States Cabinet,,,Q28464553,Clinton Administration cabinet,Q4206667,Confirmations of Barack Obama's Cabinet,,,,
+,Q4206667,Confirmations of Barack Obama's Cabinet,2009-01-01,9,,,2017-01-01,9,,,Q639738,United States Cabinet,,,Q28464532,George W. Bush Administration cabinet,Q27811470,Trump Administration cabinet,,,,
+,Q27811470,Trump Administration cabinet,2017-01-20,11,,,2021-01-20,11,,,Q639738,United States Cabinet,,,Q4206667,Confirmations of Barack Obama's Cabinet,Q101250904,Cabinet of Joe Biden,,,,
+,Q101250904,Cabinet of Joe Biden,2021-01-20,11,,,,,,,Q639738,United States Cabinet,,,Q27811470,Trump Administration cabinet,,,,,,
