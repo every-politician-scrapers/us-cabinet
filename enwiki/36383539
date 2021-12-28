@@ -293,7 +293,13 @@
         {
           "sentences": [
             {
-              "text": "Mayorkas tested positive for Covid-19 on October 19, 2021."
+              "text": "Mayorkas tested positive for COVID-19 on October 19, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
             }
           ]
         }
