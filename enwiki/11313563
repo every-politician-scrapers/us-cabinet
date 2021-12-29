@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Pedro Rafael Pierluisi Urrutia is the governor of Puerto Rico.",
+              "text": "Pedro Rafael Pierluisi Urrutia is a Puerto Rican polititian and lawyer currently serving as governor of Puerto Rico.",
               "links": [
                 {
                   "text": "governor of Puerto Rico",
@@ -47,99 +47,32 @@
               }
             },
             {
-              "text": "Pierluisi is a attorney from San Juan with 35 years of experience in both the public and private sectors, has extensive litigation and negotiation experience, as well as an arbitrator and mediator.",
+              "text": "He has previously served as Secretary of Justice,Resident Commisioner, acting",
               "links": [
                 {
-                  "text": "attorney",
-                  "type": "internal",
-                  "page": "lawyer"
-                }
-              ]
-            },
-            {
-              "text": "He was elected on November third, 2020."
-            },
-            {
-              "text": "He began his professional career in Washington D.C. as an assistant to then Resident Commissioner of Puerto Rico Baltasar Corrada del Río, and then worked for six years as a trial attorney in prominent law firms.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Resident Commissioner of Puerto Rico"
-                },
-                {
-                  "type": "internal",
-                  "page": "Baltasar Corrada del Río"
-                }
-              ]
-            },
-            {
-              "text": "He returned to practice law in Puerto Rico in 1990 and served as Puerto Rico's secretary of justice from 1993 to 1996.",
-              "links": [
-                {
-                  "text": "secretary of justice",
+                  "text": "Secretary of Justice",
                   "type": "internal",
                   "page": "Secretary of Justice of Puerto Rico"
-                }
-              ]
-            },
-            {
-              "text": "As chief legal officer of our government he published numerous opinions and argued two important constitutional cases before the Puerto Rico Supreme Court, supervised over 500 lawyers and prosecutors and led the fight against crime obtaining Puerto Rico's designation as a High Incidence of Drug Trafficking Area."
-            },
-            {
-              "text": "Commissioned by the White House, he lobbied Congress for the passage of President Clinton's crime bill."
-            },
-            {
-              "text": "He then became a partner at a prestigious law firm for 10 years before returning to public service."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was elected Resident Commissioner of Puerto Rico in Washington and served from January 2009 to December 2016, and during his tenure in Congress he compiled an impressive record of achievements in multiple areas.",
-              "links": [
+                },
                 {
+                  "text": "Resident Commisioner",
                   "type": "internal",
                   "page": "Resident Commissioner of Puerto Rico"
                 }
               ]
             },
             {
-              "text": "He secured billions of dollars in federal funds and tax credits for Puerto Rico under the American Reinvestment and Recovery Act (ARRA), worked to ensure that Puerto Rico and the other U.S. territories were treated fairly in the federal health reform, which tripled the amount of federal funds assigned to Puerto Rico annually to fund the public health system."
-            },
-            {
-              "text": "Similarly, Pierluisi worked to advance multiple initiatives from federal agencies to benefit the people of Puerto Rico in the areas of public safety, economic development, education, health and environmental protection."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The former Resident Commissioner of Puerto Rico, a Democrat, has always advocated to ensure fair treatment for American citizens residing in Puerto Rico, including a relentless fight to achieve equality for Puerto Rico under all federal programs and under all U.S. law that is only possible with statehood.",
+              "text": "Secretary of State, interim governor of Puerto Rico and as private attorney for Puerto Rico’s fiscal oversight board under the Puerto Rico Oversight, Management, and Economic Stability Act.",
               "links": [
                 {
+                  "text": "Secretary of State",
                   "type": "internal",
-                  "page": "Resident Commissioner of Puerto Rico"
-                }
-              ]
-            },
-            {
-              "text": "A clear majority of the people of Puerto Rico voted in November 2020 in favor of becoming a state of the Union."
-            },
-            {
-              "text": "Pierluisi, who is the father of four adult children and the grandfather of five grandchildren, earned his bachelor's degree in 1981 from Tulane University in New Orleans and his Juris Doctor degree from George Washington University Law School in 1984.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tulane University"
+                  "page": "Secretary of State of Puerto Rico"
                 },
                 {
+                  "text": "Puerto Rico Oversight, Management, and Economic Stability Act",
                   "type": "internal",
-                  "page": "Juris Doctor"
-                },
-                {
-                  "type": "internal",
-                  "page": "George Washington University Law School"
+                  "page": "PROMESA"
                 }
               ]
             }
@@ -194,7 +127,7 @@
             "text": "Pedro R. Pierluisi"
           },
           "image": {
-            "text": "Governor Pierluisi of Puerto Rico.jpg"
+            "text": "Pedro R. Pierluisi.jpg"
           },
           "office": {
             "text": "Governor of Puerto Rico",
@@ -378,7 +311,7 @@
             "number": 4
           },
           "relatives": {
-            "text": "José Jaime Pierluisi (brother)",
+            "text": "José Jaime Pierluisi (brother) \nCaridad Pierluisi (sister)",
             "links": [
               {
                 "type": "internal",
