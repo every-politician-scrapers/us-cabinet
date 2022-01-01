@@ -43,11 +43,6 @@
               "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who is the 11th Director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
               "links": [
                 {
-                  "text": "American",
-                  "type": "internal",
-                  "page": "United States"
-                },
-                {
                   "text": "mathematician",
                   "type": "internal",
                   "page": "mathematician"
@@ -126,19 +121,19 @@
       ],
       "templates": [
         {
+          "description": "American mathematician",
+          "template": "short description"
+        },
+        {
           "date": "September 2020",
           "template": "blp sources"
         },
         {
           "date": "January 2021",
-          "template": "primary sources"
+          "template": "blp primary sources"
         },
         {
           "template": "multiple issues"
-        },
-        {
-          "description": "American mathematician",
-          "template": "short description"
         },
         {
           "date": "May 2020",

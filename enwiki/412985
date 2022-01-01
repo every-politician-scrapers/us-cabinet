@@ -350,11 +350,6 @@
               "text": "Upon the resignation of New York governor Andrew Cuomo on August 23, 2021, Inslee became the longest-serving current governor in the United States.",
               "links": [
                 {
-                  "text": "New York",
-                  "type": "internal",
-                  "page": "New York (state)"
-                },
-                {
                   "type": "internal",
                   "page": "Andrew Cuomo"
                 }
@@ -584,11 +579,6 @@
               {
                 "type": "internal",
                 "page": "Seattle"
-              },
-              {
-                "text": "Washington",
-                "type": "internal",
-                "page": "Washington (state)"
               }
             ]
           },
