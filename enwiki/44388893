@@ -24,13 +24,8 @@
         {
           "sentences": [
             {
-              "text": "Andrew Graham Beshear (born November 29, 1977) is an American attorney and Democratic Party politician who has served as the 63rd governor of Kentucky since December 2019.",
+              "text": "Andrew Graham Beshear (born November 29, 1977) is an American attorney and politician who has served as the 63rd governor of Kentucky since December 2019.",
               "links": [
-                {
-                  "text": "Democratic Party",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                },
                 {
                   "text": "governor of Kentucky",
                   "type": "internal",
@@ -57,8 +52,13 @@
         {
           "sentences": [
             {
-              "text": "Beshear was narrowly elected attorney general of Kentucky in November 2015, by a margin of 0.2% of the vote.",
+              "text": "A member of the Democratic Party, Beshear was elected attorney general of Kentucky in November 2015, by a close margin of 0.2% of the vote.",
               "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
                 {
                   "text": "attorney general of Kentucky",
                   "type": "internal",
@@ -76,7 +76,7 @@
               ]
             },
             {
-              "text": "He then challenged and defeated Bevin in a close race for governor in 2019, by a margin of 0.37% of the vote, the closest Kentucky gubernatorial election ever by percentage.",
+              "text": "He then challenged and defeated Bevin in a close race for governor in 2019.",
               "links": [
                 {
                   "text": "2019",
