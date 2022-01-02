@@ -388,39 +388,6 @@
             "text": "Government website"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://twitter.com/ChrisSununu/status/763409508265701376",
-          "title": "Tweet",
-          "website": "twitter.com",
-          "accessdate": "2021-02-09",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-11-04",
-          "title": "Biden's Big Win Can't Stop NHGOP's Statehouse Sweep",
-          "url": "https://insidesources.com/bidens-big-win-cant-stop-nhgops-statehouse-sweep/",
-          "access-date": "2021-04-21",
-          "website": "InsideSources",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.politico.com/news/2021/11/09/chris-sununu-new-hampshire-gov-senate-520533",
-          "title": "Sununu announcement act rubs top Republicans the wrong way",
-          "website": "Politico",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

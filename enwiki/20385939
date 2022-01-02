@@ -266,31 +266,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.fec.gov/data/candidate/H0KS02113/",
-          "title": "Kelly, Laura Jeanne",
-          "website": "FEC.gov",
-          "access-date": "December 9, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.usnews.com/news/politics/articles/2018-11-06/election-2018-laura-kelly-upsets-kris-kobach-in-kansas-governors-race",
-          "title": "US News - Laura Kelly Upset Victory",
-          "access-date": "January 14, 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.laurakellyforkansas.com/about/",
-          "title": "Meet Laura Kelly {{!}} Laura Kelly for Governor",
-          "website": "www.laurakellyforkansas.com",
-          "access-date": "November 8, 2018",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

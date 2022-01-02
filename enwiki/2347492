@@ -496,45 +496,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "MacAskill",
-          "first": "Ewen",
-          "author-link": "Ewen MacAskill",
-          "date": "March 22, 2013",
-          "title": "General Lloyd Austin picked for top job at US Central Command",
-          "language": "en",
-          "newspaper": "The Guardian",
-          "url": "http://www.theguardian.com/world/2013/mar/22/general-lloyd-austin-central-command",
-          "url-status": "live",
-          "access-date": "December 2, 2020",
-          "archive-url": "https://web.archive.org/web/20170209000052/https://www.theguardian.com/world/2013/mar/22/general-lloyd-austin-central-command",
-          "archive-date": "February 9, 2017",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Nobles",
-          "first": "Miranda",
-          "title": "Retired Army general, Auburn trustee to speak at This is Auburn Speaker Series event",
-          "url": "http://ocm.auburn.edu/newsroom/news_articles/2017/10/retired-army-general,-auburn-trustee-to-speak-at-this-is-auburn-speaker-series-event.php",
-          "access-date": "January 23, 2021",
-          "publisher": "Auburn University",
-          "language": "en",
-          "date": "October 2, 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=1&vote=00005",
-          "title": "On the Nomination (Confirmation: Lloyd James Austin, of Georgia, to be Secretary of Defense)",
-          "date": "January 22, 2021",
-          "website": "U.S. Senate",
-          "access-date": "March 4, 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

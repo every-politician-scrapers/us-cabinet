@@ -365,65 +365,6 @@
             "text": "DebHaalandSignature.png"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Secretary Deb Haaland",
-          "publisher": "U.S. Department of the Interior",
-          "url": "https://www.doi.gov/secretary-deb-haaland",
-          "date": "March 16, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Q&A: 1st Congressional District Candidate Debra Haaland",
-          "language": "en-US",
-          "work": "The Albuquerque Journal",
-          "url": "https://www.abqjournal.com/1499521/qampa-1st-congressional-district-candidate-debra-haaland.html",
-          "access-date": "December 18, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Connolly",
-          "first": "Griffin",
-          "date": "December 18, 2020",
-          "title": "AOC praises Biden's 'historic appointment' of first Native American to lead Interior Department",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/aoc-deb-haaland-interior-secretary-b1775848.html",
-          "access-date": "December 18, 2020",
-          "language": "en",
-          "newspaper": "The Independent",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Lakhani",
-          "first1": "Nina",
-          "title": "Deb Haaland confirmed as first Indigenous US cabinet secretary",
-          "url": "https://www.theguardian.com/us-news/2021/mar/15/deb-haaland-interior-secretary-first-indigenous-native-american-cabinet",
-          "access-date": "March 16, 2021",
-          "agency": "The Guardian",
-          "date": "March 15, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Chavez",
-          "first": "Aliyah",
-          "title": "Deb Haaland swearing in details announced",
-          "url": "https://indiancountrytoday.com/news/deb-haaland-swearing-in-details-announced",
-          "access-date": "March 17, 2021",
-          "website": "Indian Country Today",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

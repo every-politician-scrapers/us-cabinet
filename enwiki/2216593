@@ -430,44 +430,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Elections 2008",
-          "work": "Chicago Sun-Times",
-          "date": "October 23, 2008",
-          "url": "http://elections.suntimes.com/dynamic/external/pre-election/bios/51531.html?SITE=ILCHSELN&SECTION=POLITICS&TEMPLATE=DEFAULT",
-          "access-date": "October 24, 2008",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20110716163828/http://elections.suntimes.com/dynamic/external/pre-election/bios/51531.html?SITE=ILCHSELN&SECTION=POLITICS&TEMPLATE=DEFAULT",
-          "archive-date": "July 16, 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.ausa.org/legislation/congressionalinfo/Documents/OAS%20112th%20Congress.pdf",
-          "title": "Once a Soldier... Always a Soldier",
-          "year": "2011",
-          "work": "Legislative Agenda",
-          "publisher": "Association of the United States Army",
-          "access-date": "January 28, 2013",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20131021200011/http://www.ausa.org/legislation/congressionalinfo/Documents/OAS%20112th%20Congress.pdf",
-          "archive-date": "October 21, 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Coolican",
-          "first": "J. Patrick",
-          "url": "http://www.startribune.com/walz-wins-minnesota-governors-race-extending-dfl-control/499705011/",
-          "title": "Tim Walz defeats Jeff Johnson in high-stakes election for Minnesota governor",
-          "work": "Star Tribune",
-          "date": "November 6, 2018",
-          "access-date": "November 6, 2018",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

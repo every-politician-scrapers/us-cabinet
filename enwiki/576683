@@ -407,44 +407,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "1997",
-          "title": "Journal of the Senate of the 1997 General Assembly of the State of North Carolina{{!}}First Session Volume 1",
-          "url": "https://www.carolana.com/NC/Legislators/Documents/Journal_of_the_Senate_of_the_General_Assembly_of_North_Carolina_1997_Volume_I.pdf",
-          "url-status": "live",
-          "access-date": "2021-04-07",
-          "website": "carolana.com",
-          "archive-date": "August 9, 2019",
-          "archive-url": "https://web.archive.org/web/20190809151818/https://www.carolana.com/NC/Legislators/Documents/Journal_of_the_Senate_of_the_General_Assembly_of_North_Carolina_1997_Volume_I.pdf",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://abcnews.go.com/Politics/wireStory/north-carolina-governors-race-reach-conclusion-43976929",
-          "title": "North Carolina Gov. McCrory Concedes He Lost Re-Election Bid",
-          "first": "Emery",
-          "last": "Dalesio",
-          "publisher": "ABC News",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20161205173634/https://abcnews.go.com/Politics/wireStory/north-carolina-governors-race-reach-conclusion-43976929",
-          "archive-date": "December 5, 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Attorney General Announces Candidacy For Governor",
-          "url": "http://www.wfmynews2.com/story/news/local/2014/11/06/roy-cooper-for-governor/18594755/",
-          "access-date": "November 7, 2014",
-          "newspaper": "Charlotte Observer",
-          "date": "November 6, 2014",
-          "archive-url": "https://web.archive.org/web/20141108001306/http://www.wfmynews2.com/story/news/local/2014/11/06/roy-cooper-for-governor/18594755/",
-          "archive-date": "November 8, 2014",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

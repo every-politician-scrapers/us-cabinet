@@ -206,41 +206,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://twitter.com/GovStitt/status/1134874094581821440",
-          "title": "Twitter status",
-          "access-date": "2020-09-30",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.tulsaworld.com/news/elections/businessman-kevin-stitt-trying-to-close-the-deal-on-republican/article_fb2e62f0-7ab1-5d3f-ad7e-79ec7a3cc298.html",
-          "title": "Businessman Kevin Stitt trying to close the deal on Republican gubernatorial nomination",
-          "first": "Randy",
-          "last": "Krehbiel",
-          "website": "Tulsa World",
-          "access-date": "December 6, 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://cqrcengage.com/uwls/app/candidate/100099;jsessionid=q8kglmiuxvkyk93y5kodakci",
-          "title": "Candidate Profile: Kevin Stitt (R-OK)",
-          "website": "United Way of Lake and Sumter Counties",
-          "access-date": "May 8, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Only one state makes history with election of first Native governor",
-          "url": "https://www.indianz.com/News/2018/11/07/only-one-state-makes-history-with-electi.asp",
-          "access-date": "March 18, 2021",
-          "publisher": "Indianz.com",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

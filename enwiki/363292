@@ -449,35 +449,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.newspapers.com/image/42863444/",
-          "title": "U.S. Senate Unchanged",
-          "date": "November 3, 1976",
-          "page": "1",
-          "newspaper": "Xenia Daily Gazette",
-          "via": "Newspapers.com",
-          "access-date": "February 11, 2019",
-          "archive-url": "https://web.archive.org/web/20190212012837/http://www.newspapers.com/image/42863444",
-          "archive-date": "February 12, 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.newspapers.com/image/395599894/",
-          "title": "New faces appear on totem pole of public life",
-          "date": "1 Jan 1981",
-          "newspaper": "The Journal Herald",
-          "via": "Newspapers.com",
-          "access-date": "February 11, 2019",
-          "archive-url": "https://web.archive.org/web/20181229075824/https://www.newspapers.com/image/395599894/",
-          "archive-date": "December 29, 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -487,50 +487,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.newspapers.com/image/70131567/?terms=Henry+McMaster+attorney&match=2",
-          "title": "30 Jun 1985, Page 3 - The Index-Journal at Newspapers.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.newspapers.com/image/344554958/?terms=Henry+McMaster+attorney+Vinton+Lide",
-          "title": "6 Aug 1985, 12 - The Times and Democrat at Newspapers.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Barone",
-          "first1": "Michael",
-          "author-link1": "Michael Barone (pundit)",
-          "last2": "Ujifusa",
-          "first2": "Grant",
-          "title": "The Almanac of American Politics 1988",
-          "work": "National Journal",
-          "year": "1987",
-          "page": "1080",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "http://www.henrymcmaster.com/meethenry.html",
-          "title": "McMaster for Governor",
-          "access-date": "April 27, 2017",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20170402082544/http://www.henrymcmaster.com/meethenry.html",
-          "archive-date": "April 2, 2017",
-          "df": "mdy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.newspapers.com/image/344375493/?terms=Henry+McMaster+attorney",
-          "title": "6 Jun 1981, 12 - The Times and Democrat at Newspapers.com",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

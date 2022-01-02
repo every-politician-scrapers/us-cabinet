@@ -273,30 +273,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.providencejournal.com/article/20131113/NEWS/311139978",
-          "title": "Cumberland Mayor McKee announces bid for R.I. lieutenant governor",
-          "last": "Edgar",
-          "first": "Randal",
-          "website": "providencejournal.com",
-          "language": "en",
-          "access-date": "November 21, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Anderson",
-          "first": "Katherine Gregg and Patrick",
-          "title": "Raimondo resigns after winning Senate confirmation as U.S. commerce secretary; McKee sworn in as RI governor",
-          "url": "https://www.providencejournal.com/story/news/politics/2021/03/02/ri-may-have-new-governor-today-heres-how-would-happen/6883302002/",
-          "access-date": "2021-03-12",
-          "website": "The Providence Journal",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

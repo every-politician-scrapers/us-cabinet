@@ -281,32 +281,6 @@
             "text": "Government website"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.propublica.org/series/big-jim",
-          "title": "Big Jim",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.forbes.com/profile/jim-justice-ii/",
-          "title": "Jim Justice, II.",
-          "work": "Forbes",
-          "access-date": "October 22, 2021",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://wvmetronews.com/2015/01/13/photo-gallery-west-virginia-coasts-to-blowout/a/",
-          "title": "A West Virginia dancer performs during the first half at the WVU Coliseum.",
-          "date": "January 14, 2015",
-          "website": "WV MetroNews",
-          "access-date": "May 14, 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

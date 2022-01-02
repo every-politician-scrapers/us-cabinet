@@ -334,22 +334,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.army.mil/leaders/csa/?from=wiki",
-          "title": "Chief of Staff of the Army &#124; General Mark A. Milley",
-          "publisher": "United States Army",
-          "access-date": "December 11, 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

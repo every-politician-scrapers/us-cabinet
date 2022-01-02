@@ -331,51 +331,6 @@
             "text": "Noem in 2020"
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Mitchell",
-          "first1": "Trevor J.",
-          "url": "https://www.argusleader.com/story/news/2020/04/01/coronavirus-why-gov-noem-wont-order-shelter-place-south-dakotans/5106939002/",
-          "title": "Why Gov. Noem won't order a shelter-in-place for South Dakotans",
-          "access-date": "August 14, 2020",
-          "work": "Argus Leader",
-          "date": "April 1, 2020",
-          "archive-date": "November 16, 2020",
-          "archive-url": "https://web.archive.org/web/20201116193207/https://www.argusleader.com/story/news/2020/04/01/coronavirus-why-gov-noem-wont-order-shelter-place-south-dakotans/5106939002/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last": "Barrabi",
-          "first": "Thomas",
-          "date": "November 18, 2020",
-          "title": "South Dakota Gov. Kristi Noem explains stance on mask mandate, won't enforce 'to make people feel good'",
-          "url": "https://www.foxnews.com/politics/south-dakota-gov-kristi-noem-statewide-mask-mandate",
-          "access-date": "March 10, 2021",
-          "website": "Fox News",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Groves",
-          "first": "Stephen",
-          "date": "July 28, 2020",
-          "title": "Governor pushes schools to remain open, disparages masks",
-          "work": "Associated Press",
-          "url": "https://apnews.com/article/sioux-falls-school-boards-south-dakota-kristi-noem-virus-outbreak-faedb1d1cb9faf7ac2046391466f461a",
-          "access-date": "March 10, 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

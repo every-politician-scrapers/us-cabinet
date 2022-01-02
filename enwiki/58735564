@@ -262,41 +262,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=1&vote=00068",
-          "title": "On the Nomination (Confirmation: Miguel A. Cardona, of Connecticut, to be Secretary of Education)",
-          "date": "2021-03-01",
-          "website": "U.S. Senate",
-          "access-date": "2021-03-01",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "first": "Rachel R.",
-          "last": "Makwana",
-          "title": "New principal is popular pick",
-          "work": "Record-Journal",
-          "date": "May 22, 2003",
-          "pages": "1,4",
-          "url": "https://www.newspapers.com/clip/65431196/",
-          "accessdate": "December 16, 2020",
-          "via": "Newspapers.com",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "first": "Kathleen",
-          "last": "Megan",
-          "title": "The state's new education commissioner: collaborator, listener, hard worker",
-          "work": "The Connecticut Mirror",
-          "date": "August 21, 2019",
-          "url": "https://ctmirror.org/2019/08/21/the-states-new-education-commissioner-collaborator-listener-hard-worker/",
-          "accessdate": "December 16, 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -338,26 +338,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Biographies: Principals",
-          "url": "https://2009-2017.state.gov/p/af/bio/principals/index.htm",
-          "publisher": "U.S. Department of State",
-          "access-date": "November 27, 2015",
-          "archive-date": "January 22, 2017",
-          "archive-url": "https://web.archive.org/web/20170122195722/https://2009-2017.state.gov/p/af/bio/principals/index.htm",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://abcnews.go.com/Politics/veteran-diplomat-linda-thomas-greenfield-returns-bidens-pick/story?id=74408696",
-          "title": "Veteran diplomat Linda Thomas-Greenfield returns as Biden's pick for UN envoy",
-          "website": "ABC News",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

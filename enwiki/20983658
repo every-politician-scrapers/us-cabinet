@@ -282,33 +282,6 @@
             "text": "Brad Little signature.png"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.nytimes.com/interactive/2018/05/15/us/elections/results-idaho-primary-elections.html,%20https://www.nytimes.com/interactive/2018/05/15/us/elections/results-idaho-primary-elections.html",
-          "title": "Idaho Primary Election Results",
-          "last": "Almukhtar",
-          "first": "Sarah",
-          "date": "2018-05-15",
-          "work": "The New York Times",
-          "access-date": "2018-05-22",
-          "language": "en-US",
-          "issn": "0362-4331",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Idaho's Lieutenant Governor",
-          "website": "lgo.idaho.gov",
-          "date": "2018-05-14",
-          "url": "https://lgo.idaho.gov/",
-          "archive-url": "https://web.archive.org/web/20180514134323/https://lgo.idaho.gov/",
-          "archive-date": "2018-05-14",
-          "url-status": "live",
-          "access-date": "2018-07-09",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
