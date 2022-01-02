@@ -284,10 +284,10 @@
       ],
       "references": [
         {
+          "url": "https://www.propublica.org/series/big-jim",
+          "title": "Big Jim",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.forbes.com/profile/jim-justice-ii/",
