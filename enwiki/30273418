@@ -478,63 +478,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2021-01-26",
-          "title": "Senate confirms Antony Blinken as 71st secretary of state",
-          "url": "https://apnews.com/article/joe-biden-donald-trump-biden-cabinet-antony-blinken-cabinets-d74929057a9e8e5f74e0ee553a6baced",
-          "access-date": "2021-01-26",
-          "website": "AP NEWS",
-          "archive-date": "January 26, 2021",
-          "archive-url": "https://web.archive.org/web/20210126202059/https://apnews.com/article/joe-biden-donald-trump-biden-cabinet-antony-blinken-cabinets-d74929057a9e8e5f74e0ee553a6baced",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Glueck",
-          "first1": "Katie",
-          "last2": "Kaplan",
-          "first2": "Thomas",
-          "date": "January 12, 2020",
-          "title": "Joe Biden's Vote for War",
-          "work": "The New York Times",
-          "url": "https://www.nytimes.com/2020/01/12/us/politics/joe-biden-iraq-war.html",
-          "url-status": "live",
-          "access-date": "November 23, 2020",
-          "archive-url": "https://web.archive.org/web/20201118064050/https://www.nytimes.com/2020/01/12/us/politics/joe-biden-iraq-war.html",
-          "archive-date": "November 18, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.law.columbia.edu/news/archive/senate-confirms-antony-tony-blinken-88-deputy-secretary-state",
-          "title": "Senate Confirms Antony \"Tony\" Blinken '88 as Secretary of State",
-          "date": "December 17, 2014",
-          "publisher": "Columbia Law School",
-          "access-date": "November 26, 2020",
-          "archive-date": "September 19, 2020",
-          "archive-url": "https://web.archive.org/web/20200919002343/https://www.law.columbia.edu/news/archive/senate-confirms-antony-tony-blinken-88-deputy-secretary-state",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Obama Makes His Choice for No. 2 Post at State Department",
-          "last": "Sanger",
-          "first": "David E.",
-          "author-link": "David E. Sanger",
-          "url": "https://www.nytimes.com/2014/11/08/world/middleeast/antony-blinken-is-obamas-choice-for-no-2-state-department-post.html",
-          "work": "The New York Times",
-          "date": "November 7, 2014",
-          "access-date": "February 3, 2015",
-          "archive-date": "February 20, 2015",
-          "archive-url": "https://web.archive.org/web/20150220023847/http://www.nytimes.com/2014/11/08/world/middleeast/antony-blinken-is-obamas-choice-for-no-2-state-department-post.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -383,30 +383,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Dr. Ralph Northam MD",
-          "url": "https://health.usnews.com/doctors/ralph-northam-370855",
-          "website": "U.S. News & World Report",
-          "publisher": "U.S. News & World Report L.P.",
-          "access-date": "February 1, 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Martin",
-          "first1": "Johnathan",
-          "last2": "Burns",
-          "first2": "Alexander",
-          "title": "Ralph Northam Wins the Virginia Governor's Race",
-          "url": "https://www.nytimes.com/2017/11/07/us/politics/virginia-election-democrats.html",
-          "access-date": "November 8, 2017",
-          "work": "New York Times",
-          "date": "November 8, 2017",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

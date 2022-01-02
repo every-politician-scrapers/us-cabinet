@@ -296,27 +296,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "user": "Transition46",
-          "number": "1337062896837275653",
-          "date": "December 10, 2020",
-          "access-date": "December 10, 2020",
-          "title": "Working families, veterans, farmers and producers, and those fighting for their place in the middle class will have partners in government once again. This experienced group will help us make it through this pandemic and thrive once the crisis is over.",
-          "template": "citation",
-          "type": "tweet"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "date": "August 2021",
-          "template": "citation needed"
-        }
       ]
     }
   ]

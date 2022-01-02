@@ -317,63 +317,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.thecrimson.com/article/2011/5/25/rouse-obama-economics-social/",
-          "work": "The Harvard Crimson",
-          "author": "Amy Guan",
-          "title": "Cecilia Rouse: Economist",
-          "date": "May 25, 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Senate confirms Cecilia Rouse as the first Black chair of White House economic council",
-          "work": "The New York Times",
-          "first": "Jim",
-          "last": "Tankersley",
-          "date": "March 2, 2021",
-          "url": "https://www.nytimes.com/2021/03/02/us/politics/cecilia-rouse-economic-council.html",
-          "access-date": "5 March 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Tankersley",
-          "first1": "Jim",
-          "last2": "Smialek",
-          "first2": "Jeanna",
-          "date": "2020-12-02",
-          "title": "Biden's New Top Economist Has a Longtime Focus on Workers",
-          "language": "en-US",
-          "work": "The New York Times",
-          "url": "https://www.nytimes.com/2020/12/01/business/cecilia-rouse-biden-economist.html",
-          "access-date": "2020-12-02",
-          "issn": "0362-4331",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Economy Nominees and Appointees",
-          "url": "https://buildbackbetter.gov/nominees-and-appointees/economy/",
-          "website": "President-Elect Joe Biden",
-          "access-date": "30 November 2020",
-          "date": "30 November 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Rogers",
-          "first1": "Alex",
-          "title": "Senate confirms Cecilia Rouse to be Biden's top economist",
-          "url": "https://www.cnn.com/2021/03/02/politics/cecilia-rouse-confirmed-senate-vote/index.html",
-          "website": "CNN",
-          "date": "March 3, 2021",
-          "access-date": "2 March 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

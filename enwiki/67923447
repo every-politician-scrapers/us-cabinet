@@ -202,26 +202,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://books.google.com/books?id=DD8BVZeVFP4C&pg=PA88",
-          "title": "Register of Commissioned and Warrant Officers of the United States Navy on Active Duty",
-          "date": "October 1, 1990",
-          "page": "88",
-          "publisher": "Bureau of Naval Personnel",
-          "access-date": "2021-06-12",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "date": "December 14, 2012",
-          "title": "Guantanamo says goodbye to last Cuban 'commuters'",
-          "work": "AP News",
-          "url": "https://apnews.com/article/archive-cuba-338a3b23ee3244c78f67216797207e24",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

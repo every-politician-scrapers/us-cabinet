@@ -332,60 +332,6 @@
             "text": "Government website"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Vermont Election Results",
-          "url": "https://vtelectionresults.sec.state.vt.us/Index.html#/state",
-          "website": "Vermont Secretary of State",
-          "access-date": "November 8, 2016",
-          "archive-url": "https://web.archive.org/web/20170811143454/https://vtelectionresults.sec.state.vt.us/Index.html#/state",
-          "archive-date": "August 11, 2017",
-          "url-status": "dead",
-          "df": "mdy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://vtdigger.org/2018/11/06/scott-wins-re-election-second-term-governor/",
-          "title": "Scott wins re-election to 2nd term as governor",
-          "last1": "Johnson",
-          "first1": "Mark",
-          "date": "November 6, 2018",
-          "work": "VTDigger",
-          "access-date": "November 14, 2018",
-          "last2": "Landen",
-          "first2": "Xander",
-          "language": "en-US",
-          "archive-url": "https://web.archive.org/web/20181115031938/https://vtdigger.org/2018/11/06/scott-wins-re-election-second-term-governor/",
-          "archive-date": "November 15, 2018",
-          "url-status": "live",
-          "df": "mdy-all",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Heintz",
-          "first1": "Paul",
-          "title": "Scott's Victory Lap: Gov Wins Third Term, Gray Elected LG, Speaker Johnson Falls Short",
-          "url": "https://www.sevendaysvt.com/OffMessage/archives/2020/11/04/scotts-victory-lap-gov-wins-third-term-gray-elected-lg-speaker-johnson-falls-short?cb=1604482319",
-          "website": "Seven Days",
-          "publisher": "Seven Days",
-          "access-date": "4 November 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "eyokley",
-          "date": "2021-11-18",
-          "title": "Why the Country's Most Popular Governor May Be Resisting the GOP's Calls to Run for Senate in Vermont",
-          "url": "https://morningconsult.com/2021/11/18/phil-scott-approval-vermont-polling-senate-race/",
-          "access-date": "2021-11-18",
-          "website": "Morning Consult",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -340,39 +340,6 @@
             "text": "Tony Evers signature.jpeg"
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Marley",
-          "first1": "Patrick",
-          "last2": "Beck",
-          "first2": "Molly",
-          "title": "Wisconsin primary: Democrat Tony Evers beats GOP Gov. Scott Walker in November",
-          "url": "https://www.jsonline.com/story/news/politics/elections/2018/08/14/wisconsin-governors-race-evers-face-scott-walker-november/945058002/",
-          "access-date": "August 15, 2018",
-          "newspaper": "Milwaukee Journal Sentinel",
-          "date": "August 14, 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.channel3000.com/news/nra-campaign-ad-mispronounces-name-of-walker-opponent-evers-1/806386350",
-          "title": "NRA campaign ad mispronounces name of Walker opponent Evers",
-          "last": "Tomsyck",
-          "first": "Teymour",
-          "website": "WISC-TV",
-          "quote": "His last name rhymes with weavers.",
-          "date": "October 12, 2018",
-          "access-date": "October 20, 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

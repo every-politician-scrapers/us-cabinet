@@ -558,63 +558,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.cawp.rutgers.edu/press_room/news/documents/archives/08-11-10_DetroitFreePress.pdf",
-          "title": "Despite presidential losses, women in politics score gains",
-          "publisher": "Cawp.rutgers.edu",
-          "access-date": "October 5, 2014",
-          "archive-url": "https://web.archive.org/web/20130812134442/http://www.cawp.rutgers.edu/press_room/news/documents/archives/08-11-10_DetroitFreePress.pdf",
-          "archive-date": "August 12, 2013",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.philly.com/philly/blogs/entertainment/television/CNN-adds-Charles-Ramsey-Rick-Santorum-to-list-of-contributors.html",
-          "title": "CNN adds Charles Ramsey, Rick Santorum to list of contributors",
-          "work": "www.philly.com",
-          "author": "Nick Vadala",
-          "date": "January 17, 2017",
-          "access-date": "February 10, 2017",
-          "archive-date": "February 11, 2017",
-          "archive-url": "https://web.archive.org/web/20170211081611/http://www.philly.com/philly/blogs/entertainment/television/CNN-adds-Charles-Ramsey-Rick-Santorum-to-list-of-contributors.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Pager",
-          "first": "Tyler",
-          "last2": "Colman",
-          "first2": "Zack",
-          "date": "December 15, 2020",
-          "title": "Biden to tap former Michigan Gov. Granholm to lead Energy Department",
-          "url": "https://www.politico.com/news/2020/12/15/biden-to-tap-former-michigan-gov-granholm-to-lead-energy-department-445782",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20201215223404/https://www.politico.com/news/2020/12/15/biden-to-tap-former-michigan-gov-granholm-to-lead-energy-department-445782",
-          "archive-date": "December 15, 2020",
-          "access-date": "December 15, 2020",
-          "work": "Politico",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=1&vote=00066",
-          "title": "On the Nomination (Confirmation: Jennifer Mulhern Granholm, of Michigan, to be Secretary of Energy)",
-          "date": "2021-02-25",
-          "website": "U.S. Senate",
-          "access-date": "2021-02-26",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

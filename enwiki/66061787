@@ -263,52 +263,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Ruiz-Grossman",
-          "first": "Sarah",
-          "date": "2021-03-18",
-          "title": "Katherine Tai Becomes First Asian American U.S. Trade Representative",
-          "url": "https://www.huffpost.com/entry/katherine-tai-first-asian-american-trade-representative_n_6053cf8dc5b6cebf58cd7621",
-          "access-date": "2021-03-19",
-          "website": "HuffPost",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last": "Franck",
-          "first": "Thomas",
-          "date": "2020-12-10",
-          "title": "Biden picks longtime China critic Katherine Tai as top U.S. trade official",
-          "url": "https://www.cnbc.com/2020/12/10/biden-to-name-katherine-tai-us-trade-representative.html",
-          "url-status": "live",
-          "access-date": "2020-12-11",
-          "website": "CNBC",
-          "language": "en",
-          "archive-date": "December 13, 2020",
-          "archive-url": "https://web.archive.org/web/20201213093508/https://www.cnbc.com/2020/12/10/biden-to-name-katherine-tai-us-trade-representative.html",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "first1": "Rob",
-          "last1": "Garver",
-          "title": "Biden's Trade Representative Expected to Be Assertive with China",
-          "url": "https://www.voanews.com/usa/bidens-trade-representative-expected-be-assertive-china",
-          "access-date": "February 9, 2021",
-          "work": "VOA",
-          "date": "January 29, 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

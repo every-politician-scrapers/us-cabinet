@@ -189,54 +189,6 @@
             "text": "Bill Lee (Signature).png"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.nga.org/governors/tennessee/",
-          "title": "Gov. Bill Lee",
-          "website": "nga.org",
-          "publisher": "National Governors Association",
-          "access-date": "2019-02-22",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nashvillepost.com/business/article/20489307/bill-lee-stepping-down-as-ceo-of-lee-co",
-          "title": "Bill Lee stepping down as CEO of Lee Co.",
-          "newspaper": "Nashville Post",
-          "date": "February 5, 2016",
-          "access-date": "2018-11-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.tennessean.com/story/news/politics/2020/12/20/tennessee-mask-mandate-covid-19-cases-surge-bill-lee/3977135001/",
-          "title": "Gov. Bill Lee enacts gathering restrictions, refuses mask mandate as Tennessee COVID-19 outbreak surges {{!}} Opinion",
-          "work": "The Tennessean",
-          "access-date": "December 20, 2020",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Ebert",
-          "first1": "Joel",
-          "last2": "Allison",
-          "first2": "Natalie",
-          "date": "January 19, 2019",
-          "title": "Bill Lee sworn in as Tennessee's 50th governor, nearly 2 years after long-shot bid",
-          "url": "https://www.tennessean.com/story/news/politics/2019/01/19/bill-lee-tennessee-governor-inauguration/2585557002/",
-          "work": "The Tennessean",
-          "access-date": "2019-01-19",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
