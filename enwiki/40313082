@@ -61,6 +61,32 @@
         {
           "sentences": [
             {
+              "text": "Born in Milwaukee, Wisconsin, Sisolak graduated from the University of Wisconsin–Milwaukee and the University of Nevada, Las Vegas Business School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Milwaukee"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wisconsin"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Wisconsin–Milwaukee"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Nevada, Las Vegas"
+                },
+                {
+                  "text": "Business School",
+                  "type": "internal",
+                  "page": "Lee Business School"
+                }
+              ]
+            },
+            {
               "text": "After becoming involved in several civic causes and government projects, Sisolak won election to the Nevada Board of Regents and served from 1999 to 2008.",
               "links": [
                 {
