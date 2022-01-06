@@ -54,17 +54,53 @@
               }
             },
             {
-              "text": "A member of the Republican Party, DeWine previously served as the 50th attorney general of Ohio from 2011 to 2019, United States senator from 1995 to 2007, 59th lieutenant governor under George Voinovich from 1991 until 1994, and U.S. representative from 1983 until 1991.",
+              "text": "He is a member of the Republican Party.",
               "links": [
                 {
                   "text": "Republican Party",
                   "type": "internal",
                   "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in Yellow Springs, Ohio, DeWine graduated from Miami University and Ohio Northern University College of Law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yellow Springs, Ohio"
                 },
                 {
-                  "text": "attorney general of Ohio",
                   "type": "internal",
-                  "page": "Ohio Attorney General"
+                  "page": "Miami University"
+                },
+                {
+                  "text": "Ohio Northern University College of Law",
+                  "type": "internal",
+                  "page": "Ohio Northern University Pettit College of Law"
+                }
+              ]
+            },
+            {
+              "text": "He began his carer as a prosecutor before being elected to the Ohio State Senate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ohio State Senate"
+                }
+              ]
+            },
+            {
+              "text": "DeWine subsequently served as a U.S. representative from 1983 until 1991, United States senator from 1995 to 2007, 59th lieutenant governor under George Voinovich from 1991 until 1994, and the 50th attorney general of Ohio from 2011 to 2019.",
+              "links": [
+                {
+                  "text": "U.S. representative",
+                  "type": "internal",
+                  "page": "United States House of Representatives"
                 },
                 {
                   "text": "United States senator",
@@ -81,9 +117,9 @@
                   "page": "George Voinovich"
                 },
                 {
-                  "text": "U.S. representative",
+                  "text": "attorney general of Ohio",
                   "type": "internal",
-                  "page": "United States House of Representatives"
+                  "page": "Ohio Attorney General"
                 }
               ]
             }
