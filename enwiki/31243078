@@ -33,12 +33,11 @@
         {
           "sentences": [
             {
-              "text": "Kathleen Courtney Hochul (born August 27, 1958) is an American lawyer and politician serving as the 57th governor of New York since August 24, 2021.",
+              "text": "Kathleen Courtney Hochul (born August 27, 1958) is an American lawyer and politician serving as the 57th Governor of New York since August 24, 2021.",
               "links": [
                 {
-                  "text": "governor of New York",
                   "type": "internal",
-                  "page": "governor of New York"
+                  "page": "Governor of New York"
                 }
               ],
               "formatting": {
@@ -48,7 +47,7 @@
               }
             },
             {
-              "text": "A member of the Democratic Party, Hochul is the first female governor of New York.",
+              "text": "A member of the Democratic Party, Hochul is the first female Governor of New York.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -256,12 +255,8 @@
             "text": "Governor of New York"
           },
           "lieutenant": {
-            "text": "Andrea Stewart-Cousins (acting)\n\nBrian Benjamin",
+            "text": "Brian Benjamin",
             "links": [
-              {
-                "type": "internal",
-                "page": "Andrea Stewart-Cousins"
-              },
               {
                 "type": "internal",
                 "page": "Brian Benjamin"

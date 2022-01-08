@@ -287,6 +287,10 @@
           "template": "use american english"
         },
         {
+          "small": "yes",
+          "template": "pp-blp"
+        },
+        {
           "year": "1967",
           "month": "10",
           "day": "10",
