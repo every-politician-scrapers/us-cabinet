@@ -47,7 +47,7 @@
               }
             },
             {
-              "text": "A member of the Democratic Party, Hochul is the first female Governor of New York.",
+              "text": "She is a member of the Democratic Party and the first female Governor of New York.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -255,8 +255,12 @@
             "text": "Governor of New York"
           },
           "lieutenant": {
-            "text": "Brian Benjamin",
+            "text": "Andrea Stewart-Cousins (acting)\n\nBrian Benjamin",
             "links": [
+              {
+                "type": "internal",
+                "page": "Andrea Stewart-Cousins"
+              },
               {
                 "type": "internal",
                 "page": "Brian Benjamin"
