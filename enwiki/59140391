@@ -34,7 +34,10 @@
               }
             },
             {
-              "text": "A member of the Democratic Party, he served as the commissioner of labor from 2007 to 2015."
+              "text": "Bryan is the only African American to currently serve in this position."
+            },
+            {
+              "text": "He was commissioner of labor from 2007 to 2015."
             }
           ]
         }
@@ -102,16 +105,12 @@
             "text": "February 21, 1968"
           },
           "birth_place": {
-            "text": "Saint Thomas, U.S. Virgin Islands",
+            "text": "St. Thomas, Virgin Islands, U.S.",
             "links": [
               {
-                "text": "Saint Thomas",
+                "text": "St. Thomas, Virgin Islands",
                 "type": "internal",
                 "page": "Saint Thomas, U.S. Virgin Islands"
-              },
-              {
-                "type": "internal",
-                "page": "U.S. Virgin Islands"
               }
             ]
           },

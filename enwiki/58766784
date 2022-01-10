@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "John Kevin Stitt (born December 28, 1972) is an American businessman and politician serving as the 28th governor of Oklahoma.",
+              "text": "John Kevin Stitt (born December 28, 1972) is an American businessman and politician currently serving as the 28th governor of Oklahoma.",
               "links": [
                 {
                   "text": "governor of Oklahoma",
@@ -46,7 +46,14 @@
               }
             },
             {
-              "text": "He is a member of the Republican party and began his term as governor in January 2019."
+              "text": "He is a member of the Republican Party and began his term as governor in January 2019.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
             },
             {
               "text": "As a member of the Cherokee Nation, Stitt is the first tribally enrolled Native American to serve as governor of a U.S. state, and Oklahoma's second governor of Native descent after Johnston Murray.",
@@ -65,7 +72,11 @@
                   "page": "Johnston Murray"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Stitt grew up in Norman, Oklahoma, and graduated from Oklahoma State University with a degree in accounting.",
               "links": [
@@ -81,9 +92,6 @@
             },
             {
               "text": "He is the founder and former chairman and CEO of Gateway Mortgage Group."
-            },
-            {
-              "text": "He and his wife, Sarah, have six children."
             }
           ]
         }
