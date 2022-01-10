@@ -116,7 +116,7 @@
               ]
             },
             {
-              "text": "He made his first run for governor of Washington in 1996, coming in fifth in the blanket primary ahead of the general election, which was won by Democrat Gary Locke.",
+              "text": "He made his first run for governor of Washington in 1996, coming in fifth in the blanket primary with 10% of the vote ahead of the general election, which was won by Democrat Gary Locke.",
               "links": [
                 {
                   "text": "1996",
@@ -240,7 +240,7 @@
         {
           "sentences": [
             {
-              "text": "As governor, Inslee has emphasized climate change, education and drug policy reform.",
+              "text": "As governor, Inslee has emphasized climate change, education, criminal justice reform, and drug policy reform.",
               "links": [
                 {
                   "text": "climate change",
@@ -251,6 +251,11 @@
                   "text": "education",
                   "type": "internal",
                   "page": "Education in the United States"
+                },
+                {
+                  "text": "criminal justice reform",
+                  "type": "internal",
+                  "page": "criminal justice reform"
                 },
                 {
                   "text": "drug policy reform",
