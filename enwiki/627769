@@ -171,15 +171,15 @@
               ]
             },
             {
-              "text": "She served one term until President Donald Trump appointed Jerome Powell as her successor.",
+              "text": "She served one term and was succeeded by Jerome Powell when President Donald Trump decided against her renomination.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Donald Trump"
+                  "page": "Jerome Powell"
                 },
                 {
                   "type": "internal",
-                  "page": "Jerome Powell"
+                  "page": "Donald Trump"
                 }
               ]
             },
@@ -261,7 +261,7 @@
             "text": "yes"
           },
           "institution": {
-            "text": "Harvard University\n\nLondon School of Economics\n\nHaas School of Business\n\nNational Bureau of Economic Research\n\nBrookings Institution",
+            "text": "Harvard University\n\nLondon School of Economics\n\nHaas School of Business\n\nUniversity of California, Berkeley\n\nNational Bureau of Economic Research\n\nBrookings Institution",
             "links": [
               {
                 "type": "internal",
@@ -274,6 +274,10 @@
               {
                 "type": "internal",
                 "page": "Haas School of Business"
+              },
+              {
+                "type": "internal",
+                "page": "University of California, Berkeley"
               },
               {
                 "type": "internal",
