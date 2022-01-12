@@ -180,6 +180,9 @@
           "image": {
             "text": "Gina Raimondo (cropped).jpg"
           },
+          "caption": {
+            "text": "Official portrait, 2021"
+          },
           "office": {
             "text": "40th United States Secretary of Commerce",
             "links": [
@@ -363,9 +366,6 @@
           },
           "signature": {
             "text": "Gina Raimondo Signature.svg"
-          },
-          "caption": {
-            "text": "Off‌icial portrait, 2021"
           }
         }
       ]
