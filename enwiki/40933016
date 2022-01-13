@@ -108,7 +108,10 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Mike Dunleavy\nGovernor Mike Dunleavy.jpg"
+            "text": "Mike Dunleavy"
+          },
+          "image": {
+            "text": "Mike Dunleavy official photo.jpg"
           },
           "order": {
             "text": "12th Governor of Alaska",
