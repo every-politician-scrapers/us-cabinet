@@ -171,7 +171,7 @@
               ]
             },
             {
-              "text": "She served one term and was succeeded by Jerome Powell when President Donald Trump has decided against her renomination.",
+              "text": "She served one term and was succeeded by Jerome Powell after President Donald Trump had decided against her renomination.",
               "links": [
                 {
                   "type": "internal",
@@ -321,13 +321,7 @@
             ]
           },
           "academic_advisors": {
-            "text": "William Brainard Joseph Stiglitz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "William Brainard"
-              }
-            ]
+            "text": "Joseph Stiglitz"
           },
           "influences": {
             "text": "John Maynard Keynes",
