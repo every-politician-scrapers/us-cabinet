@@ -33,11 +33,12 @@
         {
           "sentences": [
             {
-              "text": "Kathleen Courtney Hochul (born August 27, 1958) is an American lawyer and politician serving as the 57th Governor of New York since August 24, 2021.",
+              "text": "Kathleen Courtney Hochul (born August 27, 1958) is an American lawyer and politician serving as the 57th governor of New York since August 24, 2021.",
               "links": [
                 {
+                  "text": "governor of New York",
                   "type": "internal",
-                  "page": "Governor of New York"
+                  "page": "governor of New York"
                 }
               ],
               "formatting": {
@@ -47,7 +48,7 @@
               }
             },
             {
-              "text": "She is a member of the Democratic Party and the first female Governor of New York.",
+              "text": "She is a member of the Democratic Party and New York's first female governor.",
               "links": [
                 {
                   "text": "Democratic Party",
