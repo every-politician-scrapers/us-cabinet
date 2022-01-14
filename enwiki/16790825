@@ -54,7 +54,21 @@
         {
           "sentences": [
             {
-              "text": "McKee served as a member of the Cumberland town council from 1992 to 1998 and mayor of Cumberland twice, from 2000 to 2004 and from 2006 until 2014.",
+              "text": "Born in Cumberland, Rhode Island, McKee received his undergraduate degree from Assumption College and his Master's degree from Harvard Kennedy School.",
+              "links": [
+                {
+                  "text": "Assumption College",
+                  "type": "internal",
+                  "page": "Assumption University (Worcester)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard Kennedy School"
+                }
+              ]
+            },
+            {
+              "text": "He served as a member of the Cumberland town council from 1992 to 1998 and mayor of Cumberland twice, from 2000 to 2004 and from 2006 until 2014.",
               "links": [
                 {
                   "text": "Cumberland",

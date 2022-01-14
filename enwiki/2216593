@@ -61,6 +61,22 @@
         {
           "sentences": [
             {
+              "text": "Born in West Point, Nebraska, he graduated from Chadron State College and Minnesota State University, Mankato.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chadron State College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minnesota State University, Mankato"
+                }
+              ]
+            },
+            {
+              "text": "Before running for Congress in 2006, he served in the Army National Guard."
+            },
+            {
               "text": "Walz was the U.S. representative for from 2007 to 2019.",
               "links": [
                 {
