@@ -98,7 +98,7 @@
               ]
             },
             {
-              "text": "She is the first woman to hold either role."
+              "text": "Yellen is the first woman to hold either role."
             },
             {
               "text": "She is also a professor emerita at Haas School of Business at the University of California, Berkeley, and formerly a distinguished fellow in residence at the Brookings Institution.",
@@ -193,7 +193,7 @@
               ]
             },
             {
-              "text": "She is the first person in American history to have led the White House Council of Economic Advisors, the Federal Reserve, and the Treasury Department."
+              "text": "She is the first person in American history to have led the White House Council of Economic Advisers, the Federal Reserve, and the Treasury Department."
             }
           ]
         }
@@ -231,13 +231,6 @@
           "spouse": "George Akerlof",
           "from": "1978",
           "template": "marriage"
-        },
-        {
-          "list": [
-            "Brown University (AB)",
-            "Yale University (MA, PhD)"
-          ],
-          "template": "ubl"
         }
       ],
       "infoboxes": [
@@ -322,6 +315,15 @@
           },
           "academic_advisors": {
             "text": "Joseph Stiglitz"
+          },
+          "doctoral_students": {
+            "text": "Charles Engel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charles Engel"
+              }
+            ]
           },
           "influences": {
             "text": "John Maynard Keynes",
@@ -501,12 +503,13 @@
             ]
           },
           "successor4": {
-            "text": "Vacant",
-            "formatting": {
-              "italic": [
-                "Vacant"
-              ]
-            }
+            "text": "Lisa D. Cook (nominee)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lisa D. Cook"
+              }
+            ]
           },
           "president5": {
             "text": "Bill Clinton",
@@ -615,11 +618,11 @@
             "text": "August 13, 1946"
           },
           "birth_place": {
-            "text": "Brooklyn, New York, U.S.",
+            "text": "New York City, New York, U.S.",
             "links": [
               {
                 "type": "internal",
-                "page": "Brooklyn"
+                "page": "New York City"
               },
               {
                 "text": "New York",
@@ -645,33 +648,33 @@
             "text": "1",
             "number": 1
           },
-          "residence": {
-            "text": "San Francisco, California, U.S.",
+          "education": {
+            "text": "Brown University (AB) Yale University (MA, PhD)",
             "links": [
               {
                 "type": "internal",
-                "page": "San Francisco"
+                "page": "Brown University"
+              },
+              {
+                "text": "AB",
+                "type": "internal",
+                "page": "Bachelor of Arts"
               },
               {
                 "type": "internal",
-                "page": "California"
-              }
-            ]
-          },
-          "education": {
-            "text": "Fort Hamilton High School",
-            "links": [
+                "page": "Yale University"
+              },
               {
+                "text": "MA",
                 "type": "internal",
-                "page": "Fort Hamilton High School"
+                "page": "Master of Arts"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
               }
             ]
-          },
-          "alma_mater": {
-            "text": "Brown University (AB)\n\nYale University (MA, PhD)"
-          },
-          "occupation": {
-            "text": "Economist · educator · government official"
           },
           "signature": {
             "text": "Janet Yellen signature.png"
