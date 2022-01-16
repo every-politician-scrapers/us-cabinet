@@ -37,22 +37,6 @@
               "text": "He was commissioner of labor from 2007 to 2015."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "First elected in 2018, Bryan became the second Democratic candidate to unseat an incumbent governor since Charles W. Turnbull in 1998.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Charles W. Turnbull"
-                }
-              ]
-            },
-            {
-              "text": "Bryan is currently running unopposed for reelection in 2022."
-            }
-          ]
         }
       ],
       "templates": [
@@ -113,10 +97,10 @@
             "text": "February 21, 1968"
           },
           "birth_place": {
-            "text": "St. Thomas, Virgin Islands, U.S.",
+            "text": "St. Thomas, U.S. Virgin Islands",
             "links": [
               {
-                "text": "St. Thomas, Virgin Islands",
+                "text": "St. Thomas, U.S. Virgin Islands",
                 "type": "internal",
                 "page": "Saint Thomas, U.S. Virgin Islands"
               }
