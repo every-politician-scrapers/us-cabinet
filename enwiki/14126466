@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Ralph Shearer Northam (born September 13, 1959) is an American physician and politician serving as the 73rd governor of Virginia since January 13, 2018.",
+              "text": "Ralph Shearer Northam (born September 13, 1959) is an American physician and politician who served as the 73rd governor of Virginia from 2018 to 2022.",
               "links": [
                 {
                   "text": "73rd",
@@ -157,13 +157,10 @@
             "text": "Governor Ralph Northam Gives Inaugural Address (39348612584) (cropped).jpg"
           },
           "order": {
-            "text": "73rd Governor of Virginia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Virginia"
-              }
-            ]
+            "text": "73rd"
+          },
+          "office": {
+            "text": "Governor of Virginia"
           },
           "lieutenant": {
             "text": "Justin Fairfax",
@@ -177,12 +174,24 @@
           "term_start": {
             "text": "January 13, 2018"
           },
+          "term_end": {
+            "text": "January 15, 2022"
+          },
           "predecessor": {
             "text": "Terry McAuliffe",
             "links": [
               {
                 "type": "internal",
                 "page": "Terry McAuliffe"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Glenn Youngkin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Glenn Youngkin"
               }
             ]
           },
@@ -289,16 +298,6 @@
             "text": "2",
             "number": 2
           },
-          "residence": {
-            "text": "Executive Mansion",
-            "links": [
-              {
-                "text": "Executive Mansion",
-                "type": "internal",
-                "page": "Executive Mansion (Virginia)"
-              }
-            ]
-          },
           "education": {
             "text": "Virginia Military Institute (BS) Eastern Virginia Medical School (MD)",
             "links": [
@@ -355,16 +354,6 @@
                 "text": "Army Medical Corps",
                 "type": "internal",
                 "page": "Medical Corps (United States Army)"
-              }
-            ]
-          },
-          "website": {
-            "text": "Government website",
-            "links": [
-              {
-                "text": "Government website",
-                "type": "external",
-                "site": "https://www.governor.virginia.gov/"
               }
             ]
           }
