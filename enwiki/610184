@@ -43,7 +43,7 @@
         {
           "sentences": [
             {
-              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who is the 11th Director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
+              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who is the 11th director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
               "links": [
                 {
                   "text": "mathematician",
@@ -56,7 +56,6 @@
                   "page": "geneticist"
                 },
                 {
-                  "text": "11th Director of the Office of Science and Technology Policy",
                   "type": "internal",
                   "page": "Office of Science and Technology Policy"
                 },
@@ -139,7 +138,7 @@
           "template": "multiple issues"
         },
         {
-          "date": "May 2020",
+          "date": "January 2022",
           "template": "use mdy dates"
         },
         {
@@ -155,7 +154,7 @@
             "text": "yes"
           },
           "workplaces": {
-            "text": "Broad Institute Massachusetts Institute of Technology",
+            "text": "Broad Institute\nMassachusetts Institute of Technology",
             "links": [
               {
                 "type": "internal",
@@ -178,7 +177,7 @@
             ]
           },
           "doctoral_students": {
-            "text": "Julie Segre Kenro Kusumi Manolis Kellis Erez Lieberman Aiden Mark Daly",
+            "text": "Julie Segre \nKenro Kusumi \nManolis Kellis \nErez Lieberman Aiden\nMark Daly",
             "links": [
               {
                 "type": "internal",
@@ -222,7 +221,7 @@
             "text": "Eric Lander, PCAST Co-Chair (cropped).jpg"
           },
           "office": {
-            "text": "11th Director of the Office of Science and Technology Policy Science Advisor to the President",
+            "text": "11th director of the Office of Science and Technology Policy\nScience Advisor to the President",
             "links": [
               {
                 "type": "internal",
@@ -286,7 +285,7 @@
             "text": "Lori Lander"
           },
           "education": {
-            "text": "Princeton University (AB) Wolfson College, Oxford (MS, DPhil)",
+            "text": "Princeton University (AB)\nWolfson College, Oxford (MS, DPhil)",
             "links": [
               {
                 "type": "internal",
@@ -314,7 +313,7 @@
             ]
           },
           "awards": {
-            "text": "MacArthur Fellowship (1987) Dickson Prize (1997) Woodrow Wilson Award for Public Service (1998) Gairdner Award (2002) Harvey Prize (2012) Breakthrough Prize in Life Sciences (2013)",
+            "text": "MacArthur Fellowship (1987)\nDickson Prize (1997)\nWoodrow Wilson Award for Public Service (1998)\nGairdner Award (2002)\nHarvey Prize (2012)\nBreakthrough Prize in Life Sciences (2013)",
             "links": [
               {
                 "type": "internal",

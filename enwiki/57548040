@@ -77,8 +77,13 @@
               ]
             },
             {
-              "text": "She is an enrolled member of the Laguna Pueblo.",
+              "text": "Haaland has partial Native American ancestry and is an enrolled member of the Laguna Pueblo tribe.",
               "links": [
+                {
+                  "text": "Native American",
+                  "type": "internal",
+                  "page": "Native Americans in the United States"
+                },
                 {
                   "type": "internal",
                   "page": "Laguna Pueblo"

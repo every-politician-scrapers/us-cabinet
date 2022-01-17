@@ -287,12 +287,12 @@
             ]
           },
           "party": {
-            "text": "New Progressive",
+            "text": "New Progressive|Democratic",
             "links": [
               {
-                "text": "New Progressive",
+                "text": "New Progressive|Democratic",
                 "type": "internal",
-                "page": "New Progressive Party (Puerto Rico)"
+                "page": "New Progressive Party (Puerto Rico)|New Progressive"
               }
             ]
           },
@@ -311,7 +311,7 @@
             "number": 4
           },
           "relatives": {
-            "text": "José Jaime Pierluisi (brother) \nCaridad Pierluisi (sister)",
+            "text": "José Jaime Pierluisi (deceased younger brother) \n Jorge Pierluisi-Urrutia (older brother) \nCaridad Pierluisi (sister)",
             "links": [
               {
                 "type": "internal",
