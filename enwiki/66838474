@@ -1,0 +1,206 @@
+{
+  "title": "Glenn Youngkin",
+  "pageID": 66838474,
+  "categories": [
+    "1966 births",
+    "20th-century American businesspeople",
+    "21st-century American businesspeople",
+    "American chief executives of financial services companies",
+    "American nonprofit executives",
+    "Businesspeople from Richmond, Virginia",
+    "Christians from Virginia",
+    "Founders of charities",
+    "Governors of Virginia",
+    "Harvard Business School alumni",
+    "Living people",
+    "Members of the Council on Foreign Relations",
+    "People from Great Falls, Virginia",
+    "Politicians from Richmond, Virginia",
+    "Rice Owls men's basketball players",
+    "Rice University alumni",
+    "The Carlyle Group people",
+    "Virginia Republicans"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Glenn Allen Youngkin (born December 9, 1966) is an American businessman and politician currently serving as the 74th governor of Virginia since January 15, 2022.",
+              "links": [
+                {
+                  "text": "governor of Virginia",
+                  "type": "internal",
+                  "page": "governor of Virginia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Glenn Allen Youngkin"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Republican Party, Youngkin defeated former Democratic governor Terry McAuliffe in the 2021 Virginia gubernatorial election.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Terry McAuliffe"
+                },
+                {
+                  "text": "2021 Virginia gubernatorial election",
+                  "type": "internal",
+                  "page": "2021 Virginia gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "Prior to entering politics, he spent 25 years at the private-equity firm the Carlyle Group, where he became co–CEO in 2018.",
+              "links": [
+                {
+                  "text": "the Carlyle Group",
+                  "type": "internal",
+                  "page": "the Carlyle Group"
+                }
+              ]
+            },
+            {
+              "text": "Youngkin stepped down from the Carlyle Group in September 2020, and announced his candidacy for the 2021 Virginia gubernatorial election in January 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American businessman and governor of Virginia (born 1966)",
+          "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1966",
+          "month": "12",
+          "day": "9",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Suzanne Youngkin",
+          "from": "1995",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Glenn Youngkin"
+          },
+          "image": {
+            "text": "Glenn Youngkin in November 2021.jpg"
+          },
+          "order": {
+            "text": "74th"
+          },
+          "office": {
+            "text": "Governor of Virginia"
+          },
+          "lieutenant": {
+            "text": "Winsome Sears",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Winsome Sears"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 15, 2022"
+          },
+          "predecessor": {
+            "text": "Ralph Northam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ralph Northam"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Glenn Allen Youngkin"
+          },
+          "birth_date": {
+            "text": "December 9, 1966"
+          },
+          "birth_place": {
+            "text": "Richmond, Virginia, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Richmond, Virginia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Suzanne Youngkin (m. 1995)"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "education": {
+            "text": "Rice University (BA, BS) Harvard University (MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rice University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
+              },
+              {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

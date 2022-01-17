@@ -588,12 +588,22 @@
             ]
           },
           "party": {
-            "text": "Democratic",
+            "text": "Democratic (1969–present)",
             "links": [
               {
                 "text": "Democratic",
                 "type": "internal",
                 "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Republican (before 1969)",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
               }
             ]
           },
