@@ -136,10 +136,10 @@
             ]
           },
           "image": {
-            "text": "Kevin Stitt 2020.jpg"
+            "text": "Kevin_Stitt_Official_(cropped).jpg"
           },
           "caption": {
-            "text": "Stitt in 2020"
+            "text": "Official portrait, 2019"
           },
           "lieutenant": {
             "text": "Matt Pinnell",
@@ -181,6 +181,15 @@
               {
                 "type": "internal",
                 "page": "Milton, Florida"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "United States Cherokee Nation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cherokee Nation"
               }
             ]
           },

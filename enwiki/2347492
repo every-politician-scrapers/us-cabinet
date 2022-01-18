@@ -219,14 +219,11 @@
           "image": {
             "text": "Defense Secretary Lloyd J. Austin III (50885754687).jpg"
           },
+          "order": {
+            "text": "28th"
+          },
           "office": {
-            "text": "28th United States Secretary of Defense",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Secretary of Defense"
-              }
-            ]
+            "text": "United States Secretary of Defense"
           },
           "president": {
             "text": "Joe Biden",
@@ -252,7 +249,7 @@
               }
             ]
           },
-          "title1": {
+          "office1": {
             "text": "12th Commander of United States Central Command",
             "links": [
               {
@@ -296,23 +293,14 @@
               }
             ]
           },
-          "title2": {
-            "text": "33rd Vice Chief of Staff of the United States Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice Chief of Staff of the United States Army"
-              }
-            ]
+          "order2": {
+            "text": "33rd"
+          },
+          "office2": {
+            "text": "Vice Chief of Staff of the United States Army"
           },
           "president2": {
-            "text": "Barack Obama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barack Obama"
-              }
-            ]
+            "text": "Barack Obama"
           },
           "term_start2": {
             "text": "January 31, 2012"
@@ -339,14 +327,11 @@
               }
             ]
           },
-          "title3": {
-            "text": "40th Director of the Joint Staff",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Director of the Joint Staff"
-              }
-            ]
+          "order3": {
+            "text": "40th"
+          },
+          "office3": {
+            "text": "Director of the Joint Staff"
           },
           "president3": {
             "text": "Barack Obama",
@@ -358,7 +343,7 @@
             ]
           },
           "term_start3": {
-            "text": "August 2009"
+            "text": "August 9, 2009"
           },
           "term_end3": {
             "text": "June 30, 2010"

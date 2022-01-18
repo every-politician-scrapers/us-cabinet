@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Pedro Rafael Pierluisi Urrutia is a Puerto Rican polititian and lawyer currently serving as governor of Puerto Rico.",
+              "text": "Pedro Rafael Pierluisi Urrutia is a Puerto Rican politician and lawyer currently serving as governor of Puerto Rico.",
               "links": [
                 {
                   "text": "governor of Puerto Rico",
@@ -287,12 +287,12 @@
             ]
           },
           "party": {
-            "text": "New Progressive|Democratic",
+            "text": "New Progressive",
             "links": [
               {
-                "text": "New Progressive|Democratic",
+                "text": "New Progressive",
                 "type": "internal",
-                "page": "New Progressive Party (Puerto Rico)|New Progressive"
+                "page": "New Progressive Party (Puerto Rico)"
               }
             ]
           },
@@ -311,7 +311,7 @@
             "number": 4
           },
           "relatives": {
-            "text": "José Jaime Pierluisi (deceased younger brother) \n Jorge Pierluisi-Urrutia (older brother) \nCaridad Pierluisi (sister)",
+            "text": "José Jaime Pierluisi (deceased younger brother) Jorge Pierluisi-Urrutia (older brother) Caridad Pierluisi (sister)",
             "links": [
               {
                 "type": "internal",
