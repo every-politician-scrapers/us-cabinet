@@ -219,14 +219,11 @@
           "caption": {
             "text": "Official portrait, 2021"
           },
+          "order": {
+            "text": "71st"
+          },
           "office": {
-            "text": "71st United States Secretary of State",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Secretary of State"
-              }
-            ]
+            "text": "United States Secretary of State"
           },
           "president": {
             "text": "Joe Biden",
@@ -258,14 +255,11 @@
               }
             ]
           },
+          "order1": {
+            "text": "18th"
+          },
           "office1": {
-            "text": "18th United States Deputy Secretary of State",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Deputy Secretary of State"
-              }
-            ]
+            "text": "United States Deputy Secretary of State"
           },
           "president1": {
             "text": "Barack Obama",
@@ -314,24 +308,14 @@
               }
             ]
           },
+          "order2": {
+            "text": "26th"
+          },
           "office2": {
-            "text": "26th United States Deputy National Security Advisor",
-            "links": [
-              {
-                "text": "United States Deputy National Security Advisor",
-                "type": "internal",
-                "page": "Deputy National Security Advisor (United States)"
-              }
-            ]
+            "text": "Deputy National Security Advisor"
           },
           "president2": {
-            "text": "Barack Obama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barack Obama"
-              }
-            ]
+            "text": "Barack Obama"
           },
           "term_start2": {
             "text": "January 20, 2013"
@@ -368,13 +352,7 @@
             ]
           },
           "vicepresident3": {
-            "text": "Joe Biden",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joe Biden"
-              }
-            ]
+            "text": "Joe Biden"
           },
           "term_start3": {
             "text": "January 20, 2009"

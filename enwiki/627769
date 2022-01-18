@@ -351,16 +351,13 @@
           "caption": {
             "text": "Official portrait, 2021"
           },
-          "office1": {
-            "text": "78th United States Secretary of the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Secretary of the Treasury"
-              }
-            ]
+          "order": {
+            "text": "78th"
           },
-          "president1": {
+          "office": {
+            "text": "United States Secretary of the Treasury"
+          },
+          "president": {
             "text": "Joe Biden",
             "links": [
               {
@@ -369,7 +366,7 @@
               }
             ]
           },
-          "deputy1": {
+          "deputy": {
             "text": "Wally Adeyemo",
             "links": [
               {
@@ -378,10 +375,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start": {
             "text": "January 26, 2021"
           },
-          "predecessor1": {
+          "predecessor": {
             "text": "Steven Mnuchin",
             "links": [
               {
@@ -390,7 +387,7 @@
               }
             ]
           },
-          "office2": {
+          "office1": {
             "text": "15th Chair of the Federal Reserve",
             "links": [
               {
@@ -399,7 +396,7 @@
               }
             ]
           },
-          "president2": {
+          "president1": {
             "text": "Barack Obama Donald Trump",
             "links": [
               {
@@ -412,7 +409,7 @@
               }
             ]
           },
-          "deputy2": {
+          "deputy1": {
             "text": "Stanley Fischer",
             "links": [
               {
@@ -421,13 +418,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start1": {
             "text": "February 3, 2014"
           },
-          "term_end2": {
+          "term_end1": {
             "text": "February 3, 2018"
           },
-          "predecessor2": {
+          "predecessor1": {
             "text": "Ben Bernanke",
             "links": [
               {
@@ -436,7 +433,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor1": {
             "text": "Jerome Powell",
             "links": [
               {
@@ -445,25 +442,22 @@
               }
             ]
           },
-          "office3": {
-            "text": "19th Vice Chair of the Federal Reserve",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice Chair of the Federal Reserve"
-              }
-            ]
+          "order2": {
+            "text": "19th"
           },
-          "president3": {
+          "office2": {
+            "text": "Vice Chair of the Federal Reserve"
+          },
+          "president2": {
             "text": "Barack Obama"
           },
-          "term_start3": {
+          "term_start2": {
             "text": "October 4, 2010"
           },
-          "term_end3": {
+          "term_end2": {
             "text": "February 3, 2014"
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Donald Kohn",
             "links": [
               {
@@ -472,10 +466,10 @@
               }
             ]
           },
-          "successor3": {
+          "successor2": {
             "text": "Stanley Fischer"
           },
-          "office4": {
+          "office3": {
             "text": "Member of the Federal Reserve Board of Governors",
             "links": [
               {
@@ -484,16 +478,16 @@
               }
             ]
           },
-          "president4": {
+          "president3": {
             "text": "Barack Obama Donald Trump"
           },
-          "term_start4": {
+          "term_start3": {
             "text": "October 4, 2010"
           },
-          "term_end4": {
+          "term_end3": {
             "text": "February 3, 2018"
           },
-          "predecessor4": {
+          "predecessor3": {
             "text": "Mark W. Olson",
             "links": [
               {
@@ -502,7 +496,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor3": {
             "text": "Lisa D. Cook (nominee)",
             "links": [
               {
@@ -511,7 +505,7 @@
               }
             ]
           },
-          "president5": {
+          "president4": {
             "text": "Bill Clinton",
             "links": [
               {
@@ -520,13 +514,13 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start4": {
             "text": "August 12, 1994"
           },
-          "term_end5": {
+          "term_end4": {
             "text": "February 17, 1997"
           },
-          "predecessor5": {
+          "predecessor4": {
             "text": "Wayne Angell",
             "links": [
               {
@@ -535,7 +529,7 @@
               }
             ]
           },
-          "successor5": {
+          "successor4": {
             "text": "Edward Gramlich",
             "links": [
               {
@@ -544,26 +538,27 @@
               }
             ]
           },
-          "office6": {
+          "office5": {
             "text": "11th President of the Federal Reserve Bank of San Francisco",
             "links": [
               {
                 "text": "President of the Federal Reserve Bank of San Francisco",
                 "type": "internal",
-                "page": "Federal Reserve Bank of San Francisco"
+                "page": "Federal Reserve Bank of San Francisco",
+                "anchor": "Governors and presidents"
               }
             ]
           },
-          "term_start6": {
+          "term_start5": {
             "text": "June 14, 2004"
           },
-          "term_end6": {
+          "term_end5": {
             "text": "October 4, 2010"
           },
-          "predecessor6": {
+          "predecessor5": {
             "text": "Robert T. Parry"
           },
-          "successor6": {
+          "successor5": {
             "text": "John C. Williams",
             "links": [
               {
@@ -573,27 +568,22 @@
               }
             ]
           },
-          "office7": {
-            "text": "18th Chair of the Council of Economic Advisers",
-            "links": [
-              {
-                "text": "Chair of the Council of Economic Advisers",
-                "type": "internal",
-                "page": "Council of Economic Advisers",
-                "anchor": "Chairs"
-              }
-            ]
+          "order6": {
+            "text": "18th"
           },
-          "president7": {
+          "office6": {
+            "text": "Chair of the Council of Economic Advisers"
+          },
+          "president6": {
             "text": "Bill Clinton"
           },
-          "term_start7": {
+          "term_start6": {
             "text": "February 18, 1997"
           },
-          "term_end7": {
+          "term_end6": {
             "text": "August 3, 1999"
           },
-          "predecessor7": {
+          "predecessor6": {
             "text": "Joseph Stiglitz",
             "links": [
               {
@@ -602,7 +592,7 @@
               }
             ]
           },
-          "successor7": {
+          "successor6": {
             "text": "Martin Neil Baily",
             "links": [
               {
