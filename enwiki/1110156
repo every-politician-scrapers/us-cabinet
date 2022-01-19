@@ -253,11 +253,14 @@
           "caption": {
             "text": "Official portrait, 2021"
           },
-          "order": {
-            "text": "86th"
-          },
           "office": {
-            "text": "United States Attorney General"
+            "text": "86th United States Attorney General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Attorney General"
+              }
+            ]
           },
           "president": {
             "text": "Joe Biden",
