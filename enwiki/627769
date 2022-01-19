@@ -68,7 +68,7 @@
         {
           "sentences": [
             {
-              "text": "Janet Louise Yellen (born August 13, 1946) is an American economist, educator and government official who has served as the 78th United States secretary of the treasury since January 26, 2021.",
+              "text": "Janet Louise Yellen (born August 13, 1946) is an American economist, educator and government official serving as the 78th United States secretary of the treasury since January 26, 2021.",
               "links": [
                 {
                   "text": "United States secretary of the treasury",
@@ -387,16 +387,13 @@
               }
             ]
           },
-          "office1": {
-            "text": "15th Chair of the Federal Reserve",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chair of the Federal Reserve"
-              }
-            ]
+          "order2": {
+            "text": "15th"
           },
-          "president1": {
+          "office2": {
+            "text": "Chair of the Federal Reserve"
+          },
+          "president2": {
             "text": "Barack Obama Donald Trump",
             "links": [
               {
@@ -409,7 +406,7 @@
               }
             ]
           },
-          "deputy1": {
+          "deputy2": {
             "text": "Stanley Fischer",
             "links": [
               {
@@ -418,13 +415,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "February 3, 2014"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "February 3, 2018"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Ben Bernanke",
             "links": [
               {
@@ -433,7 +430,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Jerome Powell",
             "links": [
               {
@@ -442,22 +439,22 @@
               }
             ]
           },
-          "order2": {
+          "order3": {
             "text": "19th"
           },
-          "office2": {
+          "office3": {
             "text": "Vice Chair of the Federal Reserve"
           },
-          "president2": {
+          "president3": {
             "text": "Barack Obama"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "October 4, 2010"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "February 3, 2014"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Donald Kohn",
             "links": [
               {
@@ -466,10 +463,10 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Stanley Fischer"
           },
-          "office3": {
+          "office4": {
             "text": "Member of the Federal Reserve Board of Governors",
             "links": [
               {
@@ -478,16 +475,16 @@
               }
             ]
           },
-          "president3": {
+          "president4": {
             "text": "Barack Obama Donald Trump"
           },
-          "term_start3": {
+          "term_start4": {
             "text": "October 4, 2010"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "February 3, 2018"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Mark W. Olson",
             "links": [
               {
@@ -496,7 +493,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Lisa D. Cook (nominee)",
             "links": [
               {
@@ -505,7 +502,7 @@
               }
             ]
           },
-          "president4": {
+          "president5": {
             "text": "Bill Clinton",
             "links": [
               {
@@ -514,13 +511,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "August 12, 1994"
           },
-          "term_end4": {
+          "term_end5": {
             "text": "February 17, 1997"
           },
-          "predecessor4": {
+          "predecessor5": {
             "text": "Wayne Angell",
             "links": [
               {
@@ -529,7 +526,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor5": {
             "text": "Edward Gramlich",
             "links": [
               {
@@ -538,7 +535,7 @@
               }
             ]
           },
-          "office5": {
+          "office6": {
             "text": "11th President of the Federal Reserve Bank of San Francisco",
             "links": [
               {
@@ -549,16 +546,16 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start6": {
             "text": "June 14, 2004"
           },
-          "term_end5": {
+          "term_end6": {
             "text": "October 4, 2010"
           },
-          "predecessor5": {
+          "predecessor6": {
             "text": "Robert T. Parry"
           },
-          "successor5": {
+          "successor6": {
             "text": "John C. Williams",
             "links": [
               {
@@ -568,22 +565,22 @@
               }
             ]
           },
-          "order6": {
+          "order7": {
             "text": "18th"
           },
-          "office6": {
+          "office7": {
             "text": "Chair of the Council of Economic Advisers"
           },
-          "president6": {
+          "president7": {
             "text": "Bill Clinton"
           },
-          "term_start6": {
+          "term_start7": {
             "text": "February 18, 1997"
           },
-          "term_end6": {
+          "term_end7": {
             "text": "August 3, 1999"
           },
-          "predecessor6": {
+          "predecessor7": {
             "text": "Joseph Stiglitz",
             "links": [
               {
@@ -592,7 +589,7 @@
               }
             ]
           },
-          "successor6": {
+          "successor7": {
             "text": "Martin Neil Baily",
             "links": [
               {

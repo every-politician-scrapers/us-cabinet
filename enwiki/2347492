@@ -249,7 +249,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "12th Commander of United States Central Command",
             "links": [
               {
@@ -260,7 +260,7 @@
               }
             ]
           },
-          "president1": {
+          "president2": {
             "text": "Barack Obama",
             "links": [
               {
@@ -269,13 +269,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "March 22, 2013"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "March 30, 2016"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Jim Mattis",
             "links": [
               {
@@ -284,7 +284,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Joseph Votel",
             "links": [
               {
@@ -293,22 +293,22 @@
               }
             ]
           },
-          "order2": {
+          "order3": {
             "text": "33rd"
           },
-          "office2": {
+          "office3": {
             "text": "Vice Chief of Staff of the United States Army"
           },
-          "president2": {
+          "president3": {
             "text": "Barack Obama"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "January 31, 2012"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "March 8, 2013"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Peter W. Chiarelli",
             "links": [
               {
@@ -317,7 +317,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "John F. Campbell",
             "links": [
               {
@@ -327,13 +327,13 @@
               }
             ]
           },
-          "order3": {
+          "order4": {
             "text": "40th"
           },
-          "office3": {
+          "office4": {
             "text": "Director of the Joint Staff"
           },
-          "president3": {
+          "president4": {
             "text": "Barack Obama",
             "links": [
               {
@@ -342,13 +342,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "August 9, 2009"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "June 30, 2010"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Stanley A. McChrystal",
             "links": [
               {
@@ -357,7 +357,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "William E. Gortney",
             "links": [
               {
