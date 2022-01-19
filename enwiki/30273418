@@ -255,13 +255,13 @@
               }
             ]
           },
-          "order1": {
+          "order2": {
             "text": "18th"
           },
-          "office1": {
+          "office2": {
             "text": "United States Deputy Secretary of State"
           },
-          "president1": {
+          "president2": {
             "text": "Barack Obama",
             "links": [
               {
@@ -270,10 +270,10 @@
               }
             ]
           },
-          "1blankname1": {
+          "1blankname2": {
             "text": "Secretary"
           },
-          "1namedata1": {
+          "1namedata2": {
             "text": "John Kerry",
             "links": [
               {
@@ -282,13 +282,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "January 9, 2015"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "January 20, 2017"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "William J. Burns",
             "links": [
               {
@@ -298,7 +298,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "John Sullivan",
             "links": [
               {
@@ -308,22 +308,22 @@
               }
             ]
           },
-          "order2": {
+          "order3": {
             "text": "26th"
           },
-          "office2": {
+          "office3": {
             "text": "Deputy National Security Advisor"
           },
-          "president2": {
+          "president3": {
             "text": "Barack Obama"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "January 20, 2013"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "January 9, 2015"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Denis McDonough",
             "links": [
               {
@@ -332,7 +332,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Avril Haines",
             "links": [
               {
@@ -341,7 +341,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "National Security Advisor to the Vice President of the United States",
             "links": [
               {
@@ -351,16 +351,16 @@
               }
             ]
           },
-          "vicepresident3": {
+          "vicepresident4": {
             "text": "Joe Biden"
           },
-          "term_start3": {
+          "term_start4": {
             "text": "January 20, 2009"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "January 20, 2013"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "John P. Hannah",
             "links": [
               {
@@ -369,7 +369,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Jake Sullivan",
             "links": [
               {

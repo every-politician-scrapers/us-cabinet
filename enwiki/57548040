@@ -260,7 +260,7 @@
               }
             ]
           },
-          "state1": {
+          "state2": {
             "text": "New Mexico",
             "links": [
               {
@@ -269,13 +269,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "January 3, 2019"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "March 16, 2021"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Michelle Lujan Grisham",
             "links": [
               {
@@ -284,7 +284,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Melanie Stansbury",
             "links": [
               {
@@ -293,7 +293,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Chair of the New Mexico Democratic Party",
             "links": [
               {
@@ -303,16 +303,16 @@
               }
             ]
           },
-          "term_end2": {
+          "term_end3": {
             "text": "April 29, 2017"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "April 25, 2015"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Sam Bregman"
           },
-          "successor2": {
+          "successor3": {
             "text": "Richard Ellenberg"
           },
           "birth_name": {

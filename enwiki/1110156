@@ -254,13 +254,10 @@
             "text": "Official portrait, 2021"
           },
           "order": {
-            "text": "86th United States Attorney General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Attorney General"
-              }
-            ]
+            "text": "86th"
+          },
+          "office": {
+            "text": "United States Attorney General"
           },
           "president": {
             "text": "Joe Biden",
@@ -292,7 +289,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "Chief Judge of the United States Court of Appeals for the District of Columbia Circuit",
             "links": [
               {
@@ -301,13 +298,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "February 12, 2013"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "February 11, 2020"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "David B. Sentelle",
             "links": [
               {
@@ -316,7 +313,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Sri Srinivasan",
             "links": [
               {
@@ -325,7 +322,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Judge of the United States Court of Appeals for the District of Columbia Circuit",
             "links": [
               {
@@ -334,13 +331,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "March 20, 1997"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "March 11, 2021"
           },
-          "appointer2": {
+          "appointer3": {
             "text": "Bill Clinton",
             "links": [
               {
@@ -349,7 +346,7 @@
               }
             ]
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Abner J. Mikva",
             "links": [
               {
@@ -358,7 +355,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Ketanji Brown Jackson",
             "links": [
               {
