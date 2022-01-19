@@ -107,6 +107,14 @@
           "day": "22",
           "mf": "yes",
           "template": "birth date and age"
+        },
+        {
+          "date": "January 2022",
+          "template": "fact"
+        },
+        {
+          "date": "January 2022",
+          "template": "fact"
         }
       ],
       "infoboxes": [

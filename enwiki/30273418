@@ -219,11 +219,14 @@
           "caption": {
             "text": "Official portrait, 2021"
           },
-          "order": {
-            "text": "71st"
-          },
           "office": {
-            "text": "United States Secretary of State"
+            "text": "71st United States Secretary of State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Secretary of State"
+              }
+            ]
           },
           "president": {
             "text": "Joe Biden",
@@ -255,11 +258,14 @@
               }
             ]
           },
-          "order2": {
-            "text": "18th"
-          },
           "office2": {
-            "text": "United States Deputy Secretary of State"
+            "text": "18th United States Deputy Secretary of State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Deputy Secretary of State"
+              }
+            ]
           },
           "president2": {
             "text": "Barack Obama",
@@ -308,11 +314,14 @@
               }
             ]
           },
-          "order3": {
-            "text": "26th"
-          },
           "office3": {
-            "text": "Deputy National Security Advisor"
+            "text": "26th Deputy National Security Advisor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy National Security Advisor"
+              }
+            ]
           },
           "president3": {
             "text": "Barack Obama"

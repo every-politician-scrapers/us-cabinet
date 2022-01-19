@@ -351,11 +351,14 @@
           "caption": {
             "text": "Official portrait, 2021"
           },
-          "order": {
-            "text": "78th"
-          },
           "office": {
-            "text": "United States Secretary of the Treasury"
+            "text": "78th United States Secretary of the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Secretary of the Treasury"
+              }
+            ]
           },
           "president": {
             "text": "Joe Biden",
@@ -387,11 +390,14 @@
               }
             ]
           },
-          "order2": {
-            "text": "15th"
-          },
           "office2": {
-            "text": "Chair of the Federal Reserve"
+            "text": "15th Chair of the Federal Reserve",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chair of the Federal Reserve"
+              }
+            ]
           },
           "president2": {
             "text": "Barack Obama Donald Trump",
@@ -439,11 +445,14 @@
               }
             ]
           },
-          "order3": {
-            "text": "19th"
-          },
           "office3": {
-            "text": "Vice Chair of the Federal Reserve"
+            "text": "19th Vice Chair of the Federal Reserve",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice Chair of the Federal Reserve"
+              }
+            ]
           },
           "president3": {
             "text": "Barack Obama"
@@ -565,11 +574,16 @@
               }
             ]
           },
-          "order7": {
-            "text": "18th"
-          },
           "office7": {
-            "text": "Chair of the Council of Economic Advisers"
+            "text": "18th Chair of the Council of Economic Advisers",
+            "links": [
+              {
+                "text": "Chair of the Council of Economic Advisers",
+                "type": "internal",
+                "page": "Council of Economic Advisers",
+                "anchor": "Chairs"
+              }
+            ]
           },
           "president7": {
             "text": "Bill Clinton"
@@ -605,16 +619,15 @@
             "text": "August 13, 1946"
           },
           "birth_place": {
-            "text": "New York City, New York, U.S.",
+            "text": "Brooklyn, New York City, U.S.",
             "links": [
               {
                 "type": "internal",
-                "page": "New York City"
+                "page": "Brooklyn"
               },
               {
-                "text": "New York",
                 "type": "internal",
-                "page": "New York (state)"
+                "page": "New York City"
               }
             ]
           },

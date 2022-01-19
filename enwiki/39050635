@@ -184,15 +184,11 @@
             ]
           },
           "successor1": {
-            "text": "Kim Janey (acting) Michelle Wu",
+            "text": "Kim Janey",
             "links": [
               {
                 "type": "internal",
                 "page": "Kim Janey"
-              },
-              {
-                "type": "internal",
-                "page": "Michelle Wu"
               }
             ]
           },
