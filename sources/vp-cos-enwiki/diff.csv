@@ -1,22 +1,9 @@
 @@,itemlabel,item,startdate,enddate
-+++,Arthur Sohmer,Q4800321,1969,1973
-+++,Robert T. Hartmann,Q28972670,1973,1974
-+++,Ann C. Whitman,Q4766299,1974,1977
-+++,Daniel J. Murphy,Q5217634,1981,1985
-+++,Craig L. Fuller,Q51973106,1985,1989
 ->,Bill Kristol,Q714646,1989-01-20->1989,1993-01-20->1993
-+++,Roy Neel,Q7373202,1993,1994
-+++,Jack Quinn,Q6114704,1994,1995
 +++,Ron Klain,Q649898,1995,1999
 ---,Ron Klain,Q649898,1995-11-01,1999-08-03
-+++,Charles Burson,Q5075918,1999,2001
-+++,Lewis Libby,Q380441,2001,2005
-+++,David Addington,Q1176453,2005,2009
+->,Scooter Libby->Lewis Libby,Q380441,2001,2005
 +++,Ron Klain,Q649898,2009,2011
 ---,Ron Klain,Q649898,2009-01-20,2011-01-14
 ->,Bruce Reed,Q4978184,2011-01-14->2011,2013-12-01->2013
-+++,Steve Ricchetti,Q7613738,2013,2017
-+++,Josh Pitcock,Q28655388,2017,
-+++,Nick Ayers,Q16151025,2017,2019
-+++,Marc Short,Q28730226,2019,2021
-+++,Hartina Flournoy,Q103782254,2021,
+->,Hartina Flournoy,Q103782254,2021-01-20->2021,
