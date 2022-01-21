@@ -1,0 +1,192 @@
+{
+  "title": "James C. McConville",
+  "pageID": 46760439,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People from Quincy, Massachusetts",
+    "Military personnel from Massachusetts",
+    "United States Military Academy alumni",
+    "American Master Army Aviators",
+    "Georgia Tech alumni",
+    "United States Army generals",
+    "Recipients of the Distinguished Service Medal (US Army)",
+    "Recipients of the Legion of Merit",
+    "United States Army Vice Chiefs of Staff",
+    "United States Army Chiefs of Staff"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "James Charles McConville (born March 16, 1959) is a United States Army general who serves as the 40th chief of staff of the Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Army"
+                },
+                {
+                  "text": "chief of staff of the Army",
+                  "type": "internal",
+                  "page": "Chief of Staff of the United States Army"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "James Charles McConville"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as the 36th vice chief of staff of the Army from June 16, 2017 to July 26, 2019.",
+              "links": [
+                {
+                  "text": "vice chief of staff of the Army",
+                  "type": "internal",
+                  "page": "Vice Chief of Staff of the United States Army"
+                }
+              ]
+            },
+            {
+              "text": "Prior to that, he served as the Army's Deputy Chief of Staff for Personnel (G1).",
+              "links": [
+                {
+                  "text": "Deputy Chief of Staff for Personnel (G1)",
+                  "type": "internal",
+                  "page": "Deputy Chief of Staff G-1 Personnel of The United States Army"
+                }
+              ]
+            },
+            {
+              "text": "He assumed his current assignment on August 9, 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "United States Army general",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "3",
+          "day": "16",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "James C. McConville"
+          },
+          "image": {
+            "text": "McConville as CSA.jpg"
+          },
+          "birth_date": {
+            "text": "March 16, 1959"
+          },
+          "birth_place": {
+            "text": "Quincy, Massachusetts, United States",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Quincy, Massachusetts"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "United States"
+          },
+          "branch": {
+            "text": "United States Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Army"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1981–present"
+          },
+          "rank": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General (United States)"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Chief of Staff of the Army Vice Chief of Staff of the Army 101st Airborne Division 4th Brigade, 1st Cavalry Division 2nd Squadron, 17th Cavalry Regiment",
+            "links": [
+              {
+                "text": "Chief of Staff of the Army",
+                "type": "internal",
+                "page": "Chief of Staff of the United States Army"
+              },
+              {
+                "text": "Vice Chief of Staff of the Army",
+                "type": "internal",
+                "page": "Vice Chief of Staff of the United States Army"
+              },
+              {
+                "text": "101st Airborne Division",
+                "type": "internal",
+                "page": "101st Airborne Division"
+              },
+              {
+                "text": "4th Brigade, 1st Cavalry Division",
+                "type": "internal",
+                "page": "4th Brigade, 1st Cavalry Division"
+              },
+              {
+                "text": "2nd Squadron, 17th Cavalry Regiment",
+                "type": "internal",
+                "page": "2nd Squadron, 17th Cavalry Regiment"
+              }
+            ]
+          },
+          "battles": {
+            "text": "War in Afghanistan Iraq War",
+            "links": [
+              {
+                "text": "War in Afghanistan",
+                "type": "internal",
+                "page": "War in Afghanistan (2001–present)"
+              },
+              {
+                "type": "internal",
+                "page": "Iraq War"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Army Distinguished Service Medal (2) Legion of Merit (3) Bronze Star Medal (3)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Army Distinguished Service Medal"
+              },
+              {
+                "type": "internal",
+                "page": "Legion of Merit"
+              },
+              {
+                "type": "internal",
+                "page": "Bronze Star Medal"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
