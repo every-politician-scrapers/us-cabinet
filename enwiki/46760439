@@ -30,6 +30,11 @@
                   "page": "United States Army"
                 },
                 {
+                  "text": "general",
+                  "type": "internal",
+                  "page": "General (United States)"
+                },
+                {
                   "text": "chief of staff of the Army",
                   "type": "internal",
                   "page": "Chief of Staff of the United States Army"
