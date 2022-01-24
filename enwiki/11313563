@@ -124,7 +124,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Pedro R. Pierluisi"
+            "text": "Pedro Pierluisi"
           },
           "image": {
             "text": "Pedro R. Pierluisi.jpg"
@@ -190,12 +190,11 @@
             "text": "August 2, 2019"
           },
           "predecessor2": {
-            "text": "Luis Rivera Marín",
+            "text": "María Marcano de León (interim)",
             "links": [
               {
-                "text": "Luis Rivera Marín",
                 "type": "internal",
-                "page": "Luis G. Rivera Marín"
+                "page": "María Marcano de León"
               }
             ]
           },
@@ -311,7 +310,7 @@
             "number": 4
           },
           "relatives": {
-            "text": "José Jaime Pierluisi (deceased younger brother) Jorge Pierluisi-Urrutia (older brother) Caridad Pierluisi (sister)",
+            "text": "José Jaime Pierluisi (brother)",
             "links": [
               {
                 "type": "internal",
@@ -329,7 +328,7 @@
             ]
           },
           "education": {
-            "text": "Tulane University (BA)\n\nGeorge Washington University (JD)",
+            "text": "Tulane University (BA) George Washington University (JD)",
             "links": [
               {
                 "type": "internal",

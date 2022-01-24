@@ -338,115 +338,6 @@
             ]
           },
           "office2": {
-            "text": "Chair of the House Democratic Caucus",
-            "links": [
-              {
-                "text": "Chair of the House Democratic Caucus",
-                "type": "internal",
-                "page": "Democratic Caucus Chairman of the United States House of Representatives"
-              }
-            ]
-          },
-          "deputy2": {
-            "text": "Joe Crowley"
-          },
-          "leader2": {
-            "text": "Nancy Pelosi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nancy Pelosi"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "January 3, 2013"
-          },
-          "term_end2": {
-            "text": "January 3, 2017"
-          },
-          "predecessor2": {
-            "text": "John Larson",
-            "links": [
-              {
-                "text": "John Larson",
-                "type": "internal",
-                "page": "John B. Larson"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Joe Crowley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joe Crowley"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Vice Chair of the House Democratic Caucus",
-            "links": [
-              {
-                "text": "Vice Chair of the House Democratic Caucus",
-                "type": "internal",
-                "page": "Democratic Caucus Vice-Chairman of the United States House of Representatives"
-              }
-            ]
-          },
-          "leader3": {
-            "text": "Nancy Pelosi"
-          },
-          "term_start3": {
-            "text": "January 3, 2009"
-          },
-          "term_end3": {
-            "text": "January 3, 2013"
-          },
-          "predecessor3": {
-            "text": "John Larson"
-          },
-          "successor3": {
-            "text": "Joe Crowley"
-          },
-          "office4": {
-            "text": "House Democratic Assistant to the Leader",
-            "links": [
-              {
-                "text": "House Democratic Assistant to the Leader",
-                "type": "internal",
-                "page": "Party leaders of the United States House of Representatives"
-              }
-            ]
-          },
-          "leader4": {
-            "text": "Nancy Pelosi"
-          },
-          "term_start4": {
-            "text": "January 3, 2007"
-          },
-          "term_end4": {
-            "text": "January 3, 2009"
-          },
-          "predecessor4": {
-            "text": "John Spratt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Spratt"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Chris Van Hollen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Van Hollen"
-              }
-            ]
-          },
-          "office5": {
             "text": "Member of the U.S. House of Representatives from California",
             "links": [
               {
@@ -460,16 +351,16 @@
               }
             ]
           },
-          "constituency5": {
+          "constituency2": {
             "text": "(1993–2003) (2003–2013)  (2013–2017)"
           },
-          "term_start5": {
+          "term_start2": {
             "text": "January 3, 1993"
           },
-          "term_end5": {
+          "term_end2": {
             "text": "January 24, 2017"
           },
-          "predecessor5": {
+          "predecessor2": {
             "text": "Edward Roybal (Redistricting)",
             "links": [
               {
@@ -478,12 +369,121 @@
               }
             ]
           },
-          "successor5": {
+          "successor2": {
             "text": "Jimmy Gomez",
             "links": [
               {
                 "type": "internal",
                 "page": "Jimmy Gomez"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chair of the House Democratic Caucus",
+            "links": [
+              {
+                "text": "Chair of the House Democratic Caucus",
+                "type": "internal",
+                "page": "Democratic Caucus Chairman of the United States House of Representatives"
+              }
+            ]
+          },
+          "deputy3": {
+            "text": "Joe Crowley"
+          },
+          "leader3": {
+            "text": "Nancy Pelosi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nancy Pelosi"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 3, 2013"
+          },
+          "term_end3": {
+            "text": "January 3, 2017"
+          },
+          "predecessor3": {
+            "text": "John Larson",
+            "links": [
+              {
+                "text": "John Larson",
+                "type": "internal",
+                "page": "John B. Larson"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Joe Crowley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Crowley"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Vice Chair of the House Democratic Caucus",
+            "links": [
+              {
+                "text": "Vice Chair of the House Democratic Caucus",
+                "type": "internal",
+                "page": "Democratic Caucus Vice-Chairman of the United States House of Representatives"
+              }
+            ]
+          },
+          "leader4": {
+            "text": "Nancy Pelosi"
+          },
+          "term_start4": {
+            "text": "January 3, 2009"
+          },
+          "term_end4": {
+            "text": "January 3, 2013"
+          },
+          "predecessor4": {
+            "text": "John Larson"
+          },
+          "successor4": {
+            "text": "Joe Crowley"
+          },
+          "office5": {
+            "text": "House Democratic Assistant to the Leader",
+            "links": [
+              {
+                "text": "House Democratic Assistant to the Leader",
+                "type": "internal",
+                "page": "Party leaders of the United States House of Representatives"
+              }
+            ]
+          },
+          "leader5": {
+            "text": "Nancy Pelosi"
+          },
+          "term_start5": {
+            "text": "January 3, 2007"
+          },
+          "term_end5": {
+            "text": "January 3, 2009"
+          },
+          "predecessor5": {
+            "text": "John Spratt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Spratt"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Chris Van Hollen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Van Hollen"
               }
             ]
           },

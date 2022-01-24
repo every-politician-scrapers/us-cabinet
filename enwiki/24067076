@@ -202,11 +202,11 @@
           "template": "short description"
         },
         {
-          "small": "yes",
-          "template": "pp-sock"
+          "template": "other people"
         },
         {
-          "template": "other people"
+          "small": "yes",
+          "template": "pp-sock"
         },
         {
           "date": "September 2016",
