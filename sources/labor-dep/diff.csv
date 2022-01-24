@@ -32,12 +32,9 @@
 +++,Cynthia A. Metzler,,1996,1997
 +++,Vacant,,1997,1998
 +++,Kathryn O. Higgins,Q7889754,1998,2000
-+++,Edward B. Montgomery,Q5341674,2000,2001
-+++,D. Cameron Findlay,Q5203543,2001,2003
-+++,Steven J. Law,Q7614861,2003,2007
-+++,Howard M. Radzely,Q5920259,2007,2009
-+++,Seth Harris,Q4120997,2009,2014
-+++,M. Patricia Smith,Q6712994,2014,
+->,Howard M. Radzely,Q5920259,2007-12-19->2007,2009-02-02->2009
+->,Seth Harris,Q4120997,2009-05-26->2009,2014-04-03->2014
+->,M. Patricia Smith,Q6712994,2014-01-16->2014,2014-04-04->NULL
 ->,Chris Lu,Q5107284,2014-04-04->2014,2017-01-20->2017
-+++,Patrick Pizzella,Q30349466,2018,2021
-+++,Julie Su,Q16499848,2021,
+->,Patrick Pizzella,Q30349466,2018-04-17->2018,2021-01-20->2021
+->,Julie Su,Q16499848,2021-07-17->2021,

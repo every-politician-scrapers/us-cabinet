@@ -1,28 +1,17 @@
 @@,itemlabel,item,startdate,enddate
-+++,Max Rabb,Q6796127,1953-10,1958-05-19
-+++,Bob Gray,Q7346290,1958-05-19,1961-01-20
-+++,Fred Dutton,Q5495028,1961-01-20,1961-12-04
-+++,James Connor,Q107504118,1975-01-05,1977-01-20
-+++,Jack Watson,Q366337,1977-01-20,1980-06-11
+->,Maxwell M. Rabb->Max Rabb,Q6796127,1953-10,1958-05-19
+->,Robert Keith Gray->Bob Gray,Q7346290,1958-05-19,1961-01-20
+->,James E. Connor->James Connor,Q107504118,1975-01-05,1977-01-20
 +++,Gene Eidenberg,,1980-06-11,1981-01-20
-+++,Craig L. Fuller,Q51973106,1981-09-14,1985-01-30
-+++,Alfred H. Kingon,Q56611024,1985-01-30,1987-02-18
 +++,Nancy Risque,,1987-02-18,1989-01-20
-+++,Phillip D. Brady,Q7185656,1989-01-20,1989-06-26
 +++,Steve Danzansky,,1989-06-26,1991-04-20
 +++,Gary Blumenthal,,1991-06-10,1992-09-10
 +++,Daniel Casse,,1992-09-10,1993-01-20
-+++,Christine A. Varney,Q5110899,1993-01-20,1994-10-14
 +++,Kitty Higgins,,1995-01-26,1997-02-07
-+++,Thurgood Marshall Jr.,Q7799280,1997-02-07,2001-01-20
+->,"Thurgood Marshall, Jr.->Thurgood Marshall Jr.",Q7799280,1997-02-07,2001-01-20
 +++,Albert Hawkins III,,2001-01-20,2003-01
-+++,Brian D. Montgomery,Q4963500,2003-01,2005-02-24
 +++,Heidi Smith,,2005,2006
 +++,Neal Burnham,,2006,
 +++,Ross Kyle,,2006-08-09,2009-01-20
-+++,Danielle C. Gray,Q13562426,2013-01-25,2014-01-13
-+++,Broderick D. Johnson,Q21064122,2014-01-13,2017-01-20
 ->,Bill McGinley,Q28794097,2017-01-20,NULL->2019-07-19
 +++,Matthew J. Flynn,,2019-07-19,2019-09-24
-+++,Kristan King Nevins,Q92349440,2019-09-24,2021-01-20
-+++,Evan Ryan,Q5415533,2021-01-20,
