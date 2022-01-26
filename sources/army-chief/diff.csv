@@ -1,24 +1,22 @@
 @@,itemlabel,item,startdate,enddate
-->,Samuel Baldwin Marks Young->Samuel B. M. Young,Q7083474->NULL,1903-08-15,1904-01-08
+->,Samuel Baldwin Marks Young->Samuel B. M. Young,Q7083474,1903-08-15,1904-01-08
 ->,Adna Chaffee,Q2541061,1904-08-19->1904-01-09,1906-01-14
-->,William Wallace Wotherspoon->William W. Wotherspoon,Q8019943->NULL,1914-04-22,1914-11-16
-+++,John J. Pershing,Q272383,1921-07-01,1924-09-13
-+++,John L. Hines,Q6243604,1924-09-14,1926-11-20
-+++,Charles P. Summerall,,1926-11-21,1930-11-20
+->,William Wallace Wotherspoon->William W. Wotherspoon,Q8019943,1914-04-22,1914-11-16
+->,Charles Pelot Summerall->Charles P. Summerall,Q5081580,1926-11-21,1930-11-20
 ->,George Marshall->George C. Marshall,Q151414,1939-09-01,1945-11-18
 ->,Joseph Lawton Collins->J. Lawton Collins,Q301853,1949-08-16,1953-08-14
-+++,Matthew B. Ridgway,,1953-08-15,1955-06-29
+->,Matthew Ridgway->Matthew B. Ridgway,Q494930,1953-08-15,1955-06-29
 ->,Maxwell Davenport Taylor->Maxwell D. Taylor,Q313972,1955-06-30,1959-06-30
-+++,Lyman L. Lemnitzer,,1959-07-01,1960-09-30
-->,George Decker->George H. Decker,Q5538468->NULL,1960-10-01,1962-09-30
-+++,Earle G. Wheeler,,1962-10-01,1964-07-02
-+++,Harold K. Johnson,,1964-07-03,1968-07-02
-+++,William C. Westmoreland,,1968-07-03,1972-06-30
+->,Lyman Lemnitzer->Lyman L. Lemnitzer,Q689779,1959-07-01,1960-09-30
+->,George Decker->George H. Decker,Q5538468,1960-10-01,1962-09-30
+->,Earle Wheeler->Earle G. Wheeler,Q343336,1962-10-01,1964-07-02
+->,Harold Keith Johnson->Harold K. Johnson,Q12790767,1964-07-03,1968-07-02
+->,William Westmoreland->William C. Westmoreland,Q298793,1968-07-03,1972-06-30
 ->,"Bruce Palmer, Jr.->Bruce Palmer Jr.",Q4978107,1972-07-01,1972-10-11
-+++,Creighton W. Abrams,,1972-10-12,1974-09-04
+->,Creighton Abrams->Creighton W. Abrams,Q280290,1972-10-12,1974-09-04
 ->,John A. Wickham->John A. Wickham Jr.,Q465086,1983-07-23,1987-06-23
-+++,Dennis J. Reimer,,1995-06-20,1999-06-21
-->,Eric Shinseki->Eric K. Shinseki,Q373274->NULL,1999-06-21,2003-06-11->2004-07-11
-+++,Peter J. Schoomaker,,2004-08-01,2007-04-10
+->,Dennis Reimer->Dennis J. Reimer,Q428797,1995-06-20,1999-06-21
+->,Eric Shinseki->Eric K. Shinseki,Q373274,1999-06-21,2003-06-11
+->,Peter Schoomaker->Peter J. Schoomaker,Q1362004,2003-08-01,2007-04-10
 ->,"George W. Casey, Jr.->George W. Casey Jr.",Q430701,2007-04-10,2011-04-10
-+++,Martin E. Dempsey,,2011-04-11,2011-09-07
+->,Martin Dempsey->Martin E. Dempsey,Q26093,2011-04-11,2011-09-07
