@@ -326,7 +326,7 @@
         {
           "sentences": [
             {
-              "text": "On January 3, 2021, Pelosi was reelected to a fourth term as speaker of the House, which is expected to be her last, after a deal with progressives.",
+              "text": "On January 3, 2021, Pelosi was reelected to a fourth term as speaker of the House, which had been expected to be her last, after a deal with progressives.",
               "links": [
                 {
                   "text": "reelected",
@@ -353,6 +353,9 @@
                   "page": "American Rescue Plan Act of 2021"
                 }
               ]
+            },
+            {
+              "text": "She announced in January 2022 that she would seek reelection as a U.S. representative that year, though she had pledged in 2018 to not seek the speakership again."
             }
           ]
         }

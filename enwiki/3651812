@@ -37,6 +37,16 @@
         {
           "sentences": [
             {
+              "text": "{{Infobox officeholder"
+            },
+            {
+              "text": "}}"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "Edward Miner Lamont Jr. (born January 3, 1954) is an American businessman and politician serving as the 89th governor of Connecticut since January 9, 2019.",
               "links": [
                 {
@@ -206,29 +216,18 @@
         {
           "date": "October 2020",
           "template": "use american english"
-        },
-        {
-          "year": "1954",
-          "month": "1",
-          "day": "3",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Ann Huntress",
-          "from": "September 10, 1983",
-          "template": "marriage"
         }
       ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ned Lamont"
+      "lists": [
+        [
+          {
+            "text": "name       = Ned Lamont"
           },
-          "image": {
-            "text": "Governor Ned Lamont of Connecticut, official portrait.jpg"
+          {
+            "text": "image      = Governor Ned Lamont of Connecticut, official portrait.jpg"
           },
-          "order": {
-            "text": "89th Governor of Connecticut",
+          {
+            "text": "order      = 89th Governor of Connecticut",
             "links": [
               {
                 "text": "Governor of Connecticut",
@@ -237,8 +236,8 @@
               }
             ]
           },
-          "lieutenant": {
-            "text": "Susan Bysiewicz",
+          {
+            "text": "lieutenant = Susan Bysiewicz",
             "links": [
               {
                 "type": "internal",
@@ -246,11 +245,14 @@
               }
             ]
           },
-          "term_start": {
-            "text": "January 9, 2019"
+          {
+            "text": "term_start = January 9, 2019"
           },
-          "predecessor": {
-            "text": "Dannel Malloy",
+          {
+            "text": "term_end   ="
+          },
+          {
+            "text": "predecessor = Dannel Malloy",
             "links": [
               {
                 "type": "internal",
@@ -258,14 +260,17 @@
               }
             ]
           },
-          "birth_name": {
-            "text": "Edward Miner Lamont Jr."
+          {
+            "text": "successor  ="
           },
-          "birth_date": {
-            "text": "January 3, 1954"
+          {
+            "text": "birth_name = Edward Miner Lamont Jr."
           },
-          "birth_place": {
-            "text": "Washington, D.C., U.S.",
+          {
+            "text": "birth_date = {{birth date and age|1954|1|3}}"
+          },
+          {
+            "text": "birth_place = Washington, D.C., U.S.",
             "links": [
               {
                 "type": "internal",
@@ -273,8 +278,14 @@
               }
             ]
           },
-          "party": {
-            "text": "Democratic",
+          {
+            "text": "death_date ="
+          },
+          {
+            "text": "death_place ="
+          },
+          {
+            "text": "party      = Democratic",
             "links": [
               {
                 "text": "Democratic",
@@ -283,15 +294,21 @@
               }
             ]
           },
-          "spouse": {
-            "text": "Ann Huntress (m. September 10, 1983)"
+          {
+            "text": "spouse     = {{marriage|Ann Huntress|September 10, 1983}}",
+            "links": [
+              {
+                "text": "Ann Huntress",
+                "type": "internal",
+                "page": "Ann Lamont"
+              }
+            ]
           },
-          "children": {
-            "text": "3",
-            "number": 3
+          {
+            "text": "children   = 3"
           },
-          "residence": {
-            "text": "Governor's Mansion",
+          {
+            "text": "residence  = Governor's Mansion",
             "links": [
               {
                 "text": "Governor's Mansion",
@@ -300,8 +317,8 @@
               }
             ]
           },
-          "education": {
-            "text": "Philips Exeter Academy",
+          {
+            "text": "education  = Philips Exeter Academy",
             "links": [
               {
                 "type": "internal",
@@ -309,8 +326,8 @@
               }
             ]
           },
-          "alma_mater": {
-            "text": "Harvard University (BA) Yale University (MBA)",
+          {
+            "text": "alma_mater = Harvard University (BA) Yale University (MBA)",
             "links": [
               {
                 "type": "internal",
@@ -332,13 +349,13 @@
               }
             ]
           },
-          "signature": {
-            "text": "Ned Lamont signature.svg"
+          {
+            "text": "signature  = Ned Lamont signature.svg"
           },
-          "website": {
-            "text": "Government website"
+          {
+            "text": "website    = {{URL|portal.ct.gov/Office-of-the-Governor|Government website}}}"
           }
-        }
+        ]
       ]
     }
   ]

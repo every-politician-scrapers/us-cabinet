@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Douglas Anthony Ducey Jr. (born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of Arizona.",
+              "text": "Douglas Anthony Ducey Jr. (, né Roscoe; born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of Arizona.",
               "links": [
                 {
                   "text": "governor of Arizona",
@@ -37,7 +37,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Douglas Anthony Ducey Jr."
+                  "Douglas Anthony Ducey Jr.",
+                  "Roscoe"
                 ]
               }
             },
@@ -100,6 +101,10 @@
         }
       ],
       "templates": [
+        {
+          "date": "January 2022",
+          "template": "use mdy dates"
+        },
         {
           "description": "American businessman and politician",
           "template": "short description"
