@@ -355,21 +355,12 @@
               ]
             },
             {
-              "text": "Biden is the oldest president, the first to have a female vice president, the first from Delaware, and the second Catholic after John F. Kennedy.",
+              "text": "He is the oldest president and the first to have a female vice president.",
               "links": [
                 {
                   "text": "oldest president",
                   "type": "internal",
                   "page": "List of presidents of the United States by age"
-                },
-                {
-                  "text": "second Catholic",
-                  "type": "internal",
-                  "page": "Religious affiliations of presidents of the United States"
-                },
-                {
-                  "type": "internal",
-                  "page": "John F. Kennedy"
                 }
               ]
             },
@@ -422,15 +413,20 @@
               ]
             },
             {
-              "text": "Biden completed the withdrawal of all U.S. troops from Afghanistan by September 2021; during this, the Afghan government fell and the Taliban seized control, causing Biden to face criticism over the manner of withdrawal, with allegations of poor planning.",
+              "text": "He completed the withdrawal of U.S. troops from Afghanistan by September 2021.",
               "links": [
                 {
-                  "text": "withdrawal of all U.S. troops from Afghanistan",
+                  "text": "withdrawal of U.S. troops from Afghanistan",
                   "type": "internal",
                   "page": "Withdrawal of United States troops from Afghanistan (2021)"
-                },
+                }
+              ]
+            },
+            {
+              "text": "Following the withdrawal, the Afghan government collapsed and the Taliban seized control.",
+              "links": [
                 {
-                  "text": "Afghan government fell and the Taliban seized control",
+                  "text": "Afghan government collapsed and the Taliban seized control",
                   "type": "internal",
                   "page": "2021 Taliban offensive"
                 }

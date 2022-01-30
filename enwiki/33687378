@@ -527,11 +527,12 @@
             "text": "Win the Era"
           },
           "allegiance": {
-            "text": "United States",
+            "text": "🇺🇸 United States",
             "links": [
               {
+                "text": "United States",
                 "type": "internal",
-                "page": "United States"
+                "page": "united states"
               }
             ]
           },
@@ -539,8 +540,9 @@
             "text": "United States Navy",
             "links": [
               {
+                "text": "United States Navy",
                 "type": "internal",
-                "page": "United States Navy"
+                "page": "undefined"
               }
             ]
           },

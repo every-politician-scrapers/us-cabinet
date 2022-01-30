@@ -23,13 +23,8 @@
         {
           "sentences": [
             {
-              "text": "Stephen F. Sisolak (born December 26, 1953) is an American businessman and politician serving as the 30th and current governor of Nevada since 2019.",
+              "text": "Stephen F. Sisolak (born December 26, 1953) is an American businessman and politician who has served as the 30th governor of Nevada since 2019.",
               "links": [
-                {
-                  "text": "30th",
-                  "type": "internal",
-                  "page": "List of governors of Nevada"
-                },
                 {
                   "text": "governor of Nevada",
                   "type": "internal",
@@ -43,7 +38,7 @@
               }
             },
             {
-              "text": "A member of the Democratic Party, he previously chaired the Clark County Commission from 2013 to 2019.",
+              "text": "A member of the Democratic Party, he previously served on the Clark County Commission from 2009 to 2019 and on the Nevada Board of Regents from 1999 to 2008.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -53,6 +48,11 @@
                 {
                   "type": "internal",
                   "page": "Clark County Commission"
+                },
+                {
+                  "text": "Nevada Board of Regents",
+                  "type": "internal",
+                  "page": "Nevada System of Higher Education"
                 }
               ]
             }
@@ -87,7 +87,7 @@
               ]
             },
             {
-              "text": "After becoming involved in several civic causes and government projects, Sisolak won election to the Nevada Board of Regents and served from 1999 to 2008.",
+              "text": "After becoming involved in several civic causes and government projects, Sisolak was elected to the Nevada Board of Regents and served from 1999 to 2008.",
               "links": [
                 {
                   "text": "Nevada Board of Regents",
@@ -97,31 +97,32 @@
               ]
             },
             {
-              "text": "In 2008, he won election to the Clark County Commission and was reelected in 2012 and 2016."
+              "text": "In 2008, he was elected to the Clark County Commission and was reelected in 2012 and 2016."
             },
             {
-              "text": "In 2018, Sisolak won the Democratic nomination for governor of Nevada, defeating Clark County Commission colleague Chris Giunchigliani in the primary election.",
+              "text": "Sisolak served as vice chair of the commission from 2011 to 2013 and as chair from 2013 to 2019."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sisolak ran for governor of Nevada in 2018."
+            },
+            {
+              "text": "He defeated fellow Clark County commissioner Chris Giunchigliani for the Democratic nomination and then defeated the Republican nominee, then-attorney general Adam Laxalt, in the general election, becoming the first Democrat to serve as governor of Nevada since Bob Miller left office in 1999.",
               "links": [
-                {
-                  "text": "governor of Nevada",
-                  "type": "internal",
-                  "page": "List of governors of Nevada"
-                },
                 {
                   "type": "internal",
                   "page": "Chris Giunchigliani"
-                }
-              ]
-            },
-            {
-              "text": "On November 6, 2018, Sisolak defeated Republican nominee, Nevada Attorney General Adam Laxalt in the general election, becoming the first Democrat serving in the Nevada governorship since Bob Miller left office in 1999.",
-              "links": [
+                },
                 {
                   "text": "Republican",
                   "type": "internal",
                   "page": "Republican Party (United States)"
                 },
                 {
+                  "text": "attorney general",
                   "type": "internal",
                   "page": "Nevada Attorney General"
                 },
@@ -138,6 +139,16 @@
                   "text": "Bob Miller",
                   "type": "internal",
                   "page": "Bob Miller (Nevada governor)"
+                }
+              ]
+            },
+            {
+              "text": "He is running for re-election in 2022.",
+              "links": [
+                {
+                  "text": "2022",
+                  "type": "internal",
+                  "page": "2022 Nevada gubernatorial election"
                 }
               ]
             }
@@ -181,7 +192,7 @@
             "text": "Steve Sisolak"
           },
           "image": {
-            "text": "Steve Sisolak 2020 (portrait crop).jpg"
+            "text": "Steve Sisolak (cropped2).jpeg"
           },
           "order": {
             "text": "30th Governor of Nevada",
@@ -246,7 +257,7 @@
             ]
           },
           "office2": {
-            "text": "Vice Chair of the Clark County Commission",
+            "text": "Member of the Clark County Commission from District A",
             "links": [
               {
                 "type": "internal",
@@ -255,33 +266,12 @@
             ]
           },
           "term_start2": {
-            "text": "January 3, 2011"
-          },
-          "term_end2": {
-            "text": "January 6, 2013"
-          },
-          "predecessor2": {
-            "text": "Susan Brager"
-          },
-          "successor2": {
-            "text": "Larry Brown"
-          },
-          "office3": {
-            "text": "Member of the Clark County Commission from district A",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Clark County Commission"
-              }
-            ]
-          },
-          "term_start3": {
             "text": "January 5, 2009"
           },
-          "term_end3": {
+          "term_end2": {
             "text": "January 7, 2019"
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Bruce Woodbury",
             "links": [
               {
@@ -291,10 +281,10 @@
               }
             ]
           },
-          "successor3": {
+          "successor2": {
             "text": "Michael Naft"
           },
-          "office4": {
+          "office3": {
             "text": "Member of the Nevada Board of Regents from the 2nd district",
             "links": [
               {
@@ -304,19 +294,16 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start3": {
             "text": "January 1, 1999"
           },
-          "term_end4": {
+          "term_end3": {
             "text": "December 31, 2008"
           },
-          "constituency4": {
-            "text": "Subdistrict G"
-          },
-          "predecessor4": {
+          "predecessor3": {
             "text": "Maddy Graves"
           },
-          "successor4": {
+          "successor3": {
             "text": "Theresa Malone"
           },
           "birth_date": {
@@ -371,13 +358,12 @@
             ]
           },
           "website": {
-            "text": "Government website"
+            "text": "Government website Campaign website"
           },
           "education": {
-            "text": "University of Wisconsin, Milwaukee (BS) University of Nevada, Las Vegas (MBA)",
+            "text": "University of Wisconsin–Milwaukee (BS) University of Nevada, Las Vegas (MBA)",
             "links": [
               {
-                "text": "University of Wisconsin, Milwaukee",
                 "type": "internal",
                 "page": "University of Wisconsin–Milwaukee"
               },

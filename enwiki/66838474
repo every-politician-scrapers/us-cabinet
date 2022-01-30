@@ -68,12 +68,11 @@
               ]
             },
             {
-              "text": "Prior to entering politics, he spent 25 years at the private-equity firm the Carlyle Group, where he became co–CEO in 2018.",
+              "text": "Prior to entering politics, he spent 25 years at the private-equity firm The Carlyle Group, where he became co–CEO in 2018.",
               "links": [
                 {
-                  "text": "the Carlyle Group",
                   "type": "internal",
-                  "page": "the Carlyle Group"
+                  "page": "The Carlyle Group"
                 }
               ]
             },
@@ -170,6 +169,16 @@
           "children": {
             "text": "4",
             "number": 4
+          },
+          "residence": {
+            "text": "Executive Mansion",
+            "links": [
+              {
+                "text": "Executive Mansion",
+                "type": "internal",
+                "page": "Virginia Executive Mansion"
+              }
+            ]
           },
           "education": {
             "text": "Rice University (BA, BS) Harvard University (MBA)",
