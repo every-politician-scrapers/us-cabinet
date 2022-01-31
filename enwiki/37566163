@@ -108,19 +108,6 @@
               }
             ]
           },
-          "president": {
-            "text": "Donald Trump Joe Biden",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Donald Trump"
-              },
-              {
-                "type": "internal",
-                "page": "Joe Biden"
-              }
-            ]
-          },
           "lieutenant": {
             "text": "Salo Ale",
             "links": [
