@@ -68,11 +68,12 @@
               ]
             },
             {
-              "text": "Prior to entering politics, he spent 25 years at the private-equity firm The Carlyle Group, where he became co–CEO in 2018.",
+              "text": "Prior to entering politics, he spent 25 years at the private-equity firm the Carlyle Group, where he became co–CEO in 2018.",
               "links": [
                 {
+                  "text": "the Carlyle Group",
                   "type": "internal",
-                  "page": "The Carlyle Group"
+                  "page": "the Carlyle Group"
                 }
               ]
             },

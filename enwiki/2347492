@@ -343,13 +343,7 @@
             ]
           },
           "president4": {
-            "text": "Barack Obama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barack Obama"
-              }
-            ]
+            "text": "Barack Obama"
           },
           "term_start4": {
             "text": "August 9, 2009"

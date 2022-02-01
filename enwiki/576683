@@ -176,12 +176,8 @@
             ]
           },
           "lieutenant": {
-            "text": "Dan Forest Mark Robinson",
+            "text": "Mark Robinson",
             "links": [
-              {
-                "type": "internal",
-                "page": "Dan Forest"
-              },
               {
                 "text": "Mark Robinson",
                 "type": "internal",
