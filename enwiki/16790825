@@ -263,12 +263,12 @@
             ]
           },
           "education": {
-            "text": "Assumption College (BA) Harvard University (MPA)",
+            "text": "Assumption University (BA) Harvard University (MPA)",
             "links": [
               {
-                "text": "Assumption College",
+                "text": "Assumption University",
                 "type": "internal",
-                "page": "Assumption College (Worcester)"
+                "page": "Assumption University (Worcester)"
               },
               {
                 "text": "BA",
