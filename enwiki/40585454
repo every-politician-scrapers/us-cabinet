@@ -174,16 +174,11 @@
         {
           "sentences": [
             {
-              "text": "In January 2021, Sununu began his third term as governor of New Hampshire, one term short of the modern record of four served by John Lynch from 2005 to 2013.",
+              "text": "In January 2021, Sununu began his third term as governor of New Hampshire.",
               "links": [
                 {
                   "type": "internal",
                   "page": "New Hampshire"
-                },
-                {
-                  "text": "John Lynch",
-                  "type": "internal",
-                  "page": "John Lynch (New Hampshire governor)"
                 }
               ]
             },
