@@ -202,8 +202,12 @@
             ]
           },
           "deputy": {
-            "text": "Don Graves",
+            "text": "Wynn Coggins (acting) Don Graves",
             "links": [
+              {
+                "type": "internal",
+                "page": "Wynn Coggins"
+              },
               {
                 "type": "internal",
                 "page": "Don Graves"
@@ -222,7 +226,7 @@
               }
             ]
           },
-          "order1": {
+          "order2": {
             "text": "75th Governor of Rhode Island",
             "links": [
               {
@@ -231,16 +235,16 @@
               }
             ]
           },
-          "lieutenant1": {
+          "lieutenant2": {
             "text": "Dan McKee"
           },
-          "term_start1": {
+          "term_start2": {
             "text": "January 6, 2015"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "March 2, 2021"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Lincoln Chafee",
             "links": [
               {
@@ -249,7 +253,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Dan McKee",
             "links": [
               {
