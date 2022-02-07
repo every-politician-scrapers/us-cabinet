@@ -120,25 +120,6 @@
                   "page": "social distancing"
                 }
               ]
-            },
-            {
-              "text": "Data gathered by both the Mayo Clinic and The New York Times indicate that reported cases of COVID-19 in the state have mostly remained in line with the national average throughout most of the pandemic, while medical publications such as Becker’s Hospital Review listed South Dakota as below most states in daily average deaths per 100,000 residents as of January 2022.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mayo Clinic"
-                },
-                {
-                  "type": "internal",
-                  "page": "The New York Times"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "The New York Times",
-                  "Becker’s Hospital Review"
-                ]
-              }
             }
           ]
         }

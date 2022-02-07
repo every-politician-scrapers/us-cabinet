@@ -48,7 +48,22 @@
               }
             },
             {
-              "text": "She is a member of the Democratic Party.",
+              "text": "She is New York's first female governor, and the first governor to originate in upstate New York since the 1930s.",
+              "links": [
+                {
+                  "text": "first female",
+                  "type": "internal",
+                  "page": "List of female governors in the United States"
+                },
+                {
+                  "text": "upstate New York",
+                  "type": "internal",
+                  "page": "upstate New York"
+                }
+              ]
+            },
+            {
+              "text": "Hochul is a member of the Democratic Party.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -178,20 +193,6 @@
                   "text": "allegations of sexual harassment",
                   "type": "internal",
                   "page": "Andrew Cuomo sexual harassment allegations"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She is New York's first female governor, and the first governor to originate in upstate New York since the 1930s.",
-              "links": [
-                {
-                  "text": "first female",
-                  "type": "internal",
-                  "page": "List of female governors in the United States"
                 }
               ]
             }
