@@ -1,11 +1,8 @@
 @@,itemlabel,item,startdate,enddate
-+++,John C. Kornblum,Q1700735,1999-07-07,2001-01-16
----,Dan Coats,Q632321,2001,2005
----,Dan Coats,Q632321,2001-08-15,2005-02-28
-+++,Daniel R. Coats,Q632321,2001-09-12,2005-02-25
+->,Dan Coats->Daniel R. Coats,Q632321,2001-08-15->2001-09-12,2005-02-28->2005-02-25
 ->,William R. Timken->William R. Timken Jr.,Q882034->NULL,2005-09-02,2008-12-05
-+++,John M. Koenig,Q1700916,2008-12-06,2009-09-02
+->,John Koenig->John M. Koenig,Q1700916,2008-12-06,2009-09-02
 ->,Phil Murphy->Philip D. Murphy,Q260042,2009-08-21->2009-09-03,2013-05-29->2013-08-26
 ->,John B. Emerson,Q14593411,2013-08-07->2013-08-26,2017-01-20
-->,Richard Grenell,Q7326068,2018-04->2018-05-08,NULL->2020-06-01
-+++,Robin Quinville,,2020-06-01,
+->,Richard Grenell,Q7326068,2018-04->2018-05-08,2020-06-01
+->,Robin Quinville,Q57394943->NULL,2020-06-01,
