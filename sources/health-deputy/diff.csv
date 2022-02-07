@@ -1,13 +1,5 @@
 @@,itemlabel,item,startdate,enddate
-+++,Constance Horner,Q17478660,1990-08,1991
-+++,Kevin Moley,Q55357016,1991,1993
-+++,Walter Broadnax,Q7964381,1993,1996
-+++,Kevin Thurm,Q56690593,1996,2001
-+++,Claude A. Allen,Q5128676,2001-05-26,2005-01-22
-+++,Alex M. Azar II,Q4716651,2005-01-22,2007-02-04
-+++,Eric Hargan,Q5386667,2007-02-04,2007-08-05
-+++,Tevi Troy,Q7707132,2007-08-05,2009-01-20
-+++,Bill Corr,Q4908572,2009-05-06,2015-04
-+++,Mary Katherine Wakefield,Q6780902,2015-04,2017-01-20
-+++,Colleen Barros,Q29054738,2017-01-20,2017-10-06
-+++,Eric Hargan,Q5386667,2017-10-06,2021-01-20
+->,Kevin E. Moley->Kevin Moley,Q55357016,1991,1993
+->,Claude Allen->Claude A. Allen,Q5128676,2001-05-26,2005-01-22
+->,Alex Azar->Alex M. Azar II,Q4716651,2005-01-22,2007-02-04
+->,Mary Wakefield->Mary Katherine Wakefield,Q6780902,2015-04,2017-01-20
