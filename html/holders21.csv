@@ -126,7 +126,7 @@ Secretary of State,Mike Pompeo,Q473239,2018-04-26,2021-01-20,male,1963-12-30,,Mi
 Secretary of State,Daniel Bennett Smith,Q30106114,2021-01-20,2021-01-26,male,1956-03-06,,Daniel Bennett Smith ambassador.jpg,Daniel Bennett Smith
 Secretary of State,Antony Blinken,Q7821917,2021-01-26,,male,1962-04-16,,Secretary Blinken's Official Department Photo.jpg,Antony Blinken
 Secretary of the Air Force,Pete Geren,Q1170156,2005-06-29,2005-11-04,male,1952-01-29,,"Pete Geren, Secretary of the Army, official photo.jpg",Pete Geren
-Secretary of the Air Force,Michael B. Donley,Q1852641,2008-06-21,2008-10-02,male,1952-10-04,,Michael Donley official portrait.jpg,Michael B. Donley
+Secretary of the Air Force,Michael B. Donley,Q1852641,2008-06-21,2013-06-21,male,1952-10-04,,"Michael B. Donley, official DoD portrait 2021.jpg",Michael B. Donley
 Secretary of the Air Force,Deborah Lee James,Q16189325,2013-12-20,2017-01-20,female,1958-11-25,,Deborah Lee James.JPG,Deborah Lee James
 Secretary of the Air Force,Lisa Disbrow,Q28739918,2017-01-20,2017-05-16,female,1962-09-29,,"Lisa S. Disbrow, USAF, 2014.JPG",Lisa Disbrow
 Secretary of the Air Force,Heather Wilson,Q459712,2017-05-16,,female,1960-12-30,,"Heather Wilson, official 109th Congress photo.jpg",Heather Wilson
@@ -657,6 +657,7 @@ White House Cabinet Secretary,Bill McGinley,Q28794097,2017-01-20,,male,,,,Bill M
 White House Cabinet Secretary,Kristan King Nevins,Q92349440,2019-09-24,2021-01-20,female,,,,Kristan King Nevins
 White House Cabinet Secretary,Evan Ryan,Q5415533,2021-01-20,,female,1971,,"Evan Ryan, 2016 (cropped).jpg",Evan Ryan
 Deputy Secretary of Agriculture,Richard Rominger,Q62567719,1993-05-12,2001-01-20,male,1927-07-01,2020-12-21,Rominger Official USDA Portrait.jpg,Richard Rominger
+Deputy Secretary of Agriculture,Jim Moseley,Q110834208,2001-08,2005-04,male,,,,
 Deputy Secretary of Agriculture,Charles F. Conner,Q2967584,2005-05-02,2009-01-20,male,1957-12-30,,"Charles F. Conner, official USDA photo portrait.jpg",Charles Franklin Conner
 Deputy Secretary of Agriculture,Kathleen Merrigan,Q6376845,2009-04-08,2013-03-14,female,1959-10-06,,Kathleen Merrigan official portrait.jpg,Kathleen Merrigan
 Deputy Secretary of Agriculture,Krysta Harden,Q29920096,2013-07-23,2016-02-29,female,,,Krysta Harden Official Portrait.jpg,Krysta Harden
@@ -700,10 +701,13 @@ Deputy Secretary of Education,James H. Shelton III,Q16885632,2013-07,2015-01-04,
 Deputy Secretary of Education,"John King, Jr.",Q6243110,2015-01-04,2016-03-14,male,1975-01-05,,"John B. King, Jr.2015.jpg",John King Jr.
 Deputy Secretary of Education,James Cole Jr.,Q23771533,2016-03-14,2017-01-20,male,,,"James Cole, Jr.jpg",James Cole Jr.
 Deputy Secretary of Education,Mick Zais,Q16107563,2018-05-17,2021-01-07,male,1946-12-10,,Mick Zais official photo (cropped).jpg,Mick Zais
+Deputy Secretary of Education,Denise L. Carter,Q110834198,2021-01-20,2021-05-18,female,,,,
 Deputy Secretary of Education,Cindy Marten,Q104887669,2021-05-18,,female,,,"Cindy Marten, Deputy Secretary of Education (cropped).png",Cindy Marten
+Deputy Secretary of Energy,Betsy Moler,Q110834216,1997,2001,female,,,,
 Deputy Secretary of Energy,Frank Blake,Q1437140,2001-06-01,2002-04,male,1949-07-30,,,Frank Blake
 Deputy Secretary of Energy,Kyle E. McSlarrow,Q6451136,2002-11-27,2005-02,male,1960-06-29,,Kyle McSlarrow.jpg,Kyle E. McSlarrow
 Deputy Secretary of Energy,Clay Sell,Q5129977,2005-03-17,2008-02-29,male,1967-04-28,,Hanford site visit (7494424212).jpg,Clay Sell
+Deputy Secretary of Energy,Jeffrey Kupfer,Q110834226,2008-03-01,2009-01-20,male,,,,
 Deputy Secretary of Energy,Daniel Poneman,Q5218466,2009-05-18,2014-10-05,male,1956-03-12,,Daniel Poneman official portrait.jpg,Daniel Poneman
 Deputy Secretary of Energy,Elizabeth Sherwood-Randall,Q21061985,2014-10-10,2017-01-20,female,1959,,Elizabeth Sherwood-Randall DHS photo.jpg,Elizabeth Sherwood-Randall
 Deputy Secretary of Energy,Dan R. Brouillette,Q29453265,2017-08-08,2019-12-04,male,1947-09-14,,Dan Brouillette official photo.jpg,Dan Brouillette
@@ -740,6 +744,7 @@ Deputy Secretary of Housing and Urban Development,Alphonso Jackson,Q324505,2001-
 Deputy Secretary of Housing and Urban Development,Roy Bernardi,Q3445744,2004-11-21,2009-01-20,male,1942-10-14,,Roy Bernardi.jpg,Roy Bernardi
 Deputy Secretary of Housing and Urban Development,Ron Sims,Q7364392,2009-05-08,2011-07,male,1948-07-05,,Ron Sims official portrait.jpg,Ron Sims
 Deputy Secretary of Housing and Urban Development,Maurice Jones,Q28059475,2012-04-18,2014-01,male,1964-09-14,,Maurice Jones Official Portrait.gif,Maurice Jones
+Deputy Secretary of Housing and Urban Development,Helen Kanovsky,Q108581194,2014-01,2014-12-02,,,,,
 Deputy Secretary of Housing and Urban Development,Nani A. Coloretti,Q23418884,2014-12-02,2017-01-20,female,1969,,ColorettiHUD.jpg,Nani A. Coloretti
 Deputy Secretary of Housing and Urban Development,Pam Patenaude,Q27881250,2017-09-27,2019-01-17,female,1961-01-20,,Pam Patenaude official photo.jpg,Pam Patenaude
 Deputy Secretary of Housing and Urban Development,Brian D. Montgomery,Q4963500,2019-01-17,2020-05-12,male,1956-08-02,,MontgomeryBrian.jpg,Brian D. Montgomery
@@ -802,10 +807,13 @@ Deputy Secretary of Veterans Affairs,"Leo Mackay, Jr.",Q6524019,2001-05-24,2003-
 Deputy Secretary of Veterans Affairs,Gordon H. Mansfield,Q3110903,2004-01-22,2009-01-20,male,1941-09-15,2013-01-29,Gordon H. Mansfield.jpg,Gordon H. Mansfield
 Deputy Secretary of Veterans Affairs,W. Scott Gould,Q7945987,2009-04-09,2013-05-17,male,1957-07-19,,W. Scott Gould official portrait.jpg,W. Scott Gould
 Deputy Secretary of Veterans Affairs,Sloan D. Gibson,Q16499744,2014-02-11,2017-01-20,male,,,Sloan Gibson.jpg,Sloan D. Gibson
+Deputy Secretary of Veterans Affairs,Gina Farrisee,Q110834235,2017-01-20,2017-02-25,female,,,,
+Deputy Secretary of Veterans Affairs,Scott Blackburn,Q110834239,2017-02-26,2017-08-09,male,,,,
 Deputy Secretary of Veterans Affairs,Thomas G. Bowman,Q34675180,2017-08-10,2018-06-15,male,1946-11-01,,Thomas G. Bowman official photo.jpg,Thomas G. Bowman
 Deputy Secretary of Veterans Affairs,James Byrne,Q39073524,2018-08-28,2019-09-16,male,1965-01-25,,James Byrne official photo.jpg,James Byrne (lawyer)
 Deputy Secretary of Veterans Affairs,James Byrne,Q39073524,2019-09-16,2020-02-03,male,1965-01-25,,James Byrne official photo.jpg,James Byrne (lawyer)
 Deputy Secretary of Veterans Affairs,Pamela J. Powers,Q95691304,2020-04-02,,female,,,Pamela.powers.jpg,Pamela J. Powers
+Deputy Secretary of Veterans Affairs,Carolyn M. Clancy,Q90680635,2021-01-20,2021-07-19,female,,,"Carolyn Clancy, MD.jpg",
 Deputy Secretary of Veterans Affairs,Donald Remy,Q106605481,2021-07-19,,male,1967-02-08,,,Donald Remy
 Deputy Attorney General,Eric Holder,Q312644,1997-06-13,2001-01-20,male,1951-01-21,,Eric Holder official portrait.jpg,Eric Holder
 Deputy Attorney General,Robert Mueller,Q715156,2001-01-20,2001-05-10,male,1944-08-07,,Director Robert S. Mueller- III.jpg,Robert Mueller
