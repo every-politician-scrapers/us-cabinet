@@ -43,7 +43,7 @@
         {
           "sentences": [
             {
-              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who is the 11th director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
+              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who served as the 11th director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
               "links": [
                 {
                   "text": "mathematician",
@@ -221,15 +221,11 @@
             "text": "Eric Lander, PCAST Co-Chair (cropped).jpg"
           },
           "office": {
-            "text": "11th director of the Office of Science and Technology Policy\nScience Advisor to the President",
+            "text": "Director of the Office of Science and Technology Policy",
             "links": [
               {
                 "type": "internal",
                 "page": "Office of Science and Technology Policy"
-              },
-              {
-                "type": "internal",
-                "page": "Science Advisor to the President"
               }
             ]
           },
@@ -245,14 +241,21 @@
           "term_start": {
             "text": "June 2, 2021"
           },
+          "term_end": {
+            "text": "February 7, 2022"
+          },
           "predecessor": {
-            "text": "Kelvin Droegemeier",
+            "text": "Kei Koizumi (Acting)",
             "links": [
               {
+                "text": "Kei Koizumi",
                 "type": "internal",
-                "page": "Kelvin Droegemeier"
+                "page": "Kei Koizumi (science policymaker)"
               }
             ]
+          },
+          "successor": {
+            "text": "TBD"
           },
           "birth_date": {
             "text": "February 3, 1957"
