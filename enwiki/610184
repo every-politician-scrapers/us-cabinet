@@ -117,6 +117,9 @@
                   "page": "Council of Advisors on Science and Technology"
                 }
               ]
+            },
+            {
+              "text": "Lander announced he would resign effective February 18, 2022 from his post as Science Advisor to the President after allegations surfaced he had engaged in bullying and abusive conduct directed against his subordinates and other White House staff."
             }
           ]
         }
@@ -241,11 +244,8 @@
           "term_start": {
             "text": "June 2, 2021"
           },
-          "term_end": {
-            "text": "February 7, 2022"
-          },
           "predecessor": {
-            "text": "Kei Koizumi (Acting)",
+            "text": "Kei Koizumi (acting)",
             "links": [
               {
                 "text": "Kei Koizumi",
