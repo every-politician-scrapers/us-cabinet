@@ -196,7 +196,7 @@
       ],
       "templates": [
         {
-          "description": "46th governor of Florida",
+          "description": "46th governor of Florida since 2019",
           "template": "short description"
         },
         {
@@ -253,7 +253,7 @@
             "text": "Ron DeSantis"
           },
           "image": {
-            "text": "Gov Ron DeSantis Portrait.jpg"
+            "text": "Ron DeSantis 2020 (cropped).jpg"
           },
           "caption": {
             "text": "DeSantis in 2020"
@@ -352,6 +352,12 @@
           "children": {
             "text": "3",
             "number": 3
+          },
+          "father": {
+            "text": "Ronald Daniel DeSantis"
+          },
+          "mother": {
+            "text": "Karen Rogers"
           },
           "residence": {
             "text": "Governor's Mansion",

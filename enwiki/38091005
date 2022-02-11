@@ -156,6 +156,22 @@
           "template": "birth date and age"
         },
         {
+          "template": "tree list"
+        },
+        {
+          "template": "tree list/end"
+        },
+        {
+          "list": [
+            "Defense Distinguished Service Medal (2)",
+            "Army Distinguished Service Medal (4)",
+            "Defense Superior Service Medal (3)",
+            "Legion of Merit (3)",
+            "Bronze Star Medal (4)"
+          ],
+          "template": "ubl"
+        },
+        {
           "spouse": "Hollyanne Haas",
           "from": "1985",
           "template": "marriage"
@@ -210,7 +226,7 @@
             ]
           },
           "commands": {
-            "text": "Chairman of the Joint Chiefs of Staff<br/ >Chief of Staff of the United States Army<br/ >United States Army Forces Command<br/ >III Corps<br/ >International Security Assistance Force (joint)<br/ >10th Mountain Division<br/ >2nd Brigade Combat Team, 10th Mountain Division (Light)",
+            "text": "Chairman of the Joint Chiefs of Staff\n\nChief of Staff of the United States Army\n\nUnited States Army Forces Command\n\nIII Corps\n\nInternational Security Assistance Force Joint Command\n\n10th Mountain Division\n\n2nd Brigade Combat Team, 10th Mountain Division (Light)",
             "links": [
               {
                 "type": "internal",
@@ -230,7 +246,7 @@
                 "page": "III Corps (United States)"
               },
               {
-                "text": "International Security Assistance Force (joint)",
+                "text": "International Security Assistance Force Joint Command",
                 "type": "internal",
                 "page": "International Security Assistance Force"
               },
@@ -247,7 +263,7 @@
             ]
           },
           "battles": {
-            "text": "Operation Just Cause<br/ >Operation Uphold Democracy<br/ >Operation Joint Endeavor<br/ >Iraq War<br/ >War in Afghanistan",
+            "text": "*Operation Just Cause\n*Operation Uphold Democracy\n*Operation Joint Endeavor\n*Iraq War\n*War in Afghanistan",
             "links": [
               {
                 "type": "internal",
@@ -274,28 +290,10 @@
             ]
           },
           "awards": {
-            "text": "Defense Distinguished Service Medal (2)<br/ >Army Distinguished Service Medal (4)<br/ >Defense Superior Service Medal (3)<br/ >Legion of Merit (3)<br/ >Bronze Star Medal (4)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Army Distinguished Service Medal"
-              },
-              {
-                "type": "internal",
-                "page": "Defense Superior Service Medal"
-              },
-              {
-                "type": "internal",
-                "page": "Legion of Merit"
-              },
-              {
-                "type": "internal",
-                "page": "Bronze Star Medal"
-              }
-            ]
+            "text": "Defense Distinguished Service Medal (2)\n\nArmy Distinguished Service Medal (4)\n\nDefense Superior Service Medal (3)\n\nLegion of Merit (3)\n\nBronze Star Medal (4)"
           },
           "alma_mater": {
-            "text": "Princeton University (BA) Columbia University (MA) Naval War College (MA)",
+            "text": "Princeton University (BA)\n\nColumbia University (MA)\n\nNaval War College (MA)",
             "links": [
               {
                 "type": "internal",
