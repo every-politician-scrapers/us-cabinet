@@ -11,6 +11,7 @@
     "21st-century American Jews",
     "American people of Jewish descent",
     "American Rhodes Scholars",
+    "Annual Reviews (publisher) editors",
     "Biden administration cabinet members",
     "Biotechnologists",
     "Broad Institute people",
@@ -26,14 +27,13 @@
     "MacArthur Fellows",
     "Massachusetts Institute of Technology School of Science  faculty",
     "Mathematicians from New York (state)",
+    "Mathematics popularizers",
     "Members of the United States National Academy of Sciences",
     "Office of Science and Technology Policy officials",
     "Princeton University alumni",
+    "Scientists from Brooklyn",
     "Stuyvesant High School alumni",
-    "Whitehead Institute faculty",
-    "Mathematics popularizers",
-    "Annual Reviews (publisher) editors",
-    "Scientists from Brooklyn"
+    "Whitehead Institute faculty"
   ],
   "sections": [
     {
@@ -157,7 +157,7 @@
             "text": "yes"
           },
           "workplaces": {
-            "text": "Broad Institute\nMassachusetts Institute of Technology",
+            "text": "Broad Institute Massachusetts Institute of Technology",
             "links": [
               {
                 "type": "internal",
@@ -168,6 +168,16 @@
                 "page": "Massachusetts Institute of Technology"
               }
             ]
+          },
+          "thesis_title": {
+            "text": "Topics in Algebraic Coding Theory"
+          },
+          "thesis_url": {
+            "text": "http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.276073"
+          },
+          "thesis_year": {
+            "text": "1980",
+            "number": 1980
           },
           "doctoral_advisor": {
             "text": "Peter Cameron",
@@ -180,7 +190,7 @@
             ]
           },
           "doctoral_students": {
-            "text": "Julie Segre \nKenro Kusumi \nManolis Kellis \nErez Lieberman Aiden\nMark Daly",
+            "text": "Julie Segre Kenro Kusumi Manolis Kellis Erez Lieberman Aiden Mark Daly",
             "links": [
               {
                 "type": "internal",
@@ -204,16 +214,6 @@
                 "page": "Mark Daly (scientist)"
               }
             ]
-          },
-          "thesis_title": {
-            "text": "Topics in algebraic coding theory"
-          },
-          "thesis_year": {
-            "text": "1980",
-            "number": 1980
-          },
-          "thesis_url": {
-            "text": "http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.276073"
           }
         },
         {
@@ -288,7 +288,7 @@
             "text": "Lori Lander"
           },
           "education": {
-            "text": "Princeton University (AB)\nWolfson College, Oxford (MS, DPhil)",
+            "text": "Princeton University (AB) Wolfson College, Oxford (MS, DPhil)",
             "links": [
               {
                 "type": "internal",
@@ -316,7 +316,7 @@
             ]
           },
           "awards": {
-            "text": "MacArthur Fellowship (1987)\nDickson Prize (1997)\nWoodrow Wilson Award for Public Service (1998)\nGairdner Award (2002)\nHarvey Prize (2012)\nBreakthrough Prize in Life Sciences (2013)",
+            "text": "MacArthur Fellowship (1987) Dickson Prize (1997) Woodrow Wilson Award for Public Service (1998) Gairdner Award (2002) Harvey Prize (2012) Breakthrough Prize in Life Sciences (2013)",
             "links": [
               {
                 "type": "internal",

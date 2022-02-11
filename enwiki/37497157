@@ -30,7 +30,7 @@
                 {
                   "text": "governor of Wyoming",
                   "type": "internal",
-                  "page": "List of governors of Wyoming"
+                  "page": "governor of Wyoming"
                 }
               ],
               "formatting": {
@@ -68,16 +68,16 @@
       ],
       "templates": [
         {
+          "description": "33rd governor of Wyoming since 2019",
+          "template": "short description"
+        },
+        {
           "date": "February 2019",
           "template": "use mdy dates"
         },
         {
-          "description": "33rd Governor of Wyoming",
-          "template": "short description"
-        },
-        {
           "list": [
-            "the 33rd Governor of Wyoming",
+            "the governor of Wyoming",
             "other people with the same name",
             "Mark Gordon (disambiguation)"
           ],
