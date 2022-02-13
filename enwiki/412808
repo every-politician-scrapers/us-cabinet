@@ -247,7 +247,7 @@
                 {
                   "text": "transition team",
                   "type": "internal",
-                  "page": "presidential transition of Barack Obama"
+                  "page": "Presidential transition of Barack Obama"
                 },
                 {
                   "type": "internal",
@@ -306,7 +306,7 @@
         {
           "sentences": [
             {
-              "text": "On December 15, 2020, President-elect Joe Biden announced his intention to nominate Granholm to head the United States Department of Energy.",
+              "text": "On December 15, 2020, the president-elect Joe Biden announced his intention to nominate Granholm to head the United States Department of Energy.",
               "links": [
                 {
                   "type": "internal",
@@ -332,7 +332,7 @@
       ],
       "templates": [
         {
-          "description": "American politician",
+          "description": "Canadian-American politician (born 1959)",
           "template": "short description"
         },
         {
@@ -411,10 +411,9 @@
             ]
           },
           "lieutenant2": {
-            "text": "John Cherry",
+            "text": "John D. Cherry",
             "links": [
               {
-                "text": "John Cherry",
                 "type": "internal",
                 "page": "John D. Cherry"
               }
