@@ -123,6 +123,10 @@
       ],
       "templates": [
         {
+          "description": "American government official",
+          "template": "short description"
+        },
+        {
           "date": "July 2015",
           "template": "use american english"
         },
