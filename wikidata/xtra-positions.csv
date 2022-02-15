@@ -3,8 +3,10 @@ Q11144,Supreme Court Justice
 Q7994871,White House Deputy Chief of Staff
 Q7450652,Senior Advisor to the President
 Q732029,Counselor to the President
+Q2306431,White House Press Secretary
 Q3708975,White House Communications Director
 Q5097041,Chief of Staff to the Vice-President
+Q18392309,Special Assistant to the President
 Q21028311,White House Cabinet Secretary
 Q7889748,Deputy Secretary of Agriculture
 Q7889749,Deputy Secretary of Commerce
@@ -20,10 +22,23 @@ Q2301213,Deputy Secretary of State
 Q16829406,Deputy Secretary of Transportation
 Q11285124,Deputy Secretary of the Treasury
 Q7889757,Deputy Secretary of Veterans Affairs
+Q5261055,Deputy National Security Advisor
+Q28069466,Homeland Security Advisor
+Q4808997,Assistant Secretary of State for African Affairs
+Q4808999,Assistant Secretary of State for Educational and Cultural Affairs
+Q91638772,Assistant Secretary of the Interior for Indian Affairs
 Q1364289,Deputy Attorney General
+Q16300323,Director of the Office of Management and Budget
+Q2298067,Solicitor General
 Q2666591,Chair of the Federal Reserve
 Q107600102,Vice Chair of the Federal Reserve
+Q2916001,Vice Chairman of the Joint Chiefs of Staff
+Q1373217,Vice Chief of Naval Operations
+Q1355859,Vice Chief of Staff of the Army
+Q1115074,Commandant of the Marine Corps
+Q1072415,Chief of Naval Operations
 Q1057168,Director of the FBI
+Q27656,Director of the CIA
 Q1837629,ambassador to Afghanistan
 Q7889254,ambassador to Albania
 Q53497156,ambassador to Algeria
@@ -36,6 +51,7 @@ Q1625833,ambassador to Azerbaijan
 Q1837637,ambassador to Bangladesh
 Q1837641,ambassador to Bosnia and Herzegovina
 Q7889268,ambassador to Brazil
+Q7889269,ambassador to Brunei
 Q110627034,ambassador to Burundi
 Q7889276,ambassador to Cameroon
 Q11811869,ambassador to Canada
@@ -48,6 +64,9 @@ Q53465336,ambassador to the Czech Republic
 Q7889288,ambassador to Denmark
 Q7889291,ambassador to East Timor
 Q7889297,ambassador to Estonia
+Q7889298,ambassador to Ethiopia
+Q1837617,ambassador to the European Union
+Q7889409,ambassador to the Federated States of Micronesia
 Q7889300,ambassador to Finland
 Q106090755,ambassador to France
 Q7889411,ambassador to the Gambia
@@ -58,6 +77,7 @@ Q1837645,ambassador to Guatemala
 Q7889306,ambassador to Guinea
 Q53498594,ambassador to Haiti
 Q1837627,ambassador to the Holy See
+Q7889310,ambassador to Honduras
 Q7889311,ambassador to Hungary
 Q7889312,ambassador to Iceland
 Q7341882,ambassador to Indonesia
@@ -80,6 +100,7 @@ Q7889340,ambassador to Monaco
 Q7889343,ambassador to Mongolia
 Q1453250,ambassador to Morocco
 Q7889414,ambassador to the Netherlands
+Q7889347,ambassador to New Zealand
 Q7889350,ambassador to Nigeria
 Q7889331,ambassador to North Macedonia
 Q7889352,ambassador to Norway
@@ -101,8 +122,9 @@ Q7889381,ambassador to Switzerland and Liechtenstein
 Q7889386,ambassador to Tanzania
 Q7889393,ambassador to Turkey
 Q1747144,ambassador to Turkmenistan
-Q7889420,ambassador to the United Arab Emirates
 Q1582371,ambassador to Ukraine
+Q7889420,ambassador to the United Arab Emirates
+Q2841904,ambassador to the United Kingdom
 Q1837667,ambassador to Uzbekistan
 Q7889398,ambassador to Venezuela
 Q1837624,ambassador to Yemen
@@ -110,4 +132,39 @@ Q1540736,ambassador to Zimbabwe
 Q63343071,ambassador to the Asian Development Bank
 Q7889421,ambassador to the United Nations Agencies for Food and Agriculture
 Q110709842,Director of the Taipei Office of the American Institute in Taiwan
+Q7890889,Permanent Representative to NATO
 Q15726790,United States Ambassador
+Q20804538,Governor of the Northern Mariana Islands
+Q60095901,Lieutenant Governor of Alaska
+Q1853515,Lieutenant Governor of Arkansas
+Q3238284,Lieutenant Governor of California
+Q20948752,Lieutenant Governor of Connecticut
+Q17031696,Lieutenant Governor of Delaware
+Q913797,Lieutenant Governor of Florida
+Q846307,Lieutenant Governor of Georgia
+Q912560,Lieutenant Governor of Hawaii
+Q3238288,Lieutenant Governor of Illinois
+Q288316,Lieutenant Governor of Indiana
+Q1853527,Lieutenant Governor of Kansas
+Q1532983,Lieutenant Governor of Kentucky
+Q383699,Lieutenant Governor of Maryland
+Q1274366,Lieutenant Governor of Massachusetts
+Q1586403,Lieutenant Governor of Michigan
+Q61612454,Lieutenant Governor of Minnesota
+Q6544423,Lieutenant Governor of Mississippi
+Q1853534,Lieutenant Governor of Montana
+Q6544426,Lieutenant Governor of New Jersey
+Q6544428,Lieutenant Governor of New York
+Q1538949,Lieutenant Governor of North Carolina
+Q17059070,Lieutenant Governor of North Dakota
+Q1660669,Lieutenant Governor of Ohio
+Q1853541,Lieutenant Governor of Oklahoma
+Q1402980,Lieutenant Governor of Pennsylvania
+Q28020371,Lieutenant Governor of South Carolina
+Q1853549,Lieutenant Governor of South Dakota
+Q6544436,Lieutenant Governor of Tennessee
+Q639115,Lieutenant Governor of Texas
+Q28132187,Lieutenant Governor of Vermont
+Q931202,Lieutenant Governor of Virginia
+Q1853559,Lieutenant Governor of Washington
+Q6544443,Lieutenant Governor of the United States Virgin Islands
