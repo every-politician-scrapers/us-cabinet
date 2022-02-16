@@ -248,7 +248,7 @@
               }
             },
             {
-              "text": "Newsom has been seen as a progressive political leader, taking early stances in favor of same-sex marriage and the legalization of cannabis, while relative to most Democratic legislators in California, he has been considered to be moderate.",
+              "text": "Newsom has been seen as a progressive political leader, taking early stances in favor of same-sex marriage and the legalization of cannabis, while political science analysis has suggested he is moderate, relative to almost all Democratic legislators in California.",
               "links": [
                 {
                   "text": "progressive",
@@ -313,6 +313,10 @@
         },
         {
           "template": "gavin newsom series"
+        },
+        {
+          "date": "February 2022",
+          "template": "by who?"
         }
       ],
       "infoboxes": [
