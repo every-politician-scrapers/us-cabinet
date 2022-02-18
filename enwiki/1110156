@@ -250,6 +250,9 @@
           "image": {
             "text": "Attorney General Merrick Garland.jpg"
           },
+          "alt": {
+            "text": "Official portrait of United States Attorney General Merrick Garland"
+          },
           "caption": {
             "text": "Official portrait, 2021"
           },
@@ -292,16 +295,22 @@
               }
             ]
           },
-          "office2": {
-            "text": "[[United States Court of Appeals for the District of Columbia Circuit#Chiefs|Chief Judge of the United States Court of Appeals for the District of Columbia Circuit]]"
+          "office1": {
+            "text": "Chief Judge of the United States Court of Appeals for the District of Columbia Circuit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Court of Appeals for the District of Columbia Circuit"
+              }
+            ]
           },
-          "term_start2": {
+          "term_start1": {
             "text": "February 12, 2013"
           },
-          "term_end2": {
+          "term_end1": {
             "text": "February 11, 2020"
           },
-          "predecessor2": {
+          "predecessor1": {
             "text": "David B. Sentelle",
             "links": [
               {
@@ -310,7 +319,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor1": {
             "text": "Sri Srinivasan",
             "links": [
               {
@@ -319,16 +328,22 @@
               }
             ]
           },
-          "office3": {
-            "text": "[[United States Court of Appeals for the District of Columbia Circuit#List of former judges|Judge of the United States Court of Appeals for the District of Columbia Circuit]]"
+          "office2": {
+            "text": "Judge of the United States Court of Appeals for the District of Columbia Circuit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Court of Appeals for the District of Columbia Circuit"
+              }
+            ]
           },
-          "term_start3": {
+          "term_start2": {
             "text": "March 20, 1997"
           },
-          "term_end3": {
+          "term_end2": {
             "text": "March 11, 2021"
           },
-          "appointer3": {
+          "appointer2": {
             "text": "Bill Clinton",
             "links": [
               {
@@ -337,7 +352,7 @@
               }
             ]
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Abner J. Mikva",
             "links": [
               {
@@ -346,7 +361,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor2": {
             "text": "Ketanji Brown Jackson",
             "links": [
               {
@@ -368,6 +383,16 @@
                 "text": "Chicago, Illinois",
                 "type": "internal",
                 "page": "Chicago"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
               }
             ]
           },
@@ -411,6 +436,9 @@
           },
           "signature": {
             "text": "Merrick Garland signature.svg"
+          },
+          "signature_alt": {
+            "text": "Cursive signature in ink"
           }
         }
       ]

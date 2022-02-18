@@ -530,7 +530,14 @@
             ]
           },
           "website": {
-            "text": "Governor website"
+            "text": "gavinnewsom.com (personal website) gov.ca.gov (as the Gov.)",
+            "links": [
+              {
+                "text": "Gov.",
+                "type": "internal",
+                "page": "Governor of California"
+              }
+            ]
           },
           "signature": {
             "text": "Gavin Newsom Signature.svg"

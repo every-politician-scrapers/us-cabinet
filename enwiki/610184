@@ -43,7 +43,7 @@
         {
           "sentences": [
             {
-              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who served as the 11th director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
+              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who serves as the 11th director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
               "links": [
                 {
                   "text": "mathematician",
@@ -255,7 +255,53 @@
             ]
           },
           "successor": {
-            "text": "TBD"
+            "text": "Alondra Nelson (acting, designate)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alondra Nelson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Science Advisor to the President",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Science Advisor to the President"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 25, 2021"
+          },
+          "predecessor1": {
+            "text": "Kei Koizumi (acting)",
+            "links": [
+              {
+                "text": "Kei Koizumi",
+                "type": "internal",
+                "page": "Kei Koizumi (science policymaker)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Francis Collins (acting, designate)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francis Collins"
+              }
+            ]
           },
           "birth_date": {
             "text": "February 3, 1957"
