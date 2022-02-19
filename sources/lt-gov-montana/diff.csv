@@ -1,38 +1,15 @@
 @@,itemlabel,item,startdate,enddate
-+++,John E. Rickards,Q368229,1889,1893
-+++,Alexander Campbell Botkin,Q4718517,1893,1897
-+++,Archibald E. Spriggs,Q16318401,1897,1901
-+++,Frank G. Higgins,Q5486743,1901,1905
-+++,Edwin L. Norris,Q881583,1905,1908
-+++,Benjamin F. White,Q817493,1908,1909
-+++,William R. Allen,Q16321165,1909,1913
-+++,W.W. McDowell,Q7946050,1913,1921
-+++,"Nelson Story, Jr.",Q22019458,1921,1925
-+++,W.S. McCormack,Q16321116,1925,1929
-+++,Frank A. Hazelbaker,Q16335115,1929,1933
-+++,Frank Henry Cooney,Q647391,1933,
+->,W. W. McDowell->W.W. McDowell,Q7946050,1913,1921
+->,W. S. McCormack->W.S. McCormack,Q16321116,1925,1929
 +++,Tom Kane,,1933,1934
-+++,Ernest T. Eaton,Q16335107,1934,1935
-+++,Elmer Holt,Q882161,1935,
 +++,William P. Pilgeram,,1935,1937
-+++,Hugh R. Adair,Q16333814,1937,1941
-+++,Ernest T. Eaton,Q16335107,1941,1949
 +++,Paul Cannon,,1949,1953
 +++,George M. Gosman,,1953,1957
 +++,Paul Cannon,,1957,1961
-+++,Tim Babcock,Q661635,1961,1962
+->,Tim M. Babcock->Tim Babcock,Q661635,1961,1962
 +++,David F. James,,1962,1965
-+++,Ted James,Q16335091,1965,1969
-+++,Thomas Lee Judge,Q880589,1969,1973
-+++,Bill Christiansen,Q16335079,1973,1977
 ->,Ted Schwinden,Q880356,1977-01-03->1977,1981-01-05->1981
-+++,George Turman,Q1508383,1981,1988
-+++,Gordon McOmber,Q16335083,1988,1989
-+++,Allen Kolstad,Q4731741,1989,1991
 ->,Denny Rehberg,Q1189686,1991-01-20->1991,1997-01-06->1997
 ->,Judy Martz,Q449719,1997-01-06->1997,2001-01-01->2001
-+++,Karl Ohs,Q6372129,2001,2005
-+++,John Bohlinger,Q3181085,2005,2013
-+++,Angela McLean,Q4762511,2014,2016
-+++,Mike Cooney,Q6846400,2016,2021
-+++,Kristen Juras,Q101229393,2021,
+->,Mike Cooney,Q6846400,2016-01-04->2016,2021-01-04->2021
+->,Kristen Juras,Q101229393,2021-01-04->2021,
