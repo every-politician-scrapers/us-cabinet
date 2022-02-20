@@ -120,7 +120,13 @@
         {
           "sentences": [
             {
-              "text": "Regarded as one of the nation's most popular governors, Scott is the only Republican elected to a statewide office in Vermont as of 2022."
+              "text": "Regarded as one of the nation's most popular governors, Scott is the only Republican elected to a statewide office in Vermont as of 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vermont"
+                }
+              ]
             }
           ]
         }

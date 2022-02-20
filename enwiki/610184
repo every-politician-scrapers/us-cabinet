@@ -43,7 +43,7 @@
         {
           "sentences": [
             {
-              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who serves as the 11th director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
+              "text": "Eric Steven Lander (born February 3, 1957) is an American mathematician and geneticist who served as the 11th director of the Office of Science and Technology Policy and Science Advisor to the President, serving on the Cabinet in both capacities.",
               "links": [
                 {
                   "text": "mathematician",
@@ -244,6 +244,9 @@
           "term_start": {
             "text": "June 2, 2021"
           },
+          "term_end": {
+            "text": "February 18, 2022"
+          },
           "predecessor": {
             "text": "Kei Koizumi (acting)",
             "links": [
@@ -255,7 +258,7 @@
             ]
           },
           "successor": {
-            "text": "Alondra Nelson (acting, designate)",
+            "text": "Alondra Nelson (acting)",
             "links": [
               {
                 "type": "internal",
@@ -284,6 +287,9 @@
           "term_start1": {
             "text": "January 25, 2021"
           },
+          "term_end1": {
+            "text": "February 18, 2022"
+          },
           "predecessor1": {
             "text": "Kei Koizumi (acting)",
             "links": [
@@ -295,7 +301,7 @@
             ]
           },
           "successor1": {
-            "text": "Francis Collins (acting, designate)",
+            "text": "Francis Collins (acting)",
             "links": [
               {
                 "type": "internal",
