@@ -426,14 +426,14 @@
             "number": 2
           },
           "education": {
-            "text": "1=\n\nHarvard University (BA)\n\nColumbia University (JD)",
+            "text": "1=\n\nHarvard University (AB)\n\nColumbia University (JD)",
             "links": [
               {
                 "type": "internal",
                 "page": "Harvard University"
               },
               {
-                "text": "BA",
+                "text": "AB",
                 "type": "internal",
                 "page": "Bachelor of Arts"
               },

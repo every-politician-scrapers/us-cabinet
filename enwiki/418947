@@ -156,7 +156,11 @@
                   "page": "2007 San Francisco mayoral election"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Newsom was elected lieutenant governor of California in 2010 and was re-elected in 2014.",
               "links": [
@@ -192,11 +196,12 @@
               ]
             },
             {
-              "text": "Newsom faced criticism for his personal behavior and leadership during the COVID-19 pandemic in California, which was followed by an unsuccessful attempt to recall him from office, in what would be the fourth gubernatorial recall election in United States history.",
+              "text": "Newsom faced criticism for his personal behavior and leadership during and after COVID-19 pandemic, which was followed by an unsuccessful attempt to recall him from office, in what would be the fourth gubernatorial recall election in United States history.",
               "links": [
                 {
+                  "text": "COVID-19 pandemic",
                   "type": "internal",
-                  "page": "COVID-19 pandemic in California"
+                  "page": "COVID-19 pandemic in the United States"
                 },
                 {
                   "text": "recall",
@@ -206,17 +211,12 @@
               ]
             },
             {
-              "text": "Newsom prevailed in the 2021 recall election, becoming the second incumbent U.S. governor to survive a recall election, after Scott Walker in 2012.",
+              "text": "Newsom prevailed in the 2021 recall election, becoming the second incumbent U.S. governor to survive a recall election.",
               "links": [
                 {
                   "text": "2021 recall election",
                   "type": "internal",
                   "page": "2021 California gubernatorial recall election"
-                },
-                {
-                  "text": "Scott Walker in 2012",
-                  "type": "internal",
-                  "page": "2012 Wisconsin gubernatorial recall election"
                 }
               ]
             }
@@ -530,14 +530,7 @@
             ]
           },
           "website": {
-            "text": "gavinnewsom.com (personal website) gov.ca.gov (as the Gov.)",
-            "links": [
-              {
-                "text": "Gov.",
-                "type": "internal",
-                "page": "Governor of California"
-              }
-            ]
+            "text": "Campaign website Government website"
           },
           "signature": {
             "text": "Gavin Newsom Signature.svg"
