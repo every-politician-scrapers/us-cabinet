@@ -135,11 +135,7 @@
                   "page": "Bob Stefanowski"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "As governor, Lamont signed cannabis legalization, sports betting and online gambling, and two balanced state budgets without income tax increases into law.",
               "links": [
@@ -157,34 +153,6 @@
                   "text": "online gambling",
                   "type": "internal",
                   "page": "online gambling"
-                }
-              ]
-            },
-            {
-              "text": "He also oversaw the COVID-19 pandemic response, including the state's vaccination campaign for eligible adults and children and administration of Connecticut's CARES Act and American Rescue Plan Act funds for economic recovery and stimulus.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "COVID-19 pandemic"
-                },
-                {
-                  "type": "internal",
-                  "page": "CARES Act"
-                },
-                {
-                  "text": "American Rescue Plan Act",
-                  "type": "internal",
-                  "page": "American Rescue Plan Act of 2021"
-                }
-              ]
-            },
-            {
-              "text": "According to a Wallethub study, Connecticut was the safest state in the country during the pandemic based on vaccination rate, positivity rate, hospitalization rate, death rate, and estimated transmission rate metrics.",
-              "links": [
-                {
-                  "text": "Wallethub",
-                  "type": "internal",
-                  "page": "WalletHub"
                 }
               ]
             }

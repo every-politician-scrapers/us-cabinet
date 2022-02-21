@@ -342,6 +342,10 @@
           "template": "pp-semi-vandalism"
         },
         {
+          "date": "February 2022",
+          "template": "use american english"
+        },
+        {
           "date": "June 2018",
           "template": "use mdy dates"
         },
@@ -574,6 +578,9 @@
           },
           "signature": {
             "text": "John Roberts signature.svg"
+          },
+          "signature_alt": {
+            "text": "Cursive signature in ink"
           }
         }
       ]
