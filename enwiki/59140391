@@ -41,11 +41,21 @@
         {
           "sentences": [
             {
-              "text": "A member of the National Governors Association and the only African-American member, Bryan was appointed in February 2021, to co-chair the NGA Task Force on Community Renewal and is the territory's first governor to serve on any of the organization task force.",
+              "text": "A member of the National Governors Association and the only African American member, Bryan was appointed in February 2021, to co-chair the NGA Task Force on Community Renewal.",
               "links": [
                 {
                   "type": "internal",
                   "page": "National Governors Association"
+                }
+              ]
+            },
+            {
+              "text": "Bryan joined the territory’s delegation to the 2020 Democratic National Convention.",
+              "links": [
+                {
+                  "text": "2020 Democratic National Convention",
+                  "type": "internal",
+                  "page": "2020 Democratic National Convention"
                 }
               ]
             }
