@@ -43,91 +43,187 @@ Q1837629,ambassador to Afghanistan
 Q7889254,ambassador to Albania
 Q53497156,ambassador to Algeria
 Q1837630,ambassador to Angola
+Q7889256,ambassador to Antigua and Barbuda
 Q7889257,ambassador to Argentina
 Q1837635,ambassador to Armenia
 Q1715778,ambassador to Australia
 Q1837673,ambassador to Austria
 Q1625833,ambassador to Azerbaijan
+Q7889259,ambassador to Bahrain
 Q1837637,ambassador to Bangladesh
+Q7889261,ambassador to Barbados
+Q7889262,ambassador to Belarus
+Q1137820,ambassador to Belgium
+Q7889263,ambassador to Belize
+Q7889265,ambassador to Benin
+Q7889266,ambassador to Bolivia
 Q1837641,ambassador to Bosnia and Herzegovina
 Q7889268,ambassador to Brazil
 Q7889269,ambassador to Brunei
+Q7889270,ambassador to Bulgaria
+Q7889272,ambassador to Burkina Faso
+Q7889274,ambassador to Burundi
 Q110627034,ambassador to Burundi
+Q7889275,ambassador to Cambodia
 Q7889276,ambassador to Cameroon
 Q11811869,ambassador to Canada
 Q7889277,ambassador to Cape Verde
+Q7889404,ambassador to the Central African Republic
+Q7889279,ambassador to Chad
 Q7889280,ambassador to Chile
 Q7889282,ambassador to China
+Q7889281,ambassador to Colombia
 Q7889283,ambassador to Costa Rica
 Q7889284,ambassador to Croatia
+Q7889285,ambassador to Cuba
+Q7889286,ambassador to Cyprus
 Q53465336,ambassador to the Czech Republic
+Q7889406,ambassador to the Democratic Republic of Congo
 Q7889288,ambassador to Denmark
+Q1837647,ambassador to Djibouti
+Q7889289,ambassador to Dominica
+Q7889407,ambassador to the Dominican Republic
 Q7889291,ambassador to East Timor
+Q7889292,ambassador to Ecuador
+Q7889293,ambassador to Egypt
+Q7889295,ambassador to El Salvador
+Q7889294,ambassador to Equatorial Guinea
+Q7889296,ambassador to Eritrea
 Q7889297,ambassador to Estonia
+Q7889379,ambassador to Eswatini
 Q7889298,ambassador to Ethiopia
 Q1837617,ambassador to the European Union
 Q7889409,ambassador to the Federated States of Micronesia
+Q7889299,ambassador to Fiji
 Q7889300,ambassador to Finland
 Q106090755,ambassador to France
+Q7889301,ambassador to Gabon
 Q7889411,ambassador to the Gambia
 Q1837644,ambassador to Georgia
 Q326552,ambassador to Germany
+Q7889302,ambassador to Ghana
 Q7889305,ambassador to Greece
+Q7889303,ambassador to Grenada
 Q1837645,ambassador to Guatemala
 Q7889306,ambassador to Guinea
+Q7889307,ambassador to Guinea-Bissau
+Q7889308,ambassador to Guyana
 Q53498594,ambassador to Haiti
 Q1837627,ambassador to the Holy See
 Q7889310,ambassador to Honduras
 Q7889311,ambassador to Hungary
 Q7889312,ambassador to Iceland
+Q1837650,ambassador to India
 Q7341882,ambassador to Indonesia
+Q973092,ambassador to Iran
 Q1837622,ambassador to Iraq
 Q7889313,ambassador to Ireland
 Q386458,ambassador to Israel
 Q7889314,ambassador to Italy
 Q7889315,ambassador to Ivory Coast
+Q7889316,ambassador to Jamaica
 Q7889318,ambassador to Japan
+Q11811896,ambassador to Jordan
+Q1667337,ambassador to Kazakhstan
+Q7889319,ambassador to Kenya
+Q7889320,ambassador to Kiribati
+Q38134275,ambassador to Korea
+Q7889323,ambassador to Kosovo
+Q587558,ambassador to Kuwait
 Q267742,ambassador to Kyrgyzstan
+Q7889324,ambassador to Laos
 Q7889325,ambassador to Latvia
 Q7889326,ambassador to Lebanon
+Q7889327,ambassador to Lesotho
+Q7889328,ambassador to Liberia
+Q1837651,ambassador to Libya
 Q7889329,ambassador to Lithuania
 Q7889330,ambassador to Luxembourg
+Q7889332,ambassador to Madagascar
+Q7889333,ambassador to Malawi
 Q7889335,ambassador to Malaysia
 Q7889334,ambassador to Mali
+Q7889337,ambassador to Malta
+Q7889412,ambassador to the Marshall Islands
+Q11811897,ambassador to Mauritania
 Q7889338,ambassador to Mauritius
+Q7889339,ambassador to Mexico
 Q7889341,ambassador to Moldova
 Q7889340,ambassador to Monaco
 Q7889343,ambassador to Mongolia
+Q7889342,ambassador to Montenegro
 Q1453250,ambassador to Morocco
+Q106436852,ambassador to Mozambique
+Q7889273,ambassador to Myanmar
+Q894837,ambassador to Namibia
+Q7889346,ambassador to Nauru
+Q7889345,ambassador to Nepal
 Q7889414,ambassador to the Netherlands
 Q7889347,ambassador to New Zealand
+Q7889348,ambassador to Nicaragua
+Q7889349,ambassador to Niger
 Q7889350,ambassador to Nigeria
 Q7889331,ambassador to North Macedonia
 Q7889352,ambassador to Norway
+Q7889354,ambassador to Oman
+Q1837656,ambassador to Pakistan
+Q7889355,ambassador to Palau
 Q7889356,ambassador to Panama
+Q7889357,ambassador to Papua New Guinea
+Q1837654,ambassador to Paraguay
+Q1314363,ambassador to Peru
 Q7889417,ambassador to the Philippines
 Q7889358,ambassador to Poland
+Q7889359,ambassador to Portugal
 Q7889360,ambassador to Qatar
+Q7889418,ambassador to the Republic of the Congo
+Q2912338,ambassador to Romania
 Q1515730,ambassador to the Russian Federation
+Q7889361,ambassador to Rwanda
+Q7889365,ambassador to San Marino
 Q7889366,ambassador to Saudi Arabia
+Q106451048,ambassador to Senegal
 Q7889368,ambassador to Serbia
 Q7889369,ambassador to Seychelles
+Q11811898,ambassador to Sierra Leone
 Q1837665,ambassador to Singapore
+Q7889371,ambassador to Slovakia
 Q917559,ambassador to Slovenia
+Q7889372,ambassador to Somalia
 Q7889373,ambassador to South Africa
+Q7889322,ambassador to South Korea
+Q7889374,ambassador to South Sudan
 Q1837668,ambassador to Spain
 Q7889376,ambassador to Sri Lanka and the Maldives
+Q7889377,ambassador to Sudan
+Q7889378,ambassador to Suriname
 Q7889384,ambassador to Sweden
 Q7889381,ambassador to Switzerland and Liechtenstein
+Q7889382,ambassador to Syria
+Q7889383,ambassador to São Tomé and Príncipe
+Q7889385,ambassador to Tajikistan
 Q7889386,ambassador to Tanzania
+Q7889388,ambassador to Thailand
+Q7889401,ambassador to the Bahamas
+Q7889390,ambassador to Togo
+Q7889389,ambassador to Tonga
+Q7889392,ambassador to Trinidad and Tobago
+Q7889391,ambassador to Tunisia
 Q7889393,ambassador to Turkey
 Q1747144,ambassador to Turkmenistan
+Q7889395,ambassador to Tuvalu
+Q7889394,ambassador to Uganda
 Q1582371,ambassador to Ukraine
 Q7889420,ambassador to the United Arab Emirates
 Q2841904,ambassador to the United Kingdom
+Q7889397,ambassador to Uruguay
 Q1837667,ambassador to Uzbekistan
+Q7889396,ambassador to Vanuatu
 Q7889398,ambassador to Venezuela
+Q7889399,ambassador to Vietnam
 Q1837624,ambassador to Yemen
+Q7889400,ambassador to Yugoslavia
+Q1763021,ambassador to Zambia
 Q1540736,ambassador to Zimbabwe
 Q63343071,ambassador to the Asian Development Bank
 Q7889421,ambassador to the United Nations Agencies for Food and Agriculture
