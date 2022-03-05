@@ -1,0 +1,458 @@
+{
+  "title": "Francis Collins",
+  "pageID": 23943084,
+  "categories": [
+    "1950 births",
+    "21st-century Christians",
+    "American Christian writers",
+    "American expatriates in Nigeria",
+    "American geneticists",
+    "American physical chemists",
+    "Biden administration cabinet members",
+    "Biden administration personnel",
+    "Former atheists and agnostics",
+    "Converts to Protestantism from atheism or agnosticism",
+    "Critics of creationism",
+    "Directors of the National Institutes of Health",
+    "Foreign Members of the Royal Society",
+    "Human Genome Project scientists",
+    "Living people",
+    "Members of the International Society for Science and Religion",
+    "Members of the National Academy of Medicine",
+    "Members of the Pontifical Academy of Sciences",
+    "Members of the United States National Academy of Sciences",
+    "National Institutes of Health people",
+    "Obama administration personnel",
+    "People from Staunton, Virginia",
+    "Physician-scientists",
+    "Presidential Medal of Freedom recipients",
+    "Scientists from Virginia",
+    "Theistic evolutionists",
+    "Trump administration personnel",
+    "University of Michigan faculty",
+    "University of North Carolina School of Medicine alumni",
+    "University of Virginia alumni",
+    "Writers about religion and science",
+    "Yale University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Francis Sellers Collins (born April 14, 1950) is an American physician-geneticist who discovered the genes associated with a number of diseases and led the Human Genome Project.",
+              "links": [
+                {
+                  "text": "physician-geneticist",
+                  "type": "internal",
+                  "page": "Medical genetics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Human Genome Project"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Francis Sellers Collins"
+                ]
+              }
+            },
+            {
+              "text": "He is the former director of the National Institutes of Health (NIH) in Bethesda, Maryland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Institutes of Health"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bethesda, Maryland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before being appointed director of the NIH, Collins led the Human Genome Project and other genomics research initiatives as director of the National Human Genome Research Institute (NHGRI), one of the 27 institutes and centers at NIH.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Human Genome Research Institute"
+                }
+              ]
+            },
+            {
+              "text": "Before joining NHGRI, he earned a reputation as a gene hunter at the University of Michigan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Michigan"
+                }
+              ]
+            },
+            {
+              "text": "He has been elected to the Institute of Medicine and the National Academy of Sciences, and has received the Presidential Medal of Freedom and the National Medal of Science.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Institute of Medicine"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Academy of Sciences"
+                },
+                {
+                  "type": "internal",
+                  "page": "Presidential Medal of Freedom"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Medal of Science"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Collins also has written a number of books on science, medicine, and religion, including the New York Times bestseller, The Language of God: A Scientist Presents Evidence for Belief.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New York Times"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Language of God: A Scientist Presents Evidence for Belief"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "New York Times",
+                  "The Language of God: A Scientist Presents Evidence for Belief"
+                ]
+              }
+            },
+            {
+              "text": "After leaving the directorship of NHGRI and before becoming director of the NIH, he founded and served as president of The BioLogos Foundation, which promotes discourse on the relationship between science and religion and advocates the perspective that belief in Christianity can be reconciled with acceptance of evolution and science, especially through the idea that the Creator brought about his plan through the processes of evolution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The BioLogos Foundation"
+                },
+                {
+                  "text": "relationship between science and religion",
+                  "type": "internal",
+                  "page": "relationship between science and religion"
+                },
+                {
+                  "text": "Creator brought about his plan through the processes of evolution",
+                  "type": "internal",
+                  "page": "Theistic evolution"
+                }
+              ]
+            },
+            {
+              "text": "In 2009, Pope Benedict XVI appointed Collins to the Pontifical Academy of Sciences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pope Benedict XVI"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pontifical Academy of Sciences"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On October 5, 2021, Collins announced that he would resign as NIH director by the end of the year."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American geneticist and director of the National Institutes of Health",
+          "template": "short description"
+        },
+        {
+          "template": "other people"
+        },
+        {
+          "date": "June 2021",
+          "template": "blp sources"
+        },
+        {
+          "date": "June 2019",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1950",
+          "month": "4",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Michigan",
+            "National Human Genome Research Institute",
+            "National Institutes of Health"
+          ],
+          "template": "ublist"
+        },
+        {
+          "_list": "ForMemRS",
+          "template": "postnominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "fields": {
+            "text": "Molecular genetics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Molecular genetics"
+              }
+            ]
+          },
+          "workplaces": {
+            "text": "University of Michigan\n\nNational Human Genome Research Institute\n\nNational Institutes of Health"
+          },
+          "thesis_title": {
+            "text": "Semiclassical theory of vibrationally inelastic scattering, with application to H+ + H₂"
+          },
+          "thesis_url": {
+            "text": "https://search.proquest.com/docview/288233821/"
+          },
+          "thesis_year": {
+            "text": "1974",
+            "number": 1974
+          },
+          "doctoral_advisor": {
+            "text": "James Cross"
+          }
+        },
+        {
+          "name": {
+            "text": "Francis Collins"
+          },
+          "image": {
+            "text": "Francis Collins official photo.jpg"
+          },
+          "office": {
+            "text": "Science Advisor to the President",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Science Advisor to the President"
+              }
+            ]
+          },
+          "status": {
+            "text": "Acting"
+          },
+          "president": {
+            "text": "Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "February 18, 2022"
+          },
+          "predecessor": {
+            "text": "Eric Lander",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eric Lander"
+              }
+            ]
+          },
+          "office1": {
+            "text": "16th Director of the National Institutes of Health",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Institutes of Health"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Barack Obama Donald Trump Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barack Obama"
+              },
+              {
+                "type": "internal",
+                "page": "Donald Trump"
+              },
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Lawrence A. Tabak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawrence A. Tabak"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 17, 2009"
+          },
+          "term_end1": {
+            "text": "December 19, 2021"
+          },
+          "predecessor1": {
+            "text": "Raynard S. Kington (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raynard S. Kington"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Lawrence A. Tabak (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawrence A. Tabak"
+              }
+            ]
+          },
+          "office2": {
+            "text": "2nd Director of the National Human Genome Research Institute",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Human Genome Research Institute"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Bill Clinton George W. Bush",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bill Clinton"
+              },
+              {
+                "type": "internal",
+                "page": "George W. Bush"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "April 1993"
+          },
+          "term_end2": {
+            "text": "August 1, 2008"
+          },
+          "predecessor2": {
+            "text": "Michael Gottesman (Acting)",
+            "links": [
+              {
+                "text": "Michael Gottesman",
+                "type": "internal",
+                "page": "Michael M. Gottesman"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Alan Guttmacher (Acting)",
+            "links": [
+              {
+                "text": "Alan Guttmacher",
+                "type": "internal",
+                "page": "Alan Edward Guttmacher"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Francis Sellers Collins"
+          },
+          "birth_date": {
+            "text": "April 14, 1950"
+          },
+          "birth_place": {
+            "text": "Staunton, Virginia, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Staunton, Virginia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Diane Baker"
+          },
+          "education": {
+            "text": "University of Virginia (BS) Yale University (MS, PhD) University of North Carolina, Chapel Hill (MD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Virginia"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
+                "type": "internal",
+                "page": "Yale University"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              },
+              {
+                "text": "University of North Carolina, Chapel Hill",
+                "type": "internal",
+                "page": "University of North Carolina at Chapel Hill"
+              },
+              {
+                "text": "MD",
+                "type": "internal",
+                "page": "Doctor of Medicine"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

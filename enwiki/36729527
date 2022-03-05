@@ -185,6 +185,21 @@
                 {
                   "type": "internal",
                   "page": "COVID-19 pandemic in Florida"
+                },
+                {
+                  "text": "face mask mandates",
+                  "type": "internal",
+                  "page": "Face masks during the COVID-19 pandemic in the United States"
+                },
+                {
+                  "text": "stay-at-home orders",
+                  "type": "internal",
+                  "page": "COVID-19 lockdowns"
+                },
+                {
+                  "text": "vaccination requirements",
+                  "type": "internal",
+                  "page": "COVID-19 vaccination mandates in the United States"
                 }
               ]
             },

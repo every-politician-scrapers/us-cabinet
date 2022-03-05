@@ -365,7 +365,7 @@
       ],
       "templates": [
         {
-          "description": "23rd governor of Washington",
+          "description": "23rd governor of Washington since 2013",
           "template": "short description"
         },
         {
@@ -455,7 +455,7 @@
             ]
           },
           "lieutenant": {
-            "text": "Brad Owen Cyrus Habib Denny Heck",
+            "text": "Brad Owen\nCyrus Habib\nDenny Heck",
             "links": [
               {
                 "type": "internal",
@@ -484,7 +484,7 @@
             ]
           },
           "office1": {
-            "text": "Member of the U.S. House of Representatives from Washington",
+            "text": "Member of the\nU.S. House of Representatives\nfrom Washington",
             "links": [
               {
                 "text": "U.S. House of Representatives",
@@ -625,7 +625,7 @@
             ]
           },
           "education": {
-            "text": "University of Washington (BA) Willamette University (JD)",
+            "text": "University of Washington (BA)\nWillamette University (JD)",
             "links": [
               {
                 "type": "internal",

@@ -42,11 +42,12 @@
         {
           "sentences": [
             {
-              "text": "Nancy Patricia Pelosi (born March 26, 1940) is an American politician serving as Speaker of the United States House of Representatives since 2019, and previously from 2007 to 2011.",
+              "text": "Nancy Patricia Pelosi (born March 26, 1940) is an American politician serving as speaker of the United States House of Representatives since 2019, and previously from 2007 to 2011.",
               "links": [
                 {
+                  "text": "speaker of the United States House of Representatives",
                   "type": "internal",
-                  "page": "Speaker of the United States House of Representatives"
+                  "page": "speaker of the United States House of Representatives"
                 }
               ],
               "formatting": {
@@ -71,25 +72,6 @@
                   "text": "Democratic Party",
                   "type": "internal",
                   "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            {
-              "text": "She is second in the presidential line of succession, after Vice President Kamala Harris.",
-              "links": [
-                {
-                  "text": "presidential line of succession",
-                  "type": "internal",
-                  "page": "United States presidential line of succession"
-                },
-                {
-                  "text": "Vice President",
-                  "type": "internal",
-                  "page": "Vice President of the United States"
-                },
-                {
-                  "type": "internal",
-                  "page": "Kamala Harris"
                 }
               ]
             }
@@ -332,14 +314,19 @@
                   "text": "reelected",
                   "type": "internal",
                   "page": "2021 Speaker of the United States House of Representatives election"
+                },
+                {
+                  "text": "progressives",
+                  "type": "internal",
+                  "page": "progressivism"
                 }
               ]
             },
             {
-              "text": "During her second speakership, she was instrumental in the passage of many of the Biden administration's landmark bills, including the Infrastructure Investment and Jobs Act and the American Rescue Plan Act.",
+              "text": "During her second speakership, she was instrumental in the passage of the Biden administration's two major bills, the Infrastructure Investment and Jobs Act and the American Rescue Plan Act.",
               "links": [
                 {
-                  "text": "many of the Biden administration's landmark bills",
+                  "text": "the Biden administration",
                   "type": "internal",
                   "page": "Presidency of Joe Biden"
                 },

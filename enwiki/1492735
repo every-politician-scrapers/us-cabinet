@@ -223,25 +223,12 @@
               ]
             },
             {
-              "text": "Abbott's approach to handling the COVID-19 pandemic has been controversial, as he has opposed implementing face mask and vaccine mandates, while blocking local governments, businesses and other organizations from implementing their own.",
+              "text": "Abbott's approach to handling the COVID-19 pandemic has been controversial, as he has opposed implementing face mask and vaccine mandates, while blocking local governments, businesses, and other organizations from implementing their own.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Texas"
-                }
-              ]
-            },
-            {
-              "text": "In 2021, Abbott announced that Texas would extend the Trump border wall that was cancelled by the Biden administration.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Trump border wall"
-                },
-                {
-                  "type": "internal",
-                  "page": "Biden administration"
                 }
               ]
             }
@@ -250,7 +237,7 @@
       ],
       "templates": [
         {
-          "description": "48th Governor of Texas",
+          "description": "48th governor of Texas since 2015",
           "template": "short description"
         },
         {
@@ -260,6 +247,10 @@
             "Greg Abbott (disambiguation)"
           ],
           "template": "about"
+        },
+        {
+          "small": "yes",
+          "template": "pp-blp"
         },
         {
           "date": "July 2021",
@@ -323,7 +314,7 @@
             ]
           },
           "office1": {
-            "text": "Chairman of the Republican Governors Association",
+            "text": "Chair of the Republican Governors Association",
             "links": [
               {
                 "type": "internal",
