@@ -688,6 +688,12 @@
         },
         {
           "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
         }
       ],
       "images": [
@@ -766,6 +772,20 @@
           "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kellyanne_Conway_Speaks_to_the_Press_(47751382671).jpg?width=300",
           "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kellyanne_Conway_Speaks_to_the_Press_(47751382671).jpg",
           "caption": "Counselor to the President Kellyanne Conway talks to reporters and answers questions outside the West Wing entrance of the White House.",
+          "links": []
+        },
+        {
+          "file": "File:Steve Bannon & Reince Priebus (32289576414).jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Steve_Bannon_%26_Reince_Priebus_(32289576414).jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Steve_Bannon_%26_Reince_Priebus_(32289576414).jpg",
+          "caption": "Senior Counselor to the President Steve Bannon appears with White House Chief of Staff Reince Priebus at the 2017 Conservative Political Action Conference.",
+          "links": []
+        },
+        {
+          "file": "File:P20211008AS-2427 (51761379896).jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/P20211008AS-2427_(51761379896).jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/P20211008AS-2427_(51761379896).jpg",
+          "caption": "Counselor to the President Steve Ricchetti (right) meets with White House Chief of Staff Ron Klain and President Joe Biden in the Oval Office, October 2021.",
           "links": []
         }
       ],

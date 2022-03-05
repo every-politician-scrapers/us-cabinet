@@ -69,7 +69,7 @@
         {
           "sentences": [
             {
-              "text": "An ROTC graduate from Princeton University, Milley earned his commission as an armor officer in 1980, and held a variety of infantry assignments.",
+              "text": "An ROTC graduate from Princeton University, Milley earned his commission as an armor officer in 1980.",
               "links": [
                 {
                   "text": "ROTC",
@@ -84,11 +84,6 @@
                   "text": "armor",
                   "type": "internal",
                   "page": "Armor Branch"
-                },
-                {
-                  "text": "infantry",
-                  "type": "internal",
-                  "page": "Infantry Branch (United States)"
                 }
               ]
             },
@@ -181,9 +176,6 @@
         {
           "image": {
             "text": "General Mark A. Milley.jpg"
-          },
-          "image_size": {
-            "text": "250px"
           },
           "caption": {
             "text": "Official portrait, 2019"

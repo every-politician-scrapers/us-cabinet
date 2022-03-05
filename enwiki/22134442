@@ -256,6 +256,19 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of 2022, Baker and Lieutenant Governor Karyn Polito are Massachusetts's only Republican statewide elected officials.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Karyn Polito"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [

@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Kimberly Reynolds (born August 4, 1959) is an American politician serving as the current governor of Iowa since 2017.",
+              "text": "Kimberly Reynolds (born August 4, 1959) is an American politician serving as the governor of Iowa.",
               "formatting": {
                 "bold": [
                   "Kimberly Reynolds"
@@ -44,13 +44,9 @@
                   "page": "Republican Party (United States)"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Reynolds previously served as the 46th lieutenant governor of Iowa from 2011 to 2017.",
+              "text": "Reynolds served as the 46th lieutenant governor of Iowa from 2011 to 2017.",
               "links": [
                 {
                   "text": "lieutenant governor of Iowa",
@@ -58,7 +54,11 @@
                   "page": "List of lieutenant governors of Iowa"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Before she was elected lieutenant governor, Reynolds served as Clarke County treasurer for four terms and then served in the Iowa Senate from 2009 to 2010.",
               "links": [
@@ -79,7 +79,7 @@
               ]
             },
             {
-              "text": "Reynolds became governor of Iowa in May 2017 when her predecessor, Terry Branstad, stepped down to become the United States ambassador to China.",
+              "text": "Reynolds became governor of Iowa in May 2017 when Governor Terry Branstad stepped down to become the United States ambassador to China.",
               "links": [
                 {
                   "type": "internal",

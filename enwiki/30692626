@@ -17,7 +17,8 @@
     "Procter & Gamble people",
     "Republican Party state governors of the United States",
     "State treasurers of Arizona",
-    "W. P. Carey School of Business alumni"
+    "W. P. Carey School of Business alumni",
+    "Catholics from Arizona"
   ],
   "sections": [
     {
@@ -27,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Douglas Anthony Ducey Jr. (, né Roscoe; born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of Arizona.",
+              "text": "Douglas Anthony Ducey (, né Roscoe Jr.; born April 9, 1964) is an American businessman and politician serving as the 23rd and current governor of Arizona.",
               "links": [
                 {
                   "text": "governor of Arizona",
@@ -37,8 +38,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Douglas Anthony Ducey Jr.",
-                  "Roscoe"
+                  "Douglas Anthony Ducey",
+                  "Roscoe Jr."
                 ]
               }
             },
@@ -131,7 +132,7 @@
             "text": "Doug Ducey"
           },
           "image": {
-            "text": "Doug Ducey (51876283311).jpg"
+            "text": "Doug Ducey (51876283311) (cropped).jpg"
           },
           "order": {
             "text": "23rd Governor of Arizona",
