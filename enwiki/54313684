@@ -1,310 +1,36 @@
 {
-  "title": "Ryan D. McCarthy",
-  "pageID": 54313684,
-  "categories": [
-    "George W. Bush administration personnel",
-    "Living people",
-    "Lockheed Martin people",
-    "Trump administration personnel",
-    "United States Army Rangers",
-    "United States Secretaries of the Army",
-    "United States Under Secretaries of the Army",
-    "University of Maryland, College Park alumni",
-    "Virginia Military Institute alumni",
-    "Year of birth missing (living people)",
-    "Syracuse University faculty",
-    "United States Military Academy faculty"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ryan D. McCarthy (born 1973 or 1974) is an American business executive and former U.S. Army Ranger who served as the 24th United States Secretary of the Army, from 2019 to 2021.",
-              "links": [
-                {
-                  "text": "U.S. Army Ranger",
-                  "type": "internal",
-                  "page": "United States Army Rangers"
-                },
-                {
-                  "type": "internal",
-                  "page": "United States Secretary of the Army"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ryan D. McCarthy"
-                ]
-              }
-            },
-            {
-              "text": "He previously held the office in an acting capacity in 2017 and 2019."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "24th United States Secretary of the Army",
-          "template": "short description"
-        },
-        {
-          "date": "July 2020",
-          "template": "use american english"
-        },
-        {
-          "date": "August 2017",
-          "template": "use mdy dates"
-        },
-        {
-          "age": "45",
-          "year": "2019",
-          "month": "9",
-          "day": "9",
-          "template": "birth based on age as of date"
-        },
-        {
-          "list": [
-            "Virginia Military Institute",
-            "University of Maryland, College Park"
-          ],
-          "template": "ubl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ryan McCarthy"
-          },
-          "image": {
-            "text": "Ryan McCarthy-Acting Secretary of the Army.jpg"
-          },
-          "office": {
-            "text": "24th United States Secretary of the Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Secretary of the Army"
-              }
-            ]
-          },
-          "president": {
-            "text": "Donald Trump",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Donald Trump"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "James E. McPherson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James E. McPherson"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "September 30, 2019"
-          },
-          "term_end": {
-            "text": "January 20, 2021 Acting: July 23, 2019 – September 30, 2019"
-          },
-          "predecessor": {
-            "text": "Mark Esper",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Esper"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Christine E. Wormuth",
-            "links": [
-              {
-                "text": "Christine E. Wormuth",
-                "type": "internal",
-                "page": "Christine Wormuth"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Donald Trump",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Donald Trump"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "June 24, 2019"
-          },
-          "term_end2": {
-            "text": "July 15, 2019 Acting"
-          },
-          "predecessor2": {
-            "text": "Mark Esper",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Esper"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Mark Esper*",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Esper"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Donald Trump",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Donald Trump"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "August 3, 2017"
-          },
-          "term_end3": {
-            "text": "November 20, 2017 Acting"
-          },
-          "predecessor3": {
-            "text": "Robert M. Speer (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert M. Speer"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Mark Esper",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Esper"
-              }
-            ]
-          },
-          "office4": {
-            "text": "33rd United States Under Secretary of the Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Under Secretary of the Army"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Donald Trump",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Donald Trump"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "August 3, 2017"
-          },
-          "term_end4": {
-            "text": "September 30, 2019"
-          },
-          "predecessor4": {
-            "text": "Brad Carson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brad Carson"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "James E. McPherson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James E. McPherson"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1974 (age 45)"
-          },
-          "alma_mater": {
-            "text": "Virginia Military Institute\n\nUniversity of Maryland, College Park"
-          },
-          "branch": {
-            "text": "United States Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United States Army"
-              }
-            ]
-          },
-          "unit": {
-            "text": "75th Ranger Regiment",
-            "links": [
-              {
-                "text": "75th Ranger Regiment",
-                "type": "internal",
-                "page": "75th Ranger Regiment"
-              }
-            ]
-          },
-          "rank": {
-            "text": "Captain",
-            "links": [
-              {
-                "text": "Captain",
-                "type": "internal",
-                "page": "Captain (United States)"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1997–2002"
-          },
-          "battles": {
-            "text": "War in Afghanistan",
-            "links": [
-              {
-                "text": "War in Afghanistan",
-                "type": "internal",
-                "page": "War in Afghanistan (2001–present)"
-              }
-            ]
-          },
-          "footnotes": {
-            "text": "McCarthy served in an acting capacity until Esper's formal nomination to be Secretary of Defense was submitted to the Senate. While McCarthy served as Acting Army Secretary, McPherson served as Acting Under Secretary."
-          },
-          "awards": {
-            "text": "Combat Infantryman Badge",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Combat Infantryman Badge"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ryan McCarthy",
+  "image": "Ryan McCarthy-Acting Secretary of the Army.jpg",
+  "office": "24th United States Secretary of the Army",
+  "president": "Donald Trump",
+  "deputy": "James E. McPherson",
+  "term_start": "September 30, 2019",
+  "term_end": "January 20, 2021 Acting: July 23, 2019 – September 30, 2019",
+  "predecessor": "Mark Esper",
+  "successor": "Christine E. Wormuth",
+  "president2": "Donald Trump",
+  "term_start2": "June 24, 2019",
+  "term_end2": "July 15, 2019 Acting",
+  "predecessor2": "Mark Esper",
+  "successor2": "Mark Esper*",
+  "president3": "Donald Trump",
+  "term_start3": "August 3, 2017",
+  "term_end3": "November 20, 2017 Acting",
+  "predecessor3": "Robert M. Speer (acting)",
+  "successor3": "Mark Esper",
+  "office4": "33rd United States Under Secretary of the Army",
+  "president4": "Donald Trump",
+  "term_start4": "August 3, 2017",
+  "term_end4": "September 30, 2019",
+  "predecessor4": "Brad Carson",
+  "successor4": "James E. McPherson",
+  "birth_date": "1974 (age 45)",
+  "alma_mater": "Virginia Military Institute\n\nUniversity of Maryland, College Park",
+  "branch": "United States Army",
+  "unit": "75th Ranger Regiment",
+  "rank": "Captain",
+  "serviceyears": "1997–2002",
+  "battles": "War in Afghanistan",
+  "footnotes": "McCarthy served in an acting capacity until Esper's formal nomination to be Secretary of Defense was submitted to the Senate. While McCarthy served as Acting Army Secretary, McPherson served as Acting Under Secretary.",
+  "awards": "Combat Infantryman Badge"
 }
