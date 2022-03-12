@@ -16,14 +16,14 @@
   "term_start": "February 18, 2022",
   "predecessor": "Eric Lander",
   "office1": "16th Director of the National Institutes of Health",
-  "president1": "Barack Obama Donald Trump Joe Biden",
+  "president1": "Barack Obama\nDonald Trump\nJoe Biden",
   "deputy1": "Lawrence A. Tabak",
   "term_start1": "August 17, 2009",
   "term_end1": "December 19, 2021",
   "predecessor1": "Raynard S. Kington (Acting)",
   "successor1": "Lawrence A. Tabak (Acting)",
   "office2": "2nd Director of the National Human Genome Research Institute",
-  "president2": "Bill Clinton George W. Bush",
+  "president2": "Bill Clinton\nGeorge W. Bush",
   "term_start2": "April 1993",
   "term_end2": "August 1, 2008",
   "predecessor2": "Michael Gottesman (Acting)",
@@ -32,5 +32,5 @@
   "birth_date": "April 14, 1950",
   "birth_place": "Staunton, Virginia, U.S.",
   "spouse": "Diane Baker",
-  "education": "University of Virginia (BS) Yale University (MS, PhD) University of North Carolina, Chapel Hill (MD)"
+  "education": "University of Virginia (BS)\nYale University (MS, PhD)\nUniversity of North Carolina, Chapel Hill (MD)"
 }
