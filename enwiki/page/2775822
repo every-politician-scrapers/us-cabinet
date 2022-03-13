@@ -132,7 +132,7 @@
             "text": "January 20, 2021"
           },
           "department": {
-            "text": "Executive Office of the President White House Office",
+            "text": "Executive Office of the President\nWhite House Office",
             "links": [
               {
                 "type": "internal",
@@ -730,18 +730,6 @@
           "type": "web"
         },
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
           "url": "http://time.com/4718902/white-house-staff-katie-walsh-departure/",
           "title": "White House Deputy Chief of Staff Leaves for Pro-Trump Group",
           "last": "Miller",
@@ -819,6 +807,12 @@
           "first3": "Jim",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "url": "https://www.politico.com/story/2018/03/19/kelly-to-tap-kushner-ally-chris-liddell-as-deputy-chief-for-policy-470654?lo=ap_c1",
