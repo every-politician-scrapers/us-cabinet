@@ -132,7 +132,7 @@ Q13628723,Jared Kushner,sibling,Q6289985,Joshua Kushner
 Q13628723,Jared Kushner,spouse,Q239411,Ivanka Trump
 Q1363468,Mike DeWine,child,Q7143357,Pat DeWine
 Q1370400,William M. Daley,father,Q295267,Richard J. Daley
-Q1370400,William M. Daley,mother,Q5354208,"Eleanor Sis"" Daley"""
+Q1370400,William M. Daley,mother,Q5354208,"Eleanor ""Sis"" Daley"
 Q1370400,William M. Daley,sibling,Q16107270,John P. Daley
 Q1370400,William M. Daley,sibling,Q539814,Richard M. Daley
 Q1370968,John Conyers,spouse,Q6899925,Monica Conyers
@@ -217,7 +217,7 @@ Q170581,Nancy Pelosi,child,Q2325554,Alexandra Pelosi
 Q170581,Nancy Pelosi,child,Q5111145,Christine Pelosi
 Q170581,Nancy Pelosi,child,Q7152908,"Paul Pelosi, Jr."
 Q170581,Nancy Pelosi,father,Q1156152,"Thomas D'Alesandro, Jr."
-Q170581,Nancy Pelosi,mother,Q107323320,"Annunciata M. Nancy"" D'Alesandro"""
+Q170581,Nancy Pelosi,mother,Q107323320,"Annunciata M. ""Nancy"" D'Alesandro"
 Q170581,Nancy Pelosi,sibling,Q7791637,Thomas L. J. D'Alesandro III
 Q170581,Nancy Pelosi,spouse,Q7152909,Paul Pelosi
 Q1707784,Joe Kennedy III,father,Q1386420,Joseph P. Kennedy II
