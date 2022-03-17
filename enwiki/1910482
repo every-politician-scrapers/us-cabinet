@@ -9,7 +9,8 @@
 }
 {
   "name": "Amy Gutmann",
-  "image": "Amy Gutmann University of Pennsylvania Commencement 2009 01 (cropped).jpg",
+  "image": "Amy Gutmann, U.S. Ambassador.jpg",
+  "caption": "Amy Gutmann in 2022",
   "office": "United States Ambassador to Germany",
   "president": "Joe Biden",
   "term_start": "February 17, 2022",
@@ -28,6 +29,5 @@
   "birth_place": "New York City, New York, U.S.",
   "spouse": "Michael W. Doyle (m. 1976)",
   "children": "Abigail",
-  "education": "Harvard University (BA, PhD)\nLondon School of Economics (MS)",
-  "caption": "Amy Gutmann in 2009"
+  "education": "Harvard University (BA, PhD)\nLondon School of Economics (MS)"
 }

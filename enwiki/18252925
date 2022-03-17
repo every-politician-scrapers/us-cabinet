@@ -19,7 +19,7 @@
   "office2": "Under Secretary of State for Political Affairs",
   "president2": "Barack Obama",
   "1blankname2": "Secretary",
-  "1namedata2": "Hillary Clinton John Kerry",
+  "1namedata2": "Hillary Clinton\nJohn Kerry",
   "term_start2": "September 21, 2011",
   "term_end2": "October 2, 2015",
   "predecessor2": "William Joseph Burns",
@@ -42,5 +42,5 @@
   "party": "Democratic",
   "spouse": "Bruce Stokes",
   "children": "1",
-  "education": "Smith College Boston University (BA) University of Maryland, Baltimore (MSW)"
+  "education": "Smith College\nBoston University (BA)\nUniversity of Maryland, Baltimore (MSW)"
 }
