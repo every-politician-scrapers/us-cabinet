@@ -157,6 +157,7 @@ Q1525924,Roy Blunt,child,Q881141,Matt Blunt
 Q1525924,Roy Blunt,father,Q18684855,Leroy Blunt
 Q154743,Theodore Olson,spouse,Q2590988,Barbara Olson
 Q15488345,Neil Gorsuch,mother,Q565342,Anne Gorsuch Burford
+Q15488345,Neil Gorsuch,spouse,Q111338070,Louise Gorsuch
 Q155125,Scott Brown,child,Q4357472,Ayla Brown
 Q155125,Scott Brown,spouse,Q5517100,Gail Huff
 Q1555314,Gus Bilirakis,father,Q1885893,Michael Bilirakis
@@ -233,6 +234,8 @@ Q172466,Steven Chu,sibling,Q6911602,Morgan Chu
 Q1729888,Sean Duffy,spouse,Q2267027,Rachel Campos-Duffy
 Q173839,Tom Cole,mother,Q55713886,Helen Cole
 Q17402717,David Perdue,relative,Q525362,Sonny Perdue
+Q174438,Madeleine Albright,child,Q111351661,Alice Albright
+Q174438,Madeleine Albright,child,Q111352400,Anne Korbel Albright
 Q174438,Madeleine Albright,father,Q1705029,Josef Korbel
 Q174438,Madeleine Albright,mother,Q22138384,Anna Spiegelova
 Q174438,Madeleine Albright,spouse,Q6285495,Joseph Medill Patterson Albright
@@ -904,6 +907,7 @@ Q623395,Richard Armitage,child,Q77049766,Lee Armitage
 Q6247018,John Marty,father,Q6152541,Martin E. Marty
 Q62471051,Jen O'Malley Dillon,relative,Q6789145,Matt O'Malley
 Q6255593,John Roos,spouse,Q52950168,Susan Roos
+Q6257460,John Shattuck,spouse,Q111346797,Ellen Hume
 Q6262531,John W. Sears,father,Q107002689,Richard Dudley Sears
 Q627098,Mike Lee,father,Q2147070,Rex E. Lee
 Q6279,Joe Biden,child,Q5944264,Hunter Biden
