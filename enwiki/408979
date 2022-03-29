@@ -1,8 +1,9 @@
 {
   "name": "Xavier Becerra",
   "image": "HHS Xavier Becerra.jpg",
-  "office": "United States Secretary of Health and Human Services",
+  "caption": "Off‌icial portrait, 2021",
   "order": "25th",
+  "office": "United States Secretary of Health and Human Services",
   "president": "Joe Biden",
   "deputy": "Andrea Palm",
   "term_start": "March 19, 2021",
@@ -46,11 +47,10 @@
   "successor6": "Dick Mountjoy",
   "birth_date": "January 26, 1958",
   "birth_place": "Sacramento, California, U.S.",
-  "occupation": "Lawyer \n\npolitician",
-  "residence": "Los Angeles, California, U.S.\n\nWashington D.C., U.S.",
   "party": "Democratic",
   "spouse": "Carolina Reyes",
   "children": "3",
-  "education": "Stanford University (BA, JD)",
-  "caption": "Off‌icial portrait, 2021"
+  "occupation": "Lawyer \n\npolitician",
+  "residence": "Los Angeles, California, U.S.\n\nWashington D.C., U.S.",
+  "education": "Stanford University (BA, JD)"
 }
