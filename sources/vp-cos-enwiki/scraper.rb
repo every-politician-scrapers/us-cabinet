@@ -10,16 +10,12 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Chief'
+    'Image'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[name dates].freeze
-    end
-
-    def tds
-      noko.css('td,th')
+      %w[img name dates].freeze
     end
   end
 end
