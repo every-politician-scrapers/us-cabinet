@@ -3,7 +3,7 @@
 
 require 'every_politician_scraper/comparison'
 
-class UnitedStatesComparison < EveryPoliticianScraper::Comparison
+class UnitedStatesComparison < EveryPoliticianScraper::NulllessComparison
   def wikidata_csv_options
     { converters: [->(v) { v.to_s.gsub(/^United States /, '').gsub(' of the United States', '') }] }
   end
