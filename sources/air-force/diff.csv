@@ -1,28 +1,14 @@
 @@,itemlabel,item,startdate,enddate
-+++,W. Stuart Symington,Q962660,1947-09-18,1950-04-24
-+++,Thomas K. Finletter,Q1723653,1950-04-24,1953-01-20
-+++,Harold E. Talbott,Q15497642,1953-02-04,1955-08-13
-+++,Donald A. Quarles,Q927712,1955-08-15,1957-04-30
-+++,"James H. Douglas, Jr.",Q1589127,1957-05-01,1959-12-10
-+++,Dudley C. Sharp,Q5311824,1959-12-11,1961-01-20
-+++,Eugene M. Zuckert,Q1373143,1961-01-24,1965-09-30
-+++,"Robert C. Seamans, Jr.",Q2158806,1969-02-15,1973-05-15
-+++,John L. McLucas,Q1700757,1973-05-15,1973-07-18
-+++,John L. McLucas,Q1700757,1973-07-18,1975-11-23
-+++,James W. Plummer,Q6144879,1975-11-24,1976-01-01
-+++,Thomas C. Reed,Q7788162,1976-01-02,1977-04-06
-+++,John C. Stetson,Q6225786,1977-04-06,1979-05-18
+->,Stuart Symington->W. Stuart Symington,Q962660,1947-09-18,1950-04-24
+->,Donald Aubrey Quarles->Donald A. Quarles,Q927712,1955-08-15,1957-04-30
+->,"Robert Seamans->Robert C. Seamans, Jr.",Q2158806,1969-02-15,1973-05-15
+->,John Charles Stetson->John C. Stetson,Q6225786,1977-04-06,1979-05-18
 ->,Hans Mark,Q11974076,1979-05-18,1981-02-09->1979-07-26
 +++,Hans Mark,Q11974076,1979-07-26,1981-02-09
-+++,Verne Orr,Q7921977,1981-02-09,1985-11-30
-+++,Russell A. Rourke,Q7381319,1985-12-09,1986-04-06
-+++,Edward C. Aldridge Jr.,Q5342126,1986-04-06,1986-06-08
-+++,Edward C. Aldridge Jr.,Q5342126,1986-06-09,1988-12-16
-+++,James F. McGovern,Q16107422,1988-12-16,1989-04-29
-+++,"John J. Welch, Jr.",Q6241324,1989-04-29,1989-05-21
-+++,Donald B. Rice,Q5295059,1989-05-21,1993-01-20
-+++,Michael B. Donley,Q1852641,1993-01-20,1993-07-13
-+++,Merrill A. McPeak,Q511873,1993-07-14,1993-08-05
-+++,Sheila E. Widnall,Q55175,1993-08-06,1997-10-31
+->,"Edward C. Aldridge, Jr.->Edward C. Aldridge Jr.",Q5342126,1986-04-06,1986-06-08
+->,"Edward C. Aldridge, Jr.->Edward C. Aldridge Jr.",Q5342126,1986-06-09,1988-12-16
+->,Donald Rice->Donald B. Rice,Q5295059,1989-05-21,1993-01-20
+->,Merrill McPeak->Merrill A. McPeak,Q511873,1993-07-14,1993-08-05
+->,Sheila Widnall->Sheila E. Widnall,Q55175,1993-08-06,1997-10-31
 ->,Pete Geren,Q1170156,2005-06-29->2005-07-29,2005-11-04
 ->,Michael B. Donley,Q1852641,2008-06-21,2013-06-21->2008-10-02
