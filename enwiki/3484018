@@ -26,5 +26,6 @@
   "children": "3",
   "residence": "Governor's Mansion",
   "education": "Millsaps College (BA)",
-  "website": "Government website"
+  "website": "Government website",
+  "honorific_prefix": "The Honorable"
 }
