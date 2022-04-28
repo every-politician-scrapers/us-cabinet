@@ -1,9 +1,11 @@
 {
   "office": "Counselor to the President",
   "president": "Joe Biden",
-  "predecessor": "Hope Hicks\nDerek Lyons",
-  "term_start": "January 20, 2021",
   "alongside": "Steve Ricchetti",
+  "term_start": "January 20, 2021",
+  "term_end": "April 5, 2022",
+  "predecessor": "Hope Hicks\nDerek Lyons",
+  "successor": "Steve Ricchetti",
   "office1": "White House Coronavirus Response Coordinator",
   "president1": "Joe Biden",
   "term_start1": "January 20, 2021",
