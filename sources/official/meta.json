@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "the United States of America",
+      "id": "Q30"
+    },
+    "cabinet": {
+      "id": "Q101250904",
+      "start": "2021-01-20",
+      "parent": "Q639738"
+    },
+    "source": {
+        "url":   "https://www.whitehouse.gov/administration/cabinet/",
+        "title": "The Cabinet | The White House",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/us-cabinet"
+}
