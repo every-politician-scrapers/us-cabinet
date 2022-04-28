@@ -92,18 +92,14 @@
             "text": "175px"
           },
           "image": {
-            "text": "Steve Ricchetti.jpgJeffrey Zients official portrait.jpg"
+            "text": "Steve Ricchetti.jpg"
           },
           "incumbent": {
-            "text": "Steve Ricchetti and Jeffrey Zients",
+            "text": "Steve Ricchetti",
             "links": [
               {
                 "type": "internal",
                 "page": "Steve Ricchetti"
-              },
-              {
-                "type": "internal",
-                "page": "Jeffrey Zients"
               }
             ]
           },
@@ -793,21 +789,24 @@
         [
           {
             "col1": {
-              "text": "Counselor"
+              "text": "Portrait"
             },
             "col2": {
               "text": ""
             },
             "col3": {
-              "text": ""
+              "text": "Counselor"
             },
             "col4": {
-              "text": "Term of office"
-            },
-            "col5": {
               "text": "Party"
             },
+            "col5": {
+              "text": "Start"
+            },
             "col6": {
+              "text": "End"
+            },
+            "col7": {
               "text": "President"
             }
           },
@@ -828,9 +827,6 @@
               ]
             },
             "col4": {
-              "text": "January 20, 1969 – November 5, 1969"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -840,7 +836,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 20, 1969"
+            },
             "col6": {
+              "text": "November 5, 1969"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -868,9 +870,6 @@
               ]
             },
             "col4": {
-              "text": "November 5, 1969 – December 31, 1970"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -880,7 +879,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "November 5, 1969"
+            },
             "col6": {
+              "text": "December 31, 1970"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -907,9 +912,6 @@
               ]
             },
             "col4": {
-              "text": "November 5, 1969 – December 9, 1970 (with Moynihan)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -919,7 +921,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "November 5, 1969"
+            },
             "col6": {
+              "text": "December 9, 1970"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -937,19 +945,15 @@
               "text": "RobertHFinch.jpg"
             },
             "col3": {
-              "text": "Robert Finch (1925–1995)",
+              "text": "Robert Finch (American politician) (1925–1995)",
               "links": [
                 {
-                  "text": "Robert Finch",
                   "type": "internal",
                   "page": "Robert Finch (American politician)"
                 }
               ]
             },
             "col4": {
-              "text": "June 23, 1970 – December 15, 1972 (with Moynihan and Harlow initially)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -959,7 +963,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "June 23, 1970"
+            },
             "col6": {
+              "text": "December 15, 1972"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -986,9 +996,6 @@
               ]
             },
             "col4": {
-              "text": "December 11, 1970 – October 15, 1971 (with Finch)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -998,7 +1005,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "December 11, 1970"
+            },
             "col6": {
+              "text": "October 15, 1971"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -1025,9 +1038,6 @@
               ]
             },
             "col4": {
-              "text": "January 19, 1973 – December 18, 1974"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1037,7 +1047,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 19, 1973"
+            },
             "col6": {
+              "text": "December 18, 1974"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -1052,7 +1068,7 @@
               "text": ""
             },
             "col2": {
-              "text": "Dean_Burch_Cabinet.jpg"
+              "text": "Dean Burch Cabinet.jpg"
             },
             "col3": {
               "text": "Dean Burch (1927–1991)",
@@ -1064,9 +1080,6 @@
               ]
             },
             "col4": {
-              "text": "March 8, 1974 – December 31, 1974 (with Armstrong)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1076,7 +1089,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "March 8, 1974"
+            },
             "col6": {
+              "text": "December 31, 1974"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -1103,9 +1122,6 @@
               ]
             },
             "col4": {
-              "text": "May 29, 1974 – September 19, 1974 (with Armstrong)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1115,7 +1131,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "May 29, 1974"
+            },
             "col6": {
+              "text": "September 19, 1974"
+            },
+            "col7": {
               "text": "Richard Nixon (1969–1974)",
               "links": [
                 {
@@ -1142,9 +1164,6 @@
               ]
             },
             "col4": {
-              "text": "August 9, 1974 – January 20, 1977 (with Armstrong initially)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1154,7 +1173,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "August 9, 1974"
+            },
             "col6": {
+              "text": "January 20, 1977"
+            },
+            "col7": {
               "text": "Gerald Ford (1974–1977)",
               "links": [
                 {
@@ -1172,19 +1197,16 @@
               "text": "Marsh, John O 2.jpg"
             },
             "col3": {
-              "text": "John O. Marsh (1926–2019)",
+              "text": "John Marsh (1926–2019)",
               "links": [
                 {
-                  "text": "John O. Marsh",
+                  "text": "John Marsh",
                   "type": "internal",
                   "page": "John Otho Marsh Jr."
                 }
               ]
             },
             "col4": {
-              "text": "August 9, 1974 – January 20, 1977 (with Armstong initially)"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -1194,7 +1216,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "August 9, 1974"
+            },
             "col6": {
+              "text": "January 20, 1977"
+            },
+            "col7": {
               "text": "Gerald Ford (1974–1977)",
               "links": [
                 {
@@ -1221,9 +1249,6 @@
               ]
             },
             "col4": {
-              "text": "February 2, 1976 – April 1, 1976 (with Hartmann and Marsh)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1233,7 +1258,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "February 2, 1976"
+            },
             "col6": {
+              "text": "April 1, 1976"
+            },
+            "col7": {
               "text": "Gerald Ford (1974–1977)",
               "links": [
                 {
@@ -1262,9 +1293,12 @@
               "text": ""
             },
             "col5": {
-              "text": ""
+              "text": "April 1, 1976"
             },
             "col6": {
+              "text": "January 20, 1981"
+            },
+            "col7": {
               "text": "Jimmy Carter (1977–1981)",
               "links": [
                 {
@@ -1291,9 +1325,6 @@
               ]
             },
             "col4": {
-              "text": "January 20, 1981 – February 25, 1985"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1303,7 +1334,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 20, 1981"
+            },
             "col6": {
+              "text": "February 25, 1985"
+            },
+            "col7": {
               "text": "Ronald Reagan (1981–1989)",
               "links": [
                 {
@@ -1332,9 +1369,12 @@
               "text": ""
             },
             "col5": {
-              "text": ""
+              "text": "February 25, 1985"
             },
             "col6": {
+              "text": "February 1, 1992"
+            },
+            "col7": {
               "text": "Ronald Reagan (1981–1989)",
               "links": [
                 {
@@ -1346,22 +1386,28 @@
           },
           {
             "col1": {
-              "text": "George H.W. Bush (1989–1993)",
+              "text": "George H. W. Bush (1989–1993)",
               "links": [
                 {
                   "type": "internal",
-                  "page": "George H.W. Bush"
+                  "page": "George H. W. Bush"
                 }
               ]
+            },
+            "col2": {
+              "text": "February 25, 1985"
+            },
+            "col3": {
+              "text": "February 1, 1992"
             }
           },
           {
             "col1": {
-              "text": "George H.W. Bush (1989–1993)",
+              "text": "George H. W. Bush (1989–1993)",
               "links": [
                 {
                   "type": "internal",
-                  "page": "George H.W. Bush"
+                  "page": "George H. W. Bush"
                 }
               ]
             },
@@ -1381,9 +1427,6 @@
               ]
             },
             "col5": {
-              "text": "February 1, 1992 – January 20, 1993"
-            },
-            "col6": {
               "text": "Republican",
               "links": [
                 {
@@ -1392,6 +1435,12 @@
                   "page": "Republican Party (United States)"
                 }
               ]
+            },
+            "col6": {
+              "text": "February 1, 1992"
+            },
+            "col7": {
+              "text": "January 20, 1993"
             }
           },
           {
@@ -1413,9 +1462,12 @@
               "text": ""
             },
             "col5": {
-              "text": ""
+              "text": "January 20, 1993"
             },
             "col6": {
+              "text": "May 29, 1993"
+            },
+            "col7": {
               "text": "Bill Clinton (1993–2001)",
               "links": [
                 {
@@ -1442,9 +1494,6 @@
               ]
             },
             "col4": {
-              "text": "May 29, 1993 – June 10, 1994"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1454,7 +1503,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "May 29, 1993"
+            },
             "col6": {
+              "text": "June 10, 1994"
+            },
+            "col7": {
               "text": "Bill Clinton (1993–2001)",
               "links": [
                 {
@@ -1483,9 +1538,12 @@
               "text": ""
             },
             "col5": {
-              "text": ""
+              "text": "June 10, 1994"
             },
             "col6": {
+              "text": "July 17, 1994"
+            },
+            "col7": {
               "text": "Bill Clinton (1993–2001)",
               "links": [
                 {
@@ -1512,9 +1570,6 @@
               ]
             },
             "col4": {
-              "text": "July 17, 1994 – June 30, 1998 (with Curry and Begala)"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -1524,7 +1579,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "July 17, 1994"
+            },
             "col6": {
+              "text": "June 30, 1998"
+            },
+            "col7": {
               "text": "Bill Clinton (1993–2001)",
               "links": [
                 {
@@ -1542,19 +1603,15 @@
               "text": "Bill Curry, Connecticut nominee for governor, 1994.png"
             },
             "col3": {
-              "text": "Bill Curry (born 1951)",
+              "text": "Bill Curry (politician) (born 1951)",
               "links": [
                 {
-                  "text": "Bill Curry",
                   "type": "internal",
                   "page": "Bill Curry (politician)"
                 }
               ]
             },
             "col4": {
-              "text": "February 21, 1995 – January 20, 1997 (with McLarty)"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -1564,7 +1621,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "February 21, 1995"
+            },
             "col6": {
+              "text": "January 20, 1997"
+            },
+            "col7": {
               "text": "Bill Clinton (1993–2001)",
               "links": [
                 {
@@ -1591,9 +1654,6 @@
               ]
             },
             "col4": {
-              "text": "August 17, 1997 – March 10, 1999 (with McLarty initially)"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -1603,7 +1663,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "August 17, 1997"
+            },
             "col6": {
+              "text": "March 10, 1999"
+            },
+            "col7": {
               "text": "Bill Clinton (1993–2001)",
               "links": [
                 {
@@ -1630,9 +1696,6 @@
               ]
             },
             "col4": {
-              "text": "March 10, 1999 – January 20, 2001"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -1642,7 +1705,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "March 10, 1999"
+            },
             "col6": {
+              "text": "January 20, 2001"
+            },
+            "col7": {
               "text": "Bill Clinton (1993–2001)",
               "links": [
                 {
@@ -1669,9 +1738,6 @@
               ]
             },
             "col4": {
-              "text": "January 20, 2001 – July 8, 2002"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1681,7 +1747,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 20, 2001"
+            },
             "col6": {
+              "text": "July 8, 2002"
+            },
+            "col7": {
               "text": "George W. Bush (2001–2009)",
               "links": [
                 {
@@ -1710,9 +1782,12 @@
               "text": ""
             },
             "col5": {
-              "text": ""
+              "text": "July 8, 2002"
             },
             "col6": {
+              "text": "January 5, 2005"
+            },
+            "col7": {
               "text": "George W. Bush (2001–2009)",
               "links": [
                 {
@@ -1739,9 +1814,6 @@
               ]
             },
             "col4": {
-              "text": "January 5, 2005 – July 5, 2007"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1751,7 +1823,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 5, 2005"
+            },
             "col6": {
+              "text": "July 5, 2007"
+            },
+            "col7": {
               "text": "George W. Bush (2001–2009)",
               "links": [
                 {
@@ -1778,9 +1856,6 @@
               ]
             },
             "col4": {
-              "text": "July 5, 2007 – January 20, 2009"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -1790,7 +1865,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "July 5, 2007"
+            },
             "col6": {
+              "text": "January 20, 2009"
+            },
+            "col7": {
               "text": "George W. Bush (2001–2009)",
               "links": [
                 {
@@ -1819,9 +1900,12 @@
               "text": ""
             },
             "col5": {
-              "text": ""
+              "text": "January 20, 2009"
             },
             "col6": {
+              "text": "January 13, 2011"
+            },
+            "col7": {
               "text": "Barack Obama (2009–2017)",
               "links": [
                 {
@@ -1848,9 +1932,6 @@
               ]
             },
             "col4": {
-              "text": "January 13, 2011 – January 1, 2014"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -1860,7 +1941,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 13, 2011"
+            },
             "col6": {
+              "text": "January 1, 2014"
+            },
+            "col7": {
               "text": "Barack Obama (2009–2017)",
               "links": [
                 {
@@ -1887,9 +1974,6 @@
               ]
             },
             "col4": {
-              "text": "January 1, 2014 – February 13, 2015"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -1899,7 +1983,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 1, 2014"
+            },
             "col6": {
+              "text": "February 13, 2015"
+            },
+            "col7": {
               "text": "Barack Obama (2009–2017)",
               "links": [
                 {
@@ -1928,53 +2018,17 @@
               "text": ""
             },
             "col5": {
-              "text": ""
+              "text": "February 13, 2015"
             },
             "col6": {
+              "text": "January 20, 2017"
+            },
+            "col7": {
               "text": "Barack Obama (2009–2017)",
               "links": [
                 {
                   "type": "internal",
                   "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Kellyanne Conway by Gage Skidmore 3.jpg"
-            },
-            "col3": {
-              "text": "Kellyanne Conway (born 1967)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kellyanne Conway"
-                }
-              ]
-            },
-            "col4": {
-              "text": "January 20, 2017 – August 31, 2020"
-            },
-            "col5": {
-              "text": "Republican",
-              "links": [
-                {
-                  "text": "Republican",
-                  "type": "internal",
-                  "page": "Republican Party (United States)"
-                }
-              ]
-            },
-            "col6": {
-              "text": "Donald Trump (2017–2021)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Donald Trump"
                 }
               ]
             }
@@ -1996,9 +2050,6 @@
               ]
             },
             "col4": {
-              "text": "January 20, 2017 – August 18, 2017 (with Conway)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -2008,7 +2059,55 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 20, 2017"
+            },
             "col6": {
+              "text": "August 18, 2017"
+            },
+            "col7": {
+              "text": "Donald Trump (2017–2021)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Kellyanne Conway by Gage Skidmore 3.jpg"
+            },
+            "col3": {
+              "text": "Kellyanne Conway (born 1967)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kellyanne Conway"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            },
+            "col5": {
+              "text": "January 20, 2017"
+            },
+            "col6": {
+              "text": "August 31, 2020"
+            },
+            "col7": {
               "text": "Donald Trump (2017–2021)",
               "links": [
                 {
@@ -2035,9 +2134,6 @@
               ]
             },
             "col4": {
-              "text": "February 9, 2018 – May 24, 2019 (with Conway)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -2047,7 +2143,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "February 9, 2018"
+            },
             "col6": {
+              "text": "May 24, 2019"
+            },
+            "col7": {
               "text": "Donald Trump (2017–2021)",
               "links": [
                 {
@@ -2065,18 +2167,6 @@
               "text": "Hope Hicks November 2017.jpg"
             },
             "col3": {
-              "text": "Hope Hicks (born 1988)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Hope Hicks"
-                }
-              ]
-            },
-            "col4": {
-              "text": "March 9, 2020 – January 12, 2021 (with Conway initially, and Lyons)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -2086,7 +2176,22 @@
                 }
               ]
             },
+            "col4": {
+              "text": "Hope Hicks (born 1988)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hope Hicks"
+                }
+              ]
+            },
+            "col5": {
+              "text": "March 9, 2020"
+            },
             "col6": {
+              "text": "January 12, 2021"
+            },
+            "col7": {
               "text": "Donald Trump (2017–2021)",
               "links": [
                 {
@@ -2113,9 +2218,6 @@
               ]
             },
             "col4": {
-              "text": "May 20, 2020 – January 20, 2021 (with Conway and Hicks, initially)"
-            },
-            "col5": {
               "text": "Republican",
               "links": [
                 {
@@ -2125,7 +2227,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "May 20, 2020"
+            },
             "col6": {
+              "text": "January 20, 2021"
+            },
+            "col7": {
               "text": "Donald Trump (2017–2021)",
               "links": [
                 {
@@ -2152,9 +2260,6 @@
               ]
             },
             "col4": {
-              "text": "January 20, 2021 – present (with Zients)"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -2164,7 +2269,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 20, 2021"
+            },
             "col6": {
+              "text": "present"
+            },
+            "col7": {
               "text": "Joe Biden (2021–present)",
               "links": [
                 {
@@ -2191,9 +2302,6 @@
               ]
             },
             "col4": {
-              "text": "January 20, 2021 – present (with Ricchetti)"
-            },
-            "col5": {
               "text": "Democratic",
               "links": [
                 {
@@ -2203,7 +2311,13 @@
                 }
               ]
             },
+            "col5": {
+              "text": "January 20, 2021"
+            },
             "col6": {
+              "text": "April 4, 2022"
+            },
+            "col7": {
               "text": "Joe Biden (2021–present)",
               "links": [
                 {
@@ -2401,26 +2515,26 @@
         {
           "url": "https://www.nytimes.com/1970/12/31/archives/a-white-house-farewell.html",
           "title": "White House Farewell",
-          "newspaper": "The New York Times",
-          "access-date": "November 18, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 18, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/1970/12/10/archives/harlow-resigns-as-aide-to-nixon-will-return-to-lobbyist-post-with.html",
           "title": "Harlow Resigns As Aide to Nixon; Will Return to Lobbyist Post",
-          "newspaper": "The New York Times",
-          "access-date": "November 18, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 18, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/1970/06/10/archives/washington-finch-and-the-postwar-economy.html",
           "title": "Finch and the Postwar Economy",
-          "newspaper": "The New York Times",
-          "access-date": "November 18, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 18, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "template": "citation",
@@ -2431,32 +2545,32 @@
         {
           "url": "https://www.nytimes.com/1974/03/06/archives/burch-under-senate-pressure-to-step-up-fcc-departure-3-vacancies.html",
           "title": "Burch Under Senate Pressure to Step Up FCC Departure 3 Vacancies",
-          "newspaper": "The New York Times",
-          "access-date": "November 18, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 18, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/1974/12/03/archives/burch-resigning-as-white-house-adviser-notes-on-people.html",
           "title": "Burch Resigning as White House Adviser Notes on People",
-          "newspaper": "The New York Times",
-          "access-date": "November 18, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 18, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/1974/05/30/archives/rush-sworn-as-counselor-to-president-on-economy.html",
           "title": "Rush Sworn as Counselor to President on Economy",
-          "newspaper": "The New York Times",
-          "access-date": "November 18, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 18, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://history.state.gov/departmenthistory/people/rush-kenneth",
           "title": "Kenneth Rush – People – Department History – Office of the Historian",
           "publisher": "History.state.gov",
-          "access-date": "November 14, 2016",
+          "accessdate": "November 14, 2016",
           "template": "citation",
           "type": "web"
         },
@@ -2464,25 +2578,25 @@
           "author": "Dennis Hevesi",
           "url": "https://www.nytimes.com/2008/04/19/us/politics/19hartmann.html?_r=0",
           "title": "Robert Hartmann, 91, Dies; Wrote Ford's Noted Talk",
-          "newspaper": "The New York Times",
+          "work": "The New York Times",
           "date": "April 19, 2008",
-          "access-date": "November 14, 2016",
+          "accessdate": "November 14, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/1974/08/11/archives/ford-bids-cabinet-and-agency-heads-remain-in-posts-indefinite-stays.html",
           "title": "Ford Bids Cabinet and Agency Heads Remain in Post Indefinite Stays",
-          "newspaper": "The New York Times",
-          "access-date": "November 18, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 18, 2016",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://query.nytimes.com/gst/abstract.html?res=9A05EED6173DE034BC4D53DFB767838D669EDE&legacy=true",
           "title": "Ford Making Plans For Handing Over Controls to Carter",
-          "newspaper": "The New York Times",
-          "access-date": "November 14, 2016",
+          "work": "The New York Times",
+          "accessdate": "November 14, 2016",
           "archive-url": "https://web.archive.org/web/20161023060500/http://query.nytimes.com/gst/abstract.html?res=9A05EED6173DE034BC4D53DFB767838D669EDE&legacy=true",
           "archive-date": "October 23, 2016",
           "url-status": "dead",
@@ -2493,7 +2607,7 @@
         {
           "url": "https://www.fordlibrarymuseum.gov/library/guides/findingaid/mortonrfiles.asp#sfftl",
           "title": "Gerald R. Ford Presidential Library and Museum",
-          "website": "www.fordlibrarymuseum.gov",
+          "publisher": "www.fordlibrarymuseum.gov",
           "template": "citation",
           "type": "web"
         },
@@ -2504,11 +2618,11 @@
           "first": "JACK",
           "date": "1994-06-28",
           "work": "Los Angeles Times",
-          "access-date": "2017-11-15",
+          "accessdate": "2017-11-15",
           "language": "en-US",
           "issn": "0458-3035",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/1998/04/25/us/president-s-friend-is-leaving-white-house-for-private-life.html",
@@ -2517,33 +2631,33 @@
           "first": "John M.",
           "date": "1998-04-25",
           "work": "The New York Times",
-          "access-date": "2017-11-15",
+          "accessdate": "2017-11-15",
           "language": "en-US",
           "issn": "0362-4331",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/1997/08/17/nyregion/news-summary-667552.html",
           "title": "News Summary",
-          "newspaper": "The New York Times",
+          "work": "The New York Times",
           "date": "August 17, 1997",
-          "access-date": "November 18, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://twitter.com/KellyannePolls",
-          "title": "Kellyanne Conway (@KellyannePolls)",
-          "website": "twitter.com",
+          "accessdate": "November 18, 2016",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "http://www.politico.com/story/2017/08/18/bannon-out-as-white-house-chief-strategist-241786",
           "title": "Bannon out as White House chief strategist",
-          "website": "Politico.com",
-          "access-date": "January 24, 2018",
+          "work": "Politico",
+          "accessdate": "January 24, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://twitter.com/KellyannePolls",
+          "title": "Kellyanne Conway (@KellyannePolls)",
+          "publisher": "twitter.com",
           "template": "citation",
           "type": "web"
         },
@@ -2553,7 +2667,7 @@
           "date": "February 9, 2018",
           "via": "National Archives",
           "work": "whitehouse.gov",
-          "access-date": "June 19, 2018",
+          "accessdate": "June 19, 2018",
           "template": "citation",
           "type": "web"
         },
@@ -2566,9 +2680,9 @@
           "last2": "Sonmez",
           "date": "May 21, 2019",
           "work": "The Washington Post",
-          "access-date": "June 15, 2019",
+          "accessdate": "June 15, 2019",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.politico.com/news/2020/04/27/trump-hope-hicks-coronavirus-crisis-210808",
@@ -2579,16 +2693,16 @@
           "last1": "Cook",
           "first2": "Meredith",
           "last2": "McGraw",
-          "access-date": "September 3, 2020",
+          "accessdate": "September 3, 2020",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.nytimes.com/2020/02/13/us/politics/hope-hicks-white-house-return.html",
           "title": "Hope Hicks to Return to the White House After a Nearly Two-Year Absence",
           "date": "February 13, 2020",
           "work": "The New York Times",
-          "access-date": "April 6, 2020",
+          "accessdate": "April 6, 2020",
           "template": "citation",
           "type": "web"
         },
@@ -2600,10 +2714,10 @@
           "date": "January 13, 2021",
           "title": "Top White House adviser Hicks no longer works at the White House, a previously planned departure",
           "url": "https://www.cnn.com/2021/01/13/politics/hope-hicks-white-house-trump-riot/index.html",
-          "access-date": "2021-01-14",
-          "website": "CNN",
+          "accessdate": "2021-01-14",
+          "publisher": "CNN",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-announces-appointments-executive-office-president/",
@@ -2611,7 +2725,7 @@
           "date": "February 9, 2020",
           "via": "National Archives",
           "work": "whitehouse.gov",
-          "access-date": "September 3, 2020",
+          "accessdate": "September 3, 2020",
           "template": "citation",
           "type": "press release"
         },
@@ -2621,7 +2735,7 @@
           "work": "whitehouse.gov",
           "title": "Annual Report to Congress on White House Office Personnel",
           "via": "National Archives",
-          "access-date": "September 3, 2020",
+          "accessdate": "September 3, 2020",
           "template": "citation",
           "type": "web"
         },
