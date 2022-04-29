@@ -15,19 +15,15 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no name type title start _ end].freeze
+      %w[no img name type title start _ end].freeze
     end
 
     field :title do
-      tds[3].text.tidy
+      tds[4].text.tidy
     end
 
     def empty?
       tds[0].text == tds[3].text
-    end
-
-    def tds
-      noko.css('td,th')
     end
   end
 end
