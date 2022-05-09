@@ -2,9 +2,10 @@
   "name": "Jen Psaki",
   "office": "34th White House Press Secretary",
   "president": "Joe Biden",
-  "term_start": "January 20, 2021",
   "deputy": "Karine Jean-Pierre",
+  "term_start": "January 20, 2021",
   "predecessor": "Kayleigh McEnany",
+  "successor": "Karine Jean-Pierre (designate)",
   "office1": "White House Communications Director",
   "president1": "Barack Obama",
   "term_start1": "April 1, 2015",
@@ -35,7 +36,7 @@
   "birth_date": "December 1, 1978",
   "birth_place": "Stamford, Connecticut, U.S.",
   "party": "Democratic",
-  "education": "College of William & Mary (BA)",
   "spouse": "Gregory Mecher (m. May 8, 2010)",
-  "children": "2"
+  "children": "2",
+  "education": "College of William and Mary (BA)"
 }
