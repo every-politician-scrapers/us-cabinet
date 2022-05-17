@@ -29,7 +29,7 @@
               }
             },
             {
-              "text": "White House Senior Advisors are senior members of the White House Office.",
+              "text": "White House senior advisors are senior members of the White House Office.",
               "links": [
                 {
                   "type": "internal",
@@ -132,7 +132,7 @@
         {
           "sentences": [
             {
-              "text": "Over time, the Senior Advisor role has had responsibility for the following groups:"
+              "text": "Over time, the senior advisor role has had responsibility for the following groups:"
             }
           ]
         },
@@ -206,19 +206,20 @@
         {
           "sentences": [
             {
-              "text": "In prior administrations before 1993, the position of \"Senior Advisor\" was a title used for various other purposes.",
+              "text": "In prior administrations before 1993, the position of \"senior advisor\" was a title used for various other purposes.",
               "links": [
                 {
+                  "text": "senior advisor",
                   "type": "internal",
-                  "page": "Senior Advisor"
+                  "page": "senior advisor"
                 }
               ]
             },
             {
-              "text": "Numerous examples of the position also exist throughout the Executive Departments and in the branch's independent agencies.",
+              "text": "Numerous examples of the position also exist throughout the executive departments and in the branch's independent agencies.",
               "links": [
                 {
-                  "text": "Executive Departments",
+                  "text": "executive departments",
                   "type": "internal",
                   "page": "United States federal executive departments"
                 },
@@ -1917,15 +1918,6 @@
               {
                 "type": "internal",
                 "page": "Counselor to the President"
-              }
-            ]
-          },
-          {
-            "text": "White House Chief Strategist",
-            "links": [
-              {
-                "type": "internal",
-                "page": "White House Chief Strategist"
               }
             ]
           },
