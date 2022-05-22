@@ -76,7 +76,7 @@
             "number": 200
           },
           "image": {
-            "text": "Mike Donilon - January 2013.jpg Cedric Richmond official photo (cropped).jpg Gene Sperling (National Economic Council) (cropped).jpg Neera Tanden by Gage Skidmore (cropped).jpg \nFormer NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg"
+            "text": "Mike Donilon - January 2013.jpg Anita Dunn.jpg\nGene Sperling (National Economic Council) (cropped).jpg Neera Tanden by Gage Skidmore (cropped).jpg\n\nFormer NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg"
           },
           "department": {
             "text": "Executive Office of the President",
@@ -88,7 +88,7 @@
             ]
           },
           "incumbent": {
-            "text": "Mike Donilon, Cedric Richmond, Gene Sperling, Neera Tanden, Mitch Landrieu",
+            "text": "Mike Donilon, Anita Dunn, Gene Sperling, Neera Tanden, Mitch Landrieu",
             "links": [
               {
                 "type": "internal",
@@ -96,7 +96,7 @@
               },
               {
                 "type": "internal",
-                "page": "Cedric Richmond"
+                "page": "Anita Dunn"
               },
               {
                 "type": "internal",
@@ -1018,12 +1018,7 @@
               "text": ""
             },
             "col5": {
-              "text": "January 20, 2021 – present",
-              "formatting": {
-                "italic": [
-                  "January 20, 2021 – present"
-                ]
-              }
+              "text": "January 20, 2021 – present"
             },
             "col6": {
               "text": "Democratic",
@@ -1065,7 +1060,7 @@
               "text": "Public Engagement"
             },
             "col5": {
-              "text": "January 20, 2021 – present"
+              "text": "January 20, 2021 – May 18, 2022"
             },
             "col6": {
               "text": "Democratic",
@@ -1107,7 +1102,7 @@
               "text": ""
             },
             "col5": {
-              "text": "January 20, 2021 – August 12, 2021"
+              "text": "January 20, 2021 – August 12, 2021 May 5, 2022 – present"
             },
             "col6": {
               "text": "Democratic",
@@ -1426,6 +1421,7 @@
           "url": "https://abcnews.go.com/GMA/george-stephanopoulos-good-morning-america-anchor-biography/story?id=133369",
           "title": "George's Biography",
           "last": "ABC News",
+          "website": "ABC News",
           "date": "September 18, 2014",
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20191010171242/https://abcnews.go.com/GMA/george-stephanopoulos-good-morning-america-anchor-biography/story?id=133369",
@@ -1485,9 +1481,9 @@
         },
         {
           "url": "https://www.nytimes.com/2010/10/01/us/politics/01obama.html",
-          "title": "Emanuel’s Departure Set; Replacement Is Longtime Aide",
-          "last": "Shear",
-          "first": "Michael D.",
+          "title": "Emanuel's Departure Set; Replacement Is Longtime Aide",
+          "last1": "Shear",
+          "first1": "Michael D.",
           "date": "October 1, 2010",
           "work": "The New York Times",
           "url-status": "live",
@@ -1569,11 +1565,11 @@
         },
         {
           "url": "https://www.washingtonpost.com/news/post-politics/wp/2017/01/09/tumps-son-in-law-jared-kushner-expected-to-join-white-house-as-a-senior-adviser/",
-          "title": "Trump’s son-in-law, Jared Kushner, to join White House as senior adviser; no formal role for Ivanka Trump",
-          "last": "Wagner",
-          "first": "John",
+          "title": "Trump's son-in-law, Jared Kushner, to join White House as senior adviser; no formal role for Ivanka Trump",
+          "last1": "Wagner",
+          "first1": "John",
           "date": "January 9, 2017",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "url-status": "live",
           "archive-url": "https://archive.today/20170110010747/https://www.washingtonpost.com/news/post-politics/wp/2017/01/09/tumps-son-in-law-jared-kushner-expected-to-join-white-house-as-a-senior-adviser/",
           "archive-date": "January 10, 2017",
@@ -1610,6 +1606,69 @@
           "archive-date": "April 22, 2019",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.nytimes.com/2020/11/17/us/politics/mike-donilon-biden.html",
+          "title": "Mike Donilon, Who Helped Draft Biden's Message, is Named a Senior Adviser",
+          "newspaper": "The New York Times",
+          "date": "November 18, 2020",
+          "last1": "Shear",
+          "first1": "Michael D.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.nytimes.com/2020/11/17/us/politics/cedric-richmond-biden.html",
+          "title": "Representative Cedric Richmond Set to be a Senior Biden Adviser",
+          "newspaper": "The New York Times",
+          "date": "November 18, 2020",
+          "last1": "Glueck",
+          "first1": "Katie",
+          "last2": "Martin",
+          "first2": "Jonathan",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.axios.com/2021/01/15/scoop-anita-dunn-to-join-white-house-as-senior-adviser",
+          "title": "Anita Dunn to join Biden White House as senior adviser",
+          "date": "January 15, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/president-biden-announces-karine-jean-pierre-as-white-house-press-secretary/",
+          "title": "President Biden Announces Karine Jean-Pierre as White House Press Secretary",
+          "date": "May 5, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nytimes.com/2021/03/15/us/politics/gene-sperling-stimulus-plan.html",
+          "title": "Biden picks Gene Sperling, a Democratic policy aide, to oversee spending from the $1.9 trillion relief plan",
+          "newspaper": "The New York Times",
+          "date": "March 15, 2021",
+          "last1": "Tankersley",
+          "first1": "Jim",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/biden-appoints-neera-tanden-former-pick-budget-director-senior-adviser-2021-05-14/",
+          "title": "Biden appoints Neera Tanden, former pick for budget director, as senior adviser",
+          "newspaper": "Reuters",
+          "date": "May 14, 2021",
+          "last1": "Mason",
+          "first1": "Jeff",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/14/president-biden-announces-former-new-orleans-mayor-mitch-landrieu-as-senior-advisor-and-infrastructure-coordinator/",
+          "title": "President Biden Announces Former New Orleans Mayor Mitch Landrieu as Senior Advisor and Infrastructure Coordinator",
+          "date": "November 14, 2021",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Trump",
@@ -1791,14 +1850,15 @@
           "via": "National Archives",
           "work": "whitehouse.gov",
           "title": "Stephanie Cutter - Former Assistant to the President and Deputy Senior Advisor",
+          "date": "January 11, 2011",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://www.cnn.com/2017/03/29/politics/ivanka-trump-white-house-job/index.html",
           "title": "Ivanka Trump is making her White House job official",
-          "last": "Merica",
-          "first": "Dan",
+          "last1": "Merica",
+          "first1": "Dan",
           "date": "March 30, 2017",
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20190308011951/https://www.cnn.com/2017/03/29/politics/ivanka-trump-white-house-job/index.html",
@@ -1817,14 +1877,14 @@
         },
         {
           "url": "https://apnews.com/2b3bab9741604a448e1c2b8bd49e6931",
-          "title": "Ivanka Trump’s dual roles as senior adviser, first daughter",
+          "title": "Ivanka Trump's dual roles as senior adviser, first daughter",
           "last": "Lucey",
           "first": "Catherine",
           "date": "February 26, 2018",
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20180314154433/https://apnews.com/2b3bab9741604a448e1c2b8bd49e6931",
           "archive-date": "March 14, 2018",
-          "agency": "Associated Press",
+          "work": "Associated Press",
           "template": "citation",
           "type": "news"
         },
@@ -1840,7 +1900,7 @@
           "type": "magazine"
         },
         {
-          "title": "Ivanka Trump’s dual roles as senior adviser, first daughter",
+          "title": "Ivanka Trump's dual roles as senior adviser, first daughter",
           "url": "https://www.apnews.com/2b3bab9741604a448e1c2b8bd49e6931",
           "author": "Catherine Lucey",
           "date": "26 February 2018",
