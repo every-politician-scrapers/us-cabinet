@@ -5,14 +5,14 @@ let meta = JSON.parse(rawmeta);
 module.exports = function () {
   let datefilter = meta.start ? `FILTER (!BOUND(?startV) || (?startV >= "${meta.start}T00:00:00Z"^^xsd:dateTime))` : '';
 
-  return `SELECT DISTINCT ?item ?itemLabel ?startDate ?endDate
+  return `SELECT DISTINCT ?item ?itemLabel ?startDate ?endDate ?sourceDate
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .
           ?held ps:P39 wd:${meta.position} .
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
 
-          OPTIONAL {
+          {
             ?held pqv:P580 [ wikibase:timeValue ?startV ; wikibase:timePrecision ?startP ]
             BIND(COALESCE(
               IF(?startP = 11, SUBSTR(STR(?startV), 1, 10), 1/0),
@@ -34,8 +34,15 @@ module.exports = function () {
           }
           ${datefilter}
 
-          SERVICE wikibase:label { bd:serviceParam wikibase:language "${meta.lang}" }
+          OPTIONAL {
+            ?held prov:wasDerivedFrom ?ref .
+            ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.source}') .
+            OPTIONAL { ?ref pr:P1810 ?sourceName }
+            OPTIONAL { ?ref pr:P813  ?sourceDate }
+          }
+          OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "${meta.lang}") }
+          BIND(COALESCE(?sourceName, ?wdLabel) AS ?itemLabel)
         }
         # ${new Date().toISOString()}
-        ORDER BY ?startDate ?itemLabel ?psid`
+        ORDER BY ?startDate ?itemLabel ?psid ?sourceDate`
 }
