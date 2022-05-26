@@ -1,16 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,W. W. McDowell->W.W. McDowell,Q7946050,1913,1921
-->,"Nelson Story Jr.->Nelson Story, Jr.",Q16320483,1921,1925
-->,W. S. McCormack->W.S. McCormack,Q16321116,1925,1929
-+++,Tom Kane,,1933,1934
-+++,William P. Pilgeram,,1935,1937
-+++,Paul Cannon,,1949,1953
-+++,George M. Gosman,,1953,1957
-+++,Paul Cannon,,1957,1961
-->,Tim M. Babcock->Tim Babcock,Q661635,1961,1962
-+++,David F. James,,1962,1965
-->,Ted Schwinden,Q880356,1977-01-03->1977,1981-01-05->1981
-->,Denny Rehberg,Q1189686,1991-01-20->1991,1997-01-06->1997
-->,Judy Martz,Q449719,1997-01-06->1997,2001-01-01->2001
-->,Mike Cooney,Q6846400,2016-01-04->2016,2021-01-04->2021
-->,Kristen Juras,Q101229393,2021-01-04->2021,
+@@,item,itemlabel,startdate,enddate
+->,Q449719,Judy Martz,1997-01-06->1997,2001-01-01->2001
+->,Q6846400,Mike Cooney,2016-01-04->2016,2021-01-04->2021
+->,Q101229393,Kristen Juras,2021-01-04->2021,
