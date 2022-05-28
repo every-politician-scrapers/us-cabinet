@@ -1,10 +1,10 @@
 {
   "name": "Dan McKee",
-  "order": "76th Governor of Rhode Island",
+  "order": "76th",
   "lieutenant": "Sabina Matos",
   "term_start": "March 2, 2021",
   "predecessor": "Gina Raimondo",
-  "office1": "69th Lieutenant Governor of Rhode Island",
+  "office1": "Lieutenant Governor of Rhode Island",
   "governor1": "Gina Raimondo",
   "term_start1": "January 6, 2015",
   "term_end1": "March 2, 2021",
@@ -27,5 +27,7 @@
   "education": "Assumption University (BA) Harvard University (MPA)",
   "office5": "Member of the Cumberland Town Council",
   "term_start5": "1992",
-  "term_end5": "1998"
+  "term_end5": "1998",
+  "office": "Governor of Rhode Island",
+  "order1": "69th"
 }
