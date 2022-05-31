@@ -23,7 +23,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds[0].text == tds[3].text
+      (tds[0].text == tds[3].text) || too_early?
     end
   end
 end
