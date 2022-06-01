@@ -1,14 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-->,Stuart Symington->W. Stuart Symington,Q962660,1947-09-18,1950-04-24
-->,Donald Aubrey Quarles->Donald A. Quarles,Q927712,1955-08-15,1957-04-30
-->,"Robert Seamans->Robert C. Seamans, Jr.",Q2158806,1969-02-15,1973-05-15
-->,John Charles Stetson->John C. Stetson,Q6225786,1977-04-06,1979-05-18
-->,Hans Mark,Q11974076,1979-05-18,1981-02-09->1979-07-26
-+++,Hans Mark,Q11974076,1979-07-26,1981-02-09
-->,"Edward C. Aldridge, Jr.->Edward C. Aldridge Jr.",Q5342126,1986-04-06,1986-06-08
-->,"Edward C. Aldridge, Jr.->Edward C. Aldridge Jr.",Q5342126,1986-06-09,1988-12-16
-->,Donald Rice->Donald B. Rice,Q5295059,1989-05-21,1993-01-20
-->,Merrill McPeak->Merrill A. McPeak,Q511873,1993-07-14,1993-08-05
-->,Sheila Widnall->Sheila E. Widnall,Q55175,1993-08-06,1997-10-31
-->,Pete Geren,Q1170156,2005-06-29->2005-07-29,2005-11-04
-->,Michael B. Donley,Q1852641,2008-06-21,2013-06-21->2008-10-02
+@@,item,itemlabel,startdate,enddate
+->,Q1170156,Pete Geren,2005-06-29->2005-07-29,2005-11-04
+->,Q1852641,Michael B. Donley,2008-06-21,2013-06-21->2008-10-02
