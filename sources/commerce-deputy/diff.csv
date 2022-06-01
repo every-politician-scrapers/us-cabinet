@@ -1,7 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,"Luther H. Hodges, Jr.->Luther H. Hodges Jr.",Q6705568,1980-09-08,1981-01-20
-->,Joe Wright->Joseph Robert Wright Jr.,Q107525181,1981-01-29,1982-08-23
-->,Rockwell Schnabel->Rockwell A. Schnabel,Q29579177,1991-04-25,1993-01-20
-->,Samuel Bodman,Q1276376,2001->2001-01-22,2003->2004-07-16
-->,Rebecca Blank,Q510127,2010-11-18->2012-03-29,2013-06-01
-+++,Rebecca Blank,Q510127,2010-11-28,2012-03-29
+@@,item,itemlabel,startdate,enddate
+->,Q1276376,Samuel Bodman,2001->2001-01-22,2003->2004-07-16
+->,Q510127,Rebecca Blank,2010-11-18->2012-03-29,2013-06-01
++++,Q510127,Rebecca Blank,2010-11-28,2012-03-29
