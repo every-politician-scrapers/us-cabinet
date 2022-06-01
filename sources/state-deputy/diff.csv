@@ -1,10 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-->,"John N. Irwin, II->John N. Irwin II",Q1701184,1972-07-13,1973-02-01
-->,Warren Christopher,Q294358,1977-02-26,1981-01-20->1981-01-16
-->,William P. Clark->William P. Clark Jr.,Q446647,1981-02-25,1982-02-09
-->,Walter John Stoessel->Walter J. Stoessel Jr.,Q822380,1982-02-11,1982-09-22
-->,"Clifton R. Wharton, Jr.->Clifton R. Wharton Jr.",Q1101388,1993-01-27,1993-11-08
-->,Strobe Talbott,Q1287886,1994-02-23->1994-02-22,2001-01-19
-->,John Negroponte,Q453868,2007-02-27->2007-02-13,2009-01-23->2009-01-28
-->,William Joseph Burns->William J. Burns,Q1276563,2011-07-28,2014-11-03
-->,"Thomas A. Shannon, Jr.->Thomas A. Shannon Jr.",Q7786914,2017-02-01,2017-05-24
+@@,item,itemlabel,startdate,enddate
+->,Q1287886,Strobe Talbott,1994-02-23->1994-02-22,2001-01-19
+->,Q453868,John Negroponte,2007-02-27->2007-02-13,2009-01-23->2009-01-28
+->,Q1276563,William Joseph Burns->William J. Burns,2011-07-28,2014-11-03
+->,Q7786914,"Thomas A. Shannon, Jr.->Thomas A. Shannon Jr.",2017-02-01,2017-05-24
