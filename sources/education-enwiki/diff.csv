@@ -1,7 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-+++,Shirley Hufstedler,Q465401,1979-11-30,1981-01-20
-->,Terrel Bell,Q382517,1981-01-22,1984-12-31->1985-01-20
-+++,Ted SandersActing,,1990-12-12,1991-03-22
-->,"John King, Jr.->John King Jr.",Q6243110,2015-01-04->2016-01-01,2016-03-14
-->,"John King, Jr.->John King Jr.",Q6243110,2016-03-14,2017-01-20
-->,Mick Zais,Q16107563,2021-01-07->2021-01-08,2021-01-20
+@@,item,itemlabel,startdate,enddate
+->,Q6243110,"John King, Jr.->John King Jr.",2015-01-04->2016-01-01,2016-03-14
+->,Q6243110,"John King, Jr.->John King Jr.",2016-03-14,2017-01-20
+->,Q16107563,Mick Zais,2021-01-07->2021-01-08,2021-01-20
