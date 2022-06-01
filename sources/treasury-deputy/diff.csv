@@ -1,5 +1,2 @@
-@@,itemlabel,item,startdate,enddate
----,Oliver Max Gardner,Q889827,1946,1947
-->,Richard Darman->Richard G. Darman,Q1299336,1985-10-07,1987-08-28
-->,Lawrence Summers,Q317953,1995->1995-03-11,1999->1999-07-02
-->,Samuel Bodman,Q1276376,2004->2004-08,2005->2005-01-31
+@@,item,itemlabel,startdate,enddate
+->,Q1276376,Samuel Bodman,2004->2004-08,2005->2005-01-31
