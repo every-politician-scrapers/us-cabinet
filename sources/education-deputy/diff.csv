@@ -1,6 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-->,Madeleine M. Kunin,Q453942,1993,1996->1997
-->,Anthony W. Miller->Anthony Wilder Miller,Q4773653,2009-07-24,2013-07
-->,"John King, Jr.->John King Jr.",Q6243110,2015-01-04,2016-03-14
-->,Mick Zais,Q16107563,2018-05-17,2021-01-07->2021-01-20
-->,Denise L. Carter->Denise L. CarterActing,Q110834198,2021-01-20,2021-05-18
+@@,item,itemlabel,startdate,enddate
+->,Q4773653,Anthony W. Miller->Anthony Wilder Miller,2009-07-24,2013-07
+->,Q6243110,"John King, Jr.->John King Jr.",2015-01-04,2016-03-14
+->,Q16107563,Mick Zais,2018-05-17,2021-01-07->2021-01-20
+->,Q110834198,Denise L. Carter->Denise L. CarterActing,2021-01-20,2021-05-18
