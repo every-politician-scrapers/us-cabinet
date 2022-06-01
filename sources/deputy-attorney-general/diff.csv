@@ -1,11 +1,1 @@
-@@,itemlabel,item,startdate,enddate
-->,Augustus Devitt Vanech->A. Devitt Vanech,Q278628,1951,1952
-->,William P. Rogers,Q433180,1953-01->1953-01-20,1957-10-23
-->,"Joseph Tyree Sneed, III->Joseph Sneed",Q1350771,1973-02,1973-07-09
-->,Benjamin Civiletti,Q351552,1978->1978-05-16,1979-08-16
-->,Arnold I. Burns->Arnold Burns,Q695403,1986,1988
-->,Donald B. Ayer,Q1239688,1989,1990->1990-05
-->,William Barr->William P. Barr,Q723917,1990-05-26,1991-11-26
-->,George J. Terwilliger III->George Terwilliger,Q179095,1991-11-26,1993-01-20
-->,Jamie S. Gorelick->Jamie Gorelick,Q376800,1994-03-17,1997-05
-->,Rod J. Rosenstein->Rod Rosenstein,Q7356240,2017-04-26,NULL->2019-05-11
+@@,item,itemlabel,startdate,enddate
