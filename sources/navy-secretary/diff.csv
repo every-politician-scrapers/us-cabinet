@@ -1,12 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,John Connally->John B. Connally,Q311293,1961-01-25,1961-12-20
-->,Paul Nitze->Paul H. Nitze,Q2061526,1963-11-29,1967-06-30
-->,Paul B. Fay,Q770001,1963-11->1963-11-02,1965->1963-11-28
-->,Paul Robert Ignatius->Paul R. Ignatius,Q2061964,1967-09-01,1969-01-24
-->,John Chafee->John H. Chafee,Q887338,1969-01-31,1972-05-04
-->,John Warner->John W. Warner,Q464810,1972-05-04,1974-04-08
-->,Sean O'Keefe,Q983423,1992-07-07,1993-01-20->1992-10-02
-+++,Sean O'Keefe,Q983423,1992-10-02,1993-01-20
-->,Gordon R. England,Q323508,2001-05-24,2003-01-24->2003-01-30
-->,Gordon R. England,Q323508,2003-10-01,2006-01-03->2005-12-29
-->,Richard V. Spencer,Q29342932,2017-08-03,2019-11-24->2019-07-15
+@@,item,itemlabel,startdate,enddate
+->,Q323508,Gordon R. England,2001-05-24,2003-01-24->2003-01-30
+->,Q323508,Gordon R. England,2003-10-01,2006-01-03->2005-12-29
+->,Q29342932,Richard V. Spencer,2017-08-03,2019-11-24->2019-07-15
