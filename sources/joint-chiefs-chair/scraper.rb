@@ -21,14 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def name_cell
       super.css('b')
     end
-
-    def raw_end
-      super.gsub('†', '').tidy
-    end
-
-    def tds
-      noko.css('td,th')
-    end
   end
 end
 

@@ -1,10 +1,3 @@
-@@,itemlabel,item,startdate,enddate
----,William D. Leahy,Q729082,1942-07-20,1949-03-21
-->,Arthur William Radford->Arthur W. Radford,Q362442,1953-08-15,1957-08-15
-->,Nathan Farragut Twining->Nathan F. Twining,Q1251631,1957-08-15,1960-09-30
-->,Maxwell Davenport Taylor->Maxwell D. Taylor,Q313972,1962-10-01,1964-07-01
-->,Thomas Hinman Moorer->Thomas H. Moorer,Q549310,1970-07-02,1974-07-01
-->,George Scratchley Brown->George S. Brown,Q464262,1974-07-01,1978-06-20
-->,John William Vessey->John William Vessey Jr.,Q562902,1982-06-18,1985-09-30
-->,Richard Bowman Myers->Richard Myers,Q1937025,2001-10-01,2005-09-30
-->,"Joseph F. Dunford, Jr.->Joseph Dunford",Q6282969,2015-10-01,2019-09-30
+@@,item,itemlabel,startdate,enddate
+->,Q1937025,Richard Bowman Myers->Richard Myers,2001-10-01,2005-09-30
+->,Q6282969,"Joseph F. Dunford, Jr.->Joseph Dunford",2015-10-01,2019-09-30
