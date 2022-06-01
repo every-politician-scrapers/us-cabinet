@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_combo_date
       combo_date_cell.xpath('text()').text
     end
-
-    def tds
-      noko.css('td,th')
-    end
   end
 end
 
