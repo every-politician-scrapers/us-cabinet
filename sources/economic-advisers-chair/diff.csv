@@ -1,10 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-->,Edwin Griswold Nourse->Edwin G. Nourse,Q248385,1946-08-09,1949-11-01
-->,Arthur Frank Burns->Arthur F. Burns,Q284230,1953-03-19,1956-12-01
-->,Arthur Melvin Okun->Arthur M. Okun,Q279721,1968-02-15,1969-01-20
-->,Paul McCracken->Paul W. McCracken,Q520580,1969-02-04,1971-12-31
-->,Beryl Wayne Sprinkel->Beryl W. Sprinkel,Q829289,1985-04-18,1989-01-20
-->,Michael Boskin->Michael J. Boskin,Q979545,1989-02-02,1993-01-20
-->,Joseph E. Stiglitz->Joseph Stiglitz,Q18430,1995-06-28,1997-02-13
-->,Martin Neil Baily->Martin N. Baily,Q521114,1999-08-12,2001-01-20
-->,Alan B. Krueger->Alan Krueger,Q931129,2011-11-07,2013-08-02
+@@,item,itemlabel,startdate,enddate
+->,Q521114,Martin Neil Baily->Martin N. Baily,1999-08-12,2001-01-20
+->,Q931129,Alan B. Krueger->Alan Krueger,2011-11-07,2013-08-02
