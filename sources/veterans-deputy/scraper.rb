@@ -17,18 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no img name start end].freeze
     end
-
-    def raw_start
-      super.gsub(/\(.*?\)/, '').tidy
-    end
-
-    def raw_end
-      super.gsub(/\(.*?\)/, '').tidy
-    end
-
-    def tds
-      noko.css('td,th')
-    end
   end
 end
 
