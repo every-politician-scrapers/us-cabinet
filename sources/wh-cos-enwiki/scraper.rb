@@ -19,11 +19,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      noko.text.include? 'Vacant'
-    end
-
-    def tds
-      noko.css('td,th')
+      noko.text.include?('Vacant') || super
     end
   end
 end
