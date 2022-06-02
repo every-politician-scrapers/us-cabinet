@@ -15,7 +15,7 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[name dates].freeze
+      %w[img name dates].freeze
     end
 
     def raw_combo_date
