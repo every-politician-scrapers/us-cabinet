@@ -110,6 +110,13 @@ Q1288295,Jim Nicholson,sibling,Q6262441,John W. Nicholson
 Q1289901,"Harold Ford, Jr.",father,Q1585826,"Harold Ford, Sr."
 Q1290476,John Podesta,sibling,Q7823193,Tony Podesta
 Q130024,Johnny Isakson,spouse,Q110200187,Νταϊάν Ντέιβισον
+Q13133,Michelle Obama,child,Q15070044,Malia Obama
+Q13133,Michelle Obama,child,Q15070048,Sasha Obama
+Q13133,Michelle Obama,father,Q15982139,Fraser Robinson III
+Q13133,Michelle Obama,mother,Q6761976,Marian Shields Robinson
+Q13133,Michelle Obama,relative,Q2895259,Capers Funnye
+Q13133,Michelle Obama,sibling,Q2073960,Craig Robinson
+Q13133,Michelle Obama,spouse,Q76,Barack Obama
 Q1326874,Lincoln Diaz-Balart,father,Q2126946,Rafael Díaz-Balart
 Q1326874,Lincoln Diaz-Balart,sibling,Q767270,Mario Díaz-Balart
 Q1326874,Lincoln Diaz-Balart,sibling,Q9013810,José Díaz-Balart
@@ -161,6 +168,11 @@ Q14593411,John B. Emerson,child,Q266109,Jacqueline Emerson
 Q14593411,John B. Emerson,spouse,Q104907762,Kimberly Marteau Emerson
 Q150851,Colin Powell,spouse,Q4733589,Alma Powell
 Q151891,Rod Blagojevich,spouse,Q7145474,Patricia Blagojevich
+Q152019,Laura Bush,child,Q153481,Jenna Bush Hager
+Q152019,Laura Bush,child,Q153730,Barbara Bush
+Q152019,Laura Bush,father,Q18844162,Harold Welch
+Q152019,Laura Bush,mother,Q18844164,Jenna Welch
+Q152019,Laura Bush,spouse,Q207,George W. Bush
 Q152451,Jerry Brown,father,Q724121,Pat Brown
 Q152451,Jerry Brown,mother,Q4894292,Bernice Layne Brown
 Q152451,Jerry Brown,spouse,Q16192730,Anne Gust Brown
@@ -212,6 +224,7 @@ Q16240798,Michael Brady,sibling,Q95886226,Robert F. Brady Jr.
 Q1667920,Russ Carnahan,mother,Q448619,Jean Carnahan
 Q1667920,Russ Carnahan,relative,Q279153,A. S. J. Carnahan
 Q166928,Chris Cannon,sibling,Q6280774,Joseph A. Cannon
+Q16728774,Neil Eggleston,spouse,Q16734365,Penda Hair
 Q16729797,Curtis Hertel Jr.,father,Q5195759,Curtis Hertel
 Q16730829,Rusty Kidd,father,Q96026796,Culver Kidd Jr.
 Q16730829,Rusty Kidd,sibling,Q515981,Tillie K. Fowler
@@ -397,6 +410,13 @@ Q230733,Dianne Feinstein,spouse,Q7324532,Richard C. Blum
 Q233905,Linda McMahon,child,Q842633,Stephanie McMahon
 Q233905,Linda McMahon,child,Q861110,Shane McMahon
 Q233905,Linda McMahon,spouse,Q44430,Vince McMahon
+Q235349,Jill Biden,child,Q97588420,Ashley Biden
+Q235349,Jill Biden,father,Q110716051,Donald Carl Jacobs
+Q235349,Jill Biden,mother,Q110716054,Bonny Jean Godfrey
+Q235349,Jill Biden,relative,Q5944264,Hunter Biden
+Q235349,Jill Biden,relative,Q813332,Beau Biden
+Q235349,Jill Biden,spouse,Q100502650,Bill Stevenson
+Q235349,Jill Biden,spouse,Q6279,Joe Biden
 Q2355703,Fiona Ma,father,Q47300661,William Ma
 Q236421,Janet Reno,sibling,Q67200642,Maggy Hurchalla
 Q237560,Barbara Boxer,child,Q110064220,Nicole Boxer
@@ -503,6 +523,7 @@ Q28861402,Tom Begich,father,Q1619015,Nick Begich
 Q28871485,Kelly Craft,spouse,Q6209275,Joe Craft
 Q2903280,Bill Lipinski,child,Q518424,Dan Lipinski
 Q291143,Linda Sánchez,sibling,Q469094,Loretta Sanchez
+Q292988,Madeleine Bordallo,spouse,Q521420,Ricardo Bordallo
 Q293365,Penny Pritzker,father,Q16093011,Donald Pritzker
 Q293365,Penny Pritzker,mother,Q106967837,Susan Ann Pritzker
 Q293365,Penny Pritzker,sibling,Q6103950,J.B. Pritzker
@@ -648,6 +669,12 @@ Q43144,Sarah Palin,child,Q22575647,Piper Palin
 Q43144,Sarah Palin,father,Q84580270,Charles Richard 'Chuck' Heath
 Q43144,Sarah Palin,mother,Q96209317,Sarah 'Sally' Sheeran
 Q43144,Sarah Palin,spouse,Q1265214,Todd Palin
+Q432473,Melania Trump,child,Q23000814,Barron Trump
+Q432473,Melania Trump,father,Q23000811,Viktor Knavs
+Q432473,Melania Trump,mother,Q23823122,Amalija Knavs
+Q432473,Melania Trump,sibling,Q64214435,Ines Knauss
+Q432473,Melania Trump,sibling,Q71516297,Denis Cigelnjak
+Q432473,Melania Trump,spouse,Q22686,Donald Trump
 Q434121,Jack Kingston,mother,Q104036256,Martha Ann Heddens
 Q434706,Elizabeth Warren,child,Q22673677,Amelia Warren Tyagi
 Q434706,Elizabeth Warren,child,Q22673686,Alexander Warren
@@ -726,6 +753,8 @@ Q464810,John Warner,spouse,Q21879434,Catherine Conover
 Q464810,John Warner,spouse,Q21879434,Catherine Conover
 Q464810,John Warner,spouse,Q21879436,Jeanne Vander Myde
 Q464810,John Warner,spouse,Q34851,Elizabeth Taylor
+Q465477,Anne-Marie Slaughter,relative,Q5345345,Edward Slaughter
+Q465477,Anne-Marie Slaughter,spouse,Q506379,Andrew Moravcsik
 Q467861,Kathleen Kennedy Townsend,child,Q75326813,Meaghan Anne Kennedy Townsend
 Q467861,Kathleen Kennedy Townsend,child,Q75326815,Maeve Kennedy McKean
 Q467861,Kathleen Kennedy Townsend,child,Q75326817,Rose Katherine Kennedy Townsend
