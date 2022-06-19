@@ -1,8 +1,10 @@
 position,title
+Q7166256,First Lady
 Q11144,Supreme Court Justice
 Q7994871,White House Deputy Chief of Staff
 Q7450652,Senior Advisor to the President
 Q732029,Counselor to the President
+Q1296423,White House Counsel
 Q2306431,White House Press Secretary
 Q111511708,White House Deputy Press Secretary
 Q3708975,White House Communications Director
@@ -40,6 +42,7 @@ Q7883173,Under Secretary of State for Arms Control and International Security Af
 Q7892253,"Under Secretary of State for Economic Growth, Energy, and the Environment"
 Q1364289,Deputy Attorney General
 Q2298067,Solicitor General
+Q730465,Director of Policy Planning
 Q2666591,Chair of the Federal Reserve
 Q107600102,Vice Chair of the Federal Reserve
 Q2916001,Vice Chairman of the Joint Chiefs of Staff
@@ -53,6 +56,7 @@ Q105376531,Coordinator of the COVID-19 Response
 Q1837629,ambassador to Afghanistan
 Q7889254,ambassador to Albania
 Q53497156,ambassador to Algeria
+Q1837632,ambassador to Algeria
 Q1837630,ambassador to Angola
 Q7889256,ambassador to Antigua and Barbuda
 Q7889257,ambassador to Argentina
@@ -63,12 +67,14 @@ Q1625833,ambassador to Azerbaijan
 Q7889259,ambassador to Bahrain
 Q1837637,ambassador to Bangladesh
 Q7889261,ambassador to Barbados
+Q7889260,ambassador to Barbados
 Q7889262,ambassador to Belarus
 Q1137820,ambassador to Belgium
 Q7889263,ambassador to Belize
 Q7889265,ambassador to Benin
 Q7889266,ambassador to Bolivia
 Q1837641,ambassador to Bosnia and Herzegovina
+Q7889267,ambassador to Botswana
 Q7889268,ambassador to Brazil
 Q7889269,ambassador to Brunei
 Q7889270,ambassador to Bulgaria
@@ -191,6 +197,9 @@ Q7889418,ambassador to the Republic of the Congo
 Q2912338,ambassador to Romania
 Q1515730,ambassador to the Russian Federation
 Q7889361,ambassador to Rwanda
+Q7889362,ambassador to Saint Kitts and Nevis
+Q7889363,ambassador to Saint Lucia
+Q7889364,ambassador to Saint Vincent and the Grenadines
 Q7889365,ambassador to San Marino
 Q7889366,ambassador to Saudi Arabia
 Q106451048,ambassador to Senegal
@@ -200,6 +209,7 @@ Q11811898,ambassador to Sierra Leone
 Q1837665,ambassador to Singapore
 Q7889371,ambassador to Slovakia
 Q917559,ambassador to Slovenia
+Q7889419,ambassador to the Solomon Islands
 Q7889372,ambassador to Somalia
 Q7889373,ambassador to South Africa
 Q7889322,ambassador to South Korea
