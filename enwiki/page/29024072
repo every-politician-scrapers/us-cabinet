@@ -76,7 +76,7 @@
             "number": 200
           },
           "image": {
-            "text": "Mike Donilon - January 2013.jpg Anita Dunn.jpg\nGene Sperling (National Economic Council) (cropped).jpg Neera Tanden by Gage Skidmore (cropped).jpg\n\nFormer NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg"
+            "text": "Mike Donilon - January 2013.jpg Anita Dunn.jpg\nGene Sperling (National Economic Council) (cropped).jpg Neera Tanden by Gage Skidmore (cropped).jpg\n\nFormer NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg Julie Chavez Rodriguez (cropped).jpg"
           },
           "department": {
             "text": "Executive Office of the President",
@@ -88,7 +88,7 @@
             ]
           },
           "incumbent": {
-            "text": "Mike Donilon, Anita Dunn, Gene Sperling, Neera Tanden, Mitch Landrieu",
+            "text": "Mike Donilon, Anita Dunn, Gene Sperling, Neera Tanden, Mitch Landrieu, Julie Rodriguez",
             "links": [
               {
                 "type": "internal",
@@ -109,6 +109,11 @@
               {
                 "type": "internal",
                 "page": "Mitch Landrieu"
+              },
+              {
+                "text": "Julie Rodriguez",
+                "type": "internal",
+                "page": "Julie Chávez Rodriguez"
               }
             ]
           },
@@ -1003,6 +1008,54 @@
               "text": ""
             },
             "col2": {
+              "text": "100px|Eric Herschmann]]"
+            },
+            "col3": {
+              "text": "Eric Herschmann",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eric Herschmann"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Opposition research Legal issues",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Opposition research"
+                }
+              ]
+            },
+            "col5": {
+              "text": "August 3, 2020 – January 20, 2021"
+            },
+            "col6": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            },
+            "col7": {
+              "text": "Donald Trump",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
               "text": "Mike Donilon - January 2013.jpg"
             },
             "col3": {
@@ -1267,6 +1320,92 @@
                 }
               ]
             }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Julie Chavez Rodriguez (cropped).jpg"
+            },
+            "col3": {
+              "text": "Julie Rodriguez (born 1979)",
+              "links": [
+                {
+                  "text": "Julie Rodriguez",
+                  "type": "internal",
+                  "page": "Julie Chávez Rodriguez"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Intergovernmental Affairs",
+              "links": [
+                {
+                  "text": "Intergovernmental Affairs",
+                  "type": "internal",
+                  "page": "White House Office of Intergovernmental Affairs"
+                }
+              ]
+            },
+            "col5": {
+              "text": "June 15, 2022 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Keisha Lance Bottoms in 2019.jpg"
+            },
+            "col3": {
+              "text": "Keisha Lance Bottoms (born 1970)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Keisha Lance Bottoms"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Public Engagement",
+              "links": [
+                {
+                  "text": "Public Engagement",
+                  "type": "internal",
+                  "page": "Office of Public Liaison"
+                }
+              ]
+            },
+            "col5": {
+              "text": "June 2022 – present (designate)",
+              "formatting": {
+                "bold": [
+                  "(designate)"
+                ]
+              }
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
           }
         ]
       ],
@@ -1370,6 +1509,24 @@
         {
           "list": [
             "Republican Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Republican Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
           ],
           "template": "party color"
         },
@@ -1608,6 +1765,13 @@
           "type": "news"
         },
         {
+          "url": "https://www.axios.com/2021/02/02/trump-oval-office-meeting-sidney-powell",
+          "title": "Off the Rails: Inside the craziest meeting of the Trump presidency",
+          "date": "2 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.nytimes.com/2020/11/17/us/politics/mike-donilon-biden.html",
           "title": "Mike Donilon, Who Helped Draft Biden's Message, is Named a Senior Adviser",
           "newspaper": "The New York Times",
@@ -1671,6 +1835,20 @@
           "type": "web"
         },
         {
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/president-biden-announces-former-atlanta-mayor-keisha-lance-bottoms-as-senior-advisor-for-public-engagement/",
+          "title": "President Biden Announces Former Atlanta Mayor Keisha Lance Bottoms as Senior Advisor for Public Engagement",
+          "date": "June 15, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/president-biden-announces-former-atlanta-mayor-keisha-lance-bottoms-as-senior-advisor-for-public-engagement/",
+          "title": "President Biden Announces Former Atlanta Mayor Keisha Lance Bottoms as Senior Advisor for Public Engagement",
+          "date": "June 15, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last": "Trump",
           "first": "Donald J.",
           "date": "March 27, 2017",
@@ -1711,6 +1889,23 @@
           "title": "President Donald J. Trump Announces Addition to White House Staff",
           "via": "National Archives",
           "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nytimes.com/2020/10/25/business/media/hunter-biden-wall-street-journal-trump.html?referringSource=articleShare",
+          "title": "Trump Had One Last Story to Sell. The Wall Street Journal Wouldn't Buy It",
+          "newspaper": "The New York Times",
+          "date": "25 October 2020",
+          "last1": "Smith",
+          "first1": "Ben",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.politico.com/news/2020/08/04/impeachment-lawyer-white-house-391506",
+          "title": "Former Trump impeachment lawyer heads to White House",
+          "website": "Politico",
           "template": "citation",
           "type": "web"
         }

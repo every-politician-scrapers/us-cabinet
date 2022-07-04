@@ -645,7 +645,13 @@
             "text": "Dan Walsh, 2018–2019"
           },
           {
-            "text": "Tony Ornato, 2019–2021"
+            "text": "Anthony M. Ornato, 2019–2021",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony M. Ornato"
+              }
+            ]
           },
           {
             "text": "Deputy Chief of Staff for Policy"
