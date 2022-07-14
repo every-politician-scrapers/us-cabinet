@@ -76,7 +76,7 @@
             "number": 200
           },
           "image": {
-            "text": "Mike Donilon - January 2013.jpg Anita Dunn.jpg\nGene Sperling (National Economic Council) (cropped).jpg Neera Tanden by Gage Skidmore (cropped).jpg\n\nFormer NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg Julie Chavez Rodriguez (cropped).jpg"
+            "text": "Mike Donilon - January 2013.jpg Anita Dunn.jpg Gene Sperling (National Economic Council) (cropped).jpg Neera Tanden by Gage Skidmore (cropped).jpg Former NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg Julie Chavez Rodriguez (cropped).jpg Keisha Lance Bottoms in 2019.jpg"
           },
           "department": {
             "text": "Executive Office of the President",
@@ -88,7 +88,7 @@
             ]
           },
           "incumbent": {
-            "text": "Mike Donilon, Anita Dunn, Gene Sperling, Neera Tanden, Mitch Landrieu, Julie Rodriguez",
+            "text": "Mike Donilon, Anita Dunn, Gene Sperling, Neera Tanden, Mitch Landrieu, Julie Rodriguez, Keisha Lance Bottoms",
             "links": [
               {
                 "type": "internal",
@@ -114,6 +114,10 @@
                 "text": "Julie Rodriguez",
                 "type": "internal",
                 "page": "Julie Chávez Rodriguez"
+              },
+              {
+                "type": "internal",
+                "page": "Keisha Lance Bottoms"
               }
             ]
           },
