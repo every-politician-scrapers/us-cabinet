@@ -1364,6 +1364,15 @@
                   "page": "Democratic Party (United States)"
                 }
               ]
+            },
+            "col7": {
+              "text": "Joe Biden",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                }
+              ]
             }
           },
           {
@@ -1393,12 +1402,7 @@
               ]
             },
             "col5": {
-              "text": "June 2022 – present (designate)",
-              "formatting": {
-                "bold": [
-                  "(designate)"
-                ]
-              }
+              "text": "July 1, 2022 – present"
             },
             "col6": {
               "text": "Democratic",
@@ -1407,6 +1411,15 @@
                   "text": "Democratic",
                   "type": "internal",
                   "page": "Democratic Party (United States)"
+                }
+              ]
+            },
+            "col7": {
+              "text": "Joe Biden",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
                 }
               ]
             }

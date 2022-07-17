@@ -9,6 +9,7 @@
   "1namedata1": "Phil Murphy",
   "term_start1": "July 8, 2021",
   "predecessor1": "Andrew Cuomo",
+  "successor1": "Phil Murphy",
   "office2": "Vice Chair of the National Governors Association",
   "term_start2": "August 5, 2020",
   "term_end2": "July 8, 2021",
@@ -52,4 +53,5 @@
   "children": "4",
   "residence": "Governor's Mansion",
   "education": "Bob Jones University (BA) University of Arkansas (JD)",
+  "termend1": "July 15, 2022"
 }
