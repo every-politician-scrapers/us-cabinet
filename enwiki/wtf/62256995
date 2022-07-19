@@ -1,0 +1,227 @@
+{
+  "title": "Tom Schedler",
+  "pageID": 62256995,
+  "categories": [
+    "1950 births",
+    "21st-century American politicians",
+    "Living people",
+    "Louisiana state senators",
+    "Secretaries of State of Louisiana"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Thomas Schedler is the former Secretary of State of Louisiana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary of State of Louisiana"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "John Thomas Schedler"
+                ]
+              }
+            },
+            {
+              "text": "He resigned in 2018 after sexual harassment accusations were made against him."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2019, he sued the State of Louisiana wanting to be reimbursed attorneys fees and costs in the amount of $14,308 as well as reimbursement for “funds he paid in the original case.”"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American politician",
+          "template": "short description"
+        },
+        {
+          "year": "1950",
+          "month": "1",
+          "day": "24",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tom Schedler"
+          },
+          "office": {
+            "text": "Secretary of State of Louisiana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of State of Louisiana"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Bobby Jindal John Bel Edwards",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bobby Jindal"
+              },
+              {
+                "type": "internal",
+                "page": "John Bel Edwards"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "November 22, 2010"
+          },
+          "term_end": {
+            "text": "May 9, 2018 Acting: November 22, 2010 – November 1, 2011"
+          },
+          "predecessor": {
+            "text": "Jay Dardenne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jay Dardenne"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Kyle Ardoin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kyle Ardoin"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "John Thomas Schedler"
+          },
+          "birth_date": {
+            "text": "January 24, 1950"
+          },
+          "birth_place": {
+            "text": "New Orleans, Louisiana, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Orleans"
+              },
+              {
+                "type": "internal",
+                "page": "Louisiana"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of Louisiana, Lafayette (BS)",
+            "links": [
+              {
+                "text": "University of Louisiana, Lafayette",
+                "type": "internal",
+                "page": "University of Louisiana at Lafayette"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://politicalwire.com/2018/05/01/louisiana-elections-chief-quits-amid-misconduct-charges/",
+          "title": "Louisiana Elections Chief Quits Amid Misconduct Charges",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.ktbs.com/louisiana-secretary-of-state-announces-resignation/video_e90648eb-c74a-5c65-9cf4-1435d888abcf.html",
+          "title": "Louisiana Secretary of State announces resignation - KTBS",
+          "access-date": "May 2, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "LaRose",
+          "first1": "Greg",
+          "title": "Tom Schedler resigns as Louisiana secretary of state, amid sexual harassment allegations",
+          "url": "https://www.nola.com/news/politics/article_3aed042d-6ae9-5ff9-b103-50090779e5d4.html",
+          "access-date": "6 November 2019",
+          "publisher": "The Times Picayune",
+          "date": "April 30, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Karlin",
+          "first1": "Sam",
+          "title": "Tom Schedler, ex-Secretary of State, seeks his money back in sexual harassment settlement",
+          "url": "https://www.theadvocate.com/baton_rouge/news/politics/article_446e6f30-9154-11e9-8093-87d271b9e8d7.html",
+          "access-date": "6 November 2019",
+          "agency": "The Advocate",
+          "date": "June 17, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Jay Dardenne",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of State of Louisiana",
+          "years": "2010–2018 Acting: 2010–2011",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Kyle Ardoin",
+          "template": "s-aft"
+        }
+      ]
+    }
+  ]
+}
