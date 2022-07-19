@@ -1,6 +1,5 @@
 {
   "name": "Ketanji Brown Jackson",
-  "imagesize": "240px",
   "alt": "Official portrait of Associate Justice of the Supreme Court Ketanji Brown Jackson",
   "office": "Associate Justice of the Supreme Court of the United States",
   "nominator": "Joe Biden",
@@ -30,5 +29,6 @@
   "spouse": "Patrick Jackson (m. 1996)",
   "children": "2",
   "education": "Harvard University (AB, JD)",
-  "signature_alt": "Cursive signature in ink"
+  "signature_alt": "Cursive signature in ink",
+  "honorific_prefix": "Justice"
 }
