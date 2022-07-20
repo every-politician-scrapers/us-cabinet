@@ -69,12 +69,16 @@
               ]
             },
             {
-              "text": "She previously served as the deputy press secretary to Psaki from 2021 to 2022 and as the chief of staff for U.S. vice presidential candidate Kamala Harris during the 2020 presidential campaign.",
+              "text": "She previously served as the deputy press secretary to her predecessor Jen Psaki from 2021 to 2022 and as the chief of staff for U.S. vice presidential candidate Kamala Harris during the 2020 presidential campaign.",
               "links": [
                 {
                   "text": "deputy press secretary",
                   "type": "internal",
                   "page": "White House Deputy Press Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jen Psaki"
                 },
                 {
                   "text": "U.S. vice presidential",

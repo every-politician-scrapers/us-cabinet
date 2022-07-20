@@ -283,6 +283,19 @@
           },
           "signature": {
             "text": "Frank Kendall signature.png"
+          },
+          "branch": {
+            "text": "U.S. Army Reserve",
+            "links": [
+              {
+                "text": "U.S. Army Reserve",
+                "type": "internal",
+                "page": "United States Army Reserve"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Lieutenant colonel"
           }
         }
       ],

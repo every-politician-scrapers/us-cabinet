@@ -2304,6 +2304,19 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Haaland suffered a broken left fibula on July 17, 2022, while hiking in Shenandoah National Park.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shenandoah National Park"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -2353,6 +2366,12 @@
           "url-status": "dead",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },

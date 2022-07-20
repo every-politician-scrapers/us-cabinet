@@ -436,7 +436,7 @@
               "text": "Noem graduated from Hamlin High School in 1990, and was the South Dakota Snow Queen."
             },
             {
-              "text": "She attended Northern State University from 1990 to 1994, but did not graduate.",
+              "text": "She attended Northern State University from 1990 to 1994, but left college early to run the family farm after the premature death of her father.",
               "links": [
                 {
                   "type": "internal",
@@ -460,6 +460,9 @@
                   "page": "University of South Dakota"
                 }
               ]
+            },
+            {
+              "text": "She completed her degree in political science from SDSU in 2012 while serving Congress."
             }
           ]
         }
@@ -492,6 +495,17 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "last": "O'Keefe",
+          "first": "Ed",
+          "date": "2012-07-12",
+          "title": "Rep. Kristi Noem earns her college degree",
+          "url": "https://www.washingtonpost.com/blogs/2chambers/post/rep-kristi-noem-earns-her-college-degree/2012/05/07/gIQAgMRZ8T_blog.html",
+          "work": "Washington Post",
+          "access-date": "2022-07-19",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -2687,11 +2701,7 @@
           "sentences": [
             {
               "text": "In 2019, Noem signed a bill into law abolishing South Dakota's permit requirement to carry a concealed handgun."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In 2022, Noem sought to build a gun range in Meade County with government funds, but the legislature rejected it."
             }

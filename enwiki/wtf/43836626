@@ -21,7 +21,18 @@
         {
           "sentences": [
             {
-              "text": "Jane Dorothy Hartley (born April 18, 1950) is an American diplomat.",
+              "text": "Jane Dorothy Hartley (born April 18, 1950) is an American diplomat who has served as the United States ambassador to the United Kingdom in the Joe Biden administration since 2022.",
+              "links": [
+                {
+                  "text": "United States ambassador to the United Kingdom",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United States to the United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joe Biden administration"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Jane Dorothy Hartley"
@@ -44,20 +55,6 @@
                 {
                   "type": "internal",
                   "page": "Barack Obama administration"
-                }
-              ]
-            },
-            {
-              "text": "In January 2022, she was selected by President Joe Biden as the United States ambassador to the United Kingdom.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                },
-                {
-                  "text": "United States ambassador to the United Kingdom",
-                  "type": "internal",
-                  "page": "List of ambassadors of the United States to the United Kingdom"
                 }
               ]
             },
@@ -118,10 +115,16 @@
             ]
           },
           "status": {
-            "text": "Designate"
+            "text": "Incumbent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Incumbent"
+              }
+            ]
           },
           "term_start": {
-            "text": "TBD"
+            "text": "July 19, 2022"
           },
           "predecessor": {
             "text": "Woody Johnson",
@@ -257,15 +260,6 @@
           "access-date": "January 20, 2017",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/president-biden-announces-nominees-for-ambassadors-and-key-roles/",
-          "title": "President Biden Announces Nominees for Ambassadors and Key Roles",
-          "date": "19 January 2022",
-          "publisher": "White House",
-          "accessdate": "January 23, 2022",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -682,7 +676,7 @@
               "text": "She was sworn in as the ambassador on May 27, 2022."
             },
             {
-              "text": "She is awaiting to present her credentials."
+              "text": "She presented her credentials to Queen Elizabeth II on July 19, 2022."
             }
           ]
         }
@@ -722,6 +716,25 @@
           "access-date": "July 15, 2022",
           "website": "U.S. Embassy & Consulates in the United Kingdom",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The Royal Family on Twitter",
+          "url": "https://twitter.com/RoyalFamily/status/1549404703297003526",
+          "url-status": "live",
+          "access-date": "July 19, 2022",
+          "website": "Twitter",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/president-biden-announces-nominees-for-ambassadors-and-key-roles/",
+          "title": "President Biden Announces Nominees for Ambassadors and Key Roles",
+          "date": "19 January 2022",
+          "publisher": "White House",
+          "accessdate": "January 23, 2022",
           "template": "citation",
           "type": "web"
         },

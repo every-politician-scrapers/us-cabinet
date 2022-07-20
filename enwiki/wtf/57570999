@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Douglas Margrave Fears is a United States Coast Guard rear admiral currently serving as Director of Joint Interagency Task Force South.",
+              "text": "Douglas Margrave Fears is a retired United States Coast Guard rear admiral who last served as Director of Joint Interagency Task Force South.",
               "links": [
                 {
                   "type": "internal",
@@ -181,7 +181,7 @@
             ]
           },
           "serviceyears": {
-            "text": "1982–present"
+            "text": "1982–2022"
           },
           "rank": {
             "text": "Rear Admiral",

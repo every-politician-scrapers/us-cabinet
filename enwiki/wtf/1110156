@@ -5162,6 +5162,32 @@
               "text": "He stated that \"the Department of Justice will do what it always does in such circumstances, we'll apply the facts and the law and make a decision, consistent with the principles of prosecution.\""
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Some observers have raised concerns that the Justice Department under Garland does not appear to be doing more to investigate potential crimes related to the insurrection or previous misdoings by Trump Administration officials."
+            },
+            {
+              "text": "As the U.S. House investigation into the events of January 6 unfolded in 2022, some DOJ employees reported feeling blindsided by evidence presented at the hearings.",
+              "links": [
+                {
+                  "text": "U.S. House investigation",
+                  "type": "internal",
+                  "page": "United_States_House_Select_Committee_on_the_January_6_Attack"
+                }
+              ]
+            },
+            {
+              "text": "In response, House panel member Zoe Lofgren responded that \"They [DOJ] have a much greater opportunity to enforce their subpoenas than our legislative committee does.” In July 2022, MSNBC's Rachel Maddow revealed an internal memo dating from May 23 in which Garland appeared to extend former Attorney General Bill Barr's policy of restraining investigations of political figures. The news prompted outrage from various commentators.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bill Barr"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -5236,6 +5262,39 @@
           "website": "CNN",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Harris",
+          "first1": "Mary",
+          "title": "Not Everyone Is Shocked by Merrick Garland’s Infuriating DOJ",
+          "url": "https://slate.com/news-and-politics/2021/06/merrick-garland-doj-justice-department-maddening.html",
+          "website": "Salon.com",
+          "access-date": "19 July 2022",
+          "date": "14 June 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Vakil",
+          "first1": "Caroline",
+          "title": "Jan. 6 panel member ‘surprised’ by prosecutors’ reaction to Hutchinson testimony",
+          "url": "https://thehill.com/homenews/sunday-talk-shows/3544705-jan-6-panel-member-surprised-by-prosecutors-reaction-to-hutchinson-testimony/",
+          "website": "The Hill",
+          "access-date": "19 July 2022",
+          "date": "3 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Kilander",
+          "first1": "Gustaf",
+          "title": "Merrick Garland’s private DOJ memo prompts outrage: ‘Nothing will happen to Trump’",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/merrick-garland-election-trump-charges-b2126487.html",
+          "website": "The Independent",
+          "access-date": "19 July 2022",
+          "date": "19 July 2022",
+          "template": "citation",
+          "type": "web"
         },
         {
           "first": "Bradley",
