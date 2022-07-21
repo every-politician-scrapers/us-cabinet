@@ -190,12 +190,16 @@
               ]
             },
             {
-              "text": "She is running for a full term in 2022.",
+              "text": "She is running for a full term in 2022 against the Republican nominee, U.S. Representative Lee Zeldin.",
               "links": [
                 {
                   "text": "2022",
                   "type": "internal",
                   "page": "2022 New York gubernatorial election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lee Zeldin"
                 }
               ]
             }
@@ -529,6 +533,18 @@
           "url-status": "live",
           "access-date": "2021-08-25",
           "website": "CNN",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Barkan",
+          "first": "Ross",
+          "date": "2022-06-29",
+          "title": "Does Lee Zeldin Stand a Chance Against Kathy Hochul?",
+          "url": "https://nymag.com/intelligencer/2022/06/does-lee-zeldin-stand-a-chance-against-kathy-hochul.html",
+          "access-date": "2022-07-20",
+          "website": "Intelligencer",
+          "language": "en-us",
           "template": "citation",
           "type": "web"
         },

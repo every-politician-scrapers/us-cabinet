@@ -447,16 +447,6 @@
           },
           "signature_alt": {
             "text": "Cursive signature in ink"
-          },
-          "honorific_prefix": {
-            "text": "Justice",
-            "links": [
-              {
-                "text": "Justice",
-                "type": "internal",
-                "page": "Justice (title)"
-              }
-            ]
           }
         }
       ],

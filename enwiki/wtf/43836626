@@ -7,6 +7,7 @@
     "Boston College alumni",
     "Ambassadors of the United States to France",
     "Ambassadors of the United States to Monaco",
+    "Ambassadors of the United States to the United Kingdom",
     "American women ambassadors",
     "Carnegie Endowment for International Peace",
     "Carter administration personnel",
@@ -885,12 +886,14 @@
         },
         {
           "title": "United States Ambassador to the United Kingdom",
-          "years": "Taking office 2022",
+          "years": "2022–present",
           "template": "s-ttl"
         },
         {
-          "reason": "Designate",
-          "template": "s-non"
+          "template": "s-inc"
+        },
+        {
+          "template": "us ambassadors to the uk"
         },
         {
           "template": "us ambassadors to france"

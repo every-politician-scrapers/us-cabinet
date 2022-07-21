@@ -407,7 +407,13 @@
               ]
             },
             {
-              "text": "During UW-Madison's spring 2018 commencement ceremony, Thomas-Greenfield was awarded an honorary Doctor of Law by Chancellor Rebecca Blank."
+              "text": "During UW-Madison's spring 2018 commencement ceremony, Thomas-Greenfield was awarded an honorary Doctor of Law by Chancellor Rebecca Blank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rebecca Blank"
+                }
+              ]
             }
           ]
         }

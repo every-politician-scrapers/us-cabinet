@@ -133,7 +133,7 @@
               ]
             },
             {
-              "text": "He abandoned his aspirations of becoming a clergyman to attend the College of the Holy Cross and, later, Yale Law School.",
+              "text": "He abandoned his aspiration to become a clergyman to attend the College of the Holy Cross and, later, Yale Law School.",
               "links": [
                 {
                   "text": "clergyman",
@@ -269,7 +269,7 @@
         {
           "sentences": [
             {
-              "text": "Since the death of Antonin Scalia, Thomas has been the Court's foremost originalist member, stressing the original meaning in interpreting the Constitution.",
+              "text": "Since Antonin Scalia's death, Thomas has been the Court's foremost originalist member, stressing the original meaning in interpreting the Constitution.",
               "links": [
                 {
                   "type": "internal",
@@ -582,35 +582,6 @@
           },
           "signature_alt": {
             "text": "Cursive signature in ink"
-          },
-          "awards": {
-            "text": "Horatio Alger Award (1992)\nCollege of the Holy Cross (JD, honorary)",
-            "links": [
-              {
-                "text": "Horatio Alger Award",
-                "type": "internal",
-                "page": "Horatio Alger"
-              },
-              {
-                "type": "internal",
-                "page": "College of the Holy Cross"
-              },
-              {
-                "text": "JD",
-                "type": "internal",
-                "page": "Juris Doctor"
-              }
-            ]
-          },
-          "honorific_prefix": {
-            "text": "Justice",
-            "links": [
-              {
-                "text": "Justice",
-                "type": "internal",
-                "page": "Justice (title)"
-              }
-            ]
           }
         }
       ],

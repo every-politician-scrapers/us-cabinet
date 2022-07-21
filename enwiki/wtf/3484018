@@ -1013,7 +1013,14 @@
               "text": "In May 2022, Reeves repeatedly refused to deny that he would ban birth control in Mississippi when questioned by anchor Jake Tapper."
             },
             {
-              "text": "In particular, he refused to rule out banning IUDs, a form of birth control used by 1 in 7 women."
+              "text": "In particular, he refused to rule out banning IUD s, a form of birth control used by 1 in 7 women.",
+              "links": [
+                {
+                  "text": "IUD",
+                  "type": "internal",
+                  "page": "Intrauterine device"
+                }
+              ]
             }
           ]
         }

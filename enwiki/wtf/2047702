@@ -1372,25 +1372,54 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": [
-            {
-              "text": "Burns has received fifteen honorary degrees, the Presidential Distinguished Service Award, the Secretary of State’s Distinguished Service Award, the 2017 Ignatian Award from Boston College, 2016 New Englander of the Year from the New England Council, the Woodrow Wilson Award for Public Service from the Johns Hopkins University, the Boston College Alumni Achievement Award, the Jean Mayer Global Citizenship Award from Tufts University, and the Trainor Award for Diplomacy by Georgetown University.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Presidential Distinguished Service Award"
-                },
-                {
-                  "type": "internal",
-                  "page": "Secretary of State’s Distinguished Service Award"
-                }
-              ]
-            },
-            {
-              "text": "He was named Communicator of the Year by the National Association of Government Communicators in 1997."
-            }
-          ]
+          "sentences": []
         }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Fifteen honorary degrees"
+          },
+          {
+            "text": "Presidential Distinguished Service Award",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Presidential Distinguished Service Award"
+              }
+            ]
+          },
+          {
+            "text": "Secretary of State’s Distinguished Service Award",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of State’s Distinguished Service Award"
+              }
+            ]
+          },
+          {
+            "text": "2017 Ignatian Award from Boston College"
+          },
+          {
+            "text": "2016 New Englander of the Year from the New England Council"
+          },
+          {
+            "text": "Woodrow Wilson Award for Public Service from the Johns Hopkins University"
+          },
+          {
+            "text": "Boston College Alumni Achievement Award"
+          },
+          {
+            "text": "Jean Mayer Global Citizenship Award from Tufts University"
+          },
+          {
+            "text": "Trainor Award for Diplomacy by Georgetown University"
+          },
+          {
+            "text": "Communicator of the Year by the National Association of Government Communicators in 1997."
+          }
+        ]
       ]
     },
     {

@@ -353,16 +353,6 @@
                 "page": "Juris Doctor"
               }
             ]
-          },
-          "honorific_prefix": {
-            "text": "Justice",
-            "links": [
-              {
-                "text": "Justice",
-                "type": "internal",
-                "page": "Justice (title)"
-              }
-            ]
           }
         }
       ],

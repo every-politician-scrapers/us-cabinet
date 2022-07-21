@@ -454,16 +454,6 @@
                 "page": "United States Army Reserve"
               }
             ]
-          },
-          "honorific_prefix": {
-            "text": "Justice",
-            "links": [
-              {
-                "text": "Justice",
-                "type": "internal",
-                "page": "Justice (title)"
-              }
-            ]
           }
         }
       ],

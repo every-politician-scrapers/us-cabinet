@@ -31,7 +31,9 @@
     "Living people",
     "Mayors of South Bend, Indiana",
     "McKinsey & Company people",
+    "Michigan Democrats",
     "Military personnel from Indiana",
+    "People from Traverse City, Michigan",
     "United States Navy personnel of the War in Afghanistan (2001–2021)",
     "United States Navy reservists",
     "United States Secretaries of Transportation",
@@ -6880,7 +6882,7 @@
         {
           "sentences": [
             {
-              "text": "In July 2022, Buttigieg established his permanent residence in Traverse City, Michigan, which is Chasten's hometown, as well as changed his voter registration to Michigan.",
+              "text": "In July 2022, Buttigieg established his permanent residence in Traverse City, Michigan, which is Chasten's hometown, and registered to vote in the state.",
               "links": [
                 {
                   "type": "internal",
@@ -7114,9 +7116,10 @@
           "title": "Buttigieg moves to Michigan, changes voter registration",
           "url": "https://www.mlive.com/public-interest/2022/07/buttigieg-moves-to-michigan-changes-voter-registration.html",
           "website": "MLive",
-          "publisher": "Jordyn Hermani",
-          "access-date": "July 8, 2022",
-          "date": "July 8, 2021",
+          "last": "Hermani",
+          "first": "Jordyn",
+          "date": "July 8, 2022",
+          "accessdate": "July 20, 2022",
           "template": "citation",
           "type": "web"
         },

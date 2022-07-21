@@ -494,16 +494,6 @@
           },
           "signature": {
             "text": "SotomayorSig.svg"
-          },
-          "honorific_prefix": {
-            "text": "Justice",
-            "links": [
-              {
-                "text": "Justice",
-                "type": "internal",
-                "page": "Justice (title)"
-              }
-            ]
           }
         }
       ],

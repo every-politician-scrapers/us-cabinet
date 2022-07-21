@@ -2368,10 +2368,16 @@
           "type": "web"
         },
         {
+          "url": "https://www.washingtonpost.com/politics/2022/07/18/deb-haaland-interior-breaks-leg/",
+          "title": "Interior Secretary Deb Haaland breaks leg while hiking in national park",
+          "date": "2022-07-18",
+          "author1": "Amy B Wang",
+          "newspaper": "The Washington Post",
+          "place": "Washington, D.C.",
+          "issn": "0190-8286",
+          "oclc": "1330888409",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         }
       ]
     },

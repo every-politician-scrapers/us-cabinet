@@ -841,6 +841,15 @@
                   "page": "Kelly M. Schulz"
                 }
               ]
+            },
+            {
+              "text": "After Schulz was defeated by state delegate Dan Cox in the Republican primary, Hogan said he would not support Cox in the general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dan Cox"
+                }
+              ]
             }
           ]
         }
@@ -923,6 +932,17 @@
           "access-date": "November 23, 2021",
           "work": "WJLA-TV",
           "date": "November 23, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Rai",
+          "first1": "Sarakshi",
+          "title": "Hogan won't support Trump-backed Maryland governor candidate",
+          "url": "https://thehill.com/homenews/campaign/3567264-hogan-wont-support-trump-backed-maryland-governor-candidate/",
+          "access-date": "July 20, 2022",
+          "work": "The Hill",
+          "date": "July 20, 2022",
           "template": "citation",
           "type": "news"
         },
@@ -6388,10 +6408,8 @@
           "template": "s-ttl"
         },
         {
-          "list": [
-            "recent"
-          ],
-          "template": "s-inc"
+          "after": "Dan Cox",
+          "template": "s-aft"
         },
         {
           "template": "s-off"
@@ -6402,7 +6420,7 @@
         },
         {
           "title": "Governor of Maryland",
-          "years": "January 21, 2015 – present",
+          "years": "2015–present",
           "template": "s-ttl"
         },
         {
@@ -6414,7 +6432,7 @@
         },
         {
           "title": "Chair of the National Governors Association",
-          "years": "July 26, 2019 – August 5, 2020",
+          "years": "2019–2020",
           "template": "s-ttl"
         },
         {
