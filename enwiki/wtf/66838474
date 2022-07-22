@@ -3393,13 +3393,19 @@
             },
             {
               "text": "Wheeler served as acting Secretary of Natural Resources until mid-March 2022, when Youngkin appointed him as a senior advisor, a role that does not require confirmation by the legislature."
+            },
+            {
+              "text": "In June of that year, Youngkin appointed Wheeler to direct the Office of Regulatory Management, an office newly established by Youngkin through executive order for the purpose of reducing state regulatory requirements."
+            },
+            {
+              "text": "Just as Wheeler had done with his advisory role, he was able to assume his role at the Office of Regulatory Management without legislative approval."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leading up to the vote on his nomination, Republicans in the Virginia House of Delegates retaliated against Democrats for opposing Wheeler, by both blocking the reappointment of a judge to the State Corporation Commission and leaving two Virginia Supreme Court vacancies open.",
+              "text": "Leading up to the vote on Wheeler's nomination to serve as Secretary of Natural Resources, Republicans in the Virginia House of Delegates retaliated against Democrats for opposing the nomination, by both blocking the reappointment of a judge to the State Corporation Commission and leaving two Virginia Supreme Court vacancies open.",
               "links": [
                 {
                   "type": "internal",
@@ -3515,6 +3521,27 @@
           "language": "en-US",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Youngkin appoints Trump EPA chief to new post after failed Cabinet bid",
+          "language": "en-US",
+          "work": "Washington Post",
+          "url": "https://www.washingtonpost.com/dc-md-va/2022/07/01/youngkin-wheeler-epa-virginia/",
+          "access-date": "2022-07-21",
+          "issn": "0190-8286",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Wilson",
+          "first": "Patrick",
+          "title": "Youngkin places Wheeler in charge of cutting regulations",
+          "url": "https://richmond.com/news/state-and-regional/govt-and-politics/youngkin-places-wheeler-in-charge-of-cutting-regulations/article_a3bc2eac-9ad9-55ab-b484-f6d4e7ebb5fd.html",
+          "access-date": "2022-07-21",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "Virginia Republicans threaten payback for Democrats' snub of Trump EPA chief",

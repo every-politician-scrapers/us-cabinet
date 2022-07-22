@@ -3269,9 +3269,6 @@
       "depth": 0,
       "templates": [
         {
-          "list": [
-            "30em"
-          ],
           "template": "reflist"
         }
       ]

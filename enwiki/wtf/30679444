@@ -1246,10 +1246,12 @@
       ],
       "references": [
         {
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/1865/text?q=%7B%22search%22%3A%5B%22Further+Consolidated+Appropriations+Act%2C+2020%22%5D%7D&r=1&s=2",
+          "title": "Text - H.R.1865 - 116th Congress (2019-2020): Further Consolidated Appropriations Act, 2020 &#124; Congress.gov &#124; Library of Congress",
+          "publisher": "Congress.gov",
+          "accessdate": "2022-07-22",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://clerk.house.gov/Votes/2019689",

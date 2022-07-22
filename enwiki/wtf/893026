@@ -2759,15 +2759,15 @@
         },
         {
           "url": "https://www.nytimes.com/2022/07/05/world/americas/united-states-mexico-diplomacy.html",
-          "title": "Has Biden’s Top Diplomat in Mexico Gone Too Far, Officials Ask?",
+          "title": "Has Biden's Top Diplomat in Mexico Gone Too Far, Officials Ask?",
           "first1": "Natalie",
           "last1": "Kitroeff",
           "first2": "Maria",
           "last2": "Abi-Habib",
+          "newspaper": "The New York Times",
           "date": "July 5, 2022",
-          "via": "NYTimes.com",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         }
       ]
     },

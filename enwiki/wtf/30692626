@@ -1584,7 +1584,7 @@
         {
           "sentences": [
             {
-              "text": "In March 2022, Ducey signed two anti-trans bills into law."
+              "text": "In March 2022, Ducey signed two transgender related bills into law."
             },
             {
               "text": "One bans transgender people from playing on sports teams aligning with their gender identity."
@@ -1592,6 +1592,11 @@
             {
               "text": "One bars people under 18 from receiving sex-reassignment surgeries.",
               "links": [
+                {
+                  "text": "under 18",
+                  "type": "internal",
+                  "page": "Age of majority"
+                },
                 {
                   "text": "sex-reassignment surgeries",
                   "type": "internal",

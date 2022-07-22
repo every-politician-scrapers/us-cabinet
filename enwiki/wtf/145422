@@ -5,6 +5,7 @@
     "Joe Biden",
     "1942 births",
     "Living people",
+    "Biden family",
     "20th-century American lawyers",
     "20th-century American politicians",
     "20th-century Roman Catholics",
@@ -18,7 +19,6 @@
     "American people of French descent",
     "American people of Irish descent",
     "Articles containing video clips",
-    "Biden family",
     "Candidates in the 1988 United States presidential election",
     "Candidates in the 2008 United States presidential election",
     "Candidates in the 2020 United States presidential election",
@@ -10804,11 +10804,7 @@
                   "page": "Kyrsten Sinema"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In January, Supreme Court Justice Stephen Breyer, a moderate liberal nominated by Bill Clinton, announced his intention to retire from the Supreme Court.",
               "links": [
@@ -10841,11 +10837,7 @@
             },
             {
               "text": "The Senate confirmed her on April 7, and she was sworn in on June 30."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Also in February, after warning for several weeks that an attack was imminent, Biden led the U.S. response to the Russian invasion of Ukraine, imposing severe sanctions on Russia and authorizing over $1 billion in weapons shipments to Ukraine.",
               "links": [
@@ -10964,14 +10956,36 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Biden tested positive for COVID-19 on July 21, 2022, with reportedly mild symptoms.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            },
+            {
+              "text": "In a statement, the White House stated that Biden was being treated with Paxlovid.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paxlovid"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
         {
-          "file": "File:P20220225AS-1828_(51988933208)_(cropped).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/P20220225AS-1828_(51988933208)_(cropped).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/P20220225AS-1828_(51988933208)_(cropped).jpg",
-          "caption": "Biden with Ketanji Brown Jackson in the Blue Room",
+          "file": "File:P20220407AS-0337_(52068715434).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/P20220407AS-0337_(52068715434).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/P20220407AS-0337_(52068715434).jpg",
+          "caption": "Biden and Ketanji Brown Jackson watching the U.S. Senate vote on her confirmation, April 2022.",
           "links": []
         },
         {
@@ -10980,11 +10994,6 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Biden_met_with_refugees_from_Ukraine_in_Warsaw.jpg",
           "caption": "Biden with refugees from Ukraine in Warsaw, March 2022",
           "links": []
-        },
-        {
-          "file": "File:Meetings_with_Emperor_Naruhito_and_Prime_Minister_Kishida.webm",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Meetings_with_Emperor_Naruhito_and_Prime_Minister_Kishida.webm?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Meetings_with_Emperor_Naruhito_and_Prime_Minister_Kishida.webm"
         }
       ],
       "references": [
@@ -11168,6 +11177,15 @@
           "type": "web"
         },
         {
+          "title": "Biden Tests Positive for Covid, Has Mild Symptoms, White House Says",
+          "website": "Bloomberg",
+          "date": "2022-07-21",
+          "url": "https://www.bloomberg.com/news/articles/2022-07-21/biden-is-positive-for-covid-has-mild-symptoms-white-house-says",
+          "access-date": "2022-07-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "author": "Clare Foran, Ali Zaslav and Ted Barrett",
           "title": "Senate Democrats suffer defeat on voting rights after vote to change rules fails",
           "url": "https://www.cnn.com/2022/01/19/politics/senate-voting-legislation-filibuster/index.html",
@@ -11270,6 +11288,17 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.nytimes.com/2022/07/21/us/politics/biden-covid-positive.html",
+          "title": "Biden, 79, is experiencing fatigue, a runny nose and a dry cough after testing positive.",
+          "date": "July 21, 2022",
+          "last": "Shear",
+          "first": "Michael",
+          "work": "The New York Times",
+          "access-date": "July 21, 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -14941,7 +14970,6 @@
           "template": "conglinks"
         },
         {
-          "state": "expanded",
           "template": "joe biden"
         },
         {

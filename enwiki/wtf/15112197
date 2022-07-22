@@ -45,10 +45,6 @@
                 },
                 {
                   "type": "internal",
-                  "page": "U.S. Vice President"
-                },
-                {
-                  "type": "internal",
                   "page": "Joe Biden"
                 },
                 {
@@ -234,18 +230,8 @@
             "text": "Boise, Idaho, U.S.",
             "links": [
               {
-                "text": "Boise",
                 "type": "internal",
                 "page": "Boise, Idaho"
-              },
-              {
-                "type": "internal",
-                "page": "Idaho"
-              },
-              {
-                "text": "U.S.",
-                "type": "internal",
-                "page": "United States"
               }
             ]
           },

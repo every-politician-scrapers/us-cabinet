@@ -2376,6 +2376,9 @@
             },
             {
               "text": "She received her judicial commission on June 17, 2021."
+            },
+            {
+              "text": "Her service was terminated on June 29, 2022, the day before she was officially sworn into office as the Associate Justice of the US Supreme Court on June 30, 2022."
             }
           ]
         },
@@ -2980,6 +2983,9 @@
                   "page": "federal public defender"
                 }
               ]
+            },
+            {
+              "text": "On July 21, 2022, Jackson voted on her first Supreme Court ruling."
             }
           ]
         }
@@ -3021,6 +3027,12 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
@@ -3028,6 +3040,35 @@
       "title": "Judicial philosophy",
       "depth": 0,
       "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jackson has claimed to not have a particular judicial philosophy; instead, she claims to have a perspective on legal analysis or a \"judicial methodology.\"",
+              "links": [
+                {
+                  "text": "judicial philosophy",
+                  "type": "internal",
+                  "page": "judicial philosophy"
+                }
+              ]
+            },
+            {
+              "text": "Though she has not embraced the label, Jackson has expressed that she sees value in originalism by stating the \"Constitution is ​​fixed in its meaning,\" and has explicitly criticized living constitutionalism.",
+              "links": [
+                {
+                  "text": "originalism",
+                  "type": "internal",
+                  "page": "originalism"
+                },
+                {
+                  "text": "living constitutionalism",
+                  "type": "internal",
+                  "page": "living constitutionalism"
+                }
+              ]
+            }
+          ]
+        },
         {
           "sentences": [
             {
@@ -3087,6 +3128,17 @@
         {
           "last1": "Liptak",
           "first1": "Adam",
+          "title": "By Turns Cautious and Confident, Judge Jackson Takes the Stage",
+          "url": "https://www.nytimes.com/2022/03/22/us/ketanji-brown-jackson-judicial-philosophy.html",
+          "website": "The New York Times",
+          "access-date": "21 July 2022",
+          "date": "22 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Liptak",
+          "first1": "Adam",
           "title": "Judge Jackson's Rulings: Detailed, Methodical and Leaning Left",
           "url": "https://www.nytimes.com/2022/02/25/us/supreme-court-kentaji-brown-jackson-rulings.html",
           "website": "The New York Times",
@@ -3127,6 +3179,28 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Lempert",
+          "first1": "Richard",
+          "title": "Justice Ketanji Brown Jackson—what can we expect?",
+          "url": "https://www.brookings.edu/blog/fixgov/2022/04/01/justice-ketanji-brown-jackson-what-can-we-expect/",
+          "website": "Brookings",
+          "access-date": "21 July 2022",
+          "date": "1 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Anzarouth",
+          "first1": "Matthew",
+          "title": "The Misguided Criticism of Judge Ketanji Brown Jackson’s Judicial Philosophy",
+          "url": "https://harvardpolitics.com/the-misguided-criticism-of-judge-ketanji-brown-jacksons-judicial-philosophy/",
+          "website": "Harvard Political Review",
+          "access-date": "21 July 2022",
+          "date": "10 May 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

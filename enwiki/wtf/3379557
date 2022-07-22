@@ -2262,6 +2262,40 @@
       ]
     },
     {
+      "title": "Political contributions",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In July 2022, Ricketts contributed $250,000 to a political action committee created to oppose the U.S. Senate campaign of Eric Greitens in advance of Missouri's August primary election.",
+              "links": [
+                {
+                  "text": " political action committee",
+                  "type": "internal",
+                  "page": "Political Action Committee "
+                },
+                {
+                  "type": "internal",
+                  "page": "Eric Greitens"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.politico.com/news/2022/07/20/nebraska-governor-makes-big-donation-to-take-out-greitens-00047081",
+          "title": "Nebraska governor makes big donation to take out Greitens",
+          "date": "July 22, 2022",
+          "newspaper": "Politico",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "Electoral history",
       "depth": 0
     },
