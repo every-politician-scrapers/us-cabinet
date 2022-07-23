@@ -1423,6 +1423,28 @@
               ]
             },
             {
+              "text": "Hearings on her nomination were held before the Senate Foreign Relations Committee on December 14, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate Foreign Relations Committee"
+                }
+              ]
+            },
+            {
+              "text": "Her nomination expired at the end of the year and was returned to President Biden on January 3, 2022."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "President Biden renominated Gutmann the next day."
+            },
+            {
+              "text": "The committee favorably reported her nomination to the Senate floor on January 12, 2022."
+            },
+            {
               "text": "On February 8, 2022, the United States Senate confirmed her nomination by a 54-42 vote.",
               "links": [
                 {
@@ -1438,6 +1460,24 @@
         }
       ],
       "references": [
+        {
+          "title": "PN778 - Nomination of Amy Gutmann for Department of State, 117th Congress (2021-2022)",
+          "url": "https://www.congress.gov/nomination/117th-congress/778?q=%7B%22search%22%3A%5B%22gutmann%22%2C%22gutmann%22%5D%7D&s=1&r=1",
+          "website": "www.congress.gov",
+          "access-date": "22 July 2022",
+          "date": "3 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "PN1577 - Nomination of Amy Gutmann for Department of State, 117th Congress (2021-2022)",
+          "url": "https://www.congress.gov/nomination/117th-congress/1577?q=%7B%22search%22%3A%5B%22gutmann%22%2C%22gutmann%22%5D%7D&s=1&r=2",
+          "website": "www.congress.gov",
+          "access-date": "22 July 2022",
+          "date": "8 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "On the Nomination (Confirmation: Amy Gutmann, of Pennsylvania, to be Ambassador of the United States of America to the Federal Republic of Germany)",
           "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00040.htm",

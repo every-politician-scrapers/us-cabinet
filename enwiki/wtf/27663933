@@ -491,19 +491,25 @@
           "type": "tweet"
         },
         {
+          "last1": "Schmidt",
+          "first1": "Matt",
+          "url": "https://state.sdstateconnect.org/governor-noem/",
+          "title": "Governor Noem",
+          "work": "STATE Magazine",
+          "publisher": "South Dakota State University Alumni Association",
+          "date": "June 7, 2019",
+          "access-date": "July 5, 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "magazine"
         },
         {
           "last": "O'Keefe",
           "first": "Ed",
-          "date": "2012-07-12",
+          "date": "July 12, 2012",
           "title": "Rep. Kristi Noem earns her college degree",
           "url": "https://www.washingtonpost.com/blogs/2chambers/post/rep-kristi-noem-earns-her-college-degree/2012/05/07/gIQAgMRZ8T_blog.html",
-          "work": "Washington Post",
-          "access-date": "2022-07-19",
+          "work": "The Washington Post",
+          "access-date": "July 19, 2022",
           "template": "citation",
           "type": "news"
         }
@@ -560,13 +566,25 @@
         {
           "sentences": [
             {
-              "text": "Noem served for four years, from 2007 to 2010; she was an assistant majority leader during her last year."
+              "text": "Noem served for four years, from 2007 to 2010; she was an assistant majority leader during her second term."
             },
             {
               "text": "In 2009 and 2010, she sponsored bills to lower the age of compulsory education in South Dakota to 16, after it had been raised to 18 in 2008, arguing that requiring school attendance until age 18 has not been proven to improve graduation rates."
             },
             {
               "text": "During her tenure, Noem was a member of the House State Affairs Committee and House Taxation Committee."
+            },
+            {
+              "text": "In 2009, Noem served as vice chair of the Agriculture Land Assessment Advisory Task Force."
+            },
+            {
+              "text": "Sen. Larry Rhoden served alongside her as chair of that task force and would later go on to serve as her lieutenant governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Larry Rhoden"
+                }
+              ]
             }
           ]
         }
@@ -602,6 +620,16 @@
           "archive-date": "February 25, 2012",
           "archive-url": "https://web.archive.org/web/20120225085134/http://ballotpedia.org/wiki/index.php/Kristi_Noem",
           "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://sdlegislature.gov/Interim/Committee/65/Agendas",
+          "title": "Ag. Land Assessment Advisory Task Force — 2009",
+          "date": "November 2, 2009",
+          "website": "sdlegislature.gov",
+          "publisher": "South Dakota Legislature",
+          "access-date": "July 22, 2022",
           "template": "citation",
           "type": "web"
         }
@@ -1973,10 +2001,17 @@
           "type": "news"
         },
         {
+          "url": "https://rapidcityjournal.com/news/local/state-and-regional/ag-ravnsborg-reviewing-gov-noems-meeting-with-state-official-over-daughters-license-application/article_10d87aa5-7bb0-5ac5-9977-5fd8977608ef.html",
+          "title": "AG Ravnsborg reviewing Gov. Noem's meeting with state official over daughter's license application",
+          "work": "Rapid City Journal",
+          "agency": "Associated Press",
+          "first1": "Stephen",
+          "last1": "Groves",
+          "date": "September 29, 2021",
+          "access-date": "October 3, 2021",
+          "language": "en",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         }
       ]
     },
@@ -2543,18 +2578,30 @@
           "type": "news"
         },
         {
+          "url": "https://apnews.com/article/kristi-noem-south-dakota-c15f5399d0c3bb48fec9d6ae1ad35f6d",
+          "title": "South Dakota AG reviewing Noem's meeting with daughter",
+          "work": "Associated Press",
+          "first": "Stephen",
+          "last": "Groves",
+          "date": "September 28, 2021",
+          "access-date": "October 1, 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
+          "url": "https://www.washingtonpost.com/nation/2021/02/24/south-dakota-ravnsborg-resign-death/",
+          "title": "South Dakota AG pushed by critics to resign over new evidence in fatal car incident: 'He knew what he hit and he lied'",
+          "newspaper": "The Washington Post",
+          "first": "Andrea",
+          "last": "Salcedo",
+          "date": "February 24, 2021",
+          "access-date": "October 8, 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
+          "first": "Max",
+          "last": "Greenwood",
           "url": "https://thehill.com/homenews/campaign/577258-south-dakota-gop-lawmakers-summon-two-employees-for-noem-inquiry",
           "title": "South Dakota GOP lawmakers summon two employees for Noem inquiry",
           "newspaper": "The Hill",
@@ -2650,7 +2697,8 @@
           "date": "June 21, 2022",
           "title": "Senate convicts AG Jason Ravnsborg of malfeasance of office after pedestrian death, votes to have him removed",
           "url": "https://www.argusleader.com/story/news/2022/06/21/live-coverage-sd-republican-attorney-general-jason-ravnsborg-impeachment-trial-south-dakota-senate/7651011001/",
-          "work": "Argus Leader}access-date=July 12, 2022",
+          "work": "Argus Leader",
+          "access-date": "July 12, 2022",
           "location": "Sioux Falls, SD",
           "template": "citation",
           "type": "news"
@@ -2677,10 +2725,15 @@
           "type": "news"
         },
         {
+          "url": "https://thehill.com/homenews/state-watch/574572-south-dakota-lawmakers-to-examine-noem-meeting-with-official-as-daughter",
+          "title": "Noem draws scrutiny for meeting with official as daughter sought state license",
+          "newspaper": "The Hill",
+          "first": "Max",
+          "last": "Greenwood",
+          "date": "September 27, 2021",
+          "access-date": "September 30, 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "url": "https://sdpb.sd.gov/sdpbpodcast/2021/interim/goa12142021.mp3",
@@ -3464,13 +3517,14 @@
           "first1": "Eric",
           "title": "At Least 103 New Coronavirus Cases in 8 States Linked to South Dakota Motorcycle Rally",
           "url": "https://www.msn.com/en-us/news/us/at-least-103-new-coronavirus-cases-in-8-states-linked-to-south-dakota-motorcycle-rally/ar-BB18mxWw?ocid=sf",
-          "website": "wMSN",
+          "website": "MSN",
+          "date": "August 25, 2020",
           "access-date": "September 12, 2020",
-          "archive-date": "November 16, 2020",
-          "archive-url": "https://web.archive.org/web/20201116193252/https://www.msn.com/en-us/news/us/at-least-103-new-coronavirus-cases-in-8-states-linked-to-south-dakota-motorcycle-rally/ar-BB18mxWw?ocid=sf",
-          "url-status": "live",
+          "archive-date": "April 12, 2021",
+          "archive-url": "https://web.archive.org/web/20210412144657/https://www.msn.com/en-us/news/us/at-least-103-new-coronavirus-cases-in-8-states-linked-to-south-dakota-motorcycle-rally/ar-BB18mxWw?ocid=sf",
+          "url-status": "dead",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "date": "August 7, 2020",
@@ -3636,10 +3690,11 @@
           "title": "Legislature rejects extending Noem's shutdown authority or letting her close gun stores",
           "url": "https://rapidcityjournal.com/news/local/legislature-rejects-extending-noems-shutdown-authority-or-letting-her-close-gun-stores/article_d75b6795-e20c-5122-8c77-4677479464da.html",
           "date": "March 31, 2020",
-          "work": "Rapid City Journal (from the Associated Press)",
+          "work": "Rapid City Journal",
+          "agency": "Associated Press)",
           "access-date": "August 21, 2021",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "last1": "Matzen",
@@ -3667,10 +3722,15 @@
           "type": "news"
         },
         {
+          "url": "https://www.theatlantic.com/ideas/archive/2020/05/essentials-meatpeacking-coronavirus/611437/",
+          "title": "America's Slaughterhouses Aren't Just Killing Animals",
+          "magazine": "The Atlantic",
+          "first": "Eric",
+          "last": "Schlosser",
+          "date": "May 12, 2020",
+          "access-date": "July 1, 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "magazine"
         },
         {
           "url": "https://www.salon.com/2020/09/12/is-south-dakotas-kristi-noem-a-trump-superfan-now-the-nations-worst-covid-governor/",
@@ -4244,12 +4304,6 @@
           "access-date": "December 19, 2020",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "last": "Bollinger",
@@ -4916,7 +4970,7 @@
           "publisher": "Twelve Books",
           "isbn": "9781538707050",
           "url": "https://www.twelvebooks.com/titles/kristi-noem/not-my-first-rodeo/9781538707050/",
-          "access-date": "10 July 2022",
+          "access-date": "July 10, 2022",
           "template": "citation",
           "type": "book"
         },
@@ -5207,10 +5261,16 @@
           "type": "news"
         },
         {
+          "last": "Woster",
+          "first": "Kevin.",
+          "url": "http://www.rapidcityjournal.com/news/article_1f959980-2418-11df-affd-001cc4c002e0.html",
+          "title": "Long after abortion wars, resentment toward Chris Nelson lingers",
+          "archive-url": "https://web.archive.org/web/20201116193323/https://rapidcityjournal.com/news/article_1f959980-2418-11df-affd-001cc4c002e0.html",
+          "archive-date": "November 16, 2020",
+          "newspaper": "Rapid City Journal",
+          "date": "March 1, 2010",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "last": "Montgomery",
@@ -5314,7 +5374,7 @@
           "title": "Freshmen enroll in PACs 101",
           "date": "March 15, 2011",
           "url": "http://www.politico.com/news/stories/0311/51290.html",
-          "work": "POLITICO",
+          "work": "Politico",
           "access-date": "March 15, 2011",
           "archive-date": "November 16, 2020",
           "archive-url": "https://web.archive.org/web/20201116193402/https://www.politico.com/story/2011/03/freshmen-enroll-in-pacs-101-051290",

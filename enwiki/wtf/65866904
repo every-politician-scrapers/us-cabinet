@@ -122,6 +122,9 @@
           "term_start": {
             "text": "January 20, 2021"
           },
+          "term_end": {
+            "text": "July 2022"
+          },
           "predecessor": {
             "text": "Pat Cipollone",
             "links": [
@@ -132,7 +135,7 @@
             ]
           },
           "successor": {
-            "text": "Stuart Delery (Designate)",
+            "text": "Stuart Delery",
             "links": [
               {
                 "type": "internal",
@@ -584,11 +587,11 @@
         },
         {
           "title": "White House Counsel",
-          "years": "2021–present",
+          "years": "2021–2022",
           "template": "s-ttl"
         },
         {
-          "after": "Stuart Delery Designate",
+          "after": "Stuart Delery",
           "template": "s-aft"
         },
         {

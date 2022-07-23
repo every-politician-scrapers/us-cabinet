@@ -260,10 +260,6 @@
       ],
       "templates": [
         {
-          "description": "Governor of California since 2019",
-          "template": "short description"
-        },
-        {
           "template": "good article"
         },
         {
@@ -639,6 +635,16 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "2022-07-22",
+          "title": "Newsom signs gun law modeled after Texas abortion ban, setting up Supreme Court fight",
+          "url": "https://www.latimes.com/california/story/2022-07-22/newsom-signs-gun-bill-modeled-after-texas-abortion-ban-setting-up",
+          "access-date": "2022-07-23",
+          "website": "Los Angeles Times",
+          "language": "en-US",
+          "template": "citation",
+          "type": "cite web"
         }
       ]
     },
@@ -6393,6 +6399,16 @@
               "text": "Assembly Bill 2571 prohibited the marketing of firearms such as the JR-15 to children."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On July 22, 2022, Newsom signed Senate Bill 1327, a law enabling private citizens to sue anyone who imports, distributes, manufactures or sells illegal firearms in California."
+            },
+            {
+              "text": "The law requires courts to award statutory damages of at least $10,000 and attorneys fees."
+            }
+          ]
         }
       ],
       "templates": [
@@ -6497,6 +6513,26 @@
           "url-status": "live",
           "access-date": "July 4, 2022",
           "website": "The Sacramento Bee",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "CNN",
+          "first": "Veronica Stracqualursi",
+          "title": "Newsom signs California gun bill modeled after Texas abortion law",
+          "url": "https://www.cnn.com/2022/07/22/politics/california-newsom-gun-bill-texas-abortion-law/index.html",
+          "access-date": "2022-07-23",
+          "website": "CNN",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-22",
+          "title": "Newsom signs gun law modeled after Texas abortion ban, setting up Supreme Court fight",
+          "url": "https://www.latimes.com/california/story/2022-07-22/newsom-signs-gun-bill-modeled-after-texas-abortion-ban-setting-up",
+          "access-date": "2022-07-23",
+          "website": "Los Angeles Times",
+          "language": "en-US",
           "template": "citation",
           "type": "web"
         }

@@ -2985,7 +2985,7 @@
               ]
             },
             {
-              "text": "On July 21, 2022, Jackson voted on her first Supreme Court ruling."
+              "text": "On July 21, Jackson voted on her first Supreme Court case, joining the dissent in a 5–4 decision refusing to block a district court ruling that prevented the Biden administration from setting new enforcement priorities for immigrants entering the U.S. or living in the country illegally."
             }
           ]
         }
@@ -3029,10 +3029,15 @@
           "type": "web"
         },
         {
+          "last": "Williams",
+          "first": "Pete",
+          "url": "https://news.yahoo.com/supreme-court-won-t-allow-213702592.html",
+          "title": "Supreme Court won’t allow Biden administration to impose new border enforcement priorities for now",
+          "website": "Yahoo! News",
+          "date": "July 21, 2022",
+          "access-date": "July 22, 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },

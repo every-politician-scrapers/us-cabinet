@@ -7727,11 +7727,7 @@
             },
             {
               "text": "In April 2019, Biden pledged to be more \"respectful of people's personal space\"."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Throughout 2019, Biden stayed generally ahead of other Democrats in national polls."
             },
@@ -7890,6 +7886,15 @@
               ]
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Joe_Biden_Rally_at_Hiatt_Middle_School_-_49480899101.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Joe_Biden_Rally_at_Hiatt_Middle_School_-_49480899101.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Joe_Biden_Rally_at_Hiatt_Middle_School_-_49480899101.jpg",
+          "caption": "Biden at a rally on the eve of the Iowa caucuses, February 2020",
+          "links": []
         }
       ],
       "templates": [
@@ -9451,6 +9456,36 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Biden entered office nine months into a recovery from the COVID-19 recession and his first year in office was characterized by robust growth in real GDP, employment, wages and stock market returns, amid significantly elevated inflation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 recession"
+                },
+                {
+                  "text": "significantly elevated inflation",
+                  "type": "internal",
+                  "page": "2021–2022 inflation surge"
+                }
+              ]
+            },
+            {
+              "text": "Real GDP grew 5.7%, the fastest rate in 37 years."
+            },
+            {
+              "text": "Amid record job creation, the unemployment rate fell at the fastest pace on record during the year."
+            },
+            {
+              "text": "By the end of 2021, inflation reached a nearly 40-year high of 7.1%, which was partially offset by the highest wage and salary growth in at least 20 years."
+            },
+            {
+              "text": "Income growth was particularly strong at the low end of the pay scale."
+            }
+          ]
         }
       ],
       "images": [
@@ -9673,6 +9708,108 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last1": "Tappe",
+          "first1": "Anneken",
+          "title": "The US economy grew at the fastest rate in 2021 since the Reagan administration",
+          "url": "https://www.cnn.com/2022/01/27/economy/us-fourth-quarter-2021-gdp/index.html",
+          "publisher": "CNN",
+          "date": "January 27, 2022",
+          "access-date": "June 18, 2022",
+          "archive-date": "January 27, 2022",
+          "archive-url": "https://web.archive.org/web/20220127201057/https://www.cnn.com/2022/01/27/economy/us-fourth-quarter-2021-gdp/index.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Mutikani",
+          "first1": "Lucia",
+          "title": "U.S. labor market eyes maximum employment despite underwhelming December payrolls",
+          "url": "https://www.reuters.com/markets/us/us-employment-growth-misses-expectations-unemployment-rate-falls-39-2022-01-07/",
+          "work": "Reuters",
+          "date": "January 7, 2022",
+          "access-date": "June 18, 2022",
+          "archive-date": "January 21, 2022",
+          "archive-url": "https://web.archive.org/web/20220121221243/http://www.reuters.com/markets/us/us-employment-growth-misses-expectations-unemployment-rate-falls-39-2022-01-07/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Pickert",
+          "first1": "Reade",
+          "title": "U.S. Sees Record Job Growth in 2021 After Millions Lost in 2020",
+          "url": "https://www.bloomberg.com/news/articles/2022-01-07/u-s-sees-record-job-growth-in-2021-after-millions-lost-in-2020",
+          "publisher": "Bloomberg News",
+          "date": "January 7, 2022",
+          "access-date": "June 18, 2022",
+          "archive-date": "January 29, 2022",
+          "archive-url": "https://web.archive.org/web/20220129065310/https://www.bloomberg.com/news/articles/2022-01-07/u-s-sees-record-job-growth-in-2021-after-millions-lost-in-2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Rubin",
+          "first1": "Gabriel T.",
+          "title": "U.S. Wages, Benefits Rose at Two-Decade High as Inflation Picked Up",
+          "url": "https://www.wsj.com/articles/us-employers-labor-costs-inflation-11643331612",
+          "work": "The Wall Street Journal",
+          "date": "January 28, 2022",
+          "access-date": "June 18, 2022",
+          "archive-date": "January 30, 2022",
+          "archive-url": "https://web.archive.org/web/20220130032502/https://www.wsj.com/articles/us-employers-labor-costs-inflation-11643331612",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Inflation Continued to Run Hot and Consumer Spending Fell in December",
+          "url": "https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html",
+          "archive-url": "https://web.archive.org/web/20220128134006/https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html",
+          "archive-date": "January 28, 2022",
+          "url-access": "subscription",
+          "url-status": "live",
+          "work": "The New York Times",
+          "date": "January 28, 2022",
+          "first1": "Jeanna",
+          "last1": "Smialek",
+          "first2": "Ben",
+          "last2": "Casselman",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Iacurci",
+          "first1": "Greg",
+          "title": "Wage growth may be slowing from 'breakneck' pace",
+          "url": "https://www.cnbc.com/2022/01/31/wage-growth-may-be-slowing-from-breakneck-pace.html",
+          "publisher": "CNBC",
+          "date": "January 31, 2022",
+          "access-date": "June 18, 2022",
+          "archive-date": "February 3, 2022",
+          "archive-url": "https://web.archive.org/web/20220203205842/https://www.cnbc.com/2022/01/31/wage-growth-may-be-slowing-from-breakneck-pace.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "S&P 500 Is Up 37% Since Biden's Election One Year Ago, Setting Presidential Record",
+          "url": "https://www.bloomberg.com/news/articles/2021-11-03/s-p-500-notches-best-one-year-run-after-a-presidential-election",
+          "work": "Bloomberg News",
+          "date": "November 3, 2021",
+          "first1": "Emily",
+          "last1": "Graffeo",
+          "first2": "Lu",
+          "last2": "Wang",
+          "access-date": "June 18, 2022",
+          "archive-date": "November 6, 2021",
+          "archive-url": "https://web.archive.org/web/20211106213451/https://www.bloomberg.com/news/articles/2021-11-03/s-p-500-notches-best-one-year-run-after-a-presidential-election",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -9785,7 +9922,11 @@
             },
             {
               "text": "On August 29, another American drone strike killed 10 civilians, including seven children; the Defense Department initially claimed the strike was conducted on an Islamic State suicide bomber threatening Kabul Airport, but admitted the mistake on September 17 and apologized."
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "The U.S. military left Afghanistan on August 30, with Biden saying that the evacuation effort was an \"extraordinary success\", by extracting over 120,000 Americans, Afghans and other allies."
             },
@@ -9804,13 +9945,6 @@
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President_Joe_Biden_and_Vice_President_Kamala_Harris_meet_with_their_national_security_team_and_senior_officials.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Joe_Biden_and_Vice_President_Kamala_Harris_meet_with_their_national_security_team_and_senior_officials.jpg",
           "caption": "Biden in a video conference with Vice President Harris and the U.S. National Security team, discussing the Fall of Kabul on August 15, 2021",
-          "links": []
-        },
-        {
-          "file": "File:President_Joe_Biden_and_Prime_Minister_Jacinda_Ardern.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President_Joe_Biden_and_Prime_Minister_Jacinda_Ardern.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Joe_Biden_and_Prime_Minister_Jacinda_Ardern.jpg",
-          "caption": "Biden and Jacinda Ardern in May 2022",
           "links": []
         }
       ],
@@ -10171,219 +10305,6 @@
           "date": "August 16, 2021",
           "archive-date": "August 17, 2021",
           "archive-url": "https://web.archive.org/web/20210817153113/https://www.washingtonpost.com/politics/2021/08/16/biden-says-buck-stops-with-me-while-pinning-blame-trump-lots-afghans/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Economy",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "[[File:Commodity Prices.webp|thumb|right|Commodity Prices"
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "]]Biden entered office nine months into a recovery from the COVID-19 recession and his first year in office was characterized by robust growth in real GDP, employment, wages and stock market returns, amid significantly elevated inflation.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "COVID-19 recession"
-                },
-                {
-                  "text": "significantly elevated inflation",
-                  "type": "internal",
-                  "page": "2021–2022 inflation surge"
-                }
-              ]
-            },
-            {
-              "text": "Real GDP grew 5.7%, the fastest rate in 37 years."
-            },
-            {
-              "text": "Amid record job creation, the unemployment rate fell at the fastest pace on record during the year."
-            },
-            {
-              "text": "By the end of 2021, inflation reached a nearly 40-year high of 7.1%, which was partially offset by the highest wage and salary growth in at least 20 years."
-            },
-            {
-              "text": "Income growth was particularly strong at the low end of the pay scale."
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:M2,_CPI,_PCE.webp",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/M2%2C_CPI%2C_PCE.webp?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/M2%2C_CPI%2C_PCE.webp",
-          "caption": "Percent change from a year earlier",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Economic policy of the Joe Biden administration"
-          ],
-          "template": "further"
-        },
-        {
-          "list": [
-            "#4572a7 solid 4px",
-            "M2 money supply"
-          ],
-          "template": "legend-line"
-        },
-        {
-          "list": [
-            "#89A54E solid 4px",
-            "CPI"
-          ],
-          "template": "legend-line"
-        },
-        {
-          "list": [
-            "#80699B solid 4px",
-            "Core CPI"
-          ],
-          "template": "legend-line"
-        },
-        {
-          "list": [
-            "#35DB3F solid 3px",
-            "soybean"
-          ],
-          "template": "legend-line"
-        },
-        {
-          "list": [
-            "#DBC67D solid 3px",
-            "wheat"
-          ],
-          "template": "legend-line"
-        },
-        {
-          "list": [
-            "yellow solid 3px",
-            "corn"
-          ],
-          "template": "legend-line"
-        },
-        {
-          "list": [
-            "#E8A02C solid 3px",
-            "copper"
-          ],
-          "template": "legend-line"
-        }
-      ],
-      "references": [
-        {
-          "last1": "Tappe",
-          "first1": "Anneken",
-          "title": "The US economy grew at the fastest rate in 2021 since the Reagan administration",
-          "url": "https://www.cnn.com/2022/01/27/economy/us-fourth-quarter-2021-gdp/index.html",
-          "publisher": "CNN",
-          "date": "January 27, 2022",
-          "access-date": "June 18, 2022",
-          "archive-date": "January 27, 2022",
-          "archive-url": "https://web.archive.org/web/20220127201057/https://www.cnn.com/2022/01/27/economy/us-fourth-quarter-2021-gdp/index.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Mutikani",
-          "first1": "Lucia",
-          "title": "U.S. labor market eyes maximum employment despite underwhelming December payrolls",
-          "url": "https://www.reuters.com/markets/us/us-employment-growth-misses-expectations-unemployment-rate-falls-39-2022-01-07/",
-          "work": "Reuters",
-          "date": "January 7, 2022",
-          "access-date": "June 18, 2022",
-          "archive-date": "January 21, 2022",
-          "archive-url": "https://web.archive.org/web/20220121221243/http://www.reuters.com/markets/us/us-employment-growth-misses-expectations-unemployment-rate-falls-39-2022-01-07/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Pickert",
-          "first1": "Reade",
-          "title": "U.S. Sees Record Job Growth in 2021 After Millions Lost in 2020",
-          "url": "https://www.bloomberg.com/news/articles/2022-01-07/u-s-sees-record-job-growth-in-2021-after-millions-lost-in-2020",
-          "publisher": "Bloomberg News",
-          "date": "January 7, 2022",
-          "access-date": "June 18, 2022",
-          "archive-date": "January 29, 2022",
-          "archive-url": "https://web.archive.org/web/20220129065310/https://www.bloomberg.com/news/articles/2022-01-07/u-s-sees-record-job-growth-in-2021-after-millions-lost-in-2020",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Rubin",
-          "first1": "Gabriel T.",
-          "title": "U.S. Wages, Benefits Rose at Two-Decade High as Inflation Picked Up",
-          "url": "https://www.wsj.com/articles/us-employers-labor-costs-inflation-11643331612",
-          "work": "The Wall Street Journal",
-          "date": "January 28, 2022",
-          "access-date": "June 18, 2022",
-          "archive-date": "January 30, 2022",
-          "archive-url": "https://web.archive.org/web/20220130032502/https://www.wsj.com/articles/us-employers-labor-costs-inflation-11643331612",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Inflation Continued to Run Hot and Consumer Spending Fell in December",
-          "url": "https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html",
-          "archive-url": "https://web.archive.org/web/20220128134006/https://www.nytimes.com/2022/01/28/business/pce-inflation-federal-reserve.html",
-          "archive-date": "January 28, 2022",
-          "url-access": "subscription",
-          "url-status": "live",
-          "work": "The New York Times",
-          "date": "January 28, 2022",
-          "first1": "Jeanna",
-          "last1": "Smialek",
-          "first2": "Ben",
-          "last2": "Casselman",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Iacurci",
-          "first1": "Greg",
-          "title": "Wage growth may be slowing from 'breakneck' pace",
-          "url": "https://www.cnbc.com/2022/01/31/wage-growth-may-be-slowing-from-breakneck-pace.html",
-          "publisher": "CNBC",
-          "date": "January 31, 2022",
-          "access-date": "June 18, 2022",
-          "archive-date": "February 3, 2022",
-          "archive-url": "https://web.archive.org/web/20220203205842/https://www.cnbc.com/2022/01/31/wage-growth-may-be-slowing-from-breakneck-pace.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "S&P 500 Is Up 37% Since Biden's Election One Year Ago, Setting Presidential Record",
-          "url": "https://www.bloomberg.com/news/articles/2021-11-03/s-p-500-notches-best-one-year-run-after-a-presidential-election",
-          "work": "Bloomberg News",
-          "date": "November 3, 2021",
-          "first1": "Emily",
-          "last1": "Graffeo",
-          "first2": "Lu",
-          "last2": "Wang",
-          "access-date": "June 18, 2022",
-          "archive-date": "November 6, 2021",
-          "archive-url": "https://web.archive.org/web/20211106213451/https://www.bloomberg.com/news/articles/2021-11-03/s-p-500-notches-best-one-year-run-after-a-presidential-election",
           "url-status": "live",
           "template": "citation",
           "type": "news"

@@ -845,7 +845,7 @@
         {
           "sentences": [
             {
-              "text": "His mother, Anita (Gabor), was a Romanian Jew whose family escaped the Holocaust and fled to Cuba in the 1940s.",
+              "text": "His mother, Anita (Gabor), was a Romanian Jew whose family escaped the Holocaust and fled to Cuba in the 1940s before leaving to the United States after the Cuban Revolution.",
               "links": [
                 {
                   "type": "internal",
@@ -857,9 +857,6 @@
                   "page": "the Holocaust"
                 }
               ]
-            },
-            {
-              "text": "The Cuban Revolution marked the second time his mother would be forced to flee a country she considered home."
             }
           ]
         },
