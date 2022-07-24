@@ -260,6 +260,10 @@
       ],
       "templates": [
         {
+          "description": "40th governor of California",
+          "template": "short description"
+        },
+        {
           "template": "good article"
         },
         {
@@ -635,16 +639,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        },
-        {
-          "date": "2022-07-22",
-          "title": "Newsom signs gun law modeled after Texas abortion ban, setting up Supreme Court fight",
-          "url": "https://www.latimes.com/california/story/2022-07-22/newsom-signs-gun-bill-modeled-after-texas-abortion-ban-setting-up",
-          "access-date": "2022-07-23",
-          "website": "Los Angeles Times",
-          "language": "en-US",
-          "template": "citation",
-          "type": "cite web"
         }
       ]
     },

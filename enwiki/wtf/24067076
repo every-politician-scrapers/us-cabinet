@@ -3565,6 +3565,9 @@
         },
         {
           "sentences": []
+        },
+        {
+          "sentences": []
         }
       ],
       "templates": [
@@ -3650,7 +3653,17 @@
           "template": "s-ttl"
         },
         {
+          "rows": "2",
           "template": "s-inc"
+        },
+        {
+          "before": "Asa Hutchinson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chair of the National Governors Association",
+          "years": "2022–present",
+          "template": "s-ttl"
         },
         {
           "list": [

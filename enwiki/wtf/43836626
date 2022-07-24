@@ -453,7 +453,26 @@
         {
           "sentences": [
             {
-              "text": "On September 16, 2014, the U.S. Senate confirmed Hartley in a voice vote to be the U.S. ambassador to France and the U.S.'s ambassador to Monaco."
+              "text": "Hearings on her nomination were held before the Senate Foreign Relations Committee on July 15, 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate Foreign Relations Committee"
+                }
+              ]
+            },
+            {
+              "text": "The committee reported her nomination favorably on July 29, 2014."
+            },
+            {
+              "text": "On September 16, 2014, the U.S. Senate confirmed Hartley by voice vote to be the U.S. ambassador to both France and Monaco.",
+              "links": [
+                {
+                  "text": "voice vote",
+                  "type": "internal",
+                  "page": "voice vote"
+                }
+              ]
             },
             {
               "text": "She took her oath of office on October 15, 2014, from Vice President Joe Biden.",
@@ -551,6 +570,24 @@
           "access-date": "March 3, 2015",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "PN1762 - Nomination of Jane D. Hartley for Department of State, 113th Congress (2013-2014)",
+          "url": "https://www.congress.gov/nomination/113th-congress/1762?q=%7B%22search%22%3A%5B%22hartley%22%2C%22hartley%22%5D%7D&s=1&r=28",
+          "website": "www.congress.gov",
+          "access-date": "23 July 2022",
+          "date": "16 September 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "PN1851 - Nomination of Jane D. Hartley for Department of State, 113th Congress (2013-2014)",
+          "url": "https://www.congress.gov/nomination/113th-congress/1851?q=%7B%22search%22%3A%5B%22hartley%22%2C%22hartley%22%5D%7D&s=1&r=27",
+          "website": "www.congress.gov",
+          "access-date": "23 July 2022",
+          "date": "16 September 2014",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "Jane D. Hartley, Ambassador to the French Republic and to the Principality of Monaco",

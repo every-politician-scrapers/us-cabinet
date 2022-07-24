@@ -136,13 +136,16 @@
                   "page": "Columbia University"
                 }
               ]
+            },
+            {
+              "text": "She served as a faculty member at Columbia University."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "American political adviser (born 1977)",
+          "description": "American political adviser (born 1974)",
           "template": "short description"
         },
         {

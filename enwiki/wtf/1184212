@@ -2467,7 +2467,6 @@
           "template": "s-ttl"
         },
         {
-          "rows": "2",
           "template": "s-inc"
         },
         {
@@ -2476,8 +2475,12 @@
         },
         {
           "title": "Chair of the National Governors Association",
-          "years": "2021–present",
+          "years": "2021–2022",
           "template": "s-ttl"
+        },
+        {
+          "after": "Phil Murphy",
+          "template": "s-aft"
         },
         {
           "list": [

@@ -555,7 +555,14 @@
         {
           "sentences": [
             {
-              "text": "Rutherford has denied interest in running for governor in 2022."
+              "text": "Rutherford declined running for governor in 2022.",
+              "links": [
+                {
+                  "text": "2022",
+                  "type": "internal",
+                  "page": "2022 Maryland gubernatorial election"
+                }
+              ]
             }
           ]
         }

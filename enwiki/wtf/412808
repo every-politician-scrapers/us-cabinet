@@ -4400,20 +4400,38 @@
             ]
           },
           {
-            "text": "List of U.S. state governors born outside the United States",
-            "links": [
-              {
-                "type": "internal",
-                "page": "List of U.S. state governors born outside the United States"
-              }
-            ]
-          },
-          {
             "text": "List of female state attorneys general in the United States",
             "links": [
               {
                 "type": "internal",
                 "page": "List of female state attorneys general in the United States"
+              }
+            ]
+          },
+          {
+            "text": "List of female United States Cabinet members",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of female United States Cabinet members"
+              }
+            ]
+          },
+          {
+            "text": "List of foreign-born United States Cabinet members",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of foreign-born United States Cabinet members"
+              }
+            ]
+          },
+          {
+            "text": "List of U.S. state governors born outside the United States",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of U.S. state governors born outside the United States"
               }
             ]
           }

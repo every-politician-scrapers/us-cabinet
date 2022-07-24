@@ -259,24 +259,16 @@
             "number": 3
           },
           "residence": {
-            "text": "Connecticut Governor's Residence",
+            "text": "Governor's Residence",
             "links": [
               {
+                "text": "Governor's Residence",
                 "type": "internal",
                 "page": "Connecticut Governor's Residence"
               }
             ]
           },
           "education": {
-            "text": "Philips Exeter Academy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philips Exeter Academy"
-              }
-            ]
-          },
-          "alma_mater": {
             "text": "Harvard University (BA) Yale University (MBA)",
             "links": [
               {
@@ -301,9 +293,6 @@
           },
           "signature": {
             "text": "Ned Lamont signature.svg"
-          },
-          "website": {
-            "text": "Government website"
           }
         }
       ],

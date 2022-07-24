@@ -7499,21 +7499,21 @@
               ]
             },
             {
-              "text": "He said his attempt to murder Kavanaugh stemmed from dissatisfaction with the Supreme Court's leaked draft opinion in Dobbs v. Jackson Women's Health Organization, as well as the potential for the Court to loosen gun control laws under the Second Amendment.",
+              "text": "He said his attempt to murder Kavanaugh stemmed from dissatisfaction with the Supreme Court's leaked draft opinion in Dobbs v. Jackson Women's Health Organization, as well as the potential for the Court to overturn gun control laws in New York State Rifle & Pistol Association, Inc. v. Bruen.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Dobbs v. Jackson Women's Health Organization"
                 },
                 {
-                  "text": "Second Amendment",
                   "type": "internal",
-                  "page": "Second Amendment to the United States Constitution"
+                  "page": "New York State Rifle & Pistol Association, Inc. v. Bruen"
                 }
               ],
               "formatting": {
                 "italic": [
-                  "Dobbs v. Jackson Women's Health Organization"
+                  "Dobbs v. Jackson Women's Health Organization",
+                  "New York State Rifle & Pistol Association, Inc. v. Bruen"
                 ]
               }
             },

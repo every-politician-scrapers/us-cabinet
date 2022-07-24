@@ -27,12 +27,11 @@
         {
           "sentences": [
             {
-              "text": "John Karl Fetterman (born August 15, 1969) is an American politician who has served as the 34th lieutenant governor of Pennsylvania since 2019.",
+              "text": "John Karl Fetterman (born August 15, 1969) is an American politician who has served as the 34th and current Lieutenant Governor of Pennsylvania since 2019.",
               "links": [
                 {
-                  "text": "lieutenant governor of Pennsylvania",
                   "type": "internal",
-                  "page": "lieutenant governor of Pennsylvania"
+                  "page": "Lieutenant Governor of Pennsylvania"
                 }
               ],
               "formatting": {
@@ -199,7 +198,7 @@
       ],
       "templates": [
         {
-          "description": "American politician (born 1969)",
+          "description": "34th Lieutenant Governor of Pennsylvania",
           "template": "short description"
         },
         {
@@ -269,6 +268,11 @@
           "office1": {
             "text": "Mayor of Braddock",
             "links": [
+              {
+                "text": "Mayor",
+                "type": "internal",
+                "page": "Mayoralty in the United States"
+              },
               {
                 "text": "Braddock",
                 "type": "internal",
@@ -1514,7 +1518,7 @@
               ]
             },
             {
-              "text": "Fetterman's political opponents have questioned the sincerity of Miyares' statement forgiving Fetterman for the incident as Fetterman, in his role as Lieutenant Governor, serves on the state's Board of Pardons, they wrongly think it makes him one of the people who \"holds the keys\" to releasing Miyares from state prison while it is the Pennsylvania Parole Board that holds the keys to releasing Miyares from state prison, which is completely separate from the Board of Pardons."
+              "text": "Fetterman's political opponents have questioned the sincerity of Miyares' statement forgiving Fetterman."
             }
           ]
         }
@@ -1588,14 +1592,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "https://www.parole.pa.gov/About%20PBPP/Pages/default.aspx",
-          "title": "About the Parole Board",
-          "website": "parole.pa.gov",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },

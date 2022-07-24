@@ -17,7 +17,9 @@
     "LGBT people from Massachusetts",
     "LGBT people from Pennsylvania",
     "Pennsylvania State University faculty",
+    "United States Public Health Service Commissioned Corps officers",
     "United States Public Health Service Commissioned Corps admirals",
+    "United States Public Health Service personnel",
     "Biden administration personnel",
     "American women academics",
     "American women physicians"
@@ -146,6 +148,13 @@
           "template": "marriage"
         },
         {
+          "list": [
+            "Flag of the United States Public Health Service.svg"
+          ],
+          "size": "23px",
+          "template": "flagicon image"
+        },
+        {
           "template": "ipac",
           "transcription": "l,ə,ˈ,v,iː,n"
         }
@@ -162,11 +171,12 @@
             "text": "United States"
           },
           "branch": {
-            "text": "United States Public Health Service Commissioned Corps",
+            "text": "U.S. Public Health Service Commissoned Corps",
             "links": [
               {
+                "text": "U.S. Public Health Service Commissoned Corps",
                 "type": "internal",
-                "page": "United States Public Health Service Commissioned Corps"
+                "page": "United States Public Health Service"
               }
             ]
           },
@@ -174,7 +184,7 @@
             "text": "2021–present"
           },
           "rank": {
-            "text": "Admiral",
+            "text": "US-O10_insignia.svg Admiral",
             "links": [
               {
                 "text": "Admiral",

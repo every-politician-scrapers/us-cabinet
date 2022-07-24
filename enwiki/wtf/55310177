@@ -94,16 +94,7 @@
               }
             ]
           },
-          "nominator": {
-            "text": "Donald Trump",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Donald Trump"
-              }
-            ]
-          },
-          "appointer": {
+          "president": {
             "text": "Joe Biden",
             "links": [
               {
@@ -125,7 +116,7 @@
             ]
           },
           "office1": {
-            "text": "United States Ambassador to Mauritius and United States Ambassador to Seychelles",
+            "text": "United States Ambassador to Mauritius United States Ambassador to Seychelles",
             "links": [
               {
                 "type": "internal",

@@ -172,10 +172,10 @@
               "text": "Jackson succeeded Justice Breyer upon his retirement from the court on June 30, 2022."
             },
             {
-              "text": "She became the first black woman and the first former federal public defender to serve on the Supreme Court upon her swearing in.",
+              "text": "She became the first Black woman and the first former federal public defender to serve on the Supreme Court upon her swearing in.",
               "links": [
                 {
-                  "text": "black woman",
+                  "text": "Black woman",
                   "type": "internal",
                   "page": "Black women"
                 },
@@ -566,12 +566,12 @@
         {
           "sentences": [
             {
-              "text": "Jackson was born Ketanji Onyika Brown on September 14, 1970, in Washington, D.C. Her parents were both graduates of historically black colleges and universities.",
+              "text": "Jackson was born Ketanji Onyika Brown on September 14, 1970, in Washington, D.C. Her parents were both graduates of historically Black colleges and universities.",
               "links": [
                 {
-                  "text": "historically black colleges and universities",
+                  "text": "historically Black colleges and universities",
                   "type": "internal",
-                  "page": "historically black colleges and universities"
+                  "page": "historically Black colleges and universities"
                 }
               ]
             },
@@ -2555,7 +2555,7 @@
               "text": "In early 2022, news outlets speculated that Biden would nominate Jackson to the U.S. Supreme Court to fill the seat vacated by Stephen Breyer."
             },
             {
-              "text": "Biden pledged during the 2020 United States presidential election campaign to appoint a black woman to the court, should a vacancy occur.",
+              "text": "Biden pledged during the 2020 United States presidential election campaign to appoint a Black woman to the court, should a vacancy occur.",
               "links": [
                 {
                   "text": "2020 United States presidential election",
@@ -2929,7 +2929,7 @@
           "type": "web"
         },
         {
-          "title": "Ketanji Brown Jackson sworn in as first black woman on US top court",
+          "title": "Ketanji Brown Jackson sworn in as first Black woman on US top court",
           "url": "https://www.bbc.com/news/world-us-canada-62003518.amp",
           "access-date": "2022-07-01",
           "website": "BBC",
@@ -2940,7 +2940,7 @@
           "last": "Kapur",
           "first": "Sahil",
           "date": "May 6, 2020",
-          "title": "Biden pledged to put a black woman on the Supreme Court. Here's what he might have to do.",
+          "title": "Biden pledged to put a Black woman on the Supreme Court. Here's what he might have to do.",
           "url": "https://www.nbcnews.com/politics/2020-election/problem-biden-s-pledge-black-woman-justice-n1200826",
           "url-status": "live",
           "archive-url": "https://web.archive.org/web/20200922234512/https://www.nbcnews.com/politics/2020-election/problem-biden-s-pledge-black-woman-justice-n1200826",
@@ -2975,7 +2975,7 @@
               "text": "The Supreme Court released its final merit opinions during the morning of June 30, 2022."
             },
             {
-              "text": "At noon, Justice Breyer officially retired and Jackson was sworn in, becoming the first black woman and the first former federal public defender to serve on the Supreme Court.",
+              "text": "At noon, Justice Breyer officially retired and Jackson was sworn in, becoming the first Black woman and the first former federal public defender to serve on the Supreme Court.",
               "links": [
                 {
                   "text": "federal public defender",
@@ -3048,14 +3048,7 @@
         {
           "sentences": [
             {
-              "text": "Jackson has claimed to not have a particular judicial philosophy; instead, she claims to have a perspective on legal analysis or a \"judicial methodology.\"",
-              "links": [
-                {
-                  "text": "judicial philosophy",
-                  "type": "internal",
-                  "page": "judicial philosophy"
-                }
-              ]
+              "text": "Jackson claims to not have a particular judicial philosophy; instead, she claims to have a perspective on legal analysis or a \"judicial methodology.\""
             },
             {
               "text": "Though she has not embraced the label, Jackson has expressed that she sees value in originalism by stating the \"Constitution is ​​fixed in its meaning,\" and has explicitly criticized living constitutionalism.",

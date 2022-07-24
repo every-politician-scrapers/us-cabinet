@@ -42,6 +42,16 @@
                   "page": "Oklahoma Governor's Cabinet"
                 }
               ]
+            },
+            {
+              "text": "Pinnell is a member of the Republican Party.",
+              "links": [
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
             }
           ]
         }
@@ -155,9 +165,12 @@
             "text": "Dallas, Texas, U.S.",
             "links": [
               {
-                "text": "Dallas, Texas",
                 "type": "internal",
                 "page": "Dallas"
+              },
+              {
+                "type": "internal",
+                "page": "Texas"
               },
               {
                 "text": "U.S.",
@@ -462,6 +475,27 @@
           "access-date": "February 2, 2019",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pinnell and his wife, Lisa, have four children."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
