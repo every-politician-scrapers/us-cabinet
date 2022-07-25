@@ -10881,7 +10881,7 @@
         {
           "sentences": [
             {
-              "text": "Biden tested positive for COVID-19 on July 21, 2022, with reportedly mild symptoms.",
+              "text": "On July 21, 2022, Biden tested positive for COVID-19 with reportedly mild symptoms.",
               "links": [
                 {
                   "type": "internal",
@@ -10890,7 +10890,7 @@
               ]
             },
             {
-              "text": "In a statement, the White House stated that Biden was being treated with Paxlovid.",
+              "text": "According to the White House, he was treated with Paxlovid.",
               "links": [
                 {
                   "type": "internal",

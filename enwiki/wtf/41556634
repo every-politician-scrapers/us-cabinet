@@ -719,20 +719,6 @@
         {
           "template": "bill de blasio cabinet"
         }
-      ],
-      "lists": [
-        [
-          {
-            "text": "New York City Department of Transportation Biography",
-            "links": [
-              {
-                "text": "New York City Department of Transportation Biography",
-                "type": "external",
-                "site": "http://www.nyc.gov/html/dot/html/about/bio-commissioner.shtml"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

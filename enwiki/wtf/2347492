@@ -259,123 +259,6 @@
               }
             ]
           },
-          "office2": {
-            "text": "12th Commander of United States Central Command",
-            "links": [
-              {
-                "text": "Commander of United States Central Command",
-                "type": "internal",
-                "page": "United States Central Command",
-                "anchor": "List of commanders"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Barack Obama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barack Obama"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "March 22, 2013"
-          },
-          "term_end2": {
-            "text": "March 30, 2016"
-          },
-          "predecessor2": {
-            "text": "Jim Mattis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jim Mattis"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Joseph Votel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Votel"
-              }
-            ]
-          },
-          "office3": {
-            "text": "33rd Vice Chief of Staff of the United States Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice Chief of Staff of the United States Army"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Barack Obama"
-          },
-          "term_start3": {
-            "text": "January 31, 2012"
-          },
-          "term_end3": {
-            "text": "March 8, 2013"
-          },
-          "predecessor3": {
-            "text": "Peter W. Chiarelli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Peter W. Chiarelli"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "John F. Campbell",
-            "links": [
-              {
-                "text": "John F. Campbell",
-                "type": "internal",
-                "page": "John F. Campbell (general)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "40th Director of the Joint Staff",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Director of the Joint Staff"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Barack Obama"
-          },
-          "term_start4": {
-            "text": "August 9, 2009"
-          },
-          "term_end4": {
-            "text": "June 30, 2010"
-          },
-          "predecessor4": {
-            "text": "Stanley A. McChrystal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stanley A. McChrystal"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "William E. Gortney",
-            "links": [
-              {
-                "type": "internal",
-                "page": "William E. Gortney"
-              }
-            ]
-          },
           "birth_name": {
             "text": "Lloyd James Austin III"
           },
@@ -1779,8 +1662,9 @@
               "text": "He also operates a consulting firm and has been a partner at Pine Island Capital, an investment company with which Secretary of State Antony Blinken and Michèle Flournoy are affiliated.",
               "links": [
                 {
+                  "text": "Secretary of State",
                   "type": "internal",
-                  "page": "Secretary of State"
+                  "page": "United States Secretary of State"
                 },
                 {
                   "type": "internal",

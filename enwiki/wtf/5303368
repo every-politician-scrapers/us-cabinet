@@ -1445,7 +1445,7 @@
         {
           "sentences": [
             {
-              "text": "Fetterman has been criticized for an incident in Braddock and neighboring North Braddock in January 2013.",
+              "text": "Fetterman was criticized for an incident in North Braddock in January 2013.",
               "links": [
                 {
                   "text": "North Braddock",
@@ -1455,29 +1455,41 @@
               ]
             },
             {
-              "text": "Fetterman, after hearing what he thought was gunfire, followed an unarmed black jogger, Chris Miyares, and detained him while armed with a shotgun."
+              "text": "Fetterman heard a loud sound which he thought was gunfire, and identified and followed an unarmed jogger, whom Fetterman detained with a shotgun."
             },
             {
-              "text": "Miyares has said that what Fetterman thought were gunshots were actually bottle rockets set off by kids, though Fetterman said no fireworks debris had been found."
+              "text": "The jogger, Chris Miyares, a black American, has said that what Fetterman thought were gunshots were actually kids shooting bottle rockets, though Fetterman said no debris had been found.",
+              "links": [
+                {
+                  "text": "black American",
+                  "type": "internal",
+                  "page": "black American"
+                },
+                {
+                  "text": "bottle rockets",
+                  "type": "internal",
+                  "page": "bottle rocket"
+                }
+              ]
             },
             {
-              "text": "Miyares said that Fetterman pointed the shotgun at his chest while he loaded the gun and then aimed the gun at his face."
+              "text": "Miyares claimed that Fetterman pointed the shotgun at his chest while he loaded the gun and then aimed the gun at his face."
             },
             {
-              "text": "Fetterman contests that he pointed the gun at Miyares and says he only pointed the gun in a way to show Miyares that he was armed, but did not point the gun at Miyares, and that \"I didn't even have a round chambered or the safety off.\""
+              "text": "Fetterman denies that he pointed the gun at Miyares and says he only pointed the gun in a way to show that he was armed, but did not point the gun at Miyares, and that he \"didn't even have a round chambered or the safety off.\""
             },
             {
               "text": "Fetterman said he believed he \"did the right thing\" and has not apologized."
             },
             {
-              "text": "No charges were brought against either Fetterman or Miyares in connection with the incident, and Miyares never filed a formal complaint."
+              "text": "No charges were brought against either in connection with the incident, and Miyares never filed a formal complaint."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The incident gained new attention during Fetterman's campaign for Senate in 2022, with critics alleging that Fetterman followed Miyares because he was black.",
+              "text": "The incident gained new attention during Fetterman's campaign for Senate in 2022, with critics alleging a racial element to the incident.",
               "links": [
                 {
                   "text": "campaign for Senate in 2022",
@@ -1487,10 +1499,10 @@
               ]
             },
             {
-              "text": "Fetterman's campaign denied claims of racism, and said that when Fetterman initiated the pursuit, the jogger was wearing a black sweatsuit and mask, so he did not know the jogger's race or gender at the time of the incident."
+              "text": "Fetterman's campaign denied allegations of racism, claiming that the Miyares was wearing a black sweatsuit and mask, so Fetterman couldn't have identified Miyares' race or gender."
             },
             {
-              "text": "Fetterman also said that Miyares was running in the direction of an elementary school, and that he made the decision to approach him with the firearm due to the Sandy Hook Elementary School shooting occurring the month prior.",
+              "text": "Fetterman also added that Miyares was running in the direction of a school, and that he made the decision to approach him with the firearm due to the event's proximity in time to the Sandy Hook Elementary School shooting.",
               "links": [
                 {
                   "type": "internal",
@@ -1503,7 +1515,7 @@
         {
           "sentences": [
             {
-              "text": "In 2021, Miyares, who at the time was serving prison time for armed assault and kidnapping, wrote that Fetterman had \"lied about everything\" that happened during the incident, but had \"done far more good than that one bad act\" and, \"should not be defined by it\", and hoped he would win the Senate race.",
+              "text": "In 2021, Miyares, who at the time was serving prison time for unrelated armed assault and kidnapping, wrote that Fetterman had \"lied about everything\" that happened during the incident, but had \"done far more good than that one bad act\" and, \"should not be defined by it\", and hoped he would win the Senate race.",
               "links": [
                 {
                   "text": "armed assault",
@@ -1518,7 +1530,7 @@
               ]
             },
             {
-              "text": "Fetterman's political opponents have questioned the sincerity of Miyares' statement forgiving Fetterman."
+              "text": "Fetterman's political opponents have questioned Miyares' statement forgiving Fetterman."
             }
           ]
         }
@@ -2902,7 +2914,7 @@
               ]
             },
             {
-              "text": "According to The Daily Beast Fetterman has employed a social media campaign strategy consisting of shitposting and internet memes.",
+              "text": "According to The Daily Beast, Fetterman has employed a social media campaign strategy consisting of shitposting and internet memes.",
               "links": [
                 {
                   "type": "internal",

@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Philip Brian Scott (born August 4, 1958) is an American politician and businessman serving as the 82nd governor of Vermont since 2017.",
+              "text": "Philip Brian Scott (born August 4, 1958) is an American politician and businessman serving as the 82nd and current governor of Vermont since 2017.",
               "links": [
                 {
                   "text": "82nd",
@@ -210,7 +210,13 @@
             ]
           },
           "governor1": {
-            "text": "Peter Shumlin"
+            "text": "Peter Shumlin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Shumlin"
+              }
+            ]
           },
           "term_start1": {
             "text": "January 6, 2011"
@@ -228,7 +234,14 @@
             ]
           },
           "successor1": {
-            "text": "David Zuckerman"
+            "text": "David Zuckerman",
+            "links": [
+              {
+                "text": "David Zuckerman",
+                "type": "internal",
+                "page": "David Zuckerman (politician)"
+              }
+            ]
           },
           "state_senate2": {
             "text": "Vermont"

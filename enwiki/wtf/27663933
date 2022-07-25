@@ -167,9 +167,6 @@
           "name": {
             "text": "Kristi Noem"
           },
-          "image": {
-            "text": "File:Gov-photo 2022 official.jpg"
-          },
           "alt": {
             "text": "Kristi Noem"
           },
@@ -578,7 +575,7 @@
               "text": "In 2009, Noem served as vice chair of the Agriculture Land Assessment Advisory Task Force."
             },
             {
-              "text": "Sen. Larry Rhoden served alongside her as chair of that task force and would later go on to serve as her lieutenant governor.",
+              "text": "Senator Larry Rhoden chaired the task force and later served as her lieutenant governor.",
               "links": [
                 {
                   "type": "internal",

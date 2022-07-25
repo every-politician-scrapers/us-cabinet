@@ -829,7 +829,7 @@
         },
         {
           "url": "https://www.washingtonpost.com/world/europe/in-malta-a-land-of-2850-buttigiegs-theyre-rooting-for-mayor-pete/2020/02/28/f906134e-58e1-11ea-8efd-0f904bdd8057_story.html",
-          "title": "In Malta, a land of 2,850 Buttigiegs, they’re rooting for Mayor Pete",
+          "title": "In Malta, a land of 2,850 Buttigiegs, they're rooting for Mayor Pete",
           "last": "Harlan",
           "first": "Chico",
           "date": "February 28, 2020",
@@ -3881,12 +3881,13 @@
         },
         {
           "title": "Democrat James Mueller voted as South Bend's next mayor",
+          "newspaper": "WSBT",
           "url": "https://wsbt.com/news/local/democrat-james-mueller-voted-as-south-bends-next-mayor",
           "publisher": "WSBT-TV",
           "access-date": "November 6, 2019",
           "date": "November 5, 2019",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "last1": "Hudson",

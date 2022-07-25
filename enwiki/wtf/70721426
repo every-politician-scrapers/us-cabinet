@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Lorraine Ann Voles is an American political advisor who is currently serving as chief of staff to the vice president of the United States.",
+              "text": "Lorraine Ann Voles is an American political advisor who has served as chief of staff to the vice president of the United States since 2022.",
               "links": [
                 {
                   "text": "chief of staff to the vice president of the United States",
@@ -68,9 +68,6 @@
               }
             ]
           },
-          "status": {
-            "text": "Incumbent"
-          },
           "predecessor": {
             "text": "Hartina Flournoy",
             "links": [
@@ -111,6 +108,10 @@
             {
               "text": "Voles earned a Bachelor of Arts degree in journalism and a Master of Arts in organizational leadership from the George Washington University.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
                 {
                   "type": "internal",
                   "page": "George Washington University"

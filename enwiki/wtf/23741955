@@ -822,9 +822,10 @@
           "first": "Ann E",
           "date": "June 23, 2022",
           "title": "Possible Supreme Court nominee, former defender, saw impact of harsh drug sentence firsthand",
+          "newspaper": "The Washington Post",
           "url": "https://www.washingtonpost.com/politics/courts_law/ketanji-brown-jackson-uncle-prison/2022/01/30/669c5f68-8116-11ec-bf02-f9e24ccef149_story.html",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "date": "February 25, 2022",
@@ -3032,7 +3033,7 @@
           "last": "Williams",
           "first": "Pete",
           "url": "https://news.yahoo.com/supreme-court-won-t-allow-213702592.html",
-          "title": "Supreme Court won’t allow Biden administration to impose new border enforcement priorities for now",
+          "title": "Supreme Court won't allow Biden administration to impose new border enforcement priorities for now",
           "website": "Yahoo! News",
           "date": "July 21, 2022",
           "access-date": "July 22, 2022",
@@ -3192,7 +3193,7 @@
         {
           "last1": "Anzarouth",
           "first1": "Matthew",
-          "title": "The Misguided Criticism of Judge Ketanji Brown Jackson’s Judicial Philosophy",
+          "title": "The Misguided Criticism of Judge Ketanji Brown Jackson's Judicial Philosophy",
           "url": "https://harvardpolitics.com/the-misguided-criticism-of-judge-ketanji-brown-jacksons-judicial-philosophy/",
           "website": "Harvard Political Review",
           "access-date": "21 July 2022",
