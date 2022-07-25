@@ -4,7 +4,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q2824574,presidency of Zachary Taylor,,,1849-03-04,11,1850-07-09,11,,,,,,,Q2824570,presidency of James K. Polk,Q2824549,presidency of Millard Fillmore
 ,Q2824549,presidency of Millard Fillmore,,,1850-07-09,11,,,1853-03-04,11,,,,,Q2824574,presidency of Zachary Taylor,Q2824544,presidency of James Buchanan
 ,Q2824544,presidency of James Buchanan,,,1857-03-04,11,1861-03-04,11,,,,,,,Q2824549,presidency of Millard Fillmore,Q7241091,presidency of Abraham Lincoln
-,Q2824539,presidency of Andrew Johnson,,,1865-04-15,11,,,1869-03-04,11,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
+,Q2824539,presidency of Andrew Johnson,1865-04-15,11,1865-04-15,11,1869-03-04,11,1869-03-04,11,,,,,Q7241091,presidency of Abraham Lincoln,Q7241112,presidency of Ulysses S. Grant
 ,Q28464554,George H. W. Bush Administration cabinet,1989-01-01,9,,,1993-01-01,9,,,,,Q28464553,Clinton Administration cabinet,,,,
 ,Q28464553,Clinton Administration cabinet,1993-01-01,9,,,2001-01-01,9,,,Q28464554,George H. W. Bush Administration cabinet,Q28464532,George W. Bush Administration cabinet,,,,
 ,Q28464532,George W. Bush Administration cabinet,2001-01-01,9,,,2009-01-01,9,,,Q28464553,Clinton Administration cabinet,Q4206667,Cabinet of Barack Obama,,,,
