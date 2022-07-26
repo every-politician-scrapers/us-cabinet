@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Executive Council of New Hampshire"
+      ],
+      "stated_as": "Member of the New Hampshire Executive Council from the 3rd district"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+        "Beverly Hollingworth"
+      ],
+      "stated_as": "Beverly Hollingworth"
+    },
+    "P582": "2017-01-03",
+    "P1366": {
+      "links": [
+        "Russell Prescott"
+      ],
+      "stated_as": "Russell Prescott"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of New Hampshire"
+      ],
+      "stated_as": "82nd Governor of New Hampshire"
+    },
+    "P580": "2017-01-05",
+    "P1365": {
+      "links": [
+        "Chuck Morse"
+      ],
+      "stated_as": "Chuck Morse (acting)"
+    }
+  }
+]

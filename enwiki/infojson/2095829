@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States District Court for the Southern District of New York"
+      ],
+      "stated_as": "Judge of the United States District Court for the Southern District of New York"
+    },
+    "P580": "1992-08-12",
+    "P1365": {
+      "links": [
+        "John M. Walker Jr."
+      ],
+      "stated_as": "John M. Walker Jr."
+    },
+    "P582": "1998-10-07",
+    "P1366": {
+      "links": [
+        "Victor Marrero"
+      ],
+      "stated_as": "Victor Marrero"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Court of Appeals for the Second Circuit"
+      ],
+      "stated_as": "Judge of the United States Court of Appeals for the Second Circuit"
+    },
+    "P580": "1998-10-07",
+    "P1365": {
+      "links": [
+        "J. Daniel Mahoney"
+      ],
+      "stated_as": "J. Daniel Mahoney"
+    },
+    "P582": "2009-08-06",
+    "P1366": {
+      "links": [
+        "Raymond Lohier"
+      ],
+      "stated_as": "Raymond Lohier"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Associate Justice of the Supreme Court of the United States"
+      ],
+      "stated_as": "Associate Justice of the Supreme Court of the United States"
+    },
+    "P580": "2009-08-08",
+    "P1365": {
+      "links": [
+        "David Souter"
+      ],
+      "stated_as": "David Souter"
+    }
+  }
+]

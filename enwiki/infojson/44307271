@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Department of Agriculture"
+      ],
+      "stated_as": "United States Assistant Secretary of Agriculture for Administration"
+    },
+    "P580": "2006-05-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Michael Harrison"
+    },
+    "P582": "2009-01-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Pearlie Reed"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Maryland"
+      ],
+      "stated_as": "9th Lieutenant Governor of Maryland"
+    },
+    "P580": "2015-01-21",
+    "P1365": {
+      "links": [
+        "Anthony G. Brown"
+      ],
+      "stated_as": "Anthony G. Brown"
+    }
+  }
+]

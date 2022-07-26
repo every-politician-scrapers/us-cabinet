@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "White House Deputy Chief of Staff"
+      ],
+      "stated_as": "White House Deputy Chief of Staff for Operations"
+    },
+    "P580": "1998-10-20",
+    "P1365": {
+      "links": [
+        "John Podesta"
+      ],
+      "stated_as": "John Podesta"
+    },
+    "P582": "2001-01-20",
+    "P1366": {
+      "links": [
+        "Joe Hagin"
+      ],
+      "stated_as": "Joe Hagin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of Staff to the Vice President of the United States"
+      ],
+      "stated_as": "Chief of Staff to the Vice President"
+    },
+    "P580": "2013-12-01",
+    "P1365": {
+      "links": [
+        "Bruce Reed (political operative)"
+      ],
+      "stated_as": "Bruce Reed"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Josh Pitcock"
+      ],
+      "stated_as": "Josh Pitcock"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Counselor to the President"
+      ],
+      "stated_as": "Counselor to the President"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Hope Hicks",
+        "Derek Lyons"
+      ],
+      "stated_as": "Hope Hicks Derek Lyons"
+    }
+  }
+]

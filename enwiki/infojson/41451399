@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director of Policy Planning"
+      ],
+      "stated_as": "Director of Policy Planning"
+    },
+    "P580": "2011-02-04",
+    "P1365": {
+      "links": [
+        "Anne-Marie Slaughter"
+      ],
+      "stated_as": "Anne-Marie Slaughter"
+    },
+    "P582": "2013-02-15",
+    "P1366": {
+      "links": [
+        "David McKean (diplomat)"
+      ],
+      "stated_as": "David McKean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Office of the Vice President of the United States"
+      ],
+      "stated_as": "National Security Advisor to the Vice President of the United States"
+    },
+    "P580": "2013-02-26",
+    "P1365": {
+      "links": [
+        "Antony Blinken"
+      ],
+      "stated_as": "Antony Blinken"
+    },
+    "P582": "2014-08-01",
+    "P1366": {
+      "links": [
+        "Colin Kahl"
+      ],
+      "stated_as": "Colin Kahl"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Security Advisor (United States)"
+      ],
+      "stated_as": "28th United States National Security Advisor"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Robert C. O'Brien"
+      ],
+      "stated_as": "Robert C. O'Brien"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Michigan Attorney General"
+      ],
+      "stated_as": "51st Attorney General of Michigan"
+    },
+    "P580": "1999-01-01",
+    "P1365": {
+      "links": [
+        "Frank J. Kelley"
+      ],
+      "stated_as": "Frank J. Kelley"
+    },
+    "P582": "2003-01-01",
+    "P1366": {
+      "links": [
+        "Mike Cox (American politician)"
+      ],
+      "stated_as": "Mike Cox"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Michigan"
+      ],
+      "stated_as": "47th Governor of Michigan"
+    },
+    "P1545": "47",
+    "P580": "2003-01-01",
+    "P1365": {
+      "links": [
+        "John Engler"
+      ],
+      "stated_as": "John Engler"
+    },
+    "P582": "2011-01-01",
+    "P1366": {
+      "links": [
+        "Rick Snyder"
+      ],
+      "stated_as": "Rick Snyder"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of Energy"
+      ],
+      "stated_as": "16th United States Secretary of Energy"
+    },
+    "P580": "2021-02-25",
+    "P1365": {
+      "links": [
+        "Dan Brouillette"
+      ],
+      "stated_as": "Dan Brouillette"
+    }
+  }
+]

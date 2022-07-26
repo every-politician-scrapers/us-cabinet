@@ -1,0 +1,93 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sapulpa, Oklahoma"
+      ],
+      "stated_as": "Mayor of Sapulpa"
+    },
+    "P580": "1992",
+    "P582": "2004"
+  },
+  {
+    "office": {
+      "links": [
+        "President pro tempore of the Oklahoma Senate"
+      ],
+      "stated_as": "President pro tempore of the Oklahoma Senate"
+    },
+    "P580": "2005",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Michael Tyler"
+    },
+    "P582": "2007",
+    "P1366": {
+      "links": [
+        "Mark McCullough"
+      ],
+      "stated_as": "Mark McCullough"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President pro tempore of the Oklahoma Senate"
+      ],
+      "stated_as": "President pro tempore of the Oklahoma Senate"
+    },
+    "P580": "2007-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ted Fisher"
+    },
+    "P582": "2017-01-03",
+    "P1366": {
+      "links": [
+        "James Lockhart (Oklahoma politician)"
+      ],
+      "stated_as": "James Lockhart"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President pro tempore of the Oklahoma Senate"
+      ],
+      "stated_as": "President pro tempore of the Oklahoma Senate"
+    },
+    "P580": "2011-01-04",
+    "P1365": {
+      "links": [
+        "Glenn Coffee"
+      ],
+      "stated_as": "Glenn Coffee"
+    },
+    "P582": "2017-01-03",
+    "P1366": {
+      "links": [
+        "Mike Schulz"
+      ],
+      "stated_as": "Mike Schulz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Oklahoma Secretary of State"
+      ],
+      "stated_as": "Secretary of State of Oklahoma"
+    },
+    "P580": "2020-10-23",
+    "P1365": {
+      "links": [
+        "Michael Rogers (Oklahoma politician)"
+      ],
+      "stated_as": "Michael Rogers"
+    }
+  }
+]

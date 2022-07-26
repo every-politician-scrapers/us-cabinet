@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Court of Appeals for the District of Columbia Circuit"
+      ],
+      "stated_as": "Judge of the United States Court of Appeals for the District of Columbia Circuit"
+    },
+    "P580": "1997-03-20",
+    "P1365": {
+      "links": [
+        "Abner J. Mikva"
+      ],
+      "stated_as": "Abner J. Mikva"
+    },
+    "P582": "2021-03-11",
+    "P1366": {
+      "links": [
+        "Ketanji Brown Jackson"
+      ],
+      "stated_as": "Ketanji Brown Jackson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Court of Appeals for the District of Columbia Circuit"
+      ],
+      "stated_as": "Chief Judge of the United States Court of Appeals for the District of Columbia Circuit"
+    },
+    "P580": "2013-02-12",
+    "P1365": {
+      "links": [
+        "David B. Sentelle"
+      ],
+      "stated_as": "David B. Sentelle"
+    },
+    "P582": "2020-02-11",
+    "P1366": {
+      "links": [
+        "Sri Srinivasan"
+      ],
+      "stated_as": "Sri Srinivasan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Attorney General"
+      ],
+      "stated_as": "86th United States Attorney General"
+    },
+    "P580": "2021-03-11",
+    "P1365": {
+      "links": [
+        "William Barr"
+      ],
+      "stated_as": "William Barr"
+    }
+  }
+]

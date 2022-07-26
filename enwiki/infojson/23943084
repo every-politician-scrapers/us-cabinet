@@ -1,0 +1,67 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Human Genome Research Institute"
+      ],
+      "stated_as": "2nd Director of the National Human Genome Research Institute"
+    },
+    "P580": "1993-04",
+    "P1365": {
+      "links": [
+        "Michael M. Gottesman"
+      ],
+      "stated_as": "Michael Gottesman (Acting)"
+    },
+    "P582": "2008-08-01",
+    "P1366": {
+      "links": [
+        "Alan Edward Guttmacher"
+      ],
+      "stated_as": "Alan Guttmacher (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Director of the National Institutes of Health"
+      ],
+      "stated_as": "16th Director of the National Institutes of Health"
+    },
+    "P580": "2009-08-17",
+    "P1365": {
+      "links": [
+        "Raynard S. Kington"
+      ],
+      "stated_as": "Raynard S. Kington (Acting)"
+    },
+    "P582": "2021-12-19",
+    "P1366": {
+      "links": [
+        "Lawrence A. Tabak"
+      ],
+      "stated_as": "Lawrence A. Tabak (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Science Advisor to the President"
+      ],
+      "stated_as": "Science Advisor to the President"
+    },
+    "P580": "2022-02-18",
+    "P1365": {
+      "links": [
+        "Eric Lander"
+      ],
+      "stated_as": "Eric Lander"
+    },
+    "P1366": {
+      "links": [
+        "Arati Prabhakar"
+      ],
+      "stated_as": "Arati Prabhakar (designate)"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Department of Justice National Security Division"
+      ],
+      "stated_as": "United States Assistant Attorney General for the National Security Division"
+    },
+    "P580": "2011-07-01",
+    "P1365": {
+      "links": [
+        "David S. Kris"
+      ],
+      "stated_as": "David S. Kris"
+    },
+    "P582": "2013-03-08",
+    "P1366": {
+      "links": [
+        "John P. Carlin"
+      ],
+      "stated_as": "John P. Carlin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "United States Homeland Security Advisor"
+    },
+    "P1545": "6",
+    "P580": "2013-03-08",
+    "P1365": {
+      "links": [
+        "John O. Brennan"
+      ],
+      "stated_as": "John O. Brennan"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Tom Bossert"
+      ],
+      "stated_as": "Tom Bossert"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "United States Deputy Attorney General"
+    },
+    "P1545": "39",
+    "P580": "2021-04-21",
+    "P1365": {
+      "links": [
+        "Jeffrey A. Rosen"
+      ],
+      "stated_as": "Jeffrey A. Rosen"
+    }
+  }
+]

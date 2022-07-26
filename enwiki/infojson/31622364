@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of governors of Montana"
+      ],
+      "stated_as": "25th Governor of Montana"
+    },
+    "P580": "2017-06-21",
+    "P1365": {
+      "links": [
+        "Ryan Zinke"
+      ],
+      "stated_as": "Ryan Zinke"
+    },
+    "P582": "2021-01-03",
+    "P1366": {
+      "links": [
+        "Matt Rosendale"
+      ],
+      "stated_as": "Matt Rosendale"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Montana"
+      ],
+      "stated_as": "25th Governor of Montana"
+    },
+    "P1545": "25",
+    "P580": "2021-01-04",
+    "P1365": {
+      "links": [
+        "Steve Bullock (American politician)"
+      ],
+      "stated_as": "Steve Bullock"
+    }
+  }
+]

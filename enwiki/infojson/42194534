@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Secretary of Appointments of Maryland"
+    },
+    "P580": "2003-01-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2007-01-17",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jeanne Hitchcock"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Maryland"
+    },
+    "P1545": "62",
+    "P580": "2015-01-21",
+    "P1365": {
+      "links": [
+        "Martin O'Malley"
+      ],
+      "stated_as": "Martin O'Malley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Governors Association"
+      ],
+      "stated_as": "Vice Chair of the National Governors Association"
+    },
+    "P580": "2018-07-21",
+    "P1365": {
+      "links": [
+        "Steve Bullock (American politician)"
+      ],
+      "stated_as": "Steve Bullock"
+    },
+    "P582": "2019-07-26",
+    "P1366": {
+      "links": [
+        "Andrew Cuomo"
+      ],
+      "stated_as": "Andrew Cuomo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Governors Association"
+      ],
+      "stated_as": "Chair of the National Governors Association"
+    },
+    "P580": "2019-07-26",
+    "P1365": {
+      "links": [
+        "Steve Bullock (American politician)"
+      ],
+      "stated_as": "Steve Bullock"
+    },
+    "P582": "2020-08-05",
+    "P1366": {
+      "links": [
+        "Andrew Cuomo"
+      ],
+      "stated_as": "Andrew Cuomo"
+    }
+  }
+]

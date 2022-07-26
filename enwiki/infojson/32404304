@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "Port Authority of New York and New Jersey"
+      ],
+      "stated_as": "Chair of the Port Authority of New York and New Jersey"
+    },
+    "P580": "1995-11-09",
+    "P1365": {
+      "links": [
+        "Kathleen Donovan"
+      ],
+      "stated_as": "Kathleen Donovan"
+    },
+    "P582": "2001-12",
+    "P1366": {
+      "links": [
+        "Jack Sinagra"
+      ],
+      "stated_as": "Jack Sinagra"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Italy"
+      ],
+      "stated_as": "United States Ambassador to Italy"
+    },
+    "P580": "2017-10-04",
+    "P1365": {
+      "links": [
+        "John R. Phillips (attorney)"
+      ],
+      "stated_as": "John R. Phillips"
+    },
+    "P582": "2021-01-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Thomas D. Smitham (Chargé d’Affaires ad interim)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to San Marino"
+      ],
+      "stated_as": "United States Ambassador to San Marino"
+    },
+    "P580": "2017-10-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "John R. Phillips"
+    },
+    "P582": "2021-01-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Thomas D. Smitham (Chargé d’Affaires ad interim)"
+    }
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Spokesperson for the United States Department of State"
+      ],
+      "stated_as": "Spokesperson for the United States Department of State"
+    },
+    "P580": "1995",
+    "P1365": {
+      "links": [
+        "Mike McCurry (press secretary)"
+      ],
+      "stated_as": "Mike McCurry"
+    },
+    "P582": "1997",
+    "P1366": {
+      "links": [
+        "James Rubin"
+      ],
+      "stated_as": "James Rubin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Greece"
+      ],
+      "stated_as": "United States Ambassador to Greece"
+    },
+    "P580": "1997-12-22",
+    "P1365": {
+      "links": [
+        "Thomas Niles"
+      ],
+      "stated_as": "Thomas Niles"
+    },
+    "P582": "2001-07-29",
+    "P1366": {
+      "links": [
+        "Thomas J. Miller (diplomat)"
+      ],
+      "stated_as": "Thomas Miller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Permanent Representative to NATO"
+      ],
+      "stated_as": "United States Ambassador to NATO"
+    },
+    "P580": "2001-08-07",
+    "P1365": {
+      "links": [
+        "Alexander Vershbow"
+      ],
+      "stated_as": "Sandy Vershbow"
+    },
+    "P582": "2005-03-07",
+    "P1366": {
+      "links": [
+        "Victoria Nuland"
+      ],
+      "stated_as": "Victoria Nuland"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Under Secretary of State for Political Affairs"
+      ],
+      "stated_as": "Under Secretary of State for Political Affairs"
+    },
+    "P580": "2005-03-18",
+    "P1365": {
+      "links": [
+        "Marc Grossman"
+      ],
+      "stated_as": "Marc Grossman"
+    },
+    "P582": "2008-02-29",
+    "P1366": {
+      "links": [
+        "William J. Burns (diplomat)"
+      ],
+      "stated_as": "William J. Burns"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of the United States to China"
+      ],
+      "stated_as": "13th United States Ambassador to China"
+    },
+    "P580": "2022-04-01",
+    "P1365": {
+      "links": [
+        "Terry Branstad"
+      ],
+      "stated_as": "Terry Branstad"
+    }
+  }
+]

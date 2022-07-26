@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Attorney for the District of New Jersey"
+      ],
+      "stated_as": "United States Attorney for the District of New Jersey"
+    },
+    "P580": "1987-12-10",
+    "P1365": {
+      "links": [
+        "Thomas W. Greelish"
+      ],
+      "stated_as": "Thomas Greelish"
+    },
+    "P582": "1990-04-30",
+    "P1366": {
+      "links": [
+        "Michael Chertoff"
+      ],
+      "stated_as": "Michael Chertoff"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Court of Appeals for the Third Circuit"
+      ],
+      "stated_as": "Judge of the United States Court of Appeals for the Third Circuit"
+    },
+    "P580": "1990-04-30",
+    "P1365": {
+      "links": [
+        "John Joseph Gibbons"
+      ],
+      "stated_as": "John Joseph Gibbons"
+    },
+    "P582": "2006-01-31",
+    "P1366": {
+      "links": [
+        "Joseph A. Greenaway Jr."
+      ],
+      "stated_as": "Joseph A. Greenaway Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Associate Justice of the Supreme Court of the United States"
+      ],
+      "stated_as": "Associate Justice of the Supreme Court of the United States"
+    },
+    "P580": "2006-01-31",
+    "P1365": {
+      "links": [
+        "Sandra Day O'Connor"
+      ],
+      "stated_as": "Sandra Day O'Connor"
+    }
+  }
+]

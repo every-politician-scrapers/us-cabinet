@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of the State of Connecticut"
+      ],
+      "stated_as": "72nd Secretary of the State of Connecticut"
+    },
+    "P580": "1993-01-03",
+    "P1365": {
+      "links": [
+        "David Lavine"
+      ],
+      "stated_as": "David Lavine"
+    },
+    "P582": "1999-01-03",
+    "P1366": {
+      "links": [
+        "Theodore Raczka"
+      ],
+      "stated_as": "Theodore Raczka"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of the State of Connecticut"
+      ],
+      "stated_as": "72nd Secretary of the State of Connecticut"
+    },
+    "P580": "1999-01-03",
+    "P1365": {
+      "links": [
+        "Miles S. Rapoport"
+      ],
+      "stated_as": "Miles S. Rapoport"
+    },
+    "P582": "2011-01-03",
+    "P1366": {
+      "links": [
+        "Denise Merrill"
+      ],
+      "stated_as": "Denise Merrill"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Connecticut"
+      ],
+      "stated_as": "109th Lieutenant Governor of Connecticut"
+    },
+    "P580": "2019-01-09",
+    "P1365": {
+      "links": [
+        "Nancy Wyman"
+      ],
+      "stated_as": "Nancy Wyman"
+    }
+  }
+]

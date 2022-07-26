@@ -1,0 +1,130 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Attorney",
+        "United States District Court for the District of South Carolina"
+      ],
+      "stated_as": "United States Attorney for the District of South Carolina"
+    },
+    "P580": "1981-06-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Thomas Simpson"
+    },
+    "P582": "1985-07-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vinton Lide"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "South Carolina Republican Party"
+      ],
+      "stated_as": "Chair of the South Carolina Republican Party"
+    },
+    "P580": "1993-05",
+    "P1365": {
+      "links": [
+        "Barry Wynn"
+      ],
+      "stated_as": "Barry Wynn"
+    },
+    "P582": "2002-05",
+    "P1366": {
+      "links": [
+        "Katon Dawson"
+      ],
+      "stated_as": "Katon Dawson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Attorneys General of South Carolina"
+      ],
+      "stated_as": "50th Attorney General of South Carolina"
+    },
+    "P580": "2003-01-15",
+    "P1365": {
+      "links": [
+        "Charlie Condon"
+      ],
+      "stated_as": "Charlie Condon"
+    },
+    "P582": "2011-01-12",
+    "P1366": {
+      "links": [
+        "Alan Wilson (South Carolina politician)"
+      ],
+      "stated_as": "Alan Wilson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "South Carolina Ports Authority"
+      ],
+      "stated_as": "Board of Directors of South Carolina Ports Authority"
+    },
+    "P580": "2011-06-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Harry Butler Jr."
+    },
+    "P582": "2015-06-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Kurt D. Grindstaff"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of South Carolina"
+      ],
+      "stated_as": "Lieutenant Governor of South Carolina"
+    },
+    "P1545": "91",
+    "P580": "2015-01-14",
+    "P1365": {
+      "links": [
+        "Yancey McGill"
+      ],
+      "stated_as": "Yancey McGill"
+    },
+    "P582": "2017-01-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Kevin L. Bryant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of South Carolina"
+      ],
+      "stated_as": "117th Governor of South Carolina"
+    },
+    "P1545": "117",
+    "P580": "2017-01-24",
+    "P1365": {
+      "links": [
+        "Nikki Haley"
+      ],
+      "stated_as": "Nikki Haley"
+    }
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Albania"
+      ],
+      "stated_as": "United States Ambassador to Albania\nActing"
+    },
+    "P580": "1991-10-01",
+    "P1365": {
+      "links": [
+        "Hugh Gladney Grant"
+      ],
+      "stated_as": "Hugh Gladney Grant (1939)"
+    },
+    "P582": "1991-12-21",
+    "P1366": {
+      "links": [
+        "William Edwin Ryerson"
+      ],
+      "stated_as": "William Edwin Ryerson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Macedonia"
+      ],
+      "stated_as": "United States Ambassador to Macedonia"
+    },
+    "P580": "1996-07-29",
+    "P1365": {
+      "links": [
+        "Victor Comras"
+      ],
+      "stated_as": "Victor Comras (acting)"
+    },
+    "P582": "1999-08-02",
+    "P1366": {
+      "links": [
+        "M. Michael Einik"
+      ],
+      "stated_as": "M. Michael Einik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Poland"
+      ],
+      "stated_as": "United States Ambassador to Poland"
+    },
+    "P580": "2000-07-27",
+    "P1365": {
+      "links": [
+        "Daniel Fried"
+      ],
+      "stated_as": "Daniel Fried"
+    },
+    "P582": "2004-04-14",
+    "P1366": {
+      "links": [
+        "Victor Ashe"
+      ],
+      "stated_as": "Victor Ashe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to South Korea"
+      ],
+      "stated_as": "United States Ambassador to South Korea"
+    },
+    "P580": "2004-09-01",
+    "P1365": {
+      "links": [
+        "Thomas C. Hubbard"
+      ],
+      "stated_as": "Thomas C. Hubbard"
+    },
+    "P582": "2005-04-08",
+    "P1366": {
+      "links": [
+        "Alexander R. Vershbow"
+      ],
+      "stated_as": "Alexander R. Vershbow"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for East Asian and Pacific Affairs"
+      ],
+      "stated_as": "25th Assistant Secretary of State for East Asian and Pacific Affairs"
+    },
+    "P580": "2005-04-08",
+    "P1365": {
+      "links": [
+        "James A. Kelly"
+      ],
+      "stated_as": "James A. Kelly"
+    },
+    "P582": "2009-04-20",
+    "P1366": {
+      "links": [
+        "Kurt M. Campbell"
+      ],
+      "stated_as": "Kurt M. Campbell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Iraq"
+      ],
+      "stated_as": "United States Ambassador to Iraq"
+    },
+    "P580": "2009-04-24",
+    "P1365": {
+      "links": [
+        "Ryan Crocker"
+      ],
+      "stated_as": "Ryan Crocker"
+    },
+    "P582": "2010-08-10",
+    "P1366": {
+      "links": [
+        "James Franklin Jeffrey"
+      ],
+      "stated_as": "James Franklin Jeffrey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Serbia"
+      ],
+      "stated_as": "United States Ambassador to Serbia"
+    },
+    "P580": "2022-03-31",
+    "P1365": {
+      "links": [
+        "Anthony Godfrey"
+      ],
+      "stated_as": "Anthony Godfrey"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Nicaragua"
+      ],
+      "stated_as": "United States Ambassador to Nicaragua"
+    },
+    "P580": "2015-10-06",
+    "P1365": {
+      "links": [
+        "Phyllis M. Powers"
+      ],
+      "stated_as": "Phyllis M. Powers"
+    },
+    "P582": "2018-10-30",
+    "P1366": {
+      "links": [
+        "Kevin K. Sullivan (diplomat)"
+      ],
+      "stated_as": "Kevin K. Sullivan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Honduras"
+      ],
+      "stated_as": "United States Ambassador to Honduras"
+    },
+    "P580": "2022-04-12",
+    "P1365": {
+      "links": [
+        "James D. Nealon"
+      ],
+      "stated_as": "James D. Nealon"
+    }
+  }
+]

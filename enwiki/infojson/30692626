@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "State Treasurer of Arizona"
+      ],
+      "stated_as": "42nd Treasurer of Arizona"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+        "Dean Martin (politician)"
+      ],
+      "stated_as": "Dean Martin"
+    },
+    "P582": "2015-01-05",
+    "P1366": {
+      "links": [
+        "Jeff DeWit"
+      ],
+      "stated_as": "Jeff DeWit"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Arizona"
+      ],
+      "stated_as": "23rd Governor of Arizona"
+    },
+    "P1545": "23",
+    "P580": "2015-01-05",
+    "P1365": {
+      "links": [
+        "Jan Brewer"
+      ],
+      "stated_as": "Jan Brewer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Republican Governors Association"
+      ],
+      "stated_as": "Chair of the Republican Governors Association"
+    },
+    "P580": "2020-12-09",
+    "P1365": {
+      "links": [
+        "Greg Abbott"
+      ],
+      "stated_as": "Greg Abbott"
+    }
+  }
+]

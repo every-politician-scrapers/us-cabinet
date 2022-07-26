@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Domestic Policy Council"
+      ],
+      "stated_as": "Director of the Domestic Policy Council"
+    },
+    "P580": "1996-12-20",
+    "P1365": {
+      "links": [
+        "Carol Rasco"
+      ],
+      "stated_as": "Carol Rasco"
+    },
+    "P582": "2001-01-20",
+    "P1366": {
+      "links": [
+        "John Bridgeland"
+      ],
+      "stated_as": "John Bridgeland"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of Staff to the Vice President of the United States"
+      ],
+      "stated_as": "Chief of Staff to the Vice President"
+    },
+    "P580": "2011-01-14",
+    "P1365": {
+      "links": [
+        "Ron Klain"
+      ],
+      "stated_as": "Ron Klain"
+    },
+    "P582": "2013-12-01",
+    "P1366": {
+      "links": [
+        "Steve Ricchetti"
+      ],
+      "stated_as": "Steve Ricchetti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "White House Deputy Chief of Staff"
+      ],
+      "stated_as": "White House Deputy Chief of Staff"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Emma Doyle"
+      ],
+      "stated_as": "Emma Doyle"
+    }
+  }
+]

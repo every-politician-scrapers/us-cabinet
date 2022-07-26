@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Pennsylvania"
+      ],
+      "stated_as": "33rd Lieutenant Governor of Pennsylvania"
+    },
+    "P580": "2001-01-02",
+    "P1365": {
+      "links": [
+        "Frank A. Salvatore"
+      ],
+      "stated_as": "Frank Salvatore"
+    },
+    "P582": "2015-01-20",
+    "P1366": {
+      "links": [
+        "John Sabatina"
+      ],
+      "stated_as": "John Sabatina"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Pennsylvania"
+      ],
+      "stated_as": "33rd Lieutenant Governor of Pennsylvania"
+    },
+    "P580": "2015-01-20",
+    "P1365": {
+      "links": [
+        "Jim Cawley"
+      ],
+      "stated_as": "Jim Cawley"
+    },
+    "P582": "2019-01-15",
+    "P1366": {
+      "links": [
+        "John Fetterman"
+      ],
+      "stated_as": "John Fetterman"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "office": {
+      "links": [
+        "White House Communications Director"
+      ],
+      "stated_as": "White House Communications Director"
+    },
+    "P580": "2009-04-21",
+    "P1365": {
+      "links": [
+        "Ellen Moran"
+      ],
+      "stated_as": "Ellen Moran"
+    },
+    "P582": "2009-11-30",
+    "P1366": {
+      "links": [
+        "Daniel Pfeiffer"
+      ],
+      "stated_as": "Daniel Pfeiffer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senior Advisor to the President"
+      ],
+      "stated_as": "Senior Advisor to the President"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Jared Kushner",
+        "Stephen Miller (political advisor)",
+        "Ivanka Trump"
+      ],
+      "stated_as": "Jared Kushner Stephen Miller Ivanka Trump"
+    },
+    "P582": "2021-08-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Senior Advisor to the President"
+      ],
+      "stated_as": "Senior Advisor to the President"
+    },
+    "P580": "2022-05-05"
+  }
+]

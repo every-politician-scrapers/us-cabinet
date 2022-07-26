@@ -1,0 +1,106 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mount Pleasant, Iowa"
+      ],
+      "stated_as": "Mayor of Mount Pleasant"
+    },
+    "P580": "1987",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Edward King"
+    },
+    "P582": "1992",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Stanley Hill"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Iowa"
+      ],
+      "stated_as": "40th Governor of Iowa"
+    },
+    "P580": "1993-01-11",
+    "P1365": {
+      "links": [
+        "Jack W. Hester"
+      ],
+      "stated_as": "Jack W. Hester"
+    },
+    "P582": "1999-01-11",
+    "P1366": {
+      "links": [
+        "Mark Shearer"
+      ],
+      "stated_as": "Mark Shearer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Iowa"
+      ],
+      "stated_as": "40th Governor of Iowa"
+    },
+    "P1545": "40",
+    "P580": "1999-01-15",
+    "P1365": {
+      "links": [
+        "Terry Branstad"
+      ],
+      "stated_as": "Terry Branstad"
+    },
+    "P582": "2007-01-12",
+    "P1366": {
+      "links": [
+        "Chet Culver"
+      ],
+      "stated_as": "Chet Culver"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of Agriculture"
+      ],
+      "stated_as": "30th and 32nd United States Secretary of Agriculture"
+    },
+    "P580": "2009-01-20",
+    "P1365": {
+      "links": [
+        "Ed Schafer"
+      ],
+      "stated_as": "Ed Schafer"
+    },
+    "P582": "2017-01-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sonny Perdue"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of Agriculture"
+      ],
+      "stated_as": "30th and 32nd United States Secretary of Agriculture"
+    },
+    "P580": "2021-02-24",
+    "P1365": {
+      "links": [
+        "Sonny Perdue"
+      ],
+      "stated_as": "Sonny Perdue"
+    }
+  }
+]

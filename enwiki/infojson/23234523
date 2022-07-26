@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Iowa"
+      ],
+      "stated_as": "46th Lieutenant Governor of Iowa"
+    },
+    "P580": "2009-01-11",
+    "P1365": {
+      "links": [
+        "Jeff Angelo"
+      ],
+      "stated_as": "Jeff Angelo"
+    },
+    "P582": "2010-11-12",
+    "P1366": {
+      "links": [
+        "Joni Ernst"
+      ],
+      "stated_as": "Joni Ernst"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Iowa"
+      ],
+      "stated_as": "46th Lieutenant Governor of Iowa"
+    },
+    "P580": "2011-01-14",
+    "P1365": {
+      "links": [
+        "Patty Judge"
+      ],
+      "stated_as": "Patty Judge"
+    },
+    "P582": "2017-05-24",
+    "P1366": {
+      "links": [
+        "Adam Gregg"
+      ],
+      "stated_as": "Adam Gregg"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Iowa"
+      ],
+      "stated_as": "43rd Governor of Iowa"
+    },
+    "P1545": "43",
+    "P580": "2017-05-24",
+    "P1365": {
+      "links": [
+        "Terry Branstad"
+      ],
+      "stated_as": "Terry Branstad"
+    }
+  }
+]

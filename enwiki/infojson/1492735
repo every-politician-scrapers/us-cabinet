@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "Supreme Court of Texas"
+      ],
+      "stated_as": "Associate Justice of the Supreme Court of Texas"
+    },
+    "P580": "1996-01-02",
+    "P1365": {
+      "links": [
+        "Jack Hightower"
+      ],
+      "stated_as": "Jack Hightower"
+    },
+    "P582": "2001-06-06",
+    "P1366": {
+      "links": [
+        "Xavier Rodriguez"
+      ],
+      "stated_as": "Xavier Rodriguez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Texas Attorney General"
+      ],
+      "stated_as": "50th Attorney General of Texas"
+    },
+    "P580": "2002-12-02",
+    "P1365": {
+      "links": [
+        "John Cornyn"
+      ],
+      "stated_as": "John Cornyn"
+    },
+    "P582": "2015-01-05",
+    "P1366": {
+      "links": [
+        "Ken Paxton"
+      ],
+      "stated_as": "Ken Paxton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Texas"
+      ],
+      "stated_as": "48th Governor of Texas"
+    },
+    "P1545": "48",
+    "P580": "2015-01-20",
+    "P1365": {
+      "links": [
+        "Rick Perry"
+      ],
+      "stated_as": "Rick Perry"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Republican Governors Association"
+      ],
+      "stated_as": "Chair of the Republican Governors Association"
+    },
+    "P580": "2019-11-21",
+    "P1365": {
+      "links": [
+        "Pete Ricketts"
+      ],
+      "stated_as": "Pete Ricketts"
+    },
+    "P582": "2020-12-09",
+    "P1366": {
+      "links": [
+        "Doug Ducey"
+      ],
+      "stated_as": "Doug Ducey"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "office": {
+      "links": [
+        "Hamburg, New York"
+      ],
+      "stated_as": "Member of the Hamburg Town Board"
+    },
+    "P580": "1994-01-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Patrick Hoak"
+    },
+    "P582": "2007-04-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Richard Smith"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Municipal clerk",
+        "Erie County, New York"
+      ],
+      "stated_as": "8th County Clerk of Erie County"
+    },
+    "P580": "2007-04-10",
+    "P1365": {
+      "links": [
+        "David Swarts"
+      ],
+      "stated_as": "David Swarts"
+    },
+    "P582": "2011-06-01",
+    "P1366": {
+      "links": [
+        "Chris Jacobs (politician)"
+      ],
+      "stated_as": "Chris Jacobs"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of New York"
+      ],
+      "stated_as": "Lieutenant Governor of New York"
+    },
+    "P580": "2011-06-01",
+    "P1365": {
+      "links": [
+        "Chris Lee (New York politician)"
+      ],
+      "stated_as": "Chris Lee"
+    },
+    "P582": "2013-01-03",
+    "P1366": {
+      "links": [
+        "Chris Collins (New York politician)"
+      ],
+      "stated_as": "Chris Collins (redistricting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of New York"
+      ],
+      "stated_as": "Lieutenant Governor of New York"
+    },
+    "P580": "2015-01-01",
+    "P1365": {
+      "links": [
+        "Robert Duffy (politician)"
+      ],
+      "stated_as": "Robert Duffy"
+    },
+    "P582": "2021-08-23",
+    "P1366": {
+      "links": [
+        "Andrea Stewart-Cousins"
+      ],
+      "stated_as": "Andrea Stewart-Cousins (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of New York"
+      ],
+      "stated_as": "57th Governor of New York"
+    },
+    "P1545": "57",
+    "P580": "2021-08-24",
+    "P1365": {
+      "links": [
+        "Andrew Cuomo"
+      ],
+      "stated_as": "Andrew Cuomo"
+    }
+  }
+]

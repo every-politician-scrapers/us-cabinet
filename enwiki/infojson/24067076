@@ -1,0 +1,99 @@
+[
+  {
+    "office": {
+      "links": [
+        "Democratic National Committee"
+      ],
+      "stated_as": "Finance Chair of the Democratic National Committee"
+    },
+    "P580": "2006",
+    "P1365": {
+      "links": [
+        "Maureen White"
+      ],
+      "stated_as": "Maureen White"
+    },
+    "P582": "2009",
+    "P1366": {
+      "links": [
+        "Jane Watson Stetson"
+      ],
+      "stated_as": "Jane Watson Stetson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of the United States to Germany"
+      ],
+      "stated_as": "United States Ambassador to Germany"
+    },
+    "P580": "2009-09-03",
+    "P1365": {
+      "links": [
+        "William R. Timken"
+      ],
+      "stated_as": "William R. Timken"
+    },
+    "P582": "2013-08-26",
+    "P1366": {
+      "links": [
+        "John B. Emerson"
+      ],
+      "stated_as": "John B. Emerson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of New Jersey"
+    },
+    "P1545": "56",
+    "P580": "2018-01-16",
+    "P1365": {
+      "links": [
+        "Chris Christie"
+      ],
+      "stated_as": "Chris Christie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Governors Association"
+      ],
+      "stated_as": "Vice Chair of the National Governors Association"
+    },
+    "P580": "2021-07-08",
+    "P1365": {
+      "links": [
+        "Asa Hutchinson"
+      ],
+      "stated_as": "Asa Hutchinson"
+    },
+    "P582": "2022-07-15",
+    "P1366": {
+      "links": [
+        "Spencer Cox (politician)"
+      ],
+      "stated_as": "Spencer Cox"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Governors Association"
+      ],
+      "stated_as": "Chair of the National Governors Association"
+    },
+    "P580": "2022-07-15",
+    "P1365": {
+      "links": [
+        "Asa Hutchinson"
+      ],
+      "stated_as": "Asa Hutchinson"
+    }
+  }
+]

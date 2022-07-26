@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Utah House of Representatives"
+      ],
+      "stated_as": "Member of the Utah House of Representatives from the 58th district"
+    },
+    "P580": "2013-01-01",
+    "P1365": {
+      "links": [
+        "Stephen Sandstrom"
+      ],
+      "stated_as": "Stephen Sandstrom"
+    },
+    "P582": "2013-10-16",
+    "P1366": {
+      "links": [
+        "Jon Cox"
+      ],
+      "stated_as": "Jon Cox"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Utah"
+      ],
+      "stated_as": "8th Lieutenant Governor of Utah"
+    },
+    "P580": "2013-10-16",
+    "P1365": {
+      "links": [
+        "Greg Bell"
+      ],
+      "stated_as": "Greg Bell"
+    },
+    "P582": "2021-01-04",
+    "P1366": {
+      "links": [
+        "Deidre Henderson"
+      ],
+      "stated_as": "Deidre Henderson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Utah"
+      ],
+      "stated_as": "18th Governor of Utah"
+    },
+    "P1545": "18",
+    "P580": "2021-01-04",
+    "P1365": {
+      "links": [
+        "Gary Herbert"
+      ],
+      "stated_as": "Gary Herbert"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Governors Association"
+      ],
+      "stated_as": "Vice Chair of the National Governors Association"
+    },
+    "P580": "2022-07-15",
+    "P1365": {
+      "links": [
+        "Phil Murphy"
+      ],
+      "stated_as": "Phil Murphy"
+    }
+  }
+]

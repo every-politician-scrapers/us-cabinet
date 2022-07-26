@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Colorado Department of Natural Resources"
+      ],
+      "stated_as": "Executive Director of the Colorado Department of Natural Resources"
+    },
+    "P580": "1990",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hamlet Barry"
+    },
+    "P582": "1994",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "James Lochhead"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Colorado Attorney General"
+      ],
+      "stated_as": "36th Attorney General of Colorado"
+    },
+    "P580": "1999-01-12",
+    "P1365": {
+      "links": [
+        "Gale Norton"
+      ],
+      "stated_as": "Gale Norton"
+    },
+    "P582": "2005-01-03",
+    "P1366": {
+      "links": [
+        "John Suthers"
+      ],
+      "stated_as": "John Suthers"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Interior"
+      ],
+      "stated_as": "50th United States Secretary of the Interior"
+    },
+    "P580": "2005-01-03",
+    "P1365": {
+      "links": [
+        "Ben Nighthorse Campbell"
+      ],
+      "stated_as": "Ben Campbell"
+    },
+    "P582": "2009-01-20",
+    "P1366": {
+      "links": [
+        "Michael Bennet"
+      ],
+      "stated_as": "Michael Bennet"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Interior"
+      ],
+      "stated_as": "50th United States Secretary of the Interior"
+    },
+    "P580": "2009-01-20",
+    "P1365": {
+      "links": [
+        "Dirk Kempthorne"
+      ],
+      "stated_as": "Dirk Kempthorne"
+    },
+    "P582": "2013-04-12",
+    "P1366": {
+      "links": [
+        "Sally Jewell"
+      ],
+      "stated_as": "Sally Jewell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of the United States to Mexico"
+      ],
+      "stated_as": "United States Ambassador to Mexico"
+    },
+    "P580": "2021-09-14",
+    "P1365": {
+      "links": [
+        "Christopher Landau"
+      ],
+      "stated_as": "Christopher Landau"
+    }
+  }
+]

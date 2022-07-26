@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Office of the Vice President of the United States"
+      ],
+      "stated_as": "National Security Advisor to the Vice President of the United States"
+    },
+    "P580": "2009-01-20",
+    "P1365": {
+      "links": [
+        "John P. Hannah"
+      ],
+      "stated_as": "John P. Hannah"
+    },
+    "P582": "2013-01-20",
+    "P1366": {
+      "links": [
+        "Jake Sullivan"
+      ],
+      "stated_as": "Jake Sullivan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy National Security Advisor"
+      ],
+      "stated_as": "26th United States Deputy National Security Advisor"
+    },
+    "P580": "2013-01-20",
+    "P1365": {
+      "links": [
+        "Denis McDonough"
+      ],
+      "stated_as": "Denis McDonough"
+    },
+    "P582": "2015-01-09",
+    "P1366": {
+      "links": [
+        "Avril Haines"
+      ],
+      "stated_as": "Avril Haines"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of State"
+      ],
+      "stated_as": "18th United States Deputy Secretary of State"
+    },
+    "P580": "2015-01-09",
+    "P1365": {
+      "links": [
+        "William J. Burns (diplomat)"
+      ],
+      "stated_as": "William J. Burns"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "John J. Sullivan (diplomat)"
+      ],
+      "stated_as": "John Sullivan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of State"
+      ],
+      "stated_as": "71st United States Secretary of State"
+    },
+    "P580": "2021-01-26",
+    "P1365": {
+      "links": [
+        "Mike Pompeo"
+      ],
+      "stated_as": "Mike Pompeo"
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "11th"
+    },
+    "P1545": "11",
+    "P580": "1992-09-22",
+    "P1365": {
+      "links": [
+        "Robert D. Orr"
+      ],
+      "stated_as": "Robert D. Orr"
+    },
+    "P582": "1993-06-15",
+    "P1366": {
+      "links": [
+        "Ralph L. Boyce"
+      ],
+      "stated_as": "Ralph L. Boyce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Office of the United States Trade Representative"
+      ],
+      "stated_as": "United States Deputy Trade Representative"
+    },
+    "P580": "2001-08-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Susan Esserman"
+    },
+    "P582": "2003-04-02",
+    "P1366": {
+      "links": [
+        "Josette Sheeran"
+      ],
+      "stated_as": "Josette Sheeran"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Utah"
+    },
+    "P1545": "16",
+    "P580": "2005-01-03",
+    "P1365": {
+      "links": [
+        "Olene Walker"
+      ],
+      "stated_as": "Olene Walker"
+    },
+    "P582": "2009-08-11",
+    "P1366": {
+      "links": [
+        "Gary Herbert"
+      ],
+      "stated_as": "Gary Herbert"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "9th"
+    },
+    "P1545": "9",
+    "P580": "2009-08-28",
+    "P1365": {
+      "links": [
+        "Clark T. Randt Jr."
+      ],
+      "stated_as": "Clark T. Randt Jr."
+    },
+    "P582": "2011-04-28",
+    "P1366": {
+      "links": [
+        "Gary Locke"
+      ],
+      "stated_as": "Gary Locke"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "9th"
+    },
+    "P1545": "9",
+    "P580": "2017-10-03",
+    "P1365": {
+      "links": [
+        "John F. Tefft"
+      ],
+      "stated_as": "John F. Tefft"
+    },
+    "P582": "2019-10-03",
+    "P1366": {
+      "links": [
+        "John J. Sullivan (diplomat)"
+      ],
+      "stated_as": "John J. Sullivan"
+    }
+  }
+]

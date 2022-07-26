@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Alaska Senate"
+      ],
+      "stated_as": "Member of the Alaska Senate"
+    },
+    "P580": "2013-01-15",
+    "P1365": {
+      "links": [
+        "Redistricting"
+      ],
+      "stated_as": "Redistricted"
+    },
+    "P582": "2018-01-15",
+    "P1366": {
+      "links": [
+        "Mike Shower"
+      ],
+      "stated_as": "Mike Shower"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Alaska"
+      ],
+      "stated_as": "12th Governor of Alaska"
+    },
+    "P1545": "12",
+    "P580": "2018-12-03",
+    "P1365": {
+      "links": [
+        "Bill Walker (American politician)"
+      ],
+      "stated_as": "Bill Walker"
+    }
+  }
+]

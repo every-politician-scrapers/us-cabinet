@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Under Secretary of Defense for Acquisition and Sustainment"
+      ],
+      "stated_as": "Under Secretary of Defense for Acquisition, Technology and Logistics"
+    },
+    "P580": "2011-10-06",
+    "P1365": {
+      "links": [
+        "Ash Carter"
+      ],
+      "stated_as": "Ash Carter"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Ellen Lord"
+      ],
+      "stated_as": "Ellen Lord"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Air Force"
+      ],
+      "stated_as": "26th United States Secretary of the Air Force"
+    },
+    "P580": "2021-07-28",
+    "P1365": {
+      "links": [
+        "Barbara Barrett"
+      ],
+      "stated_as": "Barbara Barrett"
+    }
+  }
+]

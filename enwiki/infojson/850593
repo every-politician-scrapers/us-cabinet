@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Delaware"
+      ],
+      "stated_as": "24th Lieutenant Governor of Delaware"
+    },
+    "P580": "2001-01-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ruth Ann Minner"
+    },
+    "P582": "2009-01-20",
+    "P1366": {
+      "links": [
+        "Matthew Denn"
+      ],
+      "stated_as": "Matthew Denn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Delaware"
+      ],
+      "stated_as": "74th Governor of Delaware"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+        "Mike Castle"
+      ],
+      "stated_as": "Mike Castle"
+    },
+    "P582": "2017-01-03",
+    "P1366": {
+      "links": [
+        "Lisa Blunt Rochester"
+      ],
+      "stated_as": "Lisa Blunt Rochester"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Delaware"
+      ],
+      "stated_as": "74th Governor of Delaware"
+    },
+    "P1545": "74",
+    "P580": "2017-01-17",
+    "P1365": {
+      "links": [
+        "Jack Markell"
+      ],
+      "stated_as": "Jack Markell"
+    }
+  }
+]

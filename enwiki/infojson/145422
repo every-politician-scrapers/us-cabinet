@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice President of the United States"
+    },
+    "P580": "1973-01-03",
+    "P1365": {
+      "links": [
+        "J. Caleb Boggs"
+      ],
+      "stated_as": "J. Caleb Boggs"
+    },
+    "P582": "2009-01-15",
+    "P1366": {
+      "links": [
+        "Ted Kaufman"
+      ],
+      "stated_as": "Ted Kaufman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice President of the United States"
+    },
+    "P1545": "47",
+    "P580": "2009-01-20",
+    "P1365": {
+      "links": [
+        "Dick Cheney"
+      ],
+      "stated_as": "Dick Cheney"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Mike Pence"
+      ],
+      "stated_as": "Mike Pence"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of the United States"
+    },
+    "P1545": "46",
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Donald Trump"
+      ],
+      "stated_as": "Donald Trump"
+    }
+  }
+]

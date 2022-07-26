@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Domestic Policy Council"
+      ],
+      "stated_as": "Deputy Director of the Domestic Policy Council"
+    },
+    "P580": "1997",
+    "P1365": {
+      "links": [
+        "Jeremy Ben-Ami"
+      ],
+      "stated_as": "Jeremy Ben-Ami"
+    },
+    "P582": "2000",
+    "P1366": {
+      "links": [
+        "Eric Liu"
+      ],
+      "stated_as": "Eric Liu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Dean of Harvard Law School"
+      ],
+      "stated_as": "11th Dean of Harvard Law School"
+    },
+    "P580": "2003-07-01",
+    "P1365": {
+      "links": [
+        "Robert C. Clark"
+      ],
+      "stated_as": "Robert Clark"
+    },
+    "P582": "2009-03-19",
+    "P1366": {
+      "links": [
+        "Martha Minow"
+      ],
+      "stated_as": "Martha Minow"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Solicitor General of the United States"
+      ],
+      "stated_as": "45th Solicitor General of the United States"
+    },
+    "P580": "2009-03-19",
+    "P1365": {
+      "links": [
+        "Edwin Kneedler"
+      ],
+      "stated_as": "Edwin Kneedler (acting)"
+    },
+    "P582": "2010-05-17",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Neal Katyal (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Associate Justice of the Supreme Court of the United States"
+      ],
+      "stated_as": "Associate Justice of the Supreme Court of the United States"
+    },
+    "P580": "2010-08-07",
+    "P1365": {
+      "links": [
+        "John Paul Stevens"
+      ],
+      "stated_as": "John Paul Stevens"
+    }
+  }
+]

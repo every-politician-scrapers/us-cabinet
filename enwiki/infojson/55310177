@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Mauritius",
+        "United States Ambassador to Seychelles"
+      ],
+      "stated_as": "United States Ambassador to Mauritius United States Ambassador to Seychelles"
+    },
+    "P580": "2018-02-06",
+    "P1365": {
+      "links": [
+        "Shari Villarosa"
+      ],
+      "stated_as": "Shari Villarosa"
+    },
+    "P582": "2021-01-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Judes E. DeBaere (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Sierra Leone"
+      ],
+      "stated_as": "United States Ambassador to Sierra Leone"
+    },
+    "P580": "2021-03-24",
+    "P1365": {
+      "links": [
+        "Maria Brewer"
+      ],
+      "stated_as": "Maria Brewer"
+    }
+  }
+]

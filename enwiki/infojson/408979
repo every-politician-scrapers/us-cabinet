@@ -1,0 +1,151 @@
+[
+  {
+    "office": {
+      "links": [
+        "Party leaders of the United States House of Representatives"
+      ],
+      "stated_as": "House Democratic Assistant to the Leader"
+    },
+    "P580": "1990-12-03",
+    "P1365": {
+      "links": [
+        "Charles Calderon"
+      ],
+      "stated_as": "Charles Calderon"
+    },
+    "P582": "1992-12-03",
+    "P1366": {
+      "links": [
+        "Dick Mountjoy"
+      ],
+      "stated_as": "Dick Mountjoy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States House of Representatives",
+        "California"
+      ],
+      "stated_as": "Member of the U.S. House of Representatives from California"
+    },
+    "P580": "1993-01-03",
+    "P1365": {
+      "links": [
+        "Edward Roybal"
+      ],
+      "stated_as": "Edward Roybal (Redistricting)"
+    },
+    "P582": "2017-01-24",
+    "P1366": {
+      "links": [
+        "Jimmy Gomez"
+      ],
+      "stated_as": "Jimmy Gomez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Party leaders of the United States House of Representatives"
+      ],
+      "stated_as": "House Democratic Assistant to the Leader"
+    },
+    "P580": "2007-01-03",
+    "P1365": {
+      "links": [
+        "John Spratt"
+      ],
+      "stated_as": "John Spratt"
+    },
+    "P582": "2009-01-03",
+    "P1366": {
+      "links": [
+        "Chris Van Hollen"
+      ],
+      "stated_as": "Chris Van Hollen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic Caucus Vice-Chairman of the United States House of Representatives"
+      ],
+      "stated_as": "Vice Chair of the House Democratic Caucus"
+    },
+    "P580": "2009-01-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "John Larson"
+    },
+    "P582": "2013-01-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Joe Crowley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic Caucus Chairman of the United States House of Representatives"
+      ],
+      "stated_as": "Chair of the House Democratic Caucus"
+    },
+    "P580": "2013-01-03",
+    "P1365": {
+      "links": [
+        "John B. Larson"
+      ],
+      "stated_as": "John Larson"
+    },
+    "P582": "2017-01-03",
+    "P1366": {
+      "links": [
+        "Joe Crowley"
+      ],
+      "stated_as": "Joe Crowley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of California"
+      ],
+      "stated_as": "33rd Attorney General of California"
+    },
+    "P580": "2017-01-24",
+    "P1365": {
+      "links": [
+        "Kamala Harris"
+      ],
+      "stated_as": "Kamala Harris"
+    },
+    "P582": "2021-03-18",
+    "P1366": {
+      "links": [
+        "Rob Bonta"
+      ],
+      "stated_as": "Rob Bonta"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "United States Secretary of Health and Human Services"
+    },
+    "P1545": "25",
+    "P580": "2021-03-19",
+    "P1365": {
+      "links": [
+        "Alex Azar"
+      ],
+      "stated_as": "Alex Azar"
+    }
+  }
+]

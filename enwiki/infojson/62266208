@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Slovakia"
+      ],
+      "stated_as": "United States Ambassador to Slovakia"
+    },
+    "P580": "2019-08-20",
+    "P1365": {
+      "links": [
+        "Adam H. Sterling"
+      ],
+      "stated_as": "Adam H. Sterling"
+    },
+    "P582": "2022-05-18"
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Ukraine"
+      ],
+      "stated_as": "United States Ambassador to Ukraine"
+    },
+    "P580": "2022-05-30",
+    "P1365": {
+      "links": [
+        "Marie Yovanovitch"
+      ],
+      "stated_as": "Marie Yovanovitch (2019)"
+    }
+  }
+]

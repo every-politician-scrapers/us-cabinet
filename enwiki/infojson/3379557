@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of governors of Nebraska"
+      ],
+      "stated_as": "40th Governor of Nebraska"
+    },
+    "P1545": "40",
+    "P580": "2015-01-08",
+    "P1365": {
+      "links": [
+        "Dave Heineman"
+      ],
+      "stated_as": "Dave Heineman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Republican Governors Association"
+      ],
+      "stated_as": "Chair of the Republican Governors Association"
+    },
+    "P580": "2018-11-29",
+    "P1365": {
+      "links": [
+        "Bill Haslam"
+      ],
+      "stated_as": "Bill Haslam"
+    },
+    "P582": "2019-11-21",
+    "P1366": {
+      "links": [
+        "Greg Abbott"
+      ],
+      "stated_as": "Greg Abbott"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Republican Governors Association"
+      ],
+      "stated_as": "Chair of the Republican Governors Association"
+    },
+    "P580": "2021-11-19",
+    "P1365": {
+      "links": [
+        "Doug Ducey"
+      ],
+      "stated_as": "Doug Ducey"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of American Samoa"
+      ],
+      "stated_as": "9th Lieutenant Governor of American Samoa"
+    },
+    "P1545": "9",
+    "P580": "2013-01-03",
+    "P1365": {
+      "links": [
+        "Faoa Aitofele Sunia"
+      ],
+      "stated_as": "Faoa Aitofele Sunia"
+    },
+    "P582": "2021-01-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Salo Ale"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of American Samoa"
+      ],
+      "stated_as": "8th Governor of American Samoa"
+    },
+    "P1545": "8",
+    "P580": "2021-01-03",
+    "P1365": {
+      "links": [
+        "Lolo Matalasi Moliga"
+      ],
+      "stated_as": "Lolo Matalasi Moliga"
+    }
+  }
+]

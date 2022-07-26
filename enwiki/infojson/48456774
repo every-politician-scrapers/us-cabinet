@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minneapolis Public Schools"
+      ],
+      "stated_as": "Member of the Minneapolis Public Schools Board"
+    },
+    "P580": "2005-01-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Evelyn Eubanks"
+    },
+    "P582": "2009-01-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jill Davis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minneapolis Public Schools"
+      ],
+      "stated_as": "Member of the Minneapolis Public Schools Board"
+    },
+    "P580": "2010-07-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Pam Costain"
+    },
+    "P582": "2011-01-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Richard Mammen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Minnesota"
+      ],
+      "stated_as": "50th Lieutenant Governor of Minnesota"
+    },
+    "P580": "2015-11-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ryan Winkler"
+    },
+    "P582": "2019-01-07",
+    "P1366": {
+      "links": [
+        "Ryan Winkler"
+      ],
+      "stated_as": "Ryan Winkler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Minnesota"
+      ],
+      "stated_as": "50th Lieutenant Governor of Minnesota"
+    },
+    "P580": "2019-01-08",
+    "P1365": {
+      "links": [
+        "Michelle Fischbach"
+      ],
+      "stated_as": "Michelle Fischbach"
+    }
+  }
+]

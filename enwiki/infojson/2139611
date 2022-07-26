@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of Staff to the Vice President of the United States"
+      ],
+      "stated_as": "Chief of Staff to the Vice President"
+    },
+    "P580": "1995-11-01",
+    "P1365": {
+      "links": [
+        "Jack Quinn (lawyer)"
+      ],
+      "stated_as": "Jack Quinn"
+    },
+    "P582": "1999-08-03",
+    "P1366": {
+      "links": [
+        "Charles Burson"
+      ],
+      "stated_as": "Charles Burson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of Staff to the Vice President of the United States"
+      ],
+      "stated_as": "Chief of Staff to the Vice President"
+    },
+    "P580": "2009-01-20",
+    "P1365": {
+      "links": [
+        "David Addington"
+      ],
+      "stated_as": "David Addington"
+    },
+    "P582": "2011-01-14",
+    "P1366": {
+      "links": [
+        "Bruce Reed (political operative)"
+      ],
+      "stated_as": "Bruce Reed"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ebola Response Coordinator"
+      ],
+      "stated_as": "White House Ebola Response Coordinator"
+    },
+    "P580": "2014-10-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2015-02-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "White House Chief of Staff"
+      ],
+      "stated_as": "30th White House Chief of Staff"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Mark Meadows"
+      ],
+      "stated_as": "Mark Meadows"
+    }
+  }
+]

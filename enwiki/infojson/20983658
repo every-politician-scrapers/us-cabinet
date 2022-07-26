@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Idaho Senate"
+      ],
+      "stated_as": "Member of the Idaho Senate"
+    },
+    "P580": "2001-05-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Judy Danielson"
+    },
+    "P582": "2009-01-06",
+    "P1366": {
+      "links": [
+        "Melinda Smyser"
+      ],
+      "stated_as": "Melinda Smyser"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Idaho"
+      ],
+      "stated_as": "42nd Lieutenant Governor of Idaho"
+    },
+    "P580": "2009-01-06",
+    "P1365": {
+      "links": [
+        "Jim Risch"
+      ],
+      "stated_as": "Jim Risch"
+    },
+    "P582": "2019-01-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Janice McGeachin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Idaho"
+      ],
+      "stated_as": "33rd Governor of Idaho"
+    },
+    "P1545": "33",
+    "P580": "2019-01-07",
+    "P1365": {
+      "links": [
+        "Butch Otter"
+      ],
+      "stated_as": "Butch Otter"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Attorney General of Kentucky"
+      ],
+      "stated_as": "50th Attorney General of Kentucky"
+    },
+    "P580": "2016-01-04",
+    "P1365": {
+      "links": [
+        "Jack Conway (politician)"
+      ],
+      "stated_as": "Jack Conway"
+    },
+    "P582": "2019-12-10",
+    "P1366": {
+      "links": [
+        "Daniel Cameron (American politician)"
+      ],
+      "stated_as": "Daniel Cameron"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Kentucky"
+      ],
+      "stated_as": "63rd Governor of Kentucky"
+    },
+    "P1545": "63",
+    "P580": "2019-12-10",
+    "P1365": {
+      "links": [
+        "Matt Bevin"
+      ],
+      "stated_as": "Matt Bevin"
+    }
+  }
+]

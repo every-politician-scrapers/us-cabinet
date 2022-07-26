@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Director of the Central Intelligence Agency"
+      ],
+      "stated_as": "4th Deputy Director of the Central Intelligence Agency"
+    },
+    "P580": "2013-08-09",
+    "P1365": {
+      "links": [
+        "Michael Morell"
+      ],
+      "stated_as": "Michael Morell"
+    },
+    "P582": "2015-01-10",
+    "P1366": {
+      "links": [
+        "David S. Cohen (attorney)"
+      ],
+      "stated_as": "David S. Cohen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy National Security Advisor (United States)"
+      ],
+      "stated_as": "27th United States Deputy National Security Advisor"
+    },
+    "P580": "2015-01-11",
+    "P1365": {
+      "links": [
+        "Antony Blinken"
+      ],
+      "stated_as": "Antony Blinken"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "K. T. McFarland"
+      ],
+      "stated_as": "K. T. McFarland"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Director of National Intelligence"
+      ],
+      "stated_as": "7th Director of National Intelligence"
+    },
+    "P580": "2021-01-21",
+    "P1365": {
+      "links": [
+        "John Ratcliffe (American politician)"
+      ],
+      "stated_as": "John Ratcliffe"
+    }
+  }
+]

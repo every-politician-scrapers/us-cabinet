@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Washington"
+      ],
+      "stated_as": "16th Lieutenant Governor of Washington"
+    },
+    "P580": "2013-01-14",
+    "P1365": {
+      "links": [
+        "Deborah Eddy"
+      ],
+      "stated_as": "Deborah Eddy"
+    },
+    "P582": "2015-01-12",
+    "P1366": {
+      "links": [
+        "Joan McBride"
+      ],
+      "stated_as": "Joan McBride"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Washington"
+      ],
+      "stated_as": "16th Lieutenant Governor of Washington"
+    },
+    "P580": "2015-01-12",
+    "P1365": {
+      "links": [
+        "Rodney Tom"
+      ],
+      "stated_as": "Rodney Tom"
+    },
+    "P582": "2017-01-04",
+    "P1366": {
+      "links": [
+        "Patty Kuderer"
+      ],
+      "stated_as": "Patty Kuderer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Washington"
+      ],
+      "stated_as": "16th Lieutenant Governor of Washington"
+    },
+    "P580": "2017-01-11",
+    "P1365": {
+      "links": [
+        "Brad Owen"
+      ],
+      "stated_as": "Brad Owen"
+    },
+    "P582": "2021-01-13",
+    "P1366": {
+      "links": [
+        "Denny Heck"
+      ],
+      "stated_as": "Denny Heck"
+    }
+  }
+]

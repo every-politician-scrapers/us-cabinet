@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Maine"
+      ],
+      "stated_as": "47th and 49th Secretary of State of Maine"
+    },
+    "P580": "1996-12-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Robert Keane"
+    },
+    "P582": "2005-01-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constance Goldman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Maine"
+      ],
+      "stated_as": "47th and 49th Secretary of State of Maine"
+    },
+    "P580": "2005-01-01",
+    "P1365": {
+      "links": [
+        "Dan Gwadosky"
+      ],
+      "stated_as": "Dan Gwadosky"
+    },
+    "P582": "2011-01-07",
+    "P1366": {
+      "links": [
+        "Charlie Summers"
+      ],
+      "stated_as": "Charlie Summers"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Maine"
+      ],
+      "stated_as": "47th and 49th Secretary of State of Maine"
+    },
+    "P580": "2013-01-07",
+    "P1365": {
+      "links": [
+        "Charlie Summers"
+      ],
+      "stated_as": "Charlie Summers"
+    },
+    "P582": "2021-01-04",
+    "P1366": {
+      "links": [
+        "Shenna Bellows"
+      ],
+      "stated_as": "Shenna Bellows"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Assistant Attorney General",
+        "United States Department of Justice Civil Division"
+      ],
+      "stated_as": "United States Assistant Attorney General for the Civil Division"
+    },
+    "P580": "2012-03-12",
+    "P1365": {
+      "links": [
+        "Tony West (attorney)"
+      ],
+      "stated_as": "Tony West"
+    },
+    "P582": "2012-08-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Benjamin Mizer (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Associate Attorney General"
+      ],
+      "stated_as": "United States Associate Attorney General"
+    },
+    "P580": "2014-09-15",
+    "P1365": {
+      "links": [
+        "Tony West (attorney)"
+      ],
+      "stated_as": "Tony West"
+    },
+    "P582": "2016-04-17",
+    "P1366": {
+      "links": [
+        "William Baer (antitrust lawyer)"
+      ],
+      "stated_as": "William Baer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "White House Counsel"
+      ],
+      "stated_as": "White House Counsel"
+    },
+    "P580": "2022-07",
+    "P1365": {
+      "links": [
+        "Dana Remus"
+      ],
+      "stated_as": "Dana Remus"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Oklahoma Republican Party"
+      ],
+      "stated_as": "Chair of the Oklahoma Republican Party"
+    },
+    "P580": "2010-06-26",
+    "P1365": {
+      "links": [
+        "Gary Jones (Oklahoma politician)"
+      ],
+      "stated_as": "Gary Jones"
+    },
+    "P582": "2013-04-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dave Weston"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Oklahoma"
+      ],
+      "stated_as": "17th Lieutenant Governor of Oklahoma"
+    },
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Todd Lamb (politician)"
+      ],
+      "stated_as": "Todd Lamb"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Oklahoma Secretary of Commerce and Tourism"
+      ],
+      "stated_as": "1st Oklahoma Secretary of Tourism and Branding"
+    },
+    "P580": "2019-01-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

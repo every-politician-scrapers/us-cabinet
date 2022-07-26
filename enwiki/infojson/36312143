@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Washington"
+      ],
+      "stated_as": "16th Secretary of State of Washington"
+    },
+    "P580": "2007-01-08",
+    "P1365": {
+      "links": [
+        "Dave Schmidt (politician)"
+      ],
+      "stated_as": "Dave Schmidt"
+    },
+    "P582": "2021-11-22",
+    "P1366": {
+      "links": [
+        "John Lovick (politician)"
+      ],
+      "stated_as": "John Lovick"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Washington"
+      ],
+      "stated_as": "16th Secretary of State of Washington"
+    },
+    "P580": "2021-11-22",
+    "P1365": {
+      "links": [
+        "Kim Wyman"
+      ],
+      "stated_as": "Kim Wyman"
+    }
+  }
+]

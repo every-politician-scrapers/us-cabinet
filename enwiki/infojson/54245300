@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Assistant Attorney General",
+        "United States Department of Justice Criminal Division"
+      ],
+      "stated_as": "United States Assistant Attorney General for the Criminal Division"
+    },
+    "P580": "2003-09-11",
+    "P1365": {
+      "links": [
+        "Michael Chertoff"
+      ],
+      "stated_as": "Michael Chertoff"
+    },
+    "P582": "2005-05-17",
+    "P1366": {
+      "links": [
+        "Alice S. Fisher"
+      ],
+      "stated_as": "Alice S. Fisher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Director of the Federal Bureau of Investigation"
+      ],
+      "stated_as": "8th Director of the Federal Bureau of Investigation"
+    },
+    "P580": "2017-08-02",
+    "P1365": {
+      "links": [
+        "James Comey"
+      ],
+      "stated_as": "James Comey"
+    }
+  }
+]

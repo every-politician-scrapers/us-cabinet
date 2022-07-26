@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Attorney",
+        "United States District Court for the Central District of California"
+      ],
+      "stated_as": "United States Attorney for the Central District of California"
+    },
+    "P580": "1998-12-21",
+    "P1365": {
+      "links": [
+        "Nora Margaret Manella"
+      ],
+      "stated_as": "Nora Margaret Manella"
+    },
+    "P582": "2001-04-20",
+    "P1366": {
+      "links": [
+        "Debra Wong Yang"
+      ],
+      "stated_as": "Debra Wong Yang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Citizenship and Immigration Services"
+      ],
+      "stated_as": "Director of United States Citizenship and Immigration Services"
+    },
+    "P580": "2009-08-12",
+    "P1365": {
+      "links": [
+        "Emilio T. Gonzalez"
+      ],
+      "stated_as": "Emilio T. Gonzalez"
+    },
+    "P582": "2013-12-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "León Rodríguez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of Homeland Security"
+      ],
+      "stated_as": "6th United States Deputy Secretary of Homeland Security"
+    },
+    "P580": "2013-12-23",
+    "P1365": {
+      "links": [
+        "Jane Holl Lute"
+      ],
+      "stated_as": "Jane Holl Lute"
+    },
+    "P582": "2016-10-28",
+    "P1366": {
+      "links": [
+        "Elaine Duke"
+      ],
+      "stated_as": "Elaine Duke"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of Homeland Security"
+      ],
+      "stated_as": "7th United States Secretary of Homeland Security"
+    },
+    "P580": "2021-02-02",
+    "P1365": {
+      "links": [
+        "Kirstjen Nielsen"
+      ],
+      "stated_as": "Kirstjen Nielsen"
+    }
+  }
+]

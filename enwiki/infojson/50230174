@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "United States Ambassador to South Sudan"
+    },
+    "P1545": "2",
+    "P580": "2015-07-23",
+    "P1365": {
+      "links": [
+        "Susan D. Page"
+      ],
+      "stated_as": "Susan Page"
+    },
+    "P582": "2017-08-22",
+    "P1366": {
+      "links": [
+        "Thomas Hushek"
+      ],
+      "stated_as": "Thomas Hushek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Assistant Secretary of State for International Organization Affairs"
+    },
+    "P580": "2017-12-12",
+    "P1365": {
+      "links": [
+        "Tracey Ann Jacobson"
+      ],
+      "stated_as": "Tracey Ann Jacobson"
+    },
+    "P582": "2018-03-28",
+    "P1366": {
+      "links": [
+        "Kevin Moley"
+      ],
+      "stated_as": "Kevin Moley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for African Affairs"
+      ],
+      "stated_as": "Assistant Secretary of State for African Affairs"
+    },
+    "P580": "2021-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "African Development Foundation"
+      ],
+      "stated_as": "Director of the African Development Foundation"
+    },
+    "P580": "TBD"
+  }
+]

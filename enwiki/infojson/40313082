@@ -1,0 +1,106 @@
+[
+  {
+    "office": {
+      "links": [
+        "Nevada System of Higher Education"
+      ],
+      "stated_as": "Member of the Nevada Board of Regents from the 2nd district"
+    },
+    "P580": "1999-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Maddy Graves"
+    },
+    "P582": "2008-12-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Theresa Malone"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Clark County Commission"
+      ],
+      "stated_as": "Member of the Clark County Commission from District A"
+    },
+    "P580": "2009-01-05",
+    "P1365": {
+      "links": [
+        "Bruce L. Woodbury"
+      ],
+      "stated_as": "Bruce Woodbury"
+    },
+    "P582": "2019-01-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Michael Naft"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Clark County Commission"
+      ],
+      "stated_as": "Vice Chair of the Clark County Commission"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Susan Brager"
+    },
+    "P582": "2013-01-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Larry Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Clark County Commission"
+      ],
+      "stated_as": "Chair of the Clark County Commission"
+    },
+    "P580": "2013-01-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Susan Brager"
+    },
+    "P582": "2019-01-07",
+    "P1366": {
+      "links": [
+        "Marilyn Kirkpatrick"
+      ],
+      "stated_as": "Marilyn Kirkpatrick"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Nevada"
+      ],
+      "stated_as": "30th Governor of Nevada"
+    },
+    "P1545": "30",
+    "P580": "2019-01-07",
+    "P1365": {
+      "links": [
+        "Brian Sandoval"
+      ],
+      "stated_as": "Brian Sandoval"
+    }
+  }
+]

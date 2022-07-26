@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "North Carolina Department of Environmental Quality"
+      ],
+      "stated_as": "2nd Secretary of the North Carolina Department of Environmental Quality"
+    },
+    "P580": "2017-01-03",
+    "P1365": {
+      "links": [
+        "Donald van der Vaart"
+      ],
+      "stated_as": "Donald van der Vaart"
+    },
+    "P582": "2021-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Elizabeth Biser"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator of the Environmental Protection Agency"
+      ],
+      "stated_as": "16th Administrator of the Environmental Protection Agency"
+    },
+    "P580": "2021-03-11",
+    "P1365": {
+      "links": [
+        "Andrew R. Wheeler"
+      ],
+      "stated_as": "Andrew R. Wheeler"
+    }
+  }
+]

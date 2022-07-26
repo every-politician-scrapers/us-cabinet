@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Under Secretary of the Treasury for Domestic Finance"
+      ],
+      "stated_as": "Under Secretary of the Treasury for Domestic Finance"
+    },
+    "P580": "1992-04-07",
+    "P1365": {
+      "links": [
+        "Robert R. Glauber"
+      ],
+      "stated_as": "Robert R. Glauber"
+    },
+    "P582": "1993-01-20",
+    "P1366": {
+      "links": [
+        "Frank N. Newman"
+      ],
+      "stated_as": "Frank N. Newman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Reserve Board of Governors"
+      ],
+      "stated_as": "Member of the Federal Reserve Board of Governors"
+    },
+    "P580": "2012-05-25",
+    "P1365": {
+      "links": [
+        "Frederic Mishkin"
+      ],
+      "stated_as": "Frederic Mishkin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chair of the Federal Reserve"
+      ],
+      "stated_as": "16th Chair of the Federal Reserve"
+    },
+    "P580": "2018-02-05",
+    "P1365": {
+      "links": [
+        "Janet Yellen"
+      ],
+      "stated_as": "Janet Yellen"
+    }
+  }
+]

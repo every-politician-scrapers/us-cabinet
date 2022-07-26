@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Illinois"
+      ],
+      "stated_as": "48th Lieutenant Governor of Illinois"
+    },
+    "P580": "2017-01-11",
+    "P1365": {
+      "links": [
+        "Kenneth Dunkin"
+      ],
+      "stated_as": "Kenneth Dunkin"
+    },
+    "P582": "2019-01-02",
+    "P1366": {
+      "links": [
+        "Lamont Robinson"
+      ],
+      "stated_as": "Lamont Robinson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Illinois"
+      ],
+      "stated_as": "48th Lieutenant Governor of Illinois"
+    },
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Evelyn Sanguinetti"
+      ],
+      "stated_as": "Evelyn Sanguinetti"
+    }
+  }
+]

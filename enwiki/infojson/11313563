@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of Justice of Puerto Rico"
+      ],
+      "stated_as": "Secretary of Justice of Puerto Rico"
+    },
+    "P580": "1993-01-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Héctor Rivera Cruz"
+    },
+    "P582": "1997-01-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "José Fuentes Agostini"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Resident Commissioner of Puerto Rico"
+      ],
+      "stated_as": "Resident Commissioner of Puerto Rico"
+    },
+    "P580": "2009-01-03",
+    "P1365": {
+      "links": [
+        "Luis Fortuño"
+      ],
+      "stated_as": "Luis Fortuño"
+    },
+    "P582": "2017-01-03",
+    "P1366": {
+      "links": [
+        "Jenniffer González"
+      ],
+      "stated_as": "Jenniffer González"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Puerto Rico"
+      ],
+      "stated_as": "Acting Secretary of State of Puerto Rico"
+    },
+    "P580": "2019-07-31",
+    "P1365": {
+      "links": [
+        "María Marcano de León"
+      ],
+      "stated_as": "María Marcano de León (acting)"
+    },
+    "P582": "2019-08-02",
+    "P1366": {
+      "links": [
+        "María Marcano de León"
+      ],
+      "stated_as": "María Marcano de León (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Puerto Rico"
+      ],
+      "stated_as": "Governor of Puerto Rico"
+    },
+    "P580": "2019-08-02",
+    "P1365": {
+      "links": [
+        "Ricardo Rosselló"
+      ],
+      "stated_as": "Ricardo Rosselló"
+    },
+    "P582": "2019-08-07",
+    "P1366": {
+      "links": [
+        "Wanda Vázquez Garced"
+      ],
+      "stated_as": "Wanda Vázquez Garced"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Puerto Rico"
+      ],
+      "stated_as": "Governor of Puerto Rico"
+    },
+    "P580": "2021-01-02",
+    "P1365": {
+      "links": [
+        "Wanda Vázquez Garced"
+      ],
+      "stated_as": "Wanda Vázquez Garced"
+    }
+  }
+]

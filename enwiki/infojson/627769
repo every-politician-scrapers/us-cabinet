@@ -1,0 +1,149 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federal Reserve Board of Governors"
+      ],
+      "stated_as": "Member of the Federal Reserve Board of Governors"
+    },
+    "P580": "1994-08-12",
+    "P1365": {
+      "links": [
+        "Wayne Angell"
+      ],
+      "stated_as": "Wayne Angell"
+    },
+    "P582": "1997-02-17",
+    "P1366": {
+      "links": [
+        "Edward Gramlich"
+      ],
+      "stated_as": "Edward Gramlich"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Council of Economic Advisers"
+      ],
+      "stated_as": "18th Chair of the Council of Economic Advisers"
+    },
+    "P580": "1997-02-18",
+    "P1365": {
+      "links": [
+        "Joseph Stiglitz"
+      ],
+      "stated_as": "Joseph Stiglitz"
+    },
+    "P582": "1999-08-03",
+    "P1366": {
+      "links": [
+        "Martin Neil Baily"
+      ],
+      "stated_as": "Martin Neil Baily"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Reserve Bank of San Francisco"
+      ],
+      "stated_as": "11th President of the Federal Reserve Bank of San Francisco"
+    },
+    "P580": "2004-06-14",
+    "P1365": {
+      "links": [
+        "Robert T. Parry"
+      ],
+      "stated_as": "Robert T. Parry"
+    },
+    "P582": "2010-10-04",
+    "P1366": {
+      "links": [
+        "John C. Williams (economist)"
+      ],
+      "stated_as": "John C. Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice Chair of the Federal Reserve"
+      ],
+      "stated_as": "19th Vice Chair of the Federal Reserve"
+    },
+    "P580": "2010-10-04",
+    "P1365": {
+      "links": [
+        "Donald Kohn"
+      ],
+      "stated_as": "Donald Kohn"
+    },
+    "P582": "2014-02-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Stanley Fischer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Federal Reserve Board of Governors"
+      ],
+      "stated_as": "Member of the Federal Reserve Board of Governors"
+    },
+    "P580": "2010-10-04",
+    "P1365": {
+      "links": [
+        "Mark W. Olson"
+      ],
+      "stated_as": "Mark W. Olson"
+    },
+    "P582": "2018-02-03",
+    "P1366": {
+      "links": [
+        "Lisa D. Cook"
+      ],
+      "stated_as": "Lisa D. Cook"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chair of the Federal Reserve"
+      ],
+      "stated_as": "15th Chair of the Federal Reserve"
+    },
+    "P580": "2014-02-03",
+    "P1365": {
+      "links": [
+        "Ben Bernanke"
+      ],
+      "stated_as": "Ben Bernanke"
+    },
+    "P582": "2018-02-03",
+    "P1366": {
+      "links": [
+        "Jerome Powell"
+      ],
+      "stated_as": "Jerome Powell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Treasury"
+      ],
+      "stated_as": "78th United States Secretary of the Treasury"
+    },
+    "P580": "2021-01-26",
+    "P1365": {
+      "links": [
+        "Steven Mnuchin"
+      ],
+      "stated_as": "Steven Mnuchin"
+    }
+  }
+]

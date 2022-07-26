@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Asia-Pacific Economic Cooperation"
+      ],
+      "stated_as": "Special envoy to the Asia-Pacific Economic Cooperation"
+    },
+    "P580": "2019"
+  },
+  {
+    "office": {
+      "links": [
+        "American Institute in Taiwan"
+      ],
+      "stated_as": "Director of the American Institute in Taiwan"
+    },
+    "P580": "2021-07-15",
+    "P1365": {
+      "links": [
+        "Brent Christensen"
+      ],
+      "stated_as": "Brent Christensen"
+    }
+  }
+]

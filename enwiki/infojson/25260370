@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chair of the Illinois Human Rights Commission"
+    },
+    "P580": "2003",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rose Jennings"
+    },
+    "P582": "2006-07-26",
+    "P1366": {
+      "links": [
+        "Abner Mikva"
+      ],
+      "stated_as": "Abner Mikva"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Illinois"
+      ],
+      "stated_as": "43rd Governor of Illinois"
+    },
+    "P1545": "43",
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Bruce Rauner"
+      ],
+      "stated_as": "Bruce Rauner"
+    }
+  }
+]

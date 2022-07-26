@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Jamaica"
+      ],
+      "stated_as": "United States Ambassador to Jamaica"
+    },
+    "P580": "1993-01-03",
+    "P1365": {
+      "links": [
+        "Elizabeth Connelly"
+      ],
+      "stated_as": "Elizabeth Connelly"
+    },
+    "P582": "2022-03-30",
+    "P1366": {
+      "links": [
+        "Monique Chandler-Waterman"
+      ],
+      "stated_as": "Monique Chandler-Waterman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Jamaica"
+      ],
+      "stated_as": "United States Ambassador to Jamaica"
+    },
+    "P580": "2022-05-13",
+    "P1365": {
+      "links": [
+        "Donald Tapia"
+      ],
+      "stated_as": "Donald Tapia"
+    }
+  }
+]

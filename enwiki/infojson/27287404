@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Massachusetts"
+      ],
+      "stated_as": "72nd Lieutenant Governor of Massachusetts"
+    },
+    "P580": "2001-01-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ronald Gauch"
+    },
+    "P582": "2011-01-08",
+    "P1366": {
+      "links": [
+        "Matthew Beaton"
+      ],
+      "stated_as": "Matthew Beaton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Massachusetts"
+      ],
+      "stated_as": "72nd Lieutenant Governor of Massachusetts"
+    },
+    "P580": "2015-01-08",
+    "P1365": {
+      "links": [
+        "Tim Murray"
+      ],
+      "stated_as": "Tim Murray"
+    }
+  }
+]

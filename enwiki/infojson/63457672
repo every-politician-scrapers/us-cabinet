@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Pennsylvania Department of Health"
+      ],
+      "stated_as": "Secretary of the Pennsylvania Department of Health"
+    },
+    "P580": "2017-07",
+    "P1365": {
+      "links": [
+        "Karen Murphy (Pennsylvania nurse)"
+      ],
+      "stated_as": "Karen Murphy"
+    },
+    "P582": "2021-01-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Alison Beam (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary for Health"
+      ],
+      "stated_as": "17th Assistant Secretary for Health"
+    },
+    "P580": "2021-03-26",
+    "P1365": {
+      "links": [
+        "Brett Giroir"
+      ],
+      "stated_as": "Brett Giroir"
+    }
+  }
+]

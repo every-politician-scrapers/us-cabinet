@@ -1,0 +1,171 @@
+[
+  {
+    "office": {
+      "links": [
+        "Executive Secretary of the United States Department of State"
+      ],
+      "stated_as": "Executive Secretary of the United States Department of State"
+    },
+    "P580": "1996-01-16",
+    "P1365": {
+      "links": [
+        "Kenneth C. Brill"
+      ],
+      "stated_as": "Kenneth C. Brill"
+    },
+    "P582": "1998-02-27",
+    "P1366": {
+      "links": [
+        "Kristie Kenney"
+      ],
+      "stated_as": "Kristie Kenney"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Jordan"
+      ],
+      "stated_as": "United States Ambassador to Jordan"
+    },
+    "P580": "1998-08-09",
+    "P1365": {
+      "links": [
+        "Wesley William Egan, Jr."
+      ],
+      "stated_as": "Wesley Egan"
+    },
+    "P582": "2001-06-04",
+    "P1366": {
+      "links": [
+        "Edward Gnehm"
+      ],
+      "stated_as": "Edward Gnehm"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for Near Eastern Affairs"
+      ],
+      "stated_as": "Assistant Secretary of State for Near Eastern Affairs"
+    },
+    "P580": "2001-06-04",
+    "P1365": {
+      "links": [
+        "Edward S. Walker Jr."
+      ],
+      "stated_as": "Edward S. Walker Jr."
+    },
+    "P582": "2005-03-02",
+    "P1366": {
+      "links": [
+        "David Welch (diplomat)"
+      ],
+      "stated_as": "David Welch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Russia"
+      ],
+      "stated_as": "United States Ambassador to Russia"
+    },
+    "P580": "2005-11-08",
+    "P1365": {
+      "links": [
+        "Alexander Vershbow"
+      ],
+      "stated_as": "Alexander Vershbow"
+    },
+    "P582": "2008-05-13",
+    "P1366": {
+      "links": [
+        "John Beyrle"
+      ],
+      "stated_as": "John Beyrle"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Under Secretary of State for Political Affairs"
+      ],
+      "stated_as": "Under Secretary of State for Political Affairs"
+    },
+    "P580": "2008-05-13",
+    "P1365": {
+      "links": [
+        "R. Nicholas Burns"
+      ],
+      "stated_as": "R. Nicholas Burns"
+    },
+    "P582": "2011-07-28",
+    "P1366": {
+      "links": [
+        "Wendy Sherman"
+      ],
+      "stated_as": "Wendy Sherman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of State"
+      ],
+      "stated_as": "United States Secretary of State"
+    },
+    "P580": "2009-01-20",
+    "P1365": {
+      "links": [
+        "Condoleezza Rice"
+      ],
+      "stated_as": "Condoleezza Rice"
+    },
+    "P582": "2009-01-21",
+    "P1366": {
+      "links": [
+        "Hillary Clinton"
+      ],
+      "stated_as": "Hillary Clinton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of State"
+      ],
+      "stated_as": "17th United States Deputy Secretary of State"
+    },
+    "P580": "2011-07-28",
+    "P1365": {
+      "links": [
+        "James Steinberg"
+      ],
+      "stated_as": "James Steinberg"
+    },
+    "P582": "2014-11-03",
+    "P1366": {
+      "links": [
+        "Antony Blinken"
+      ],
+      "stated_as": "Antony Blinken"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Director of the Central Intelligence Agency"
+      ],
+      "stated_as": "8th Director of the Central Intelligence Agency"
+    },
+    "P580": "2021-03-19",
+    "P1365": {
+      "links": [
+        "Gina Haspel"
+      ],
+      "stated_as": "Gina Haspel"
+    }
+  }
+]

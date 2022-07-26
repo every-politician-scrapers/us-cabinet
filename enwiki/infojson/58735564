@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Connecticut State Department of Education"
+      ],
+      "stated_as": "Commissioner of the Connecticut State Department of Education"
+    },
+    "P580": "2019-08-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dianna Wentzell"
+    },
+    "P582": "2021-03-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Charlene Russell-Tucker"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        " United States Secretary of Education"
+      ],
+      "stated_as": "12th United States Secretary of Education"
+    },
+    "P580": "2021-03-02",
+    "P1365": {
+      "links": [
+        "Betsy DeVos"
+      ],
+      "stated_as": "Betsy DeVos"
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "office": {
+      "links": [
+        "Alaska House of Representatives"
+      ],
+      "stated_as": "Member of the Alaska House of Representatives"
+    },
+    "P580": "2001-01",
+    "P1365": {
+      "links": [
+        "Jerry Sanders (Alaska politician)",
+        "Joe L. Hayes"
+      ],
+      "stated_as": "Jerry Sanders (19th) Joe Hayes (30th)"
+    },
+    "P582": "2009-01",
+    "P1366": {
+      "links": [
+        "Tom Anderson (politician)",
+        "Charisse Millett"
+      ],
+      "stated_as": "Tom Anderson (19th) Charisse Millett (30th)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Alaska Senate"
+      ],
+      "stated_as": "Member of the Alaska Senate"
+    },
+    "P580": "2009-01",
+    "P1365": {
+      "links": [
+        "John Cowdery",
+        "Anna MacKinnon"
+      ],
+      "stated_as": "John Cowdery (O) Constituency established (L) Anna MacKinnon (M)"
+    },
+    "P582": "2018-12-03",
+    "P1366": {
+      "links": [
+        "Peter Micciche",
+        "Lesil McGuire",
+        "Chris Birch (politician)"
+      ],
+      "stated_as": "Peter Micciche (O) Lesil McGuire (L) Chris Birch (M)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Alaska Senate"
+      ],
+      "stated_as": "President of the Alaska Senate"
+    },
+    "P580": "2015-01-20",
+    "P1365": {
+      "links": [
+        "Charlie Huggins"
+      ],
+      "stated_as": "Charlie Huggins"
+    },
+    "P582": "2017-01-17",
+    "P1366": {
+      "links": [
+        "Pete Kelly (Alaska politician)"
+      ],
+      "stated_as": "Pete Kelly"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Alaska"
+      ],
+      "stated_as": "14th Lieutenant Governor of Alaska"
+    },
+    "P580": "2018-12-03",
+    "P1365": {
+      "links": [
+        "Valerie Davidson"
+      ],
+      "stated_as": "Valerie Davidson"
+    }
+  }
+]
