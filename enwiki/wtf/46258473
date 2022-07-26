@@ -621,39 +621,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On November 24 2020, Biden announced his plans to nominate her as the next U.S. Ambassador to the United Nations, and to include her in his cabinet and National Security Council.",
-              "links": [
-                {
-                  "text": "U.S. Ambassador to the United Nations",
-                  "type": "internal",
-                  "page": "United States Ambassador to the United Nations"
-                },
-                {
-                  "text": "cabinet",
-                  "type": "internal",
-                  "page": "Cabinet of Joe Biden"
-                },
-                {
-                  "text": "National Security Council",
-                  "type": "internal",
-                  "page": "United States National Security Council"
-                }
-              ]
-            },
-            {
-              "text": "She appeared before the Senate Committee on Foreign Relations on January 27, 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Senate Committee on Foreign Relations"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
@@ -717,9 +684,9 @@
           "archive-url": "https://web.archive.org/web/20170306145612/https://www.washingtonpost.com/world/national-security/that-drip-drip-is-the-sound-of-two-more-senior-diplomats-leaving-foggy-bottom/2017/03/02/db0913a1-3ad4-40fd-b435-7701a1ac987d_story.html",
           "archive-date": "March 6, 2017",
           "access-date": "March 10, 2017",
-          "work": "Washington Post",
+          "newspaper": "Washington Post",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "title": "Ambassador (ret.) Linda Thomas-Greenfield",
@@ -749,43 +716,6 @@
           "archive-date": "November 10, 2020",
           "access-date": "2020-11-27",
           "publisher": "Albright Stonebridge Group",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "November 23, 2020",
-          "title": "Biden Will Nominate First Women to Lead Treasury and Intelligence, and First Latino to Run Homeland Security",
-          "work": "The New York Times",
-          "url": "https://www.nytimes.com/2020/11/23/us/politics/biden-nominees.html",
-          "access-date": "November 24, 2020",
-          "author": "Michael Crowley and Jeanna Smialek",
-          "quote": "Biden will also nominate Linda Thomas-Greenfield to be ambassador to the United Nations and restore the job to cabinet-level status, giving Ms. Thomas-Greenfield, who is African-American, a seat on his National Security Council.",
-          "archive-date": "November 23, 2020",
-          "archive-url": "https://web.archive.org/web/20201123170639/https://www.nytimes.com/2020/11/23/us/politics/biden-nominees.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Zilbermints",
-          "first": "Regina",
-          "date": "November 23, 2020",
-          "title": "Biden picks Linda Thomas-Greenfield for US envoy to UN",
-          "url": "https://thehill.com/policy/international/527167-biden-picks-linda-thomas-greenfield-for-us-envoy-to-un",
-          "website": "TheHill",
-          "access-date": "November 23, 2020",
-          "archive-date": "November 23, 2020",
-          "archive-url": "https://web.archive.org/web/20201123172548/https://thehill.com/policy/international/527167-biden-picks-linda-thomas-greenfield-for-us-envoy-to-un",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.devex.com/news/what-linda-thomas-greenfield-s-hearing-says-about-us-leadership-at-un-98998",
-          "title": "What Linda Thomas-Greenfield's hearing says about US leadership at UN",
-          "publisher": "Devex.com",
-          "date": "January 28, 2021",
-          "accessdate": "January 31, 2021",
           "template": "citation",
           "type": "web"
         },
@@ -820,6 +750,35 @@
       "paragraphs": [
         {
           "sentences": [
+            {
+              "text": "On November 24 2020, Biden announced his plans to nominate her as the next U.S. Ambassador to the United Nations, and to include her in his cabinet and National Security Council.",
+              "links": [
+                {
+                  "text": "U.S. Ambassador to the United Nations",
+                  "type": "internal",
+                  "page": "United States Ambassador to the United Nations"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Joe Biden"
+                },
+                {
+                  "text": "National Security Council",
+                  "type": "internal",
+                  "page": "United States National Security Council"
+                }
+              ]
+            },
+            {
+              "text": "She appeared before the Senate Committee on Foreign Relations on January 27, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate Committee on Foreign Relations"
+                }
+              ]
+            },
             {
               "text": "During the confirmation hearing on her nomination for U.N. ambassador, Thomas-Greenfield said she regretted giving a speech to a Beijing-backed Confucius Institute in 2019 when she was working for a private consulting firm.",
               "links": [
@@ -866,7 +825,10 @@
               ]
             },
             {
-              "text": "Thomas-Greenfield was confirmed by the United States Senate on February 23, 2021, by a 78–20 vote.",
+              "text": "The committee favorably reported her nominations on February 4, 2021."
+            },
+            {
+              "text": "Thomas-Greenfield was confirmed by the United States Senate on February 23, 2021, by a 78–20 vote to be the UN Ambassador; she was subsequently confirmed, by a vote of 78-21, to be the US representative to the General Assembly of the UN.",
               "links": [
                 {
                   "type": "internal",
@@ -892,7 +854,152 @@
                   "page": "Kelly Craft"
                 }
               ]
-            },
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:V20210224LJ-0130_(51013313857).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/V20210224LJ-0130_(51013313857).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/V20210224LJ-0130_(51013313857).jpg",
+          "caption": "Ambassador Thomas-Greenfield is sworn in by Vice President Kamala Harris in February 2021",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "date": "November 23, 2020",
+          "title": "Biden Will Nominate First Women to Lead Treasury and Intelligence, and First Latino to Run Homeland Security",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/2020/11/23/us/politics/biden-nominees.html",
+          "access-date": "November 24, 2020",
+          "author": "Michael Crowley and Jeanna Smialek",
+          "quote": "Biden will also nominate Linda Thomas-Greenfield to be ambassador to the United Nations and restore the job to cabinet-level status, giving Ms. Thomas-Greenfield, who is African-American, a seat on his National Security Council.",
+          "archive-date": "November 23, 2020",
+          "archive-url": "https://web.archive.org/web/20201123170639/https://www.nytimes.com/2020/11/23/us/politics/biden-nominees.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Zilbermints",
+          "first": "Regina",
+          "date": "November 23, 2020",
+          "title": "Biden picks Linda Thomas-Greenfield for US envoy to UN",
+          "url": "https://thehill.com/policy/international/527167-biden-picks-linda-thomas-greenfield-for-us-envoy-to-un",
+          "website": "TheHill",
+          "access-date": "November 23, 2020",
+          "archive-date": "November 23, 2020",
+          "archive-url": "https://web.archive.org/web/20201123172548/https://thehill.com/policy/international/527167-biden-picks-linda-thomas-greenfield-for-us-envoy-to-un",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.devex.com/news/what-linda-thomas-greenfield-s-hearing-says-about-us-leadership-at-un-98998",
+          "title": "What Linda Thomas-Greenfield's hearing says about US leadership at UN",
+          "publisher": "Devex.com",
+          "date": "January 28, 2021",
+          "accessdate": "January 31, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Bade",
+          "first1": "Gavin",
+          "title": "Cruz delays vote on U.N. nominee Thomas-Greenfield as impeachment trial looms",
+          "url": "https://www.politico.com/news/2021/02/02/cruz-delays-thomas-greenfield-vote-465285",
+          "access-date": "February 3, 2021",
+          "work": "POLITICO",
+          "date": "February 2, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.haaretz.com/us-news/.premium-bds-verges-on-antisemitism-biden-s-pick-for-un-envoy-says-1.9488357",
+          "title": "BDS verges on Antisemitism, Biden's pick for US Envoy says",
+          "work": "Haaretz",
+          "first": "Ben",
+          "last": "Samuels",
+          "date": "27 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "On the Nomination (Confirmation: Linda Thomas-Greenfield, of Louisiana, to be the Representative of the United States of America to the United Nations and the Representative of the United States of America in the Security Council of the United Nations)",
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00061.htm",
+          "website": "US Senate",
+          "access-date": "25 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "On the Nomination (Confirmation: Linda Thomas-Greenfield, of Louisiana, to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations)",
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00064.htm",
+          "website": "US Senate",
+          "access-date": "25 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.politico.com/news/2021/02/23/un-ambassador-linda-thomas-greenfield-471172",
+          "title": "'It Can Only Get Better': Linda Thomas-Greenfield Headed to Crisis-Plagued U.N.",
+          "date": "February 23, 2021",
+          "accessdate": "February 23, 2021",
+          "first": "Ryan",
+          "last": "Heath",
+          "work": "Politico",
+          "quote": "\"[She] will arrive in New York February 25 to present her credentials to U.N. Secretary General António Guterres.\"",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-02-25",
+          "title": "New US envoy starts challenge to restore US on world stage",
+          "url": "https://apnews.com/article/world-news-linda-thomas-greenfield-iran-nuclear-moscow-antonio-guterres-48de9bd63d25d1025a5e0e8eba9c8ec2",
+          "access-date": "2021-03-09",
+          "website": "AP NEWS",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bet.com/news/national/2021/02/23/linda-thomas-greenfield-u-n-ambassador-confirmation0.html?cid=facebook",
+          "title": "Senate Approves Linda Thomas-Greenfield As New U.N. Ambassador",
+          "website": "BET.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biden Pick for U.N. Envoy Expresses Regret for China Speech",
+          "last": "Mauldin",
+          "first": "William",
+          "newspaper": "The Wall Street Journal",
+          "date": "January 28, 2021",
+          "access-date": "February 2, 2021",
+          "url": "https://www.wsj.com/articles/biden-pick-for-u-n-envoy-expresses-regret-for-china-speech-11611777983",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Linda Thomas-Greenfield, Biden's U.N. pick, says she regrets positive China speech in Senate grilling",
+          "last": "Feng",
+          "first": "John",
+          "magazine": "Newsweek",
+          "date": "January 28, 2021",
+          "access-date": "February 2, 2021",
+          "url": "https://www.newsweek.com/linda-thomas-greenfield-says-she-regrets-positive-china-speech-senate-grilling-1565098",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Tenure",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
             {
               "text": "Beginning on March 1, 2021, the United States became president of the United Nations Security Council; thus Greenfield became president of the council as head of the United States delegation.",
               "links": [
@@ -911,7 +1018,7 @@
               "text": "Her term ended on March 31, 2021."
             },
             {
-              "text": "Her next term as President of the UNSC began on May 1, 2022, in the middle of the continuing war in Ukraine by the Russian Federation, and ended on May 31, 2022, being succeeded by the Albanian ambassador, Ferit Hoxha, for June 2022.",
+              "text": "Her next term as President of the UNSC began on May 1, 2022, in the middle of the continuing war in Ukraine by Russia, and ended on May 31, 2022, being succeeded by the Albanian ambassador, Ferit Hoxha, for June 2022.",
               "links": [
                 {
                   "text": "war in Ukraine",
@@ -920,7 +1027,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Russian Federation"
+                  "page": "Russia"
                 },
                 {
                   "text": "Albanian",
@@ -994,13 +1101,6 @@
       ],
       "images": [
         {
-          "file": "File:V20210224LJ-0130_(51013313857).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/V20210224LJ-0130_(51013313857).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/V20210224LJ-0130_(51013313857).jpg",
-          "caption": "Ambassador Thomas-Greenfield is sworn in by Vice President Kamala Harris in February 2021",
-          "links": []
-        },
-        {
           "file": "File:P20210318AS-1641_(51130058919).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/P20210318AS-1641_(51130058919).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/P20210318AS-1641_(51130058919).jpg",
@@ -1009,55 +1109,6 @@
         }
       ],
       "references": [
-        {
-          "last1": "Bade",
-          "first1": "Gavin",
-          "title": "Cruz delays vote on U.N. nominee Thomas-Greenfield as impeachment trial looms",
-          "url": "https://www.politico.com/news/2021/02/02/cruz-delays-thomas-greenfield-vote-465285",
-          "access-date": "February 3, 2021",
-          "work": "POLITICO",
-          "date": "February 2, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.haaretz.com/us-news/.premium-bds-verges-on-antisemitism-biden-s-pick-for-un-envoy-says-1.9488357",
-          "title": "BDS verges on Antisemitism, Biden's pick for US Envoy says",
-          "work": "Haaretz",
-          "first": "Ben",
-          "last": "Samuels",
-          "date": "27 January 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.politico.com/news/2021/02/23/un-ambassador-linda-thomas-greenfield-471172",
-          "title": "'It Can Only Get Better': Linda Thomas-Greenfield Headed to Crisis-Plagued U.N.",
-          "date": "February 23, 2021",
-          "accessdate": "February 23, 2021",
-          "first": "Ryan",
-          "last": "Heath",
-          "work": "Politico",
-          "quote": "\"[She] will arrive in New York February 25 to present her credentials to U.N. Secretary General António Guterres.\"",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-02-25",
-          "title": "New US envoy starts challenge to restore US on world stage",
-          "url": "https://apnews.com/article/world-news-linda-thomas-greenfield-iran-nuclear-moscow-antonio-guterres-48de9bd63d25d1025a5e0e8eba9c8ec2",
-          "access-date": "2021-03-09",
-          "website": "AP NEWS",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bet.com/news/national/2021/02/23/linda-thomas-greenfield-u-n-ambassador-confirmation0.html?cid=facebook",
-          "title": "Senate Approves Linda Thomas-Greenfield As New U.N. Ambassador",
-          "website": "BET.com",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "last": "Nichols",
           "first": "Michelle",
@@ -1085,28 +1136,6 @@
           "date": "10 June 2021",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "title": "Biden Pick for U.N. Envoy Expresses Regret for China Speech",
-          "last": "Mauldin",
-          "first": "William",
-          "newspaper": "The Wall Street Journal",
-          "date": "January 28, 2021",
-          "access-date": "February 2, 2021",
-          "url": "https://www.wsj.com/articles/biden-pick-for-u-n-envoy-expresses-regret-for-china-speech-11611777983",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Linda Thomas-Greenfield, Biden's U.N. pick, says she regrets positive China speech in Senate grilling",
-          "last": "Feng",
-          "first": "John",
-          "magazine": "Newsweek",
-          "date": "January 28, 2021",
-          "access-date": "February 2, 2021",
-          "url": "https://www.newsweek.com/linda-thomas-greenfield-says-she-regrets-positive-china-speech-senate-grilling-1565098",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },

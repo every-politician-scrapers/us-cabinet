@@ -117,6 +117,10 @@
           "template": "use mdy dates"
         },
         {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
           "description": "76th governor of Rhode Island",
           "template": "short description"
         },

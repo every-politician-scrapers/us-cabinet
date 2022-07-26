@@ -2256,7 +2256,7 @@
       ]
     },
     {
-      "title": "Tenure",
+      "title": "Tenure aside from COVID-19 pandemic",
       "depth": 1,
       "paragraphs": [
         {
@@ -3076,11 +3076,35 @@
     },
     {
       "title": "COVID-19 pandemic",
-      "depth": 2,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": []
-        },
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Vice_President_Pence_in_Florida_(49923339047).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vice_President_Pence_in_Florida_(49923339047).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vice_President_Pence_in_Florida_(49923339047).jpg",
+          "caption": "DeSantis sits with Vice President Mike Pence at a local restaurant in May 2020",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "COVID-19 pandemic in the United States",
+            "COVID-19 pandemic in Florida"
+          ],
+          "template": "see also"
+        }
+      ]
+    },
+    {
+      "title": "2020",
+      "depth": 2,
+      "paragraphs": [
         {
           "sentences": [
             {
@@ -3094,98 +3118,6 @@
             },
             {
               "text": "Scientists and media outlets have given mixed reviews of DeSantis's handling of the pandemic."
-            },
-            {
-              "text": "DeSantis's handling of COVID-19 in Florida was initially unpopular among the state's voters: by May 2020, he was the only U.S. governor whose approval had declined after COVID-19 became widespread in the U.S. But after a few months, DeSantis's reluctance to impose restrictions in response to the pandemic led to an increase in approval, especially among Republican voters."
-            },
-            {
-              "text": "By February 2021, he had generally positive approval ratings, ranging from 51% to 64%."
-            },
-            {
-              "text": "In March 2021, Politico called DeSantis the most \"politically ascendant\" governor in the country, as his controversial policies had been at that point \"short of or even the opposite of ruinous\", while Florida had \"fared no worse, and in some ways better, than many other states\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Politico"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Politico"
-                ]
-              }
-            },
-            {
-              "text": "But by August 2021, amid a record in new cases within the state, Florida had become the state with the highest per capita hospitalizations for COVID-19."
-            },
-            {
-              "text": "In May 2022, a Bloomberg News op-ed claimed that, when adjusting state death tolls based on what they would be if age distribution were equal between the states, Florida's COVID-19 death toll would be less than the national average and only slightly more than California's.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bloomberg News"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "According to the Sun-Sentinel, \"DeSantis, who owes his job to early support from President Donald Trump, imposed an approach in line with the views of the president and his powerful base of supporters. The administration suppressed unfavorable facts, dispensed dangerous misinformation, dismissed public health professionals, and promoted the views of scientific dissenters who supported the governor’s approach to the disease.\"",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sun-Sentinel"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Sun-Sentinel"
-                ]
-              }
-            },
-            {
-              "text": "By April 2021, Florida was 27th out of 50 in both cases and deaths per capita."
-            },
-            {
-              "text": "A study published in the American Journal of Public Health found substantial underreporting of deaths from COVID-19 in Florida from March to September 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "American Journal of Public Health"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "American Journal of Public Health"
-                ]
-              }
-            },
-            {
-              "text": "Experts noted similar underreporting has occurred throughout the nation."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "DeSantis rejected the implementation of a statewide face mask mandate, belatedly implemented stay-at-home orders, and let his stay-at-home order implemented in April expire.",
-              "links": [
-                {
-                  "text": "face mask mandate",
-                  "type": "internal",
-                  "page": "Face masks during the COVID-19 pandemic"
-                }
-              ]
-            },
-            {
-              "text": "In July 2020, when Florida was a global epicenter of the coronavirus with nearly 5,800 deaths, DeSantis largely sidelined health experts and scientists, with The Washington Post reporting that he relied primarily on his wife, a former television reporter, and his chief of staff, a former hospital executive.",
-              "formatting": {
-                "italic": [
-                  "The Washington Post"
-                ]
-              }
             }
           ]
         },
@@ -3196,6 +3128,16 @@
             },
             {
               "text": "Experts argued that delays in lockdown would greatly increase Florida's COVID numbers and leave it susceptible to becoming a new hot spot."
+            },
+            {
+              "text": "DeSantis rejected the implementation of a statewide face mask mandate, belatedly implemented stay-at-home orders, and let his stay-at-home order implemented in April expire.",
+              "links": [
+                {
+                  "text": "face mask mandate",
+                  "type": "internal",
+                  "page": "Face masks during the COVID-19 pandemic"
+                }
+              ]
             }
           ]
         },
@@ -3255,6 +3197,13 @@
         {
           "sentences": [
             {
+              "text": "DeSantis's handling of COVID-19 in Florida was initially unpopular among the state's voters: by May 2020, he was the only U.S. governor whose approval had declined after COVID-19 became widespread in the U.S. But after a few months, DeSantis's reluctance to impose restrictions in response to the pandemic led to an increase in approval, especially among Republican voters."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "DeSantis sought to have the 2020 Republican National Convention in Jacksonville.",
               "links": [
                 {
@@ -3305,6 +3254,18 @@
               "text": "On June 28, 2020, DeSantis said Florida was in \"good shape\" in its fight against COVID-19."
             },
             {
+              "text": "In July 2020, when Florida was a global epicenter of the coronavirus with nearly 5,800 deaths, DeSantis largely sidelined health experts and scientists, with The Washington Post reporting that he relied primarily on his wife, a former television reporter, and his chief of staff, a former hospital executive.",
+              "formatting": {
+                "italic": [
+                  "The Washington Post"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "In September 2020, he lifted all restrictions on capacity in bars and restaurants, despite persistent cases."
             },
             {
@@ -3354,6 +3315,338 @@
             },
             {
               "text": "By October 2020, he announced all 67 public school districts were open for in-person learning."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "According to a December 2020 article in the Sun-Sentinel, \"DeSantis, who owes his job to early support from President Donald Trump, imposed an approach in line with the views of the president and his powerful base of supporters. The administration suppressed unfavorable facts, dispensed dangerous misinformation, dismissed public health professionals, and promoted the views of scientific dissenters who supported the governor’s approach to the disease.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sun-Sentinel"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Sun-Sentinel"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:President_Trump_Meets_with_the_Governor_of_Florida_(49830919747).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President_Trump_Meets_with_the_Governor_of_Florida_(49830919747).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Trump_Meets_with_the_Governor_of_Florida_(49830919747).jpg",
+          "caption": "President Donald Trump and Governor DeSantis discuss COVID-19 prevention efforts in Florida in an April 2020 meeting in the Oval Office of the White House.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "date": "March 26, 2020",
+          "title": "Coronavirus Update: Governor Ron DeSantis Calls For Major Disaster Declaration For Florida",
+          "url": "https://www.msn.com/en-us/news/us/coronavirus-update-governor-ron-desantis-calls-for-major-disaster-declaration-for-florida/ar-BB11E0A4",
+          "publisher": "MSN News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "March 25, 2020",
+          "title": "Gov. Ron DeSantis won't shut down Florida. Here's who he's talking to about that.",
+          "work": "Tampa Bay Times",
+          "url": "https://www.tampabay.com/news/health/2020/03/25/gov-ron-desantis-wont-shut-down-florida-heres-who-hes-talking-to-about-that",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Florida and DeSantis Defy Covid-19 and the Critics",
+          "url": "https://www.bloomberg.com/opinion/articles/2021-05-21/florida-and-ron-desantis-defy-covid-19-and-critics",
+          "access-date": "2021-06-09",
+          "newspaper": "Bloomberg.com",
+          "date": "May 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Lopez",
+          "first": "German",
+          "date": "2020-07-17",
+          "title": "Florida now has more Covid-19 cases than any other state. Here's what went wrong.",
+          "url": "https://www.vox.com/future-perfect/2020/7/17/21324398/florida-coronavirus-covid-cases-deaths-outbreak",
+          "access-date": "2020-07-26",
+          "website": "Vox",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Dixon",
+          "first": "Matt",
+          "date": "24 March 2020",
+          "title": "'Dumbest s---': DeSantis takes heat as he goes his own way on coronavirus",
+          "language": "en",
+          "work": "Politico",
+          "url": "https://www.politico.com/states/florida/story/2020/03/24/dumbest-s-desantis-takes-heat-as-he-goes-his-own-way-on-coronavirus-1268818",
+          "access-date": "12 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Barbash, Fred",
+          "date": "April 1, 2020",
+          "title": "Florida governor issues coronavirus stay-at-home order after heavy criticism",
+          "newspaper": "The Washington Post",
+          "url": "https://www.washingtonpost.com/nation/2020/04/01/coronavirus-florida-desantis/",
+          "access-date": "April 1, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Rohrer",
+          "first1": "Gray",
+          "last2": "Lemongello",
+          "first2": "Steven",
+          "date": "April 1, 2020",
+          "title": "DeSantis orders statewide shutdown for Florida through April",
+          "work": "Orlando Sentinel",
+          "url": "https://www.orlandosentinel.com/coronavirus/os-ne-coronavirus-desantis-wednesday-20200401-yc2ttrxuw5hx7ci3zn2id3ynlq-story.html",
+          "access-date": "April 1, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Johnson",
+          "first": "Martin",
+          "date": "10 April 2020",
+          "title": "Florida Gov. DeSantis mulls reopening schools: Coronavirus 'doesn't seem to threaten' kids",
+          "url": "https://thehill.com/homenews/state-watch/492152-florida-gov-desantis-says-coronavirus-doesnt-seem-to-threaten-kids-mulls",
+          "access-date": "12 April 2020",
+          "website": "The Hill",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Putterman",
+          "first": "Samantha",
+          "date": "April 10, 2020",
+          "title": "Florida governor falsely claims novel coronavirus hasn't killed anyone under 25 in the US",
+          "url": "https://www.politifact.com/factchecks/2020/apr/10/ron-desantis/florida-governor-falsely-claims-novel-coronavirus-/",
+          "access-date": "July 15, 2020",
+          "website": "PolitiFact",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "May 21, 2020",
+          "title": "Governor approval ratings amid the coronavirus pandemic",
+          "url": "https://napequity.org/wp-content/uploads/NAPE_governor-approval-ratings_edits_5.21.20_vfinal-002.pdf",
+          "website": "National Alliance for Partnerships in Equity",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Anderson",
+          "first": "Zac",
+          "title": "New poll shows 53% of Florida voters approve of DeSantis, a big increase from July",
+          "url": "https://www.heraldtribune.com/story/news/politics/state/2021/03/02/florida-governor-ron-desantis-approval-rating-sees-big-increase-covid-pandemic-anniversary/6877677002/",
+          "access-date": "2021-04-02",
+          "website": "Sarasota Herald-Tribune",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Florida governor high-fives at Trump rally",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/av/election-us-2020-54531571",
+          "access-date": "2021-05-20",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Dusenbury",
+          "first": "Wells",
+          "title": "Hotel slapped with warning for hosting maskless DeSantis crowd",
+          "url": "https://www.sun-sentinel.com/local/palm-beach/fl-ne-desantis-pbc-masks-20210219-hazvwr6z65fbbjwvojzt3k5ldq-story.html",
+          "access-date": "2021-05-20",
+          "website": "sun-sentinel.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Rummler",
+          "first": "Orion",
+          "date": "June 30, 2020",
+          "title": "Florida is \"not going back\" on reopening, governor says",
+          "language": "en",
+          "work": "Axios",
+          "url": "https://www.axios.com/florida-coronavirus-desantis-3fe9b6c4-532b-4b2f-bf20-391e586abd2d.html",
+          "access-date": "2020-06-30",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Burke",
+          "first": "Peter",
+          "date": "June 28, 2020",
+          "title": "DeSantis says Florida in 'good shape' in fight against coronavirus",
+          "language": "en",
+          "work": "WPTV",
+          "url": "https://www.wptv.com/news/state/desantis-says-florida-in-good-shape-in-fight-against-coronavirus",
+          "access-date": "July 6, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Solomon",
+          "first1": "Josh",
+          "last2": "Ceballos",
+          "first2": "Ana",
+          "date": "September 25, 2020",
+          "title": "DeSantis lifts statewide restrictions on bars and restaurants as Florida moves to phase 3",
+          "language": "en",
+          "work": "Tampa Bay Times",
+          "url": "https://www.tampabay.com/news/florida-politics/2020/09/25/desantis-bars-and-restaurants-can-go-to-full-capacity-as-florida-moves-to-phase-3/",
+          "access-date": "October 14, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Avlon",
+          "first1": "John",
+          "last2": "Warren",
+          "first2": "Michael",
+          "last3": "Miller",
+          "first3": "Brandon",
+          "date": "October 29, 2020",
+          "title": "Atlas push to 'slow the testing down' tracks with dramatic decline in one key state",
+          "work": "CNN",
+          "url": "https://www.cnn.com/2020/10/29/politics/atlas-desantis-testing-covid-florida/index.html",
+          "access-date": "2020-10-29",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wootson Jr.",
+          "first1": "Cleve R.",
+          "last2": "Stanley-Becker",
+          "first2": "Isaac",
+          "last3": "Rozsa",
+          "first3": "Lori",
+          "last4": "Dawsey",
+          "first4": "Josh",
+          "date": "July 25, 2020",
+          "title": "Coronavirus ravaged Florida, as Ron DeSantis sidelined scientists and followed Trump",
+          "newspaper": "The Washington Post",
+          "url": "https://www.washingtonpost.com/national/coronavirus-ravaged-florida-as-ron-desantis-sidelined-scientists-and-followed-trump/2020/07/25/0b8008da-c648-11ea-b037-f9711f89ee46_story.html",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ariza",
+          "first1": "Mario",
+          "last2": "Fleshler",
+          "first2": "David",
+          "last3": "Goodman",
+          "first3": "Cindy",
+          "date": "December 3, 2020",
+          "title": "Secrecy and spin: How Florida's governor misled the public on the COVID-19 pandemic",
+          "work": "South Florida Sun Sentinel",
+          "url": "https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
+          "access-date": "December 4, 2020",
+          "archive-url": "https://web.archive.org/web/20201203214624/https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
+          "archive-date": "December 3, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "September 25, 2020",
+          "title": "Florida lifts all coronavirus restaurant restrictions despite persistent cases",
+          "language": "en-US",
+          "work": "CBS News",
+          "url": "https://www.cbsnews.com/news/florida-governor-ron-desantis-lifts-coronavirus-restaurant-restrictions-statewide/",
+          "access-date": "October 14, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.tampabay.com/florida-politics/buzz/2020/07/09/gov-ron-desantis-doubles-down-on-schools-reopening-full-time-in-august/",
+          "title": "Gov. Ron DeSantis doubles down on schools reopening full time in August",
+          "first": "Mary Ellen",
+          "last": "Klas",
+          "website": "Tampa Bay Times",
+          "date": "9 Jul 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Goodman",
+          "first": "Mario Ariza, David Fleshler, Cindy Krischer",
+          "title": "Secrecy and spin: How Florida's governor misled the public on the COVID-19 pandemic",
+          "url": "https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
+          "url-status": "dead",
+          "website": "Sun Sentinel",
+          "place": "Fort Lauderdale",
+          "archive-url": "https://archive.today/20201208131913/https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
+          "archive-date": "December 8, 2020",
+          "access-date": "April 12, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "2021",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "By February 2021, he had generally positive approval ratings, ranging from 51% to 64%."
+            },
+            {
+              "text": "In March 2021, Politico called DeSantis the most \"politically ascendant\" governor in the country, as his controversial policies had been at that point \"short of or even the opposite of ruinous\", while Florida had \"fared no worse, and in some ways better, than many other states\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Politico"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Politico"
+                ]
+              }
+            },
+            {
+              "text": "By August 2021, amid a record in new cases within the state, Florida had become the state with the highest per capita hospitalizations for COVID-19."
+            },
+            {
+              "text": "By April 2021, Florida was 27th out of 50 in both cases and deaths per capita."
+            },
+            {
+              "text": "A study published in the American Journal of Public Health found substantial underreporting of deaths from COVID-19 in Florida from March to September 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "American Journal of Public Health"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "American Journal of Public Health"
+                ]
+              }
+            },
+            {
+              "text": "Experts noted similar underreporting has occurred throughout the nation."
             }
           ]
         },
@@ -3539,98 +3832,9 @@
               "text": "DeSantis called it \"the strongest piece of legislation that's been enacted anywhere in the country\" in opposition to COVID-19 vaccination mandates."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On March 2, 2022, DeSantis scolded students for wearing face masks at a press conference he called, saying: \"You do not have to wear those masks. I mean, please take them off\" and \"Honestly, it's not doing anything, and we gotta stop with this Covid theater. So if you want to wear it, fine. But this is ridiculous.\""
-            },
-            {
-              "text": "Several students removed their masks in response, but others kept theirs on."
-            },
-            {
-              "text": "DeSantis's office tweeted a version of the video without the scolding."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In June 2022, DeSantis decided against ordering COVID-19 vaccines for children under 5, making Florida the only state not to preorder vaccines for that demographic."
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Vice_President_Pence_in_Florida_(49923339047).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vice_President_Pence_in_Florida_(49923339047).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vice_President_Pence_in_Florida_(49923339047).jpg",
-          "caption": "DeSantis sits with Vice President Mike Pence at a local restaurant in May 2020",
-          "links": []
-        },
-        {
-          "file": "File:President_Trump_Meets_with_the_Governor_of_Florida_(49830919747).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President_Trump_Meets_with_the_Governor_of_Florida_(49830919747).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Trump_Meets_with_the_Governor_of_Florida_(49830919747).jpg",
-          "caption": "President Donald Trump and Governor DeSantis discuss COVID-19 prevention efforts in Florida in an April 2020 meeting in the Oval Office of the White House.",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "COVID-19 pandemic in the United States",
-            "COVID-19 pandemic in Florida"
-          ],
-          "template": "see also"
         }
       ],
       "references": [
-        {
-          "date": "March 26, 2020",
-          "title": "Coronavirus Update: Governor Ron DeSantis Calls For Major Disaster Declaration For Florida",
-          "url": "https://www.msn.com/en-us/news/us/coronavirus-update-governor-ron-desantis-calls-for-major-disaster-declaration-for-florida/ar-BB11E0A4",
-          "publisher": "MSN News",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "March 25, 2020",
-          "title": "Gov. Ron DeSantis won't shut down Florida. Here's who he's talking to about that.",
-          "work": "Tampa Bay Times",
-          "url": "https://www.tampabay.com/news/health/2020/03/25/gov-ron-desantis-wont-shut-down-florida-heres-who-hes-talking-to-about-that",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Florida and DeSantis Defy Covid-19 and the Critics",
-          "url": "https://www.bloomberg.com/opinion/articles/2021-05-21/florida-and-ron-desantis-defy-covid-19-and-critics",
-          "access-date": "2021-06-09",
-          "newspaper": "Bloomberg.com",
-          "date": "May 21, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "May 21, 2020",
-          "title": "Governor approval ratings amid the coronavirus pandemic",
-          "url": "https://napequity.org/wp-content/uploads/NAPE_governor-approval-ratings_edits_5.21.20_vfinal-002.pdf",
-          "website": "National Alliance for Partnerships in Equity",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Anderson",
-          "first": "Zac",
-          "title": "New poll shows 53% of Florida voters approve of DeSantis, a big increase from July",
-          "url": "https://www.heraldtribune.com/story/news/politics/state/2021/03/02/florida-governor-ron-desantis-approval-rating-sees-big-increase-covid-pandemic-anniversary/6877677002/",
-          "access-date": "2021-04-02",
-          "website": "Sarasota Herald-Tribune",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "date": "2021-01-29",
           "title": "Gov. DeSantis's job approval rating at 54%",
@@ -3683,18 +3887,6 @@
           "type": "news"
         },
         {
-          "last": "Fox",
-          "first": "Justin",
-          "date": "2022-05-07",
-          "title": "California Versus Florida, a Covid Reckoning",
-          "language": "en",
-          "work": "Bloomberg News",
-          "url": "https://www.bloomberg.com/opinion/articles/2022-05-07/california-versus-florida-a-covid-reckoning",
-          "access-date": "2022-06-05",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.cnn.com/2021/04/01/health/florida-covid-data/index.html",
           "title": "Extreme policies, average statistics raise questions around Florida's Covid-19 data",
           "author": "Deidre McPhillips",
@@ -3736,148 +3928,6 @@
           "pmc-embargo-date": "April 1, 2023",
           "template": "citation",
           "type": "journal"
-        },
-        {
-          "last": "Lopez",
-          "first": "German",
-          "date": "2020-07-17",
-          "title": "Florida now has more Covid-19 cases than any other state. Here's what went wrong.",
-          "url": "https://www.vox.com/future-perfect/2020/7/17/21324398/florida-coronavirus-covid-cases-deaths-outbreak",
-          "access-date": "2020-07-26",
-          "website": "Vox",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Dixon",
-          "first": "Matt",
-          "date": "24 March 2020",
-          "title": "'Dumbest s---': DeSantis takes heat as he goes his own way on coronavirus",
-          "language": "en",
-          "work": "Politico",
-          "url": "https://www.politico.com/states/florida/story/2020/03/24/dumbest-s-desantis-takes-heat-as-he-goes-his-own-way-on-coronavirus-1268818",
-          "access-date": "12 April 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Barbash, Fred",
-          "date": "April 1, 2020",
-          "title": "Florida governor issues coronavirus stay-at-home order after heavy criticism",
-          "newspaper": "The Washington Post",
-          "url": "https://www.washingtonpost.com/nation/2020/04/01/coronavirus-florida-desantis/",
-          "access-date": "April 1, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Rohrer",
-          "first1": "Gray",
-          "last2": "Lemongello",
-          "first2": "Steven",
-          "date": "April 1, 2020",
-          "title": "DeSantis orders statewide shutdown for Florida through April",
-          "work": "Orlando Sentinel",
-          "url": "https://www.orlandosentinel.com/coronavirus/os-ne-coronavirus-desantis-wednesday-20200401-yc2ttrxuw5hx7ci3zn2id3ynlq-story.html",
-          "access-date": "April 1, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Johnson",
-          "first": "Martin",
-          "date": "10 April 2020",
-          "title": "Florida Gov. DeSantis mulls reopening schools: Coronavirus 'doesn't seem to threaten' kids",
-          "url": "https://thehill.com/homenews/state-watch/492152-florida-gov-desantis-says-coronavirus-doesnt-seem-to-threaten-kids-mulls",
-          "access-date": "12 April 2020",
-          "website": "The Hill",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Putterman",
-          "first": "Samantha",
-          "date": "April 10, 2020",
-          "title": "Florida governor falsely claims novel coronavirus hasn't killed anyone under 25 in the US",
-          "url": "https://www.politifact.com/factchecks/2020/apr/10/ron-desantis/florida-governor-falsely-claims-novel-coronavirus-/",
-          "access-date": "July 15, 2020",
-          "website": "PolitiFact",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Florida governor high-fives at Trump rally",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/av/election-us-2020-54531571",
-          "access-date": "2021-05-20",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Dusenbury",
-          "first": "Wells",
-          "title": "Hotel slapped with warning for hosting maskless DeSantis crowd",
-          "url": "https://www.sun-sentinel.com/local/palm-beach/fl-ne-desantis-pbc-masks-20210219-hazvwr6z65fbbjwvojzt3k5ldq-story.html",
-          "access-date": "2021-05-20",
-          "website": "sun-sentinel.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Rummler",
-          "first": "Orion",
-          "date": "June 30, 2020",
-          "title": "Florida is \"not going back\" on reopening, governor says",
-          "language": "en",
-          "work": "Axios",
-          "url": "https://www.axios.com/florida-coronavirus-desantis-3fe9b6c4-532b-4b2f-bf20-391e586abd2d.html",
-          "access-date": "2020-06-30",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Burke",
-          "first": "Peter",
-          "date": "June 28, 2020",
-          "title": "DeSantis says Florida in 'good shape' in fight against coronavirus",
-          "language": "en",
-          "work": "WPTV",
-          "url": "https://www.wptv.com/news/state/desantis-says-florida-in-good-shape-in-fight-against-coronavirus",
-          "access-date": "July 6, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Solomon",
-          "first1": "Josh",
-          "last2": "Ceballos",
-          "first2": "Ana",
-          "date": "September 25, 2020",
-          "title": "DeSantis lifts statewide restrictions on bars and restaurants as Florida moves to phase 3",
-          "language": "en",
-          "work": "Tampa Bay Times",
-          "url": "https://www.tampabay.com/news/florida-politics/2020/09/25/desantis-bars-and-restaurants-can-go-to-full-capacity-as-florida-moves-to-phase-3/",
-          "access-date": "October 14, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Avlon",
-          "first1": "John",
-          "last2": "Warren",
-          "first2": "Michael",
-          "last3": "Miller",
-          "first3": "Brandon",
-          "date": "October 29, 2020",
-          "title": "Atlas push to 'slow the testing down' tracks with dramatic decline in one key state",
-          "work": "CNN",
-          "url": "https://www.cnn.com/2020/10/29/politics/atlas-desantis-testing-covid-florida/index.html",
-          "access-date": "2020-10-29",
-          "template": "citation",
-          "type": "news"
         },
         {
           "last": "Tribou",
@@ -4233,95 +4283,6 @@
           "type": "web"
         },
         {
-          "last": "Crooks",
-          "first": "Nathan",
-          "date": "2022-03-02",
-          "title": "'Please Take Them Off': Florida's DeSantis Scolds Masked Students",
-          "url": "https://www.bnnbloomberg.ca/please-take-them-off-florida-s-desantis-scolds-masked-students-1.1731550",
-          "access-date": "2022-03-03",
-          "website": "BNN Bloomberg",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Etienne",
-          "first": "Vanessa",
-          "date": "2022-06-21",
-          "title": "Florida Gov. Ron DeSantis Maintains He's 'Not Going to Order' COVID Vaccines for Young Children",
-          "url": "https://people.com/health/florida-gov-ron-desantis-maintains-hes-not-going-to-order-covid-vaccines-for-young-children/",
-          "access-date": "2022-06-22",
-          "website": "People",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Wootson Jr.",
-          "first1": "Cleve R.",
-          "last2": "Stanley-Becker",
-          "first2": "Isaac",
-          "last3": "Rozsa",
-          "first3": "Lori",
-          "last4": "Dawsey",
-          "first4": "Josh",
-          "date": "July 25, 2020",
-          "title": "Coronavirus ravaged Florida, as Ron DeSantis sidelined scientists and followed Trump",
-          "newspaper": "The Washington Post",
-          "url": "https://www.washingtonpost.com/national/coronavirus-ravaged-florida-as-ron-desantis-sidelined-scientists-and-followed-trump/2020/07/25/0b8008da-c648-11ea-b037-f9711f89ee46_story.html",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Goodman",
-          "first": "Mario Ariza, David Fleshler, Cindy Krischer",
-          "title": "Secrecy and spin: How Florida's governor misled the public on the COVID-19 pandemic",
-          "url": "https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
-          "url-status": "dead",
-          "website": "Sun Sentinel",
-          "place": "Fort Lauderdale",
-          "archive-url": "https://archive.today/20201208131913/https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
-          "archive-date": "December 8, 2020",
-          "access-date": "April 12, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Ariza",
-          "first1": "Mario",
-          "last2": "Fleshler",
-          "first2": "David",
-          "last3": "Goodman",
-          "first3": "Cindy",
-          "date": "December 3, 2020",
-          "title": "Secrecy and spin: How Florida's governor misled the public on the COVID-19 pandemic",
-          "work": "South Florida Sun Sentinel",
-          "url": "https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
-          "access-date": "December 4, 2020",
-          "archive-url": "https://web.archive.org/web/20201203214624/https://www.sun-sentinel.com/coronavirus/fl-ne-coronavirus-florida-desantis-spin-ss-prem-20201203-tyjmgkos6bd7vo7vnripqliany-htmlstory.html",
-          "archive-date": "December 3, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "September 25, 2020",
-          "title": "Florida lifts all coronavirus restaurant restrictions despite persistent cases",
-          "language": "en-US",
-          "work": "CBS News",
-          "url": "https://www.cbsnews.com/news/florida-governor-ron-desantis-lifts-coronavirus-restaurant-restrictions-statewide/",
-          "access-date": "October 14, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.tampabay.com/florida-politics/buzz/2020/07/09/gov-ron-desantis-doubles-down-on-schools-reopening-full-time-in-august/",
-          "title": "Gov. Ron DeSantis doubles down on schools reopening full time in August",
-          "first": "Tampa Publishing",
-          "last": "Company",
-          "website": "Tampa Bay Times",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last1": "Mower",
           "first1": "Lawrence",
           "last2": "Ross",
@@ -4378,6 +4339,82 @@
           "date": "September 23, 2021",
           "work": "CBS News",
           "access-date": "September 24, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "2022",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On March 2, 2022, DeSantis scolded students for wearing face masks at a press conference he called, saying: \"You do not have to wear those masks. I mean, please take them off\" and \"Honestly, it's not doing anything, and we gotta stop with this Covid theater. So if you want to wear it, fine. But this is ridiculous.\""
+            },
+            {
+              "text": "Several students removed their masks in response, but others kept theirs on."
+            },
+            {
+              "text": "DeSantis's office tweeted a version of the video without the scolding."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2022, a Bloomberg News op-ed claimed that, when adjusting state death tolls based on what they would be if age distribution were equal between the states, Florida's COVID-19 death toll would be less than the national average and only slightly more than California's.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bloomberg News"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, DeSantis decided against ordering COVID-19 vaccines for children under 5, making Florida the only state not to preorder vaccines for that demographic."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Crooks",
+          "first": "Nathan",
+          "date": "2022-03-02",
+          "title": "'Please Take Them Off': Florida's DeSantis Scolds Masked Students",
+          "url": "https://www.bnnbloomberg.ca/please-take-them-off-florida-s-desantis-scolds-masked-students-1.1731550",
+          "access-date": "2022-03-03",
+          "website": "BNN Bloomberg",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Fox",
+          "first": "Justin",
+          "date": "2022-05-07",
+          "title": "California Versus Florida, a Covid Reckoning",
+          "language": "en",
+          "work": "Bloomberg News",
+          "url": "https://www.bloomberg.com/opinion/articles/2022-05-07/california-versus-florida-a-covid-reckoning",
+          "access-date": "2022-06-05",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Etienne",
+          "first": "Vanessa",
+          "date": "2022-06-21",
+          "title": "Florida Gov. Ron DeSantis Maintains He's 'Not Going to Order' COVID Vaccines for Young Children",
+          "url": "https://people.com/health/florida-gov-ron-desantis-maintains-hes-not-going-to-order-covid-vaccines-for-young-children/",
+          "access-date": "2022-06-22",
+          "website": "People",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }
@@ -4555,138 +4592,6 @@
           "access-date": "May 28, 2021",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Abortion",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "DeSantis opposes abortion and has denounced Planned Parenthood.",
-              "links": [
-                {
-                  "text": "opposes abortion",
-                  "type": "internal",
-                  "page": "Opposition to abortion"
-                },
-                {
-                  "type": "internal",
-                  "page": "Planned Parenthood"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "DeSantis agreed with the U.S. Supreme Court's decision in Burwell v. Hobby Lobby Stores, Inc., saying \"This case does not concern the availability or legality of contraceptives, and individuals can obtain and use these as they see fit. The question is simply whether the government can force the owners of Hobby Lobby to pay for abortifacients in violation of their faith.\"",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Burwell v. Hobby Lobby Stores, Inc."
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Burwell v. Hobby Lobby Stores, Inc."
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On April 14, 2022, DeSantis signed into law a bill that bans abortion after 15 weeks of pregnancy without exemptions for rape, human trafficking or incest."
-            },
-            {
-              "text": "The bill does allow exemptions for cases in which a pregnancy poses a \"serious risk\" to the mother or a fatal fetal abnormality is detected and diagnosed by two physicians in writing."
-            },
-            {
-              "text": "The law was expected go into effect on July 1, but a state judge blocked its enforcement, ruling that the Florida Constitution guarantees a right to privacy that renders the law unconstitutional."
-            },
-            {
-              "text": "After DeSantis appealed the ruling, the law went into effect on July 5."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "last": "Gehkre",
-          "first": "Joel",
-          "date": "September 29, 2015",
-          "title": "Planned Parenthood Head: An Abortion Survivor is a 'Baby' Entitled to Medical Care",
-          "work": "National Review",
-          "url": "http://www.nationalreview.com/article/424801/planned-parenthood-chief-abortion-survivor-baby-entitled-medical-care-joel-gehrke",
-          "access-date": "February 27, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Gancarski",
-          "first": "A.G.",
-          "date": "July 15, 2015",
-          "title": "Ron DeSantis denounces Planned Parenthood's alleged \"loathsome practice\"",
-          "url": "http://floridapolitics.com/archives/186587-ron-desantis-denounces-planned-parenthoods-loathsome-practice",
-          "access-date": "February 27, 2016",
-          "website": "Florida Politics",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Derby",
-          "first": "Kevin",
-          "date": "March 26, 2014",
-          "title": "Florida Congressmen Divide Over Hobby Lobby Case",
-          "publisher": "Sunshine State News",
-          "url": "http://www.sunshinestatenews.com/story/florida-congressmen-divide-over-hobby-lobby-case",
-          "access-date": "February 28, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Contorno",
-          "first": "Steve",
-          "date": "2022-04-14",
-          "title": "DeSantis signs Florida's 15-week abortion ban into law",
-          "url": "https://www.cnn.com/2022/04/14/politics/desantis-signs-abortion-ban-florida/index.html",
-          "access-date": "2022-04-15",
-          "website": "CNN",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bloomberg.com/news/articles/2022-06-30/florida-judge-skeptical-of-state-s-abortion-ban-after-15-weeks",
-          "title": "Florida Judge Says He Will Block New Abortion Restriction",
-          "newspaper": "Bloomberg.com",
-          "date": "30 June 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.npr.org/2022/04/14/1084485963/florida-abortion-law-15-weeks",
-          "title": "Florida Gov. Ron DeSantis signs a bill banning abortions after 15 weeks",
-          "website": "NPR",
-          "date": "14 April 2022",
-          "last1": "Davis",
-          "first1": "Wynne",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Chu",
-          "first1": "Andrea",
-          "title": "State's appeal nullifies Judge's temporary block of Florida's 15-week abortion ban",
-          "url": "https://www.wtsp.com/article/news/regional/florida/judge-blocks-florida-15-week-abortion-ban/67-2c48ac65-297f-45cf-b0d0-33c30c6cd25b",
-          "access-date": "July 6, 2022",
-          "date": "July 5, 2022",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -6153,82 +6058,6 @@
       ]
     },
     {
-      "title": "Government",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "DeSantis opted not to receive his congressional pension, and filed a measure that would eliminate pensions for members of Congress.",
-              "links": [
-                {
-                  "text": "congressional pension",
-                  "type": "internal",
-                  "page": "congressional pension"
-                }
-              ]
-            },
-            {
-              "text": "After introducing the End Pensions in Congress Act, DeSantis said, \"The Founding Fathers envisioned elected officials as part of a servant class, yet Washington has evolved into a ruling class culture.\""
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "DeSantis supports a constitutional amendment to impose term limits on members of Congress, so that U.S. representatives would be limited to three terms and senators to two.",
-              "links": [
-                {
-                  "text": "term limits",
-                  "type": "internal",
-                  "page": "term limit"
-                }
-              ]
-            },
-            {
-              "text": "As of 2022, he has served three terms as a U.S. representative."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "last": "Harper",
-          "first": "Jennifer",
-          "date": "February 2, 2015",
-          "title": "No more 'ruling class culture': New legislation would jettison pensions for Congress",
-          "work": "The Washington Times",
-          "url": "http://www.washingtontimes.com/news/2015/feb/2/no-more-ruling-class-culture-new-legislaiton-would/",
-          "access-date": "February 28, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Farrington",
-          "first": "Brendan",
-          "date": "May 5, 2015",
-          "title": "Republican Congressman DeSantis to run for Rubio Senate seat",
-          "work": "Sun-Sentinel",
-          "agency": "Associated Press",
-          "url": "http://www.sun-sentinel.com/news/fl-ap-senate-florida-desantis-20150505-story.html",
-          "access-date": "February 28, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Man",
-          "first": "Anthony",
-          "date": "January 12, 2021",
-          "title": "DeSantis calls insurrection 'really unfortunate' and 'really a sad thing to see'",
-          "url": "https://www.sun-sentinel.com/news/politics/elections/fl-ne-desantis-insurrection-really-sad-20210112-2bfyaqd7hvfpharmijqmpuh25i-story.html",
-          "access-date": "February 15, 2021",
-          "website": "Sun-Sentinel",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
       "title": "Gun law",
       "depth": 1,
       "paragraphs": [
@@ -6749,6 +6578,60 @@
       ]
     },
     {
+      "title": "Law enforcement",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "DeSantis opposes efforts to defund the police, and as governor has introduced initiatives to \"fund the police\".",
+              "links": [
+                {
+                  "text": "defund the police",
+                  "type": "internal",
+                  "page": "defund the police"
+                }
+              ]
+            },
+            {
+              "text": "In September 2021, DeSantis introduced a $5,000 signing bonus for Florida police officers in a bid to attract additional out-of-state police recruits.",
+              "links": [
+                {
+                  "text": "signing bonus",
+                  "type": "internal",
+                  "page": "signing bonus"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Volz",
+          "first": "Brianna",
+          "date": "2021-05-05",
+          "title": "'We're funding the police and then some:' Gov. Ron DeSantis promises $1,000 checks for Florida's first responders",
+          "url": "https://www.clickorlando.com/news/local/2021/05/05/watch-live-gov-ron-desantis-to-speak-at-satellite-beach-police-department/",
+          "access-date": "2021-10-25",
+          "website": "WKMG",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-09-08",
+          "title": "Ron DeSantis unveils $5,000 signing bonus to draw police officers to Florida",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/ron-desantis-florida-police-signing-bonus-b1916699.html",
+          "access-date": "2021-10-25",
+          "website": "The Independent",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "LGBT rights",
       "depth": 1,
       "paragraphs": [
@@ -7237,6 +7120,138 @@
       ]
     },
     {
+      "title": "Reproductive rights and abortion",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "DeSantis opposes abortion and has denounced Planned Parenthood.",
+              "links": [
+                {
+                  "text": "opposes abortion",
+                  "type": "internal",
+                  "page": "Opposition to abortion"
+                },
+                {
+                  "type": "internal",
+                  "page": "Planned Parenthood"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "DeSantis agreed with the U.S. Supreme Court's decision in Burwell v. Hobby Lobby Stores, Inc., saying, \"This case does not concern the availability or legality of contraceptives, and individuals can obtain and use these as they see fit. The question is simply whether the government can force the owners of Hobby Lobby to pay for abortifacients in violation of their faith.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Burwell v. Hobby Lobby Stores, Inc."
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Burwell v. Hobby Lobby Stores, Inc."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On April 14, 2022, DeSantis signed into law a bill that bans abortion after 15 weeks of pregnancy without exemptions for rape, human trafficking or incest."
+            },
+            {
+              "text": "The bill does allow exemptions for cases in which a pregnancy poses a \"serious risk\" to the mother or a fatal fetal abnormality is detected and diagnosed by two physicians in writing."
+            },
+            {
+              "text": "The law was expected go into effect on July 1, but a state judge blocked its enforcement, ruling that the Florida Constitution guarantees a right to privacy that renders the law unconstitutional."
+            },
+            {
+              "text": "After DeSantis appealed the ruling, the law went into effect on July 5."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Gehkre",
+          "first": "Joel",
+          "date": "September 29, 2015",
+          "title": "Planned Parenthood Head: An Abortion Survivor is a 'Baby' Entitled to Medical Care",
+          "work": "National Review",
+          "url": "http://www.nationalreview.com/article/424801/planned-parenthood-chief-abortion-survivor-baby-entitled-medical-care-joel-gehrke",
+          "access-date": "February 27, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Gancarski",
+          "first": "A.G.",
+          "date": "July 15, 2015",
+          "title": "Ron DeSantis denounces Planned Parenthood's alleged \"loathsome practice\"",
+          "url": "http://floridapolitics.com/archives/186587-ron-desantis-denounces-planned-parenthoods-loathsome-practice",
+          "access-date": "February 27, 2016",
+          "website": "Florida Politics",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Derby",
+          "first": "Kevin",
+          "date": "March 26, 2014",
+          "title": "Florida Congressmen Divide Over Hobby Lobby Case",
+          "publisher": "Sunshine State News",
+          "url": "http://www.sunshinestatenews.com/story/florida-congressmen-divide-over-hobby-lobby-case",
+          "access-date": "February 28, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Contorno",
+          "first": "Steve",
+          "date": "2022-04-14",
+          "title": "DeSantis signs Florida's 15-week abortion ban into law",
+          "url": "https://www.cnn.com/2022/04/14/politics/desantis-signs-abortion-ban-florida/index.html",
+          "access-date": "2022-04-15",
+          "website": "CNN",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bloomberg.com/news/articles/2022-06-30/florida-judge-skeptical-of-state-s-abortion-ban-after-15-weeks",
+          "title": "Florida Judge Says He Will Block New Abortion Restriction",
+          "newspaper": "Bloomberg.com",
+          "date": "30 June 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.npr.org/2022/04/14/1084485963/florida-abortion-law-15-weeks",
+          "title": "Florida Gov. Ron DeSantis signs a bill banning abortions after 15 weeks",
+          "website": "NPR",
+          "date": "14 April 2022",
+          "last1": "Davis",
+          "first1": "Wynne",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Chu",
+          "first1": "Andrea",
+          "title": "State's appeal nullifies Judge's temporary block of Florida's 15-week abortion ban",
+          "url": "https://www.wtsp.com/article/news/regional/florida/judge-blocks-florida-15-week-abortion-ban/67-2c48ac65-297f-45cf-b0d0-33c30c6cd25b",
+          "access-date": "July 6, 2022",
+          "date": "July 5, 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "title": "Russia investigation",
       "depth": 1,
       "paragraphs": [
@@ -7505,6 +7520,82 @@
           "access-date": "2021-06-09",
           "website": "Reason.com",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Term limits and pensions",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "DeSantis opted not to receive his congressional pension, and filed a measure that would eliminate pensions for members of Congress.",
+              "links": [
+                {
+                  "text": "congressional pension",
+                  "type": "internal",
+                  "page": "congressional pension"
+                }
+              ]
+            },
+            {
+              "text": "After introducing the End Pensions in Congress Act, DeSantis said, \"The Founding Fathers envisioned elected officials as part of a servant class, yet Washington has evolved into a ruling class culture.\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "DeSantis supports a constitutional amendment to impose term limits on members of Congress, so that U.S. representatives would be limited to three terms and senators to two.",
+              "links": [
+                {
+                  "text": "term limits",
+                  "type": "internal",
+                  "page": "term limit"
+                }
+              ]
+            },
+            {
+              "text": "As of 2022, he has served three terms as a U.S. representative."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Harper",
+          "first": "Jennifer",
+          "date": "February 2, 2015",
+          "title": "No more 'ruling class culture': New legislation would jettison pensions for Congress",
+          "work": "The Washington Times",
+          "url": "http://www.washingtontimes.com/news/2015/feb/2/no-more-ruling-class-culture-new-legislaiton-would/",
+          "access-date": "February 28, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Farrington",
+          "first": "Brendan",
+          "date": "May 5, 2015",
+          "title": "Republican Congressman DeSantis to run for Rubio Senate seat",
+          "work": "Sun-Sentinel",
+          "agency": "Associated Press",
+          "url": "http://www.sun-sentinel.com/news/fl-ap-senate-florida-desantis-20150505-story.html",
+          "access-date": "February 28, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Man",
+          "first": "Anthony",
+          "date": "January 12, 2021",
+          "title": "DeSantis calls insurrection 'really unfortunate' and 'really a sad thing to see'",
+          "url": "https://www.sun-sentinel.com/news/politics/elections/fl-ne-desantis-insurrection-really-sad-20210112-2bfyaqd7hvfpharmijqmpuh25i-story.html",
+          "access-date": "February 15, 2021",
+          "website": "Sun-Sentinel",
           "template": "citation",
           "type": "web"
         }
@@ -7790,60 +7881,6 @@
           "url": "https://apnews.com/article/donald-trump-ron-desantis-legislation-florida-elections-a9737fcc3eab5aedc572fbcc7c19b984",
           "template": "citation",
           "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Law enforcement",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "DeSantis opposes efforts to defund the police, and as governor has introduced initiatives to \"fund the police\".",
-              "links": [
-                {
-                  "text": "defund the police",
-                  "type": "internal",
-                  "page": "defund the police"
-                }
-              ]
-            },
-            {
-              "text": "In September 2021, DeSantis introduced a $5,000 signing bonus for Florida police officers in a bid to attract additional out-of-state police recruits.",
-              "links": [
-                {
-                  "text": "signing bonus",
-                  "type": "internal",
-                  "page": "signing bonus"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "last": "Volz",
-          "first": "Brianna",
-          "date": "2021-05-05",
-          "title": "'We're funding the police and then some:' Gov. Ron DeSantis promises $1,000 checks for Florida's first responders",
-          "url": "https://www.clickorlando.com/news/local/2021/05/05/watch-live-gov-ron-desantis-to-speak-at-satellite-beach-police-department/",
-          "access-date": "2021-10-25",
-          "website": "WKMG",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-09-08",
-          "title": "Ron DeSantis unveils $5,000 signing bonus to draw police officers to Florida",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/ron-desantis-florida-police-signing-bonus-b1916699.html",
-          "access-date": "2021-10-25",
-          "website": "The Independent",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },

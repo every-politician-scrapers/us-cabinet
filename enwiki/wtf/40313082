@@ -164,6 +164,10 @@
           "template": "use mdy dates"
         },
         {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
           "description": "30th governor of Nevada",
           "template": "short description"
         },

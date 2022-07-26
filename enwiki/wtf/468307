@@ -2540,17 +2540,6 @@
           "sentences": []
         }
       ],
-      "templates": [
-        {
-          "list": [
-            "Biography",
-            "Conservatism",
-            "Michigan",
-            "Politics"
-          ],
-          "template": "portal"
-        }
-      ],
       "lists": [
         [
           {
@@ -2754,6 +2743,17 @@
         },
         {
           "template": "uscongrep-end"
+        },
+        {
+          "list": [
+            "Biography",
+            "Conservatism",
+            "Michigan",
+            "Politics",
+            "United States",
+            "Netherlands"
+          ],
+          "template": "portal bar"
         },
         {
           "template": "authority control"

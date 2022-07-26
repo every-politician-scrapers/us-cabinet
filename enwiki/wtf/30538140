@@ -2786,6 +2786,20 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Citing that Parson's targeting of Renaud was \"particularly egregious\", the National Press Club awarded its 2022 John Aubuchon Press Freedom Award to Renaud: “While it has become a deeply regrettable national trend for some public officials to attack the press, this seemed to us a particularly egregious example as the Missouri governor was calling for Renaud to be punished before an official investigation had even taken place.”",
+              "links": [
+                {
+                  "text": "National Press Club",
+                  "type": "internal",
+                  "page": "National_Press_Club_(United_States)"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -2867,6 +2881,12 @@
           "access-date": "2021-10-30",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "Report: Missouri Governor's Office Responsible for Teacher Data Leak",

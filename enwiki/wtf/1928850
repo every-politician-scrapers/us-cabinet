@@ -3951,7 +3951,7 @@
               "text": "In a 5–4 vote, Roberts joined Breyer, Sotomayor, and Kagan in the minority."
             },
             {
-              "text": "In 2022, Roberts, joining Breyer, Sotomayor, and Kagan in the minority, voted against overturning Roe v. Wade in Dobbs v. Jackson Women's Health Organization.",
+              "text": "In 2022, Roberts declined to join the majority opinion in Dobbs v. Jackson Women's Health Organization, which overturned Roe v. Wade.",
               "links": [
                 {
                   "type": "internal",
@@ -3960,10 +3960,16 @@
               ],
               "formatting": {
                 "italic": [
-                  "Roe v. Wade",
-                  "Dobbs v. Jackson Women's Health Organization."
+                  "Dobbs v. Jackson Women's Health Organization",
+                  "Roe v. Wade"
                 ]
               }
+            },
+            {
+              "text": "Roberts wrote a concurring opinion supporting only the decision to uphold the Mississippi abortion statute, stating that the right to an abortion should \"extend far enough to ensure a reasonable opportunity to choose, but need not extend any further\"."
+            },
+            {
+              "text": "Roberts also declined to join the dissenting opinion of Justices Breyer, Sotomayor, and Kagan."
             }
           ]
         }

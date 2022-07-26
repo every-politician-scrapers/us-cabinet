@@ -171,6 +171,10 @@
           "template": "use mdy dates"
         },
         {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
           "description": "46th governor of Wisconsin since 2019",
           "template": "short description"
         },
@@ -187,10 +191,10 @@
             "text": "Tony Evers"
           },
           "image": {
-            "text": "Tony Evers (cropped).jpg"
+            "text": "Tony Evers - 2022.jpg"
           },
           "caption": {
-            "text": "Evers in March 2018"
+            "text": "Tony Evers, CC BY 2.0 via Wikimedia Commons"
           },
           "order": {
             "text": "46th Governor of Wisconsin",

@@ -118,6 +118,14 @@
           "template": "other people"
         },
         {
+          "date": "July 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
           "list": [
             "DE",
             "AL",

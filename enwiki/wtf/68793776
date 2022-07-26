@@ -22,12 +22,16 @@
         {
           "sentences": [
             {
-              "text": "Erik D. Ramanathan is an American attorney, philanthropist, and political fundraiser who is serving as United States ambassador to Sweden.",
+              "text": "Erik D. Ramanathan is an American attorney, philanthropist, and political fundraiser who is serving as United States ambassador to Sweden under President Joe Biden.",
               "links": [
                 {
                   "text": "United States ambassador to Sweden",
                   "type": "internal",
                   "page": "United States Ambassador to Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
                 }
               ],
               "formatting": {

@@ -2955,7 +2955,7 @@
               "text": "On January 6, 2014, she was confirmed as chair of the Federal Reserve by a vote of 56–26, the narrowest margin ever for the position."
             },
             {
-              "text": "Aside from being a trailblazer as the first woman to lead the U.S. central bank, or any major central bank, Yellen was also the first Democratic nominee to hold the job since Paul Volcker became chairman in 1979 (via President Jimmy Carter).",
+              "text": "Aside from being a trailblazer as the first woman to lead the U.S. central bank, or any major central bank, Yellen was also the first Democrat to hold the job since Paul Volcker became chairman in 1979 (via President Jimmy Carter).",
               "links": [
                 {
                   "text": "major central bank",
@@ -3034,7 +3034,7 @@
               "text": "That move was largely expected, because extraordinarily low interest rates for an extremely long time may contribute to financial instability and pose a threat to the economy."
             },
             {
-              "text": "It is considered, in some ways, a departure from previous controversial Fed policy known as Greenspan put.",
+              "text": "It was considered a departure from previous controversial Fed policy known as the Greenspan put.",
               "links": [
                 {
                   "type": "internal",
@@ -3043,10 +3043,10 @@
               ]
             },
             {
-              "text": "During her tenure, the Fed has gradually raised rates four additional times, leaving its key rate in a still-low range of 1.25 percent to 1.5 percent – well low by historical standards."
+              "text": "During her tenure, the Fed has gradually raised rates four additional times, leaving its key rate in a still-low range of 1.25 percent to 1.5 percent – well below historical standards."
             },
             {
-              "text": "However, Fed policymakers once again have the ability to cut the rates to stimulate growth in case if the economy slows."
+              "text": "However, Fed policymakers have the ability to cut rates to stimulate growth in case the economy slows."
             }
           ]
         },
@@ -3087,10 +3087,10 @@
         {
           "sentences": [
             {
-              "text": "Trump considered renominating Yellen for another term, but instead picked Fed Governor Jerome Powell, a Republican, to run the Federal Reserve once her term ended on February 3, 2018."
+              "text": "Trump considered re-nominating Yellen for another term, but instead picked Fed Governor Jerome Powell, a Republican, to run the Federal Reserve once her term ended on February 3, 2018."
             },
             {
-              "text": "That move broke a decades-long presidential tradition of cross-partisan central bank chair appointments; the last Fed chairman eligible for reappointment but not to be renominated by a successor presidential administration was Arthur Burns in 1978.",
+              "text": "The last Fed chairman eligible for reappointment but not to be re-nominated by a successor presidential administration was Arthur Burns in 1978.",
               "links": [
                 {
                   "type": "internal",
@@ -3102,20 +3102,14 @@
               "text": "After Trump's decision, Yellen announced resignation at the end of her term as chair."
             },
             {
-              "text": "She was the briefest-serving Fed chair since G. William Miller from 1978 to 1979, and the first in nearly 40 years to not receive a second term.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "G. William Miller"
-                }
-              ]
+              "text": "She was the first Fed chair in nearly 40 years to not receive a second term."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "On February 2, 2018, her last day in office, Chair Yellen enforced unprecedented sanctions placed on Wells Fargo, the third largest U.S. bank, with a consent order that restricted the firm from future growth until the organization fixed its internal problems.",
+              "text": "On February 2, 2018, her last day in office, Chair Yellen enforced unprecedented sanctions on Wells Fargo, the third largest U.S. bank, with a consent order that restricted the firm from future growth until the organization fixed its internal problems.",
               "links": [
                 {
                   "type": "internal",
@@ -3159,19 +3153,20 @@
               ]
             },
             {
-              "text": "Under her leadership, the U.S. unemployment rate fell more than during any other chair's term in modern history when compared to the beginning of her term to its end."
-            },
-            {
-              "text": "It declined 2.6 percentage points, the maximum in the post-World War II era.",
+              "text": "Under her leadership, the U.S. unemployment rate fell more than during any other chair's term in the post-World War II era, declining 2.6 percentage points.",
               "links": [
                 {
                   "type": "internal",
                   "page": "World War II"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "Meanwhile, inflation remained below the Fed's annual two percent target, which also led to suggestions that the Federal Reserve could have done more to bolster the economy without the risk of price increases."
+              "text": "Inflation remained below the Fed's annual two percent target, which led to suggestions that the Federal Reserve could have done more to bolster the economy without the risk of price increases."
             }
           ]
         },
@@ -3231,39 +3226,6 @@
           "language": "en",
           "template": "citation",
           "type": "speech"
-        },
-        {
-          "last": "Lubin",
-          "first": "Nathaniel",
-          "date": "October 9, 2013",
-          "title": "President Obama Nominates Dr. Janet Yellen as Fed Chair",
-          "url": "https://obamawhitehouse.archives.gov/blog/2013/10/09/president-obama-nominates-dr-janet-yellen-fed-chair",
-          "url-status": "live",
-          "location": "Washington, D.C.",
-          "publisher": "The White House",
-          "archive-url": "https://web.archive.org/web/20170125120048/https://obamawhitehouse.archives.gov/blog/2013/10/09/president-obama-nominates-dr-janet-yellen-fed-chair",
-          "archive-date": "January 25, 2017",
-          "access-date": "October 19, 2013",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
-          "last1": "Crutsinger",
-          "first1": "Martin",
-          "last2": "Kuhnhenn",
-          "first2": "Jim",
-          "date": "October 9, 2013",
-          "title": "Obama to tap Yellen as head of Federal Reserve",
-          "url": "https://www.bostonglobe.com/news/nation/2013/10/08/obama-nominate-yellen-fed-chief/28Yt8J7AvYWyBuYNpvCRFJ/story.html",
-          "url-status": "live",
-          "work": "Boston Globe",
-          "agency": "Associated Press",
-          "archive-url": "https://web.archive.org/web/20210416223719/https://www.bostonglobe.com/news/nation/2013/10/08/obama-nominate-yellen-fed-chief/28Yt8J7AvYWyBuYNpvCRFJ/story.html",
-          "archive-date": "April 16, 2021",
-          "access-date": "October 10, 2013",
-          "issn": "0743-1791",
-          "template": "citation",
-          "type": "news"
         },
         {
           "last": "Calmes",
@@ -3390,19 +3352,6 @@
           "type": "press release"
         },
         {
-          "title": "Janet L. Yellen sworn in as chair of the Board of Governors of the Federal Reserve System",
-          "url": "http://www.federalreserve.gov/newsevents/press/other/20140203a.htm",
-          "url-status": "live",
-          "location": "Washington, D.C.",
-          "publisher": "Federal Reserve Board",
-          "date": "February 3, 2014",
-          "archive-url": "https://web.archive.org/web/20140208040229/http://federalreserve.gov/newsevents/press/other/20140203a.htm",
-          "archive-date": "February 8, 2014",
-          "access-date": "February 3, 2015",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
           "last": "Frizell",
           "first": "Sam",
           "date": "February 3, 2014",
@@ -3447,21 +3396,6 @@
           "type": "web"
         },
         {
-          "last": "Schaefer",
-          "first": "Steve",
-          "date": "January 13, 2014",
-          "title": "Why The 'Yellen Put' Is No Longer Credible",
-          "url": "https://www.forbes.com/sites/steveschaefer/2014/01/13/why-the-yellen-put-is-no-longer-credible/?sh=2b1ad2065cbf",
-          "url-status": "live",
-          "work": "Forbes",
-          "archive-url": "https://web.archive.org/web/20150709085204/http://www.forbes.com/sites/steveschaefer/2014/01/13/why-the-yellen-put-is-no-longer-credible/",
-          "archive-date": "July 9, 2015",
-          "access-date": "January 14, 2014",
-          "issn": "0015-6914",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.marketwatch.com/story/nows-the-right-time-for-yellen-to-kill-the-greenspan-put-2015-08-27",
           "title": "Opinion: Why market correction makes a September rate hike more compelling",
           "last": "Nutting",
@@ -3486,20 +3420,6 @@
           "archive-date": "February 4, 2015",
           "url-status": "live",
           "access-date": "January 16, 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thefiscaltimes.com/2016/11/17/Yellen-Sends-Message-Trump-Hands-Dodd-Frank",
-          "title": "Yellen Sends a Message to Trump: Hands Off Dodd-Frank",
-          "last": "Garver",
-          "first": "Rob",
-          "date": "November 17, 2016",
-          "website": "thefiscaltimes.com",
-          "archive-url": "https://web.archive.org/web/20161119170921/https://www.thefiscaltimes.com/2016/11/17/Yellen-Sends-Message-Trump-Hands-Dodd-Frank",
-          "archive-date": "November 19, 2016",
-          "url-status": "live",
-          "access-date": "November 18, 2016",
           "template": "citation",
           "type": "web"
         },
@@ -3551,18 +3471,6 @@
           "archive-date": "November 3, 2017",
           "url-status": "live",
           "access-date": "November 3, 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Federal Reserve: Background and Reappointment of Previous Chairs",
-          "url": "https://www.everycrsreport.com/reports/IN10796.html",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20171205224917/https://www.everycrsreport.com/reports/IN10796.html",
-          "archive-date": "December 5, 2017",
-          "website": "everycrsreport.com",
-          "date": "October 4, 2017",
-          "access-date": "October 5, 2017",
           "template": "citation",
           "type": "web"
         },
@@ -3915,7 +3823,7 @@
               "text": "On February 25, 2019, Yellen criticized President Trump's economic policies."
             },
             {
-              "text": "When asked if she believes Trump has \"a grasp of economic policy\", Yellen said \"No, I do not.\""
+              "text": "When asked if she believed Trump has \"a grasp of economic policy\", Yellen said \"No, I do not.\""
             },
             {
               "text": "In an interview with Marketplace, Yellen explained that she doubts that Trump could articulate the Federal Reserve's explicit goals of \"maximum employment and price stability\".",
@@ -3943,10 +3851,9 @@
         {
           "sentences": [
             {
-              "text": "On July 17, 2020, at the hearing of a select coronavirus subcommittee that was set up by the House Committee on Oversight and Reform, former Fed Chairs Bernanke and Yellen testified to the United States Congress about the economic policy response to the negative impact of the coronavirus pandemic.",
+              "text": "On July 17, 2020, at the hearing of the United States House Select Oversight Subcommittee on the Coronavirus Crisis that was set up by the House Committee on Oversight and Reform, former Fed Chairs Bernanke and Yellen testified to the United States Congress about the economic policy response to the negative impact of the coronavirus pandemic.",
               "links": [
                 {
-                  "text": "select coronavirus subcommittee",
                   "type": "internal",
                   "page": "United States House Select Oversight Subcommittee on the Coronavirus Crisis"
                 },
@@ -4073,7 +3980,7 @@
               ]
             },
             {
-              "text": "With her return in government, she's pledged to get official permission from the Office of Government Ethics to participate in substantive issues involving such firms to avoid any conflict of interest.",
+              "text": "With her return to government, she pledged to get official permission from the Office of Government Ethics to participate in substantive issues involving such firms to avoid any conflict of interest.",
               "links": [
                 {
                   "text": "Office of Government Ethics",
@@ -4100,33 +4007,6 @@
         }
       ],
       "references": [
-        {
-          "title": "Federal Reserve Chair Janet L. Yellen to join Economic Studies at Brookings",
-          "url": "https://www.brookings.edu/news-releases/federal-reserve-chair-janet-l-yellen-to-join-economic-studies-at-brookings/",
-          "url-status": "live",
-          "location": "Washington, D.C.",
-          "publisher": "Brookings",
-          "date": "February 2, 2018",
-          "archive-url": "https://web.archive.org/web/20180202162241/https://www.brookings.edu/news-releases/federal-reserve-chair-janet-l-yellen-to-join-economic-studies-at-brookings/",
-          "archive-date": "February 2, 2018",
-          "access-date": "February 12, 2018",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
-          "url": "https://www.brookings.edu/blog/up-front/2018/02/02/welcome-to-brookings-chair-yellen/",
-          "title": "Welcome to Brookings, Chair Yellen",
-          "last": "Wessel",
-          "first": "David",
-          "date": "February 2, 2018",
-          "website": "brookings.edu",
-          "archive-url": "https://web.archive.org/web/20180202185313/https://www.brookings.edu/blog/up-front/2018/02/02/welcome-to-brookings-chair-yellen/",
-          "archive-date": "February 2, 2018",
-          "url-status": "live",
-          "access-date": "February 3, 2018",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "last": "Appelbaum",
           "first": "Binyamin",
@@ -4166,15 +4046,6 @@
           "archive-date": "March 31, 2019",
           "url-status": "live",
           "access-date": "June 28, 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=elgz5bzwfpQ",
-          "archive-url": "http://ghostarchive.org/varchive/elgz5bzwfpQ",
-          "title": "Janet Yellen in Conversation with Paul Krugman",
-          "website": "youtube.com",
-          "archive-date": "2021-12-16",
           "template": "citation",
           "type": "web"
         },
@@ -4233,22 +4104,6 @@
           "type": "web"
         },
         {
-          "url": "https://www.brookings.edu/blog/up-front/2020/07/17/former-fed-chairs-bernanke-and-yellen-testified-on-covid-19-and-response-to-economic-crisis/",
-          "title": "Former Fed Chairs Bernanke and Yellen testified on COVID-19 and response to economic crisis",
-          "last1": "Bernanke",
-          "first1": "Ben",
-          "last2": "Yellen",
-          "first2": "Janet",
-          "date": "July 17, 2020",
-          "website": "brookings.edu",
-          "archive-url": "https://web.archive.org/web/20211115170605/https://www.brookings.edu/blog/up-front/2020/07/17/former-fed-chairs-bernanke-and-yellen-testified-on-covid-19-and-response-to-economic-crisis/",
-          "archive-date": "November 15, 2021",
-          "url-status": "live",
-          "access-date": "July 18, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last": "Lane",
           "first": "Sylvan",
           "date": "July 17, 2020",
@@ -4289,20 +4144,6 @@
           "website": "bloomberg.com",
           "archive-url": "https://web.archive.org/web/20200917125345/https://www.bloomberg.com/news/articles/2020-08-13/former-fed-chair-janet-yellen-advising-biden-harris",
           "archive-date": "September 17, 2020",
-          "url-status": "live",
-          "access-date": "August 14, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.cnbc.com/2020/08/13/biden-looks-to-former-fed-chair-yellen-for-economic-advice.html",
-          "title": "Biden looks to former Fed Chair Yellen for economic advice",
-          "last": "Cox",
-          "first": "Jeff",
-          "date": "August 13, 2020",
-          "website": "cnbc.com",
-          "archive-url": "https://web.archive.org/web/20200814011058/https://www.cnbc.com/2020/08/13/biden-looks-to-former-fed-chair-yellen-for-economic-advice.html",
-          "archive-date": "August 14, 2020",
           "url-status": "live",
           "access-date": "August 14, 2020",
           "template": "citation",
@@ -4928,7 +4769,7 @@
               ]
             },
             {
-              "text": "On July 10, 2021, financial leaders from the G20 countries come to an agreement on plans to put an end to global tax havens and force multinational corporations to pay an appropriate share of tax wherever they operate and create a \"more stable and fairer international tax architecture\".",
+              "text": "On July 10, 2021, financial leaders from the G20 countries came to an agreement on plans to put an end to global tax havens and force multinational corporations to pay an appropriate share of tax wherever they operate and create a \"more stable and fairer international tax architecture\".",
               "links": [
                 {
                   "type": "internal",
@@ -5004,40 +4845,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.thechicagocouncil.org/events/secretary-janet-l-yellen-international-economic-policy",
-          "last": "Yellen",
-          "first": "Janet",
-          "title": "Secretary Janet L. Yellen on International Economic Policy",
-          "website": "thechicagocouncil.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "G7 Finance Ministers Agree Historic Global Tax Agreement",
-          "url": "https://www.gov.uk/government/news/g7-finance-ministers-agree-historic-global-tax-agreement",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20210605114504/https://www.gov.uk/government/news/g7-finance-ministers-agree-historic-global-tax-agreement",
-          "archive-date": "June 5, 2021",
-          "website": "gov.uk",
-          "date": "June 5, 2021",
-          "access-date": "June 6, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "G7 Finance Ministers and Central Bank Governors Communiqué 5 June 2021",
-          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/991640/FMCBGs_communique_-_5_June.pdf",
-          "url-status": "live",
-          "location": "London, United Kingdom",
-          "publisher": "HM Treasury",
-          "date": "June 5, 2021",
-          "archive-url": "https://web.archive.org/web/20210607140504/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/991640/FMCBGs_communique_-_5_June.pdf",
-          "archive-date": "June 7, 2021",
-          "access-date": "June 6, 2021",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
           "url": "https://www.reuters.com/business/g7-nations-near-historic-deal-taxing-multinationals-2021-06-05/",
           "title": "Tech giants and tax havens targeted by historic G7 deal",
           "last1": "Milliken",
@@ -5052,21 +4859,6 @@
           "access-date": "June 6, 2021",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "last": "Krugman",
-          "first": "Paul",
-          "date": "June 7, 2021",
-          "title": "Yellen's New Alliance Against Leprechauns",
-          "url": "https://www.nytimes.com/2021/06/07/opinion/yellens-new-alliance-against-leprechauns.html",
-          "url-status": "live",
-          "work": "The New York Times",
-          "archive-url": "https://web.archive.org/web/20210608043504/https://www.nytimes.com/2021/06/07/opinion/yellens-new-alliance-against-leprechauns.html",
-          "archive-date": "June 8, 2021",
-          "access-date": "June 8, 2021",
-          "issn": "1553-8095",
-          "template": "citation",
-          "type": "news"
         },
         {
           "last1": "Herrera Gutiérrez",
@@ -5092,19 +4884,6 @@
           "type": "news"
         },
         {
-          "title": "130 countries and jurisdictions join bold new framework for international tax reform",
-          "url": "https://www.oecd.org/newsroom/130-countries-and-jurisdictions-join-bold-new-framework-for-international-tax-reform.htm",
-          "url-status": "live",
-          "location": "Paris, France",
-          "publisher": "Organisation for Economic Cooperation and Development",
-          "date": "July 1, 2021",
-          "archive-url": "https://web.archive.org/web/20210701154416/https://www.oecd.org/newsroom/130-countries-and-jurisdictions-join-bold-new-framework-for-international-tax-reform.htm",
-          "archive-date": "July 1, 2021",
-          "access-date": "June 1, 2021",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
           "last1": "Hannon",
           "first1": "Paul",
           "last2": "Davidson",
@@ -5128,26 +4907,13 @@
           "title": "130 countries sign on to global minimum tax plan, creating momentum for Biden push",
           "url": "https://www.washingtonpost.com/us-policy/2021/07/01/global-corporate-tax-oecd/",
           "url-status": "live",
-          "work": "The Walshington Post",
+          "work": "The Washington Post",
           "archive-url": "https://web.archive.org/web/20211202141351/https://www.washingtonpost.com/us-policy/2021/07/01/global-corporate-tax-oecd/",
           "archive-date": "December 2, 2021",
           "access-date": "July 2, 2021",
           "issn": "0190-8286",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "title": "Third G20 Finance Ministers and Central Bank Governors meeting Communiqué 9-10 July 2021",
-          "url": "https://www.g20.org/wp-content/uploads/2021/07/Communique-Third-G20-FMCBG-meeting-9-10-July-2021.pdf",
-          "url-status": "live",
-          "location": "Venice, Italy",
-          "publisher": "www.g20.org",
-          "date": "July 10, 2021",
-          "archive-url": "https://web.archive.org/web/20210710210207/https://www.g20.org/wp-content/uploads/2021/07/Communique-Third-G20-FMCBG-meeting-9-10-July-2021.pdf",
-          "archive-date": "July 10, 2021",
-          "access-date": "July 11, 2021",
-          "template": "citation",
-          "type": "press release"
         },
         {
           "url": "https://www.cnbc.com/2021/07/10/g-20-financial-leaders-agree-to-move-forward-on-international-tax-crackdown.html",
@@ -5194,20 +4960,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.cnbc.com/2021/10/08/oecd-reaches-deal-on-corporate-tax-after-ireland-agrees.html",
-          "title": "World leaders reach landmark deal on a global corporate tax rate",
-          "last": "Amaro",
-          "first": "Silvia",
-          "date": "October 8, 2021",
-          "website": "cnbc.com",
-          "archive-url": "https://web.archive.org/web/20211028234258/https://www.cnbc.com/2021/10/08/oecd-reaches-deal-on-corporate-tax-after-ireland-agrees.html",
-          "archive-date": "October 28, 2021",
-          "url-status": "live",
-          "access-date": "October 9, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://edition.cnn.com/2021/10/08/business/ireland-global-tax-deal-oecd/index.html",
           "title": "136 countries agree to minimum corporate tax rate after Ireland drops its opposition",
           "last1": "Ziady",
@@ -5232,7 +4984,7 @@
         {
           "sentences": [
             {
-              "text": "On July 23, 2021, Yellen sent a letter to House Speaker Nancy Pelosi and other congressional leaders, urged lawmakers to increase or suspend the nation's debt limit as soon as possible before it will hit its statutory limit on Aug. 1, and government will be unable to pay its bills.",
+              "text": "On July 23, 2021, Yellen sent a letter to House Speaker Nancy Pelosi and other congressional leaders, urged lawmakers to increase or suspend the nation's debt limit as soon as possible before it hit its statutory limit on August 1, and government would be unable to pay its bills.",
               "links": [
                 {
                   "type": "internal",
@@ -5260,7 +5012,7 @@
         {
           "sentences": [
             {
-              "text": "On September 19, 2021, Yellen, in an op-ed for the Wall Street Journal, called to address debt ceiling with bipartisan support otherwise, sometime in October, Treasury exhausts its cash reserves which would trigger a historic financial crisis and \"permanently\" weaken America.",
+              "text": "On September 19, 2021, Yellen, in an op-ed for the Wall Street Journal, again called for an increase in the debt ceiling otherwise, sometime in October, Treasury would exhaust its cash reserves which would trigger a financial crisis.",
               "links": [
                 {
                   "text": "the Wall Street Journal",
@@ -5275,10 +5027,10 @@
               }
             },
             {
-              "text": "After Congress adopted a short-term debt-ceiling bill to raise the country's borrowing into early December, Yellen said that it is imperative that lawmakers act with responsibility and provides longer-term certainty for the government."
+              "text": "After Congress adopted a short-term debt-ceiling bill to raise the country's borrowing into early December, Yellen said that it was imperative that lawmakers act with responsibility and provide longer-term certainty for government solvency."
             },
             {
-              "text": "On November 1, 2021, Yellen expresses willingness to consider solutions to debt crisis without GOP support if necessary, using a budget procedure of reconciliation as viable alternative.",
+              "text": "On November 1, 2021, Yellen expressed willingness to consider solutions to the debt crisis without GOP support if necessary, using a budget procedure of reconciliation as a viable alternative.",
               "links": [
                 {
                   "text": "debt crisis",
@@ -5297,10 +5049,10 @@
         {
           "sentences": [
             {
-              "text": "On December 16, 2021, President Biden signed a debt ceiling increase into law, preventing the first-ever U.S. default, a day after the Treasury's previously estimated deadline to address the issue."
+              "text": "On December 16, 2021, President Biden signed a debt ceiling increase into law, preventing a U.S. default, a day after the Treasury's previously estimated deadline to address the issue."
             },
             {
-              "text": "Congressional legislation expected to allow the government to cover its financial obligations beyond 2022 midterm elections was passed in a nearly party-line vote.",
+              "text": "Congressional legislation expected to allow the government to cover its financial obligations beyond the 2022 midterm elections was passed in a nearly party-line vote.",
               "links": [
                 {
                   "text": "2022 midterm elections",
@@ -5326,20 +5078,6 @@
           "date": "July 23, 2021",
           "website": "cnbc.com",
           "archive-url": "https://web.archive.org/web/20211114191803/https://www.cnbc.com/2021/07/23/yellen-urges-congress-to-raise-debt-limit-by-aug-2-or-treasury-will-take-extraordinary-measures-to-prevent-default.html",
-          "archive-date": "November 14, 2021",
-          "url-status": "live",
-          "access-date": "July 24, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.reuters.com/world/us/us-treasury-secretary-yellen-warns-congress-debt-limit-2021-07-23/",
-          "title": "U.S. Treasury Secretary Yellen warns Congress on debt limit",
-          "last": "Chiacu",
-          "first": "Doina",
-          "date": "July 23, 2021",
-          "website": "reuters.com",
-          "archive-url": "https://web.archive.org/web/20211114192713/https://www.reuters.com/world/us/us-treasury-secretary-yellen-warns-congress-debt-limit-2021-07-23/",
           "archive-date": "November 14, 2021",
           "url-status": "live",
           "access-date": "July 24, 2021",
@@ -5443,7 +5181,7 @@
         {
           "sentences": [
             {
-              "text": "On April 7, 2022, at American University's Kogod School of Business Center for Innovation, Yellen addressed for the first time growing impact of digital assets on the American economy, laying out a strategy she said will encourage \"responsible innovation\" to safeguard national security interests and our planet, and protect vulnerable people.",
+              "text": "On April 7, 2022, at American University's Kogod School of Business Center for Innovation, Yellen addressed for the first time growing impact of digital assets on the American economy.",
               "links": [
                 {
                   "type": "internal",
@@ -5461,21 +5199,6 @@
               ]
             },
             {
-              "text": "She highlighted the extreme divergence of perceptions about cryptocurrency and other blockchain-based technologies, but arguing that principled approach should be focused on risks, as well as increased government oversight and research on the matter, while remaining wherever possible \"tech neutral.\"",
-              "links": [
-                {
-                  "text": "cryptocurrency",
-                  "type": "internal",
-                  "page": "cryptocurrency"
-                },
-                {
-                  "text": "blockchain",
-                  "type": "internal",
-                  "page": "blockchain"
-                }
-              ]
-            },
-            {
               "text": "Yellen outlined policy objectives and lessons that apply to the navigation of emerging technologies, which includes \"first, U.S. financial system benefits from responsible innovation; second, it's often society's vulnerable who suffer most in economic crisis when regulation is not moving at the same pace as innovation; third, regulation should focus on activities and risk and activities, not technology; fourth, sovereign money is the core of a functioning financial system; fifth, it'll take thoughtful public and private dialogue between various groups to move forward.\""
             }
           ]
@@ -5483,7 +5206,7 @@
         {
           "sentences": [
             {
-              "text": "Yellen also announced plans for a government version of a stablecoin; the administration is studying the possibility of issuing a central bank digital currency (CBDC), or digital dollar, while taking into consideration the impact of a CBDC on monetary policy, national security and international trade, as well as its utility for consumers.",
+              "text": "Yellen also announced possible plans for a government version of a stablecoin; the administration is studying the possibility of issuing a central bank digital currency (CBDC), or digital dollar, while taking into consideration the impact of a CBDC on monetary policy, national security and international trade, as well as its utility for consumers.",
               "links": [
                 {
                   "text": "stablecoin",
@@ -5504,34 +5227,6 @@
         }
       ],
       "references": [
-        {
-          "url": "https://www.american.edu/news/treasury-secretary-janet-yellen-american-university-cryptocurrency.cfm",
-          "title": "Treasury Secretary Janet Yellen Gives Landmark Cryptocurrency Speech at AU",
-          "last": "Heeter",
-          "first": "Jonathan",
-          "date": "April 8, 2022",
-          "website": "american.edu",
-          "archive-url": "https://web.archive.org/web/20220412000448/https://www.american.edu/news/treasury-secretary-janet-yellen-american-university-cryptocurrency.cfm",
-          "archive-date": "April 12, 2022",
-          "url-status": "live",
-          "access-date": "April 9, 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://finance.yahoo.com/news/yellen-crypto-regulation-143434024.html",
-          "title": "Yellen: Crypto regulation should be based on risk",
-          "last": "Schonberger",
-          "first": "Jennifer",
-          "date": "April 7, 2022",
-          "website": "finance.yahoo.com",
-          "archive-url": "https://web.archive.org/web/20220411184522/https://finance.yahoo.com/news/yellen-crypto-regulation-143434024.html",
-          "archive-date": "April 11, 2022",
-          "url-status": "live",
-          "access-date": "April 8, 2022",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "last": "Duehren",
           "first": "Andrew",
@@ -5783,7 +5478,7 @@
               ]
             },
             {
-              "text": "In April 1999, Yellen presented a speech at a reunion of the Yale graduate economics department that was titled \"Yale Economics in Washington,\" and described her views on the Keynesian economics in policymaking."
+              "text": "In April 1999, Yellen presented a speech at a reunion of the Yale graduate economics department that was titled \"Yale Economics in Washington,\" and described her views on Keynesian economics in policymaking."
             },
             {
               "text": "She claimed that while most economists \"appreciate the role of markets and incentives,\" Yalies more often than others can see when they aren't working properly and greater concern for policies to remedy them, advising policy makers to have the knowledge and ability to improve macroeconomic outcomes."
@@ -5848,21 +5543,6 @@
           "type": "news"
         },
         {
-          "first": "Jordan",
-          "last": "Weissmann",
-          "date": "May 6, 2021",
-          "title": "Joe Biden Is Starting to Sound Hawkish About the Deficit. Uh-Oh.",
-          "url": "https://slate.com/business/2021/05/joe-biden-deficit-debt-spending-infrastructure-yellen.html",
-          "url-status": "live",
-          "work": "Slate",
-          "archive-url": "https://web.archive.org/web/20211010115718/https://slate.com/business/2021/05/joe-biden-deficit-debt-spending-infrastructure-yellen.html",
-          "archive-date": "October 10, 2021",
-          "access-date": "May 7, 2021",
-          "issn": "1091-2339",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.cnbc.com/2021/09/30/yellen-lends-support-for-effort-to-remove-the-debt-ceiling-altogether.html",
           "title": "Yellen lends support for effort to remove the debt ceiling altogether",
           "last": "Cox",
@@ -5875,21 +5555,6 @@
           "access-date": "October 1, 2021",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "last": "Rappeport",
-          "first": "Alan",
-          "date": "September 30, 2021",
-          "title": "Janet Yellen says she supports eliminating the debt limit.",
-          "url": "https://www.nytimes.com/2021/09/30/business/yellen-powell.html",
-          "url-status": "live",
-          "work": "The New York Times",
-          "archive-url": "https://web.archive.org/web/20211030032313/https://www.nytimes.com/2021/09/30/business/yellen-powell.html",
-          "archive-date": "October 30, 2021",
-          "access-date": "October 1, 2021",
-          "issn": "1553-8095",
-          "template": "citation",
-          "type": "news"
         },
         {
           "last": "Cassidy",
@@ -5922,27 +5587,6 @@
           "language": "en",
           "template": "citation",
           "type": "speech"
-        },
-        {
-          "last1": "Rappeport",
-          "first1": "Alan",
-          "last2": "Swanson",
-          "first2": "Ana",
-          "last3": "Tankersley",
-          "first3": "Jim",
-          "last4": "Smialek",
-          "first4": "Jeanna",
-          "date": "November 24, 2020",
-          "title": "Yellen Would Assume Vast Policy Portfolio as Treasury Secretary",
-          "url": "https://www.nytimes.com/2020/11/24/us/politics/janet-yellen-treasury-biden.html",
-          "url-status": "live",
-          "work": "The New York Times",
-          "archive-url": "https://web.archive.org/web/20210416221950/https://www.nytimes.com/2020/11/24/us/politics/janet-yellen-treasury-biden.html",
-          "archive-date": "April 16, 2021",
-          "access-date": "November 25, 2020",
-          "issn": "1553-8095",
-          "template": "citation",
-          "type": "news"
         },
         {
           "last1": "Elliott",

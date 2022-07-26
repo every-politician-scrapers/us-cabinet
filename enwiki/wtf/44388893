@@ -107,6 +107,10 @@
           "template": "use mdy dates"
         },
         {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
           "year": "1977",
           "month": "11",
           "day": "29",

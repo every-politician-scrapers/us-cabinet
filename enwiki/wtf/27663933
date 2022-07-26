@@ -90,32 +90,37 @@
                   "page": "2018 South Dakota gubernatorial election"
                 }
               ]
+            },
+            {
+              "text": "She was elected as an ally of the Donald Trump.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            },
+            {
+              "text": "She follows conservative beliefs and opposes gun restrictions.",
+              "links": [
+                {
+                  "text": "conservative",
+                  "type": "internal",
+                  "page": "Conservatism"
+                }
+              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Elected as an ally of Donald Trump, Noem explicitly refused to follow the guidance of medical experts during the COVID-19 pandemic, and did not enact any of the standard public health and safety protections used in other states.",
+              "text": "Noem refused to establish a statewide mask mandate during the COVID-19 pandemic, despite the guidance of medical experts.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Donald Trump"
-                },
                 {
                   "text": "COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in South Dakota"
-                }
-              ]
-            },
-            {
-              "text": "She did not implement face mask mandates, raised doubts about the efficacy of mask-wearing, encouraged large gatherings without social distancing or mask-wearing, and questioned public health experts' advice.",
-              "links": [
-                {
-                  "text": "social distancing",
-                  "type": "internal",
-                  "page": "social distancing"
                 }
               ]
             }
@@ -166,6 +171,9 @@
         {
           "name": {
             "text": "Kristi Noem"
+          },
+          "image": {
+            "text": "Noem Portrait.jpg"
           },
           "alt": {
             "text": "Kristi Noem"
@@ -351,12 +359,12 @@
           "type": "news"
         },
         {
-          "title": "Trump blasts Sutton and media, raves about Noem during South Dakota visit",
-          "url": "https://www.argusleader.com/story/news/2018/09/07/donald-trump-news-gop-candidate-kristi-noem-fundraiser-2018-event-sioux-falls-visit/1195256002/",
-          "work": "Argus Leader",
-          "first1": "Patrick",
           "last1": "Anderson",
+          "first1": "Patrick",
           "date": "September 7, 2018",
+          "title": "Trump blasts Sutton and media, raves about Noem during South Dakota visit",
+          "work": "Argus Leader",
+          "url": "https://www.argusleader.com/story/news/2018/09/07/donald-trump-news-gop-candidate-kristi-noem-fundraiser-2018-event-sioux-falls-visit/1195256002/",
           "access-date": "July 4, 2021",
           "template": "citation",
           "type": "news"
@@ -370,17 +378,6 @@
           "access-date": "March 10, 2021",
           "work": "Fox News",
           "language": "en-US",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Groves",
-          "first": "Stephen",
-          "date": "July 28, 2020",
-          "title": "Governor pushes schools to remain open, disparages masks",
-          "work": "Associated Press",
-          "url": "https://apnews.com/article/sioux-falls-school-boards-south-dakota-kristi-noem-virus-outbreak-faedb1d1cb9faf7ac2046391466f461a",
-          "access-date": "March 10, 2021",
           "template": "citation",
           "type": "news"
         }
@@ -1001,24 +998,17 @@
       "depth": 2,
       "paragraphs": [
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
-              "text": "Noem has said that the U.S. must end its dependence on foreign oil.",
+              "text": "Noem has said that the U.S. needs an \"all-of-the-above energy approach\" that includes renewables like wind and ethanol while still realizing the need for a \"balanced energy mix\" that ends American dependence on foreign oil.",
               "links": [
                 {
                   "text": "foreign oil",
                   "type": "internal",
                   "page": "North American energy independence"
-                }
-              ]
-            },
-            {
-              "text": "She supports continuing ethanol subsidies that benefit her state and opposes ending federal subsidies for oil companies.",
-              "links": [
-                {
-                  "text": "ethanol",
-                  "type": "internal",
-                  "page": "ethanol"
                 }
               ]
             }
@@ -1162,6 +1152,17 @@
           "date": "December 9, 2010",
           "archive-url": "https://web.archive.org/web/20101213064653/http://plainsdaily.com/entry/new_south_dakota_congresswoman_say_ethanol_subsidy_good_for_recovery/",
           "archive-date": "December 13, 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Noem",
+          "first": "Kristi",
+          "date": "2019-03-29",
+          "title": "Noem: Enhancing our energy potential",
+          "url": "https://www.argusleader.com/story/news/dell-rapids/2019/03/29/noem-enhancing-our-energy-potential/3314559002/",
+          "work": "Argus Leader",
+          "access-date": "2022-07-25",
           "template": "citation",
           "type": "news"
         },
@@ -3130,13 +3131,6 @@
         {
           "sentences": [
             {
-              "text": "South Dakota is one of two states in the U.S. to offer no emergency financial assistance to renters during the pandemic."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "In February 2020, Noem announced her opposition to a bill prohibiting schools and universities from requiring students to get vaccinated."
             },
             {
@@ -3439,17 +3433,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "title": "Rental Assistance",
-          "url": "https://nlihc.org/rental-assistance",
-          "access-date": "September 17, 2020",
-          "website": "National Low Income Housing Coalition",
-          "archive-date": "November 16, 2020",
-          "archive-url": "https://web.archive.org/web/20201116193317/https://nlihc.org/rental-assistance",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
         },
         {
           "date": "February 21, 2020",

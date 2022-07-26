@@ -5237,112 +5237,27 @@
       "depth": 1
     },
     {
-      "title": "Marijuana",
+      "title": "FOIA law",
       "depth": 2,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "A few months after his inauguration, Youngkin proposed that Virginia recriminalize possessing more than two ounces of marijuana."
-            },
-            {
-              "text": "When the Northam administration, a year earlier, had legalized possessing up to an ounce of marijuana in Virginia, it did so while establishing a system in which possessing between one ounce and one pound was made punishable by a $25 fine; possessing over one pound remained a felony."
-            },
-            {
-              "text": "This system made Virginia the only US state to have legalized marijuana possession without having misdemeanor penalties for possessing over the legal amount."
-            },
-            {
-              "text": "Youngkin's proposal to introduce such penalties in Virginia was inspired by a recommendation made in 2021 by the state legislature's nonpartisan Joint Legislative Audit and Review Commission."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Under Youngkin's proposal, possessing more than two ounces of marijuana would become a Class 2 misdemeanor, while possessing more than six ounces would become a Class 1 misdemeanor.",
+              "text": "In 2022, Youngkin signed a bill reversing the effects of a 2021 amendment to the Virginia Freedom of Information Act.",
               "links": [
                 {
-                  "text": "Class 2 misdemeanor",
+                  "text": "Virginia Freedom of Information Act",
                   "type": "internal",
-                  "page": "Misdemeanor",
-                  "anchor": "Misdemeanor classes"
-                },
-                {
-                  "text": "Class 1 misdemeanor",
-                  "type": "internal",
-                  "page": "Misdemeanor",
-                  "anchor": "Misdemeanor classes"
+                  "page": "Freedom of information in the United States",
+                  "anchor": "State legislation"
                 }
               ]
             },
             {
-              "text": "Before this proposal was made, the Democratic-controlled State Senate had passed a bill during the 2022 legislative session that would have made possessing more than four ounces of marijuana a Class 3 misdemeanor.",
-              "links": [
-                {
-                  "text": "Class 3 misdemeanor",
-                  "type": "internal",
-                  "page": "Misdemeanor",
-                  "anchor": "Misdemeanor classes"
-                }
-              ]
+              "text": "Under the 2021 amendment, which had been signed by Youngkin's predecessor, Ralph Northam, law enforcement was required to fulfill all requests for files pertaining to closed investigations, although they were allowed to redact any information that could violate privacy and were not allowed to release audio or visual materials depicting victims to anyone other than those victims or their families."
             },
             {
-              "text": "That bill, which also would have legalized the sale of recreational marijuana in Virginia, was rejected by the Republican-controlled House of Delegates."
-            },
-            {
-              "text": "Later that year, as part of a bipartisan budget deal signed by Youngkin, Virginia made possessing between four ounces and a pound of marijuana in public a Class 3 misdemeanor for a first time offense and a Class 2 misdemeanor for repeat offenses."
-            },
-            {
-              "text": "This same budget deal banned the sale of cannabis products shaped as animals, humans, vehicles, or fruits, so as to protect against accidental consumption by children."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Separate marijuana legislation signed by Youngkin in 2022 allows patients to purchase medical marijuana immediately upon receiving a certificate to do so from a registered medical provider.",
-              "links": [
-                {
-                  "text": "medical marijuana",
-                  "type": "internal",
-                  "page": "Medical cannabis"
-                }
-              ]
-            },
-            {
-              "text": "Previously, patients were required to register with the State Board of Pharmacy before they could make such a purchase."
-            },
-            {
-              "text": "This reform was enacted due to long wait times occurring during the registration process."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Youngkin has also proposed raising the legal age for purchasing CBD products in Virginia to 21 and banning products that contain Delta-8 THC, which is described by The Washington Post as \"a hemp-derived compound that has become popular for its similarity to Delta-9, the main compound in marijuana that gives consumers a high.",
-              "links": [
-                {
-                  "text": "CBD",
-                  "type": "internal",
-                  "page": "Cannabidiol"
-                },
-                {
-                  "text": "Delta-8 THC",
-                  "type": "internal",
-                  "page": "Delta-8-Tetrahydrocannabinol"
-                },
-                {
-                  "text": "hemp",
-                  "type": "internal",
-                  "page": "hemp"
-                },
-                {
-                  "text": "Delta-9",
-                  "type": "internal",
-                  "page": "Tetrahydrocannabinol"
-                }
-              ],
+              "text": "According to The Washington Post, before this amendment was enacted, law enforcement in Virginia \"typically used their discretion to deny access to virtually all of their files, from all requesters\".",
               "formatting": {
                 "italic": [
                   "The Washington Post"
@@ -5350,104 +5265,63 @@
               }
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bill signed by Youngkin in 2022 restored discretion to law enforcement over whether to release files pertaining to closed investigations but still requires that access to such files be granted to the families of victims and to attorneys working on post-conviction proceedings."
+            },
+            {
+              "text": "Under the bill, if law enforcement chooses to fulfill any other request, they can do so only after victims involved in the investigation have been notified and given a chance to object; any victim who objects can then file for an injunction, at which point a judge would determine the outcome of the request.",
+              "links": [
+                {
+                  "text": "injunction",
+                  "type": "internal",
+                  "page": "injunction"
+                }
+              ]
+            },
+            {
+              "text": "Youngkin's reform of Virginia's FOIA law gained some bipartisan support in the Virginia legislature but was opposed by the Innocence Project.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Innocence Project"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
         {
-          "last": "Wilson",
-          "first": "Patrick",
-          "title": "Va. budget leaders include new marijuana crime in spending plan",
-          "url": "https://richmond.com/news/state-and-regional/govt-and-politics/va-budget-leaders-include-new-marijuana-crime-in-spending-plan/article_b792ea40-bdf4-5f1d-ab93-5fbabcff374f.html",
-          "access-date": "2022-07-15",
-          "website": "Richmond Times-Dispatch",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "After ending marijuana prohibition, Virginia lawmakers create penalty for possession",
-          "url": "https://vpm.org/news/articles/32626/after-ending-marijuana-prohibition-virginia-lawmakers-create-penalty-for",
-          "access-date": "2022-07-15",
-          "website": "VPM.org",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2022-06-30",
-          "title": "Marijuana, facial recognition, other laws take effect July 1",
-          "url": "https://apnews.com/article/crime-marijuana-legislature-virginia-government-and-politics-6c77832f0ede7f925dbf4e3ec386e6c3",
-          "access-date": "2022-07-15",
+          "date": "2022-04-12",
+          "title": "Youngkin wants amendments to hemp, facial recognition bills",
+          "url": "https://apnews.com/article/business-virginia-retail-sales-marijuana-8f208106714b448be5cb84c4c5837bf5",
+          "access-date": "2022-07-25",
           "website": "AP NEWS",
           "language": "en",
           "template": "citation",
           "type": "web"
         },
         {
-          "title": "Changes to Virginia marijuana laws you need to know",
-          "url": "https://www.yahoo.com/lifestyle/changes-virginia-marijuana-laws-know-131724235.html",
-          "access-date": "2022-07-15",
-          "website": "www.yahoo.com",
+          "title": "Va. seeks records law change to require victim notification before releasing crime files",
           "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Behind Virginia’s mystery marijuana provision: Measure came from Governor’s office, with help from two Democrats",
-          "url": "https://news.yahoo.com/behind-virginia-mystery-marijuana-provision-204100171.html",
-          "access-date": "2022-07-15",
-          "website": "news.yahoo.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2022-04-16",
-          "title": "Virginia to lift state registration rule for medical marijuana",
-          "url": "https://www.wavy.com/marijuana-in-virginia/virginia-to-lift-state-registration-rule-for-medical-marijuana/",
-          "access-date": "2022-07-18",
-          "website": "WAVY.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2022-07-01",
-          "title": "New law makes it easier to get medical marijuana in Virginia",
-          "url": "https://wtop.com/virginia/2022/07/new-law-makes-it-easier-to-access-medical-marijuana-in-virginia/",
-          "access-date": "2022-07-18",
-          "website": "WTOP News",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Youngkin wants penalties for people with more than 2 ounces of marijuana",
-          "url": "https://richmond.com/news/state-and-regional/youngkin-wants-penalties-for-people-with-more-than-2-ounces-of-marijuana/article_bd5cfde3-755a-59b6-9a46-894a68fc4d4f.html",
-          "access-date": "2022-04-15",
-          "website": "Richmond Times-Dispatch",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Youngkin proposes new crimes for pot possession, changes to CBD retail",
-          "language": "en-US",
-          "newspaper": "Washington Post",
-          "url": "https://www.washingtonpost.com/dc-md-va/2022/04/15/virginia-marijuana-cbd-youngkin-delta8/",
-          "access-date": "2022-05-27",
+          "work": "Washington Post",
+          "url": "https://www.washingtonpost.com/dc-md-va/2022/03/11/va-foia-change/",
+          "access-date": "2022-03-25",
           "issn": "0190-8286",
           "template": "citation",
           "type": "news"
         },
         {
-          "last1": "Mirshahi",
-          "first1": "Dean",
-          "date": "13 April 2022",
-          "title": "Youngkin proposes penalties for people with more than two ounces of marijuana",
-          "url": "https://www.localdvm.com/news/virginia/youngkin-proposes-penalties-for-people-with-more-than-two-ounces-of-marijuana/",
-          "access-date": "15 April 2022",
-          "publisher": "WDVM-TV",
+          "last": "Times-Dispatch",
+          "first": "PATRICK WILSON Richmond",
+          "title": "Va. Senate briefly slows down bill that would close many police records to the public",
+          "url": "https://richmond.com/news/state-and-regional/va-senate-briefly-slows-down-bill-that-would-close-many-police-records-to-the-public/article_849e7eed-7427-50b7-a50f-21bf337885b5.html",
+          "access-date": "2022-03-25",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }
@@ -7857,6 +7731,223 @@
           "date": "June 10, 2022",
           "title": "To Some Surprise, Youngkin Hosts Series of Pride Events",
           "url": "https://www.usnews.com/news/politics/articles/2022-06-10/to-some-surprise-youngkin-hosts-series-of-pride-events",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Marijuana",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A few months after his inauguration, Youngkin proposed that Virginia recriminalize possessing more than two ounces of marijuana."
+            },
+            {
+              "text": "When the Northam administration, a year earlier, had legalized possessing up to an ounce of marijuana in Virginia, it did so while establishing a system in which possessing between one ounce and one pound was made punishable by a $25 fine; possessing over one pound remained a felony."
+            },
+            {
+              "text": "This system made Virginia the only US state to have legalized marijuana possession without having misdemeanor penalties for possessing over the legal amount."
+            },
+            {
+              "text": "Youngkin's proposal to introduce such penalties in Virginia was inspired by a recommendation made in 2021 by the state legislature's nonpartisan Joint Legislative Audit and Review Commission."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Under Youngkin's proposal, possessing more than two ounces of marijuana would become a Class 2 misdemeanor, while possessing more than six ounces would become a Class 1 misdemeanor.",
+              "links": [
+                {
+                  "text": "Class 2 misdemeanor",
+                  "type": "internal",
+                  "page": "Misdemeanor",
+                  "anchor": "Misdemeanor classes"
+                },
+                {
+                  "text": "Class 1 misdemeanor",
+                  "type": "internal",
+                  "page": "Misdemeanor",
+                  "anchor": "Misdemeanor classes"
+                }
+              ]
+            },
+            {
+              "text": "Before this proposal was made, the Democratic-controlled State Senate had passed a bill during the 2022 legislative session that would have made possessing more than four ounces of marijuana a Class 3 misdemeanor.",
+              "links": [
+                {
+                  "text": "Class 3 misdemeanor",
+                  "type": "internal",
+                  "page": "Misdemeanor",
+                  "anchor": "Misdemeanor classes"
+                }
+              ]
+            },
+            {
+              "text": "That bill, which also would have legalized the sale of recreational marijuana in Virginia, was rejected by the Republican-controlled House of Delegates."
+            },
+            {
+              "text": "Later that year, as part of a bipartisan budget deal signed by Youngkin, Virginia made possessing between four ounces and a pound of marijuana in public a Class 3 misdemeanor for a first time offense and a Class 2 misdemeanor for repeat offenses."
+            },
+            {
+              "text": "This same budget deal banned the sale of cannabis products shaped as animals, humans, vehicles, or fruits, so as to protect against accidental consumption by children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Separate marijuana legislation signed by Youngkin in 2022 allows patients to purchase medical marijuana immediately upon receiving a certificate to do so from a registered medical provider.",
+              "links": [
+                {
+                  "text": "medical marijuana",
+                  "type": "internal",
+                  "page": "Medical cannabis"
+                }
+              ]
+            },
+            {
+              "text": "Previously, patients were required to register with the State Board of Pharmacy before they could make such a purchase."
+            },
+            {
+              "text": "This reform was enacted due to long wait times occurring during the registration process."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Youngkin has also proposed raising the legal age for purchasing CBD products in Virginia to 21 and banning products that contain Delta-8 THC, which is described by The Washington Post as \"a hemp-derived compound that has become popular for its similarity to Delta-9, the main compound in marijuana that gives consumers a high.",
+              "links": [
+                {
+                  "text": "CBD",
+                  "type": "internal",
+                  "page": "Cannabidiol"
+                },
+                {
+                  "text": "Delta-8 THC",
+                  "type": "internal",
+                  "page": "Delta-8-Tetrahydrocannabinol"
+                },
+                {
+                  "text": "hemp",
+                  "type": "internal",
+                  "page": "hemp"
+                },
+                {
+                  "text": "Delta-9",
+                  "type": "internal",
+                  "page": "Tetrahydrocannabinol"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Washington Post"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Wilson",
+          "first": "Patrick",
+          "title": "Va. budget leaders include new marijuana crime in spending plan",
+          "url": "https://richmond.com/news/state-and-regional/govt-and-politics/va-budget-leaders-include-new-marijuana-crime-in-spending-plan/article_b792ea40-bdf4-5f1d-ab93-5fbabcff374f.html",
+          "access-date": "2022-07-15",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "After ending marijuana prohibition, Virginia lawmakers create penalty for possession",
+          "url": "https://vpm.org/news/articles/32626/after-ending-marijuana-prohibition-virginia-lawmakers-create-penalty-for",
+          "access-date": "2022-07-15",
+          "website": "VPM.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Changes to Virginia marijuana laws you need to know",
+          "url": "https://www.yahoo.com/lifestyle/changes-virginia-marijuana-laws-know-131724235.html",
+          "access-date": "2022-07-15",
+          "website": "www.yahoo.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Behind Virginia’s mystery marijuana provision: Measure came from Governor’s office, with help from two Democrats",
+          "url": "https://news.yahoo.com/behind-virginia-mystery-marijuana-provision-204100171.html",
+          "access-date": "2022-07-15",
+          "website": "news.yahoo.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-04-16",
+          "title": "Virginia to lift state registration rule for medical marijuana",
+          "url": "https://www.wavy.com/marijuana-in-virginia/virginia-to-lift-state-registration-rule-for-medical-marijuana/",
+          "access-date": "2022-07-18",
+          "website": "WAVY.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-01",
+          "title": "New law makes it easier to get medical marijuana in Virginia",
+          "url": "https://wtop.com/virginia/2022/07/new-law-makes-it-easier-to-access-medical-marijuana-in-virginia/",
+          "access-date": "2022-07-18",
+          "website": "WTOP News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Youngkin wants penalties for people with more than 2 ounces of marijuana",
+          "url": "https://richmond.com/news/state-and-regional/youngkin-wants-penalties-for-people-with-more-than-2-ounces-of-marijuana/article_bd5cfde3-755a-59b6-9a46-894a68fc4d4f.html",
+          "access-date": "2022-04-15",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Youngkin proposes new crimes for pot possession, changes to CBD retail",
+          "language": "en-US",
+          "newspaper": "Washington Post",
+          "url": "https://www.washingtonpost.com/dc-md-va/2022/04/15/virginia-marijuana-cbd-youngkin-delta8/",
+          "access-date": "2022-05-27",
+          "issn": "0190-8286",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Mirshahi",
+          "first1": "Dean",
+          "date": "13 April 2022",
+          "title": "Youngkin proposes penalties for people with more than two ounces of marijuana",
+          "url": "https://www.localdvm.com/news/virginia/youngkin-proposes-penalties-for-people-with-more-than-two-ounces-of-marijuana/",
+          "access-date": "15 April 2022",
+          "publisher": "WDVM-TV",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-06-30",
+          "title": "Marijuana, facial recognition, other laws take effect July 1",
+          "url": "https://apnews.com/article/crime-marijuana-legislature-virginia-government-and-politics-6c77832f0ede7f925dbf4e3ec386e6c3",
+          "access-date": "2022-07-15",
+          "website": "AP NEWS",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }

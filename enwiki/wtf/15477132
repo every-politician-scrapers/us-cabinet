@@ -166,6 +166,10 @@
           "template": "use mdy dates"
         },
         {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
           "year": "1966",
           "month": "9",
           "day": "16",

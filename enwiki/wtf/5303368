@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "John Karl Fetterman (born August 15, 1969) is an American politician who has served as the 34th and current Lieutenant Governor of Pennsylvania since 2019.",
+              "text": "John Karl Fetterman (born August 15, 1969) is an American politician who has served as the 34th Lieutenant Governor of Pennsylvania since 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -198,7 +198,7 @@
       ],
       "templates": [
         {
-          "description": "34th Lieutenant Governor of Pennsylvania",
+          "description": "34th lieutenant governor of Pennsylvania",
           "template": "short description"
         },
         {
@@ -211,6 +211,10 @@
         {
           "date": "June 2022",
           "template": "use mdy dates"
+        },
+        {
+          "date": "July 2022",
+          "template": "use american english"
         },
         {
           "year": "1969",
