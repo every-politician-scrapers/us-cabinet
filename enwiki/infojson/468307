@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States House Permanent Select Committee on Intelligence"
+      ],
+      "stated_as": "Chair of the House Intelligence Committee"
+    },
+    "P580": "1993-01-03",
+    "P1365": {
+      "links": [
+        "Guy Vander Jagt"
+      ],
+      "stated_as": "Guy Vander Jagt (redistricting)"
+    },
+    "P582": "2011-01-03",
+    "P1366": {
+      "links": [
+        "Bill Huizenga"
+      ],
+      "stated_as": "Bill Huizenga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States House Permanent Select Committee on Intelligence"
+      ],
+      "stated_as": "Chair of the House Intelligence Committee"
+    },
+    "P580": "2004-09-23",
+    "P1365": {
+      "links": [
+        "Porter Goss"
+      ],
+      "stated_as": "Porter Goss"
+    },
+    "P582": "2007-01-03",
+    "P1366": {
+      "links": [
+        "Silvestre Reyes"
+      ],
+      "stated_as": "Silver Reyes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States House Permanent Select Committee on Intelligence"
+      ],
+      "stated_as": "Ranking Member of the House Intelligence Committee"
+    },
+    "P580": "2007-01-03",
+    "P1365": {
+      "links": [
+        "Jane Harman"
+      ],
+      "stated_as": "Jane Harman"
+    },
+    "P582": "2011-01-03",
+    "P1366": {
+      "links": [
+        "Dutch Ruppersberger"
+      ],
+      "stated_as": "Dutch Ruppersberger"
+    }
+  }
+]

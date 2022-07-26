@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Pennsylvania Department of Revenue"
+      ],
+      "stated_as": "Secretary of Revenue of Pennsylvania"
+    },
+    "P580": "2007-04-25",
+    "P1365": {
+      "links": [
+        "Gregory Fajt"
+      ],
+      "stated_as": "Gregory Fajt"
+    },
+    "P582": "2008-11-30",
+    "P1366": {
+      "links": [
+        "Stephen Stetler"
+      ],
+      "stated_as": "Stephen Stetler"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Pennsylvania"
+    },
+    "P1545": "47",
+    "P580": "2015-01-20",
+    "P1365": {
+      "links": [
+        "Tom Corbett"
+      ],
+      "stated_as": "Tom Corbett"
+    }
+  }
+]

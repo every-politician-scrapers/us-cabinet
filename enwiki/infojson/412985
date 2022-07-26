@@ -1,0 +1,87 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States House of Representatives",
+        "Washington (state)"
+      ],
+      "stated_as": "Member of the\nU.S. House of Representatives\nfrom Washington"
+    },
+    "P580": "1989-01-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jim Lewis"
+    },
+    "P582": "1993-01-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dave Lemmon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States House of Representatives",
+        "Washington (state)"
+      ],
+      "stated_as": "Member of the\nU.S. House of Representatives\nfrom Washington"
+    },
+    "P580": "1993-01-03",
+    "P1365": {
+      "links": [
+        "Sid Morrison"
+      ],
+      "stated_as": "Sid Morrison"
+    },
+    "P582": "1995-01-03",
+    "P1366": {
+      "links": [
+        "Doc Hastings"
+      ],
+      "stated_as": "Doc Hastings"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States House of Representatives",
+        "Washington (state)"
+      ],
+      "stated_as": "Member of the\nU.S. House of Representatives\nfrom Washington"
+    },
+    "P580": "1999-01-03",
+    "P1365": {
+      "links": [
+        "Rick White (politician)"
+      ],
+      "stated_as": "Rick White"
+    },
+    "P582": "2012-03-20",
+    "P1366": {
+      "links": [
+        "Suzan DelBene"
+      ],
+      "stated_as": "Suzan DelBene"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Washington"
+      ],
+      "stated_as": "23rd Governor of Washington"
+    },
+    "P1545": "23",
+    "P580": "2013-01-16",
+    "P1365": {
+      "links": [
+        "Christine Gregoire"
+      ],
+      "stated_as": "Christine Gregoire"
+    }
+  }
+]

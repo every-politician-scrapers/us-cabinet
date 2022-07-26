@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Second Ladies and Gentlemen of the United States"
+      ],
+      "stated_as": "Second Lady of the United States"
+    },
+    "P580": "2009-01-20",
+    "P1365": {
+      "links": [
+        "Lynne Cheney"
+      ],
+      "stated_as": "Lynne Cheney"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Karen Pence"
+      ],
+      "stated_as": "Karen Pence"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Lady of the United States"
+      ],
+      "stated_as": "First Lady of the United States"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Melania Trump"
+      ],
+      "stated_as": "Melania Trump"
+    },
+    "P582": "2021-01-20"
+  }
+]

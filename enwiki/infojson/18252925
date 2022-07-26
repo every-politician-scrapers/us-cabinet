@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for Legislative Affairs"
+      ],
+      "stated_as": "Assistant Secretary of State for Legislative Affairs"
+    },
+    "P580": "1993-05-12",
+    "P1365": {
+      "links": [
+        "Janet G. Mullins Grissom"
+      ],
+      "stated_as": "Janet G. Mullins Grissom"
+    },
+    "P582": "1996-03-29",
+    "P1366": {
+      "links": [
+        "Barbara Larkin"
+      ],
+      "stated_as": "Barbara Larkin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Counselor of the United States Department of State"
+      ],
+      "stated_as": "Counselor of the United States Department of State"
+    },
+    "P580": "1997-08-06",
+    "P1365": {
+      "links": [
+        "Tim Wirth"
+      ],
+      "stated_as": "Tim Wirth"
+    },
+    "P582": "2001-01-20",
+    "P1366": {
+      "links": [
+        "Philip D. Zelikow"
+      ],
+      "stated_as": "Philip D. Zelikow"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Under Secretary of State for Political Affairs"
+      ],
+      "stated_as": "Under Secretary of State for Political Affairs"
+    },
+    "P580": "2011-09-21",
+    "P1365": {
+      "links": [
+        "William Joseph Burns"
+      ],
+      "stated_as": "William Joseph Burns"
+    },
+    "P582": "2015-10-02",
+    "P1366": {
+      "links": [
+        "Thomas A. Shannon Jr."
+      ],
+      "stated_as": "Tom Shannon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of State"
+      ],
+      "stated_as": "21st United States Deputy Secretary of State"
+    },
+    "P580": "2014-11-03",
+    "P1365": {
+      "links": [
+        "William J. Burns (diplomat)"
+      ],
+      "stated_as": "William J. Burns"
+    },
+    "P582": "2015-01-09",
+    "P1366": {
+      "links": [
+        "Antony Blinken"
+      ],
+      "stated_as": "Antony Blinken"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of State"
+      ],
+      "stated_as": "21st United States Deputy Secretary of State"
+    },
+    "P580": "2021-04-14",
+    "P1365": {
+      "links": [
+        "Stephen Biegun"
+      ],
+      "stated_as": "Stephen Biegun"
+    }
+  }
+]

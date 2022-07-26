@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Texas"
+      ],
+      "stated_as": "42nd Lieutenant Governor of Texas"
+    },
+    "P580": "2007-01-09",
+    "P1365": {
+      "links": [
+        "Jon Lindsay"
+      ],
+      "stated_as": "Jon Lindsay"
+    },
+    "P582": "2015-01-13",
+    "P1366": {
+      "links": [
+        "Paul Bettencourt"
+      ],
+      "stated_as": "Paul Bettencourt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Texas"
+      ],
+      "stated_as": "42nd Lieutenant Governor of Texas"
+    },
+    "P580": "2015-01-20",
+    "P1365": {
+      "links": [
+        "David Dewhurst"
+      ],
+      "stated_as": "David Dewhurst"
+    }
+  }
+]

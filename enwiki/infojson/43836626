@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to France"
+      ],
+      "stated_as": "United States Ambassador to France"
+    },
+    "P580": "2014-10-31",
+    "P1365": {
+      "links": [
+        "Charles Rivkin"
+      ],
+      "stated_as": "Charles Rivkin"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Jamie McCourt"
+      ],
+      "stated_as": "Jamie McCourt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Monaco"
+      ],
+      "stated_as": "United States Ambassador to Monaco"
+    },
+    "P580": "2014-11-05",
+    "P1365": {
+      "links": [
+        "Charles Rivkin"
+      ],
+      "stated_as": "Charles Rivkin"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Jamie McCourt"
+      ],
+      "stated_as": "Jamie McCourt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to the United Kingdom"
+      ],
+      "stated_as": "United States Ambassador to the United Kingdom"
+    },
+    "P580": "2022-07-19",
+    "P1365": {
+      "links": [
+        "Woody Johnson"
+      ],
+      "stated_as": "Woody Johnson"
+    }
+  }
+]

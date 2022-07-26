@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Department of Commerce"
+      ],
+      "stated_as": "General Counsel of the United States Department of Commerce"
+    },
+    "P580": "2005-07-22",
+    "P1365": {
+      "links": [
+        "Theodore Kassinger"
+      ],
+      "stated_as": "Theodore Kassinger"
+    },
+    "P582": "2008-03-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lily Fu Claffee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of Commerce"
+      ],
+      "stated_as": "14th United States Deputy Secretary of Commerce"
+    },
+    "P580": "2008-03-14",
+    "P1365": {
+      "links": [
+        "David A. Sampson"
+      ],
+      "stated_as": "David A. Sampson"
+    },
+    "P582": "2007-03-14",
+    "P1366": {
+      "links": [
+        "Dennis Hightower"
+      ],
+      "stated_as": "Dennis Hightower"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of State"
+      ],
+      "stated_as": "19th United States Deputy Secretary of State"
+    },
+    "P580": "2017-05-24",
+    "P1365": {
+      "links": [
+        "Antony Blinken"
+      ],
+      "stated_as": "Antony Blinken"
+    },
+    "P582": "2019-12-20",
+    "P1366": {
+      "links": [
+        "Stephen Biegun"
+      ],
+      "stated_as": "Stephen Biegun"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of State"
+      ],
+      "stated_as": "United States Secretary of State"
+    },
+    "P580": "2018-04-01",
+    "P1365": {
+      "links": [
+        "Rex Tillerson"
+      ],
+      "stated_as": "Rex Tillerson"
+    },
+    "P582": "2018-04-26",
+    "P1366": {
+      "links": [
+        "Mike Pompeo"
+      ],
+      "stated_as": "Mike Pompeo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of the United States to Russia"
+      ],
+      "stated_as": "10th United States Ambassador to Russia"
+    },
+    "P580": "2020-02-05",
+    "P1365": {
+      "links": [
+        "Jon Huntsman Jr."
+      ],
+      "stated_as": "Jon Huntsman Jr."
+    }
+  }
+]

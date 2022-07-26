@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Minnesota"
+      ],
+      "stated_as": "41st Governor of Minnesota"
+    },
+    "P580": "2007-01-03",
+    "P1365": {
+      "links": [
+        "Gil Gutknecht"
+      ],
+      "stated_as": "Gil Gutknecht"
+    },
+    "P582": "2019-01-03",
+    "P1366": {
+      "links": [
+        "Jim Hagedorn"
+      ],
+      "stated_as": "Jim Hagedorn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Minnesota"
+      ],
+      "stated_as": "41st Governor of Minnesota"
+    },
+    "P1545": "41",
+    "P580": "2019-01-07",
+    "P1365": {
+      "links": [
+        "Mark Dayton"
+      ],
+      "stated_as": "Mark Dayton"
+    }
+  }
+]

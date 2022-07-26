@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mississippi State Treasurer"
+      ],
+      "stated_as": "53rd Treasurer of Mississippi"
+    },
+    "P580": "2004-01-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Peyton Prospere"
+    },
+    "P582": "2012-01-10",
+    "P1366": {
+      "links": [
+        "Lynn Fitch"
+      ],
+      "stated_as": "Lynn Fitch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Mississippi"
+      ],
+      "stated_as": "32nd Lieutenant Governor of Mississippi"
+    },
+    "P580": "2012-01-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Phil Bryant"
+    },
+    "P582": "2020-01-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Delbert Hosemann"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Mississippi"
+      ],
+      "stated_as": "65th Governor of Mississippi"
+    },
+    "P1545": "65",
+    "P580": "2020-01-14",
+    "P1365": {
+      "links": [
+        "Phil Bryant"
+      ],
+      "stated_as": "Phil Bryant"
+    }
+  }
+]

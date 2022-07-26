@@ -1,0 +1,122 @@
+[
+  {
+    "office": {
+      "links": [
+        "Michigan House of Representatives"
+      ],
+      "stated_as": "Member of the\nMichigan House of Representatives"
+    },
+    "P580": "2001-01-01",
+    "P1365": {
+      "links": [
+        "Laura Baird"
+      ],
+      "stated_as": "Laura Baird"
+    },
+    "P582": "2006-03-21",
+    "P1366": {
+      "links": [
+        "Mark Meadows (Michigan politician)"
+      ],
+      "stated_as": "Mark Meadows"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Michigan State Senate"
+      ],
+      "stated_as": "Minority Leader of the Michigan Senate"
+    },
+    "P580": "2006-03-21",
+    "P1365": {
+      "links": [
+        "Virgil Bernero"
+      ],
+      "stated_as": "Virgil Bernero"
+    },
+    "P582": "2015-01-01",
+    "P1366": {
+      "links": [
+        "Curtis Hertel Jr."
+      ],
+      "stated_as": "Curtis Hertel Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Michigan State Senate"
+      ],
+      "stated_as": "Minority Leader of the Michigan Senate"
+    },
+    "P580": "2011-01-01",
+    "P1365": {
+      "links": [
+        "Mike Prusi"
+      ],
+      "stated_as": "Mike Prusi"
+    },
+    "P582": "2015-01-01",
+    "P1366": {
+      "links": [
+        "Jim Ananich"
+      ],
+      "stated_as": "Jim Ananich"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ingham County, Michigan",
+        "List of district attorneys by county"
+      ],
+      "stated_as": "Ingham County Prosecuting Attorney"
+    },
+    "P580": "2016-07-21",
+    "P1365": {
+      "links": [
+        "Stuart Dunnings III"
+      ],
+      "stated_as": "Stuart Dunnings III"
+    },
+    "P582": "2016-12-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carol Siemon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Michigan"
+    },
+    "P1545": "49",
+    "P580": "2019-01-01",
+    "P1365": {
+      "links": [
+        "Rick Snyder"
+      ],
+      "stated_as": "Rick Snyder"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Democratic National Committee"
+      ],
+      "stated_as": "Vice Chair of the Democratic National Committee"
+    },
+    "P580": "2021-01-21",
+    "P1365": {
+      "links": [
+        "Grace Meng"
+      ],
+      "stated_as": "Grace Meng"
+    }
+  }
+]

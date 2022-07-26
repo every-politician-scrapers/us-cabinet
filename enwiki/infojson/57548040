@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Democratic Party of New Mexico"
+      ],
+      "stated_as": "Chair of the New Mexico Democratic Party"
+    },
+    "P580": "2015-04-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sam Bregman"
+    },
+    "P582": "2017-04-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Richard Ellenberg"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Interior"
+      ],
+      "stated_as": "54th United States Secretary of the Interior"
+    },
+    "P580": "2019-01-03",
+    "P1365": {
+      "links": [
+        "Michelle Lujan Grisham"
+      ],
+      "stated_as": "Michelle Lujan Grisham"
+    },
+    "P582": "2021-03-16",
+    "P1366": {
+      "links": [
+        "Melanie Stansbury"
+      ],
+      "stated_as": "Melanie Stansbury"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Interior"
+      ],
+      "stated_as": "54th United States Secretary of the Interior"
+    },
+    "P580": "2021-03-16",
+    "P1365": {
+      "links": [
+        "David Bernhardt"
+      ],
+      "stated_as": "David Bernhardt"
+    }
+  }
+]

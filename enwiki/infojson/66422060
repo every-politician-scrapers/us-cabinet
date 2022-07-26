@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "San Diego Unified School District"
+      ],
+      "stated_as": "Superintendent of the San Diego Unified School District"
+    },
+    "P580": "2013-02-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Bill Kowba"
+    },
+    "P582": "2021-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lamont Jackson (interim)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "United States Deputy Secretary of Education"
+    },
+    "P1545": "11",
+    "P580": "2021-05-18",
+    "P1365": {
+      "links": [
+        "Mick Zais"
+      ],
+      "stated_as": "Mick Zais"
+    }
+  }
+]

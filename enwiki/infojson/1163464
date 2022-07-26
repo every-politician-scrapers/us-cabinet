@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+        "Texas House of Representatives"
+      ],
+      "stated_as": "Member of the Texas House of Representatives"
+    },
+    "P580": "1987-01-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "W. N. Hall"
+    },
+    "P582": "2001-01-02",
+    "P1366": {
+      "links": [
+        "Richard Raymond (Texas politician)"
+      ],
+      "stated_as": "Richard Raymond"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Texas"
+      ],
+      "stated_as": "102nd Secretary of State of Texas"
+    },
+    "P580": "2001-01-02",
+    "P1365": {
+      "links": [
+        "Elton Bomer"
+      ],
+      "stated_as": "Elton Bomer"
+    },
+    "P582": "2001-10-05",
+    "P1366": {
+      "links": [
+        "Geoff Connor"
+      ],
+      "stated_as": "Geoff Connor (acting)"
+    }
+  }
+]

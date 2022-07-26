@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of governors of Kansas"
+      ],
+      "stated_as": "48th Governor of Kansas"
+    },
+    "P580": "2005-01-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dave Jackson"
+    },
+    "P582": "2019-01-14",
+    "P1366": {
+      "links": [
+        "Vic Miller"
+      ],
+      "stated_as": "Vic Miller"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Kansas"
+      ],
+      "stated_as": "48th Governor of Kansas"
+    },
+    "P1545": "48",
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Jeff Colyer"
+      ],
+      "stated_as": "Jeff Colyer"
+    }
+  }
+]

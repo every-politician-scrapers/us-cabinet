@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Indiana Republican Party"
+      ],
+      "stated_as": "Chair of the Indiana Republican Party"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+        "J. Murray Clark"
+      ],
+      "stated_as": "J. Murray Clark"
+    },
+    "P582": "2013-07-22",
+    "P1366": {
+      "links": [
+        "Tim Berry (politician)"
+      ],
+      "stated_as": "Tim Berry"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Indiana"
+      ],
+      "stated_as": "51st Lieutenant Governor of Indiana"
+    },
+    "P580": "2016-03-03",
+    "P1365": {
+      "links": [
+        "Sue Ellspermann"
+      ],
+      "stated_as": "Sue Ellspermann"
+    },
+    "P582": "2017-01-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Suzanne Crouch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Indiana"
+      ],
+      "stated_as": "51st Governor of Indiana"
+    },
+    "P1545": "51",
+    "P580": "2017-01-09",
+    "P1365": {
+      "links": [
+        "Mike Pence"
+      ],
+      "stated_as": "Mike Pence"
+    }
+  }
+]

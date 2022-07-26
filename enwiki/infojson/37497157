@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "State treasurer",
+        "Wyoming"
+      ],
+      "stated_as": "29th Treasurer of Wyoming"
+    },
+    "P580": "2012-11-01",
+    "P1365": {
+      "links": [
+        "Joseph Meyer (Wyoming politician)"
+      ],
+      "stated_as": "Joseph Meyer"
+    },
+    "P582": "2019-01-07",
+    "P1366": {
+      "links": [
+        "Curt Meier"
+      ],
+      "stated_as": "Curt Meier"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Wyoming"
+      ],
+      "stated_as": "33rd Governor of Wyoming"
+    },
+    "P580": "2019-01-07",
+    "P1365": {
+      "links": [
+        "Matt Mead"
+      ],
+      "stated_as": "Matt Mead"
+    }
+  }
+]

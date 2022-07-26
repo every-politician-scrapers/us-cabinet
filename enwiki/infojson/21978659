@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Paraguay"
+      ],
+      "stated_as": "United States Ambassador to Paraguay"
+    },
+    "P580": "2008-08-11",
+    "P1365": {
+      "links": [
+        "James Cason"
+      ],
+      "stated_as": "James Cason"
+    },
+    "P582": "2011-08-05",
+    "P1366": {
+      "links": [
+        "James H. Thessin"
+      ],
+      "stated_as": "James Thessin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Brazil"
+      ],
+      "stated_as": "United States Ambassador to Brazil"
+    },
+    "P580": "2013-10-31",
+    "P1365": {
+      "links": [
+        "Thomas A. Shannon Jr."
+      ],
+      "stated_as": "Tom Shannon"
+    },
+    "P582": "2017-01-11",
+    "P1366": {
+      "links": [
+        "P. Michael McKinley"
+      ],
+      "stated_as": "P. Michael McKinley"
+    }
+  }
+]

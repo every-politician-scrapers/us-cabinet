@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "San Francisco Board of Supervisors"
+      ],
+      "stated_as": "Member of the\nSan Francisco Board of Supervisors\nfrom the 2nd district"
+    },
+    "P580": "1997-01-08",
+    "P1365": {
+      "links": [
+        "Kevin Shelley"
+      ],
+      "stated_as": "Kevin Shelley"
+    },
+    "P582": "2004-01-08",
+    "P1366": {
+      "links": [
+        "Michela Alioto-Pier"
+      ],
+      "stated_as": "Michela Alioto-Pier"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of San Francisco"
+      ],
+      "stated_as": "42nd Mayor of San Francisco"
+    },
+    "P580": "2004-01-08",
+    "P1365": {
+      "links": [
+        "Willie Brown (politician)"
+      ],
+      "stated_as": "Willie Brown"
+    },
+    "P582": "2011-01-10",
+    "P1366": {
+      "links": [
+        "Ed Lee"
+      ],
+      "stated_as": "Ed Lee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of California"
+      ],
+      "stated_as": "49th Lieutenant Governor of California"
+    },
+    "P580": "2011-01-10",
+    "P1365": {
+      "links": [
+        "Abel Maldonado"
+      ],
+      "stated_as": "Abel Maldonado"
+    },
+    "P582": "2019-01-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Eleni Kounalakis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of California"
+      ],
+      "stated_as": "40th Governor of California"
+    },
+    "P1545": "40",
+    "P580": "2019-01-07",
+    "P1365": {
+      "links": [
+        "Jerry Brown"
+      ],
+      "stated_as": "Jerry Brown"
+    }
+  }
+]

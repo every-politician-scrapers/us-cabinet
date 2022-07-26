@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Tennessee "
+      ],
+      "stated_as": "50th Lieutenant Governor of Tennessee and Speaker of the Tennessee Senate"
+    },
+    "P580": "1979-01-09",
+    "P1365": {
+      "links": [
+        "A. Keith Bissell"
+      ],
+      "stated_as": "A. Keith Bissell"
+    },
+    "P582": "1987-01-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "David Coffey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Tennessee "
+      ],
+      "stated_as": "50th Lieutenant Governor of Tennessee and Speaker of the Tennessee Senate"
+    },
+    "P580": "1987-01-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Buzz Elkins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Tennessee "
+      ],
+      "stated_as": "50th Lieutenant Governor of Tennessee and Speaker of the Tennessee Senate"
+    },
+    "P580": "2017-01-10",
+    "P1365": {
+      "links": [
+        "Ron Ramsey"
+      ],
+      "stated_as": "Ron Ramsey"
+    }
+  }
+]

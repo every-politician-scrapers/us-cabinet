@@ -1,0 +1,90 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Army"
+      ],
+      "stated_as": "24th United States Secretary of the Army"
+    },
+    "P580": "2017-08-03",
+    "P1365": {
+      "links": [
+        "Robert M. Speer"
+      ],
+      "stated_as": "Robert M. Speer (acting)"
+    },
+    "P582": "2017-11-20",
+    "P1366": {
+      "links": [
+        "Mark Esper"
+      ],
+      "stated_as": "Mark Esper"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Under Secretary of the Army"
+      ],
+      "stated_as": "33rd United States Under Secretary of the Army"
+    },
+    "P580": "2017-08-03",
+    "P1365": {
+      "links": [
+        "Brad Carson"
+      ],
+      "stated_as": "Brad Carson"
+    },
+    "P582": "2019-09-30",
+    "P1366": {
+      "links": [
+        "James E. McPherson"
+      ],
+      "stated_as": "James E. McPherson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Army"
+      ],
+      "stated_as": "24th United States Secretary of the Army"
+    },
+    "P580": "2019-06-24",
+    "P1365": {
+      "links": [
+        "Mark Esper"
+      ],
+      "stated_as": "Mark Esper"
+    },
+    "P582": "2019-07-15",
+    "P1366": {
+      "links": [
+        "Mark Esper"
+      ],
+      "stated_as": "Mark Esper*"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of the Army"
+      ],
+      "stated_as": "24th United States Secretary of the Army"
+    },
+    "P580": "2019-09-30",
+    "P1365": {
+      "links": [
+        "Mark Esper"
+      ],
+      "stated_as": "Mark Esper"
+    },
+    "P582": "2019-09-30",
+    "P1366": {
+      "links": [
+        "Christine Wormuth"
+      ],
+      "stated_as": "Christine E. Wormuth"
+    }
+  }
+]

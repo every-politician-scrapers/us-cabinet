@@ -1,0 +1,76 @@
+[
+  {
+    "office": {
+      "links": [
+        "New Jersey General Assembly"
+      ],
+      "stated_as": "169th Speaker of the New Jersey General Assembly"
+    },
+    "P580": "2004-01-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Willis Edwards"
+    },
+    "P582": "2018-01-09",
+    "P1366": {
+      "links": [
+        "Britnee Timberlake"
+      ],
+      "stated_as": "Britnee Timberlake"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New Jersey General Assembly"
+      ],
+      "stated_as": "169th Speaker of the New Jersey General Assembly"
+    },
+    "P580": "2010-01-12",
+    "P1365": {
+      "links": [
+        "Joseph J. Roberts"
+      ],
+      "stated_as": "Joseph J. Roberts"
+    },
+    "P582": "2014-01-14",
+    "P1366": {
+      "links": [
+        "Vincent Prieto"
+      ],
+      "stated_as": "Vincent Prieto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of New Jersey"
+      ],
+      "stated_as": "2nd Lieutenant Governor of New Jersey"
+    },
+    "P580": "2018-01-16",
+    "P1365": {
+      "links": [
+        "Kim Guadagno"
+      ],
+      "stated_as": "Kim Guadagno"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New Jersey Department of Community Affairs"
+      ],
+      "stated_as": "Commissioner of the New Jersey Department of Community Affairs"
+    },
+    "P580": "2018-01-16",
+    "P1365": {
+      "links": [
+        "Charles Richman (commissioner)"
+      ],
+      "stated_as": "Charles Richman"
+    }
+  }
+]

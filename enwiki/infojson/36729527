@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of Florida"
+      ],
+      "stated_as": "46th Governor of Florida"
+    },
+    "P580": "2013-01-03",
+    "P1365": {
+      "links": [
+        "Cliff Stearns"
+      ],
+      "stated_as": "Cliff Stearns"
+    },
+    "P582": "2018-09-10",
+    "P1366": {
+      "links": [
+        "Michael Waltz"
+      ],
+      "stated_as": "Michael Waltz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Florida"
+      ],
+      "stated_as": "46th Governor of Florida"
+    },
+    "P1545": "46",
+    "P580": "2019-01-08",
+    "P1365": {
+      "links": [
+        "Rick Scott"
+      ],
+      "stated_as": "Rick Scott"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Princeton University"
+      ],
+      "stated_as": "Provost of Princeton University"
+    },
+    "P580": "2001",
+    "P1365": {
+      "links": [
+        "Jeremiah P. Ostriker"
+      ],
+      "stated_as": "Jeremiah P. Ostriker"
+    },
+    "P582": "2004",
+    "P1366": {
+      "links": [
+        "Christopher L. Eisgruber"
+      ],
+      "stated_as": "Christopher L. Eisgruber"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the University of Pennsylvania"
+      ],
+      "stated_as": "8th President of the University of Pennsylvania"
+    },
+    "P580": "2004-07-01",
+    "P1365": {
+      "links": [
+        "Judith Rodin"
+      ],
+      "stated_as": "Judith Rodin"
+    },
+    "P582": "2022-02-08",
+    "P1366": {
+      "links": [
+        "M. Elizabeth Magill"
+      ],
+      "stated_as": "M. Elizabeth Magill"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Germany"
+      ],
+      "stated_as": "United States Ambassador to Germany"
+    },
+    "P580": "2022-02-17",
+    "P1365": {
+      "links": [
+        "Richard Grenell"
+      ],
+      "stated_as": "Richard Grenell"
+    }
+  }
+]

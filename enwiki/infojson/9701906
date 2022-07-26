@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "Oregon Secretary of State"
+      ],
+      "stated_as": "24th Secretary of State of Oregon"
+    },
+    "P580": "1991-11-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Judy Bauman"
+    },
+    "P582": "1997-01-12",
+    "P1366": {
+      "links": [
+        "Dan Gardner (politician)"
+      ],
+      "stated_as": "Dan Gardner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Oregon Secretary of State"
+      ],
+      "stated_as": "24th Secretary of State of Oregon"
+    },
+    "P580": "1997-01-13",
+    "P1365": {
+      "links": [
+        "Shirley Gold"
+      ],
+      "stated_as": "Shirley Gold"
+    },
+    "P582": "2009-01-02",
+    "P1366": {
+      "links": [
+        "Diane Rosenbaum"
+      ],
+      "stated_as": "Diane Rosenbaum"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Oregon Secretary of State"
+      ],
+      "stated_as": "24th Secretary of State of Oregon"
+    },
+    "P580": "2009-01-05",
+    "P1365": {
+      "links": [
+        "Bill Bradbury"
+      ],
+      "stated_as": "Bill Bradbury"
+    },
+    "P582": "2015-02-18",
+    "P1366": {
+      "links": [
+        "Jeanne Atkins"
+      ],
+      "stated_as": "Jeanne Atkins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Oregon"
+      ],
+      "stated_as": "38th Governor of Oregon"
+    },
+    "P1545": "38",
+    "P580": "2015-02-18",
+    "P1365": {
+      "links": [
+        "John Kitzhaber"
+      ],
+      "stated_as": "John Kitzhaber"
+    }
+  }
+]

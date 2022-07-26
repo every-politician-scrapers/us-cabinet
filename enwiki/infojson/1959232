@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Cook County Recorder of Deeds"
+      ],
+      "stated_as": "Cook County Recorder of Deeds"
+    },
+    "P580": "1975-01-03",
+    "P1365": {
+      "links": [
+        "James Houlihan"
+      ],
+      "stated_as": "James Houlihan"
+    },
+    "P582": "1983-01-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cook County Recorder of Deeds"
+      ],
+      "stated_as": "Cook County Recorder of Deeds"
+    },
+    "P580": "1983-01-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    },
+    "P582": "1993-01-03",
+    "P1366": {
+      "links": [
+        "Robert LeFlore"
+      ],
+      "stated_as": "Robert LeFlore"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cook County Recorder of Deeds"
+      ],
+      "stated_as": "Cook County Recorder of Deeds"
+    },
+    "P580": "1992-12-01",
+    "P1365": {
+      "links": [
+        "Carol Moseley Braun"
+      ],
+      "stated_as": "Carol Moseley Braun"
+    },
+    "P582": "1999-01-11",
+    "P1366": {
+      "links": [
+        "Eugene Moore (Illinois politician)"
+      ],
+      "stated_as": "Eugene Moore"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Illinois Secretary of State"
+      ],
+      "stated_as": "37th Secretary of State of Illinois"
+    },
+    "P580": "1999-01-11",
+    "P1365": {
+      "links": [
+        "George Ryan"
+      ],
+      "stated_as": "George Ryan"
+    }
+  }
+]

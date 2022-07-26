@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sheriff of Monmouth County, New Jersey"
+      ],
+      "stated_as": "75th Sheriff of Monmouth County, New Jersey"
+    },
+    "P580": "2008-01-01",
+    "P1365": {
+      "links": [
+        "Joseph W. Oxley"
+      ],
+      "stated_as": "Joseph Oxley"
+    },
+    "P582": "2010-01-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Shaun Golden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of New Jersey"
+      ],
+      "stated_as": "1st Lieutenant Governor of New Jersey"
+    },
+    "P580": "2010-01-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2018-01-16",
+    "P1366": {
+      "links": [
+        "Sheila Oliver"
+      ],
+      "stated_as": "Sheila Oliver"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of New Jersey"
+      ],
+      "stated_as": "33rd Secretary of State of New Jersey"
+    },
+    "P580": "2010-01-19",
+    "P1365": {
+      "links": [
+        "Nina Mitchell Wells"
+      ],
+      "stated_as": "Nina Wells"
+    },
+    "P582": "2018-01-16",
+    "P1366": {
+      "links": [
+        "Tahesha Way"
+      ],
+      "stated_as": "Tahesha Way"
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of the Cumberland Town Council"
+    },
+    "P580": "1992",
+    "P582": "1998"
+  },
+  {
+    "office": {
+      "links": [
+        "Cumberland, Rhode Island"
+      ],
+      "stated_as": "Mayor of Cumberland"
+    },
+    "P580": "2001-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Frank Gaschen"
+    },
+    "P582": "2005-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "David Iwuc"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cumberland, Rhode Island"
+      ],
+      "stated_as": "Mayor of Cumberland"
+    },
+    "P580": "2007-01-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "David Iwuc"
+    },
+    "P582": "2015-01-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "William Murray"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Lieutenant Governor of Rhode Island"
+    },
+    "P1545": "69",
+    "P580": "2015-01-06",
+    "P1365": {
+      "links": [
+        "Elizabeth H. Roberts"
+      ],
+      "stated_as": "Elizabeth Roberts"
+    },
+    "P582": "2021-03-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sabina Matos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Rhode Island"
+    },
+    "P1545": "76",
+    "P580": "2021-03-02",
+    "P1365": {
+      "links": [
+        "Gina Raimondo"
+      ],
+      "stated_as": "Gina Raimondo"
+    }
+  }
+]

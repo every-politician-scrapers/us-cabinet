@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Benin"
+      ],
+      "stated_as": "United States Ambassador to Benin"
+    },
+    "P580": "2019-07-04",
+    "P1365": {
+      "links": [
+        "Lucy Tamlyn"
+      ],
+      "stated_as": "Lucy Tamlyn"
+    },
+    "P582": "2022-02",
+    "P1366": {
+      "links": [
+        "Brian W. Shukan"
+      ],
+      "stated_as": "Brian W. Shukan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to the Central African Republic"
+      ],
+      "stated_as": "United States Ambassador to the Central African Republic"
+    },
+    "P580": "2022-04-08",
+    "P1365": {
+      "links": [
+        "Lucy Tamlyn"
+      ],
+      "stated_as": "Lucy Tamlyn"
+    }
+  }
+]

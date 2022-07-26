@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of Staff to the United States Secretary of State"
+      ],
+      "stated_as": "Chief of Staff to the United States Secretary of State"
+    },
+    "P580": "2015-03-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "David Wade"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Margaret Peterlin"
+      ],
+      "stated_as": "Margaret Peterlin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Director of Policy Planning"
+      ],
+      "stated_as": "Director of Policy Planning"
+    },
+    "P580": "2016-03-07",
+    "P1365": {
+      "links": [
+        "David McKean (diplomat)"
+      ],
+      "stated_as": "David McKean"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Brian H. Hook"
+      ],
+      "stated_as": "Brian H. Hook"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy National Security Advisor (United States)"
+      ],
+      "stated_as": "33rd United States Deputy National Security Advisor"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Matthew Pottinger"
+      ],
+      "stated_as": "Matthew Pottinger"
+    }
+  }
+]

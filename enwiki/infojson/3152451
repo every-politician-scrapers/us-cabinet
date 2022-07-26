@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Indiana State Auditor"
+      ],
+      "stated_as": "56th Auditor of Indiana"
+    },
+    "P580": "2005-10-16",
+    "P1365": {
+      "links": [
+        "Vaneta Becker"
+      ],
+      "stated_as": "Vaneta Becker"
+    },
+    "P582": "2014-01-01",
+    "P1366": {
+      "links": [
+        "Holli Sullivan"
+      ],
+      "stated_as": "Holli Sullivan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Indiana State Auditor"
+      ],
+      "stated_as": "56th Auditor of Indiana"
+    },
+    "P580": "2014-01-02",
+    "P1365": {
+      "links": [
+        "Dwayne Sawyer"
+      ],
+      "stated_as": "Dwayne Sawyer"
+    },
+    "P582": "2017-01-09",
+    "P1366": {
+      "links": [
+        "Tera Klutz"
+      ],
+      "stated_as": "Tera Klutz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Indiana"
+      ],
+      "stated_as": "52nd Lieutenant Governor of Indiana"
+    },
+    "P580": "2017-01-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Eric Holcomb"
+    }
+  }
+]

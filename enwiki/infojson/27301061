@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Georgia Secretary of State"
+      ],
+      "stated_as": "27th Secretary of State of Georgia"
+    },
+    "P580": "2003-01-03",
+    "P1365": {
+      "links": [
+        "Doug Haines"
+      ],
+      "stated_as": "Doug Haines"
+    },
+    "P582": "2007-01-03",
+    "P1366": {
+      "links": [
+        "Bill Cowsert"
+      ],
+      "stated_as": "Bill Cowsert"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Georgia Secretary of State"
+      ],
+      "stated_as": "27th Secretary of State of Georgia"
+    },
+    "P580": "2010-01-08",
+    "P1365": {
+      "links": [
+        "Karen Handel"
+      ],
+      "stated_as": "Karen Handel"
+    },
+    "P582": "2018-11-08",
+    "P1366": {
+      "links": [
+        "Robyn Crittenden"
+      ],
+      "stated_as": "Robyn Crittenden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Georgia"
+      ],
+      "stated_as": "83rd Governor of Georgia"
+    },
+    "P1545": "83",
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Nathan Deal"
+      ],
+      "stated_as": "Nathan Deal"
+    }
+  }
+]

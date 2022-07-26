@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Office for Civil Rights"
+      ],
+      "stated_as": "Assistant Secretary of Education for the Office for Civil Rights"
+    },
+    "P580": "1981-06-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Cynthia Brown"
+    },
+    "P582": "1982-05-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Harry Singleton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Equal Employment Opportunity Commission"
+      ],
+      "stated_as": "Chair of the Equal Employment Opportunity Commission"
+    },
+    "P580": "1982-05-06",
+    "P1365": {
+      "links": [
+        "Eleanor Holmes Norton"
+      ],
+      "stated_as": "Eleanor Holmes Norton"
+    },
+    "P582": "1990-03-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Evan Kemp"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Court of Appeals for the District of Columbia Circuit"
+      ],
+      "stated_as": "Judge of the United States Court of Appeals for the District of Columbia Circuit"
+    },
+    "P580": "1990-03-12",
+    "P1365": {
+      "links": [
+        "Robert Bork"
+      ],
+      "stated_as": "Robert Bork"
+    },
+    "P582": "1991-10-23",
+    "P1366": {
+      "links": [
+        "Judith W. Rogers"
+      ],
+      "stated_as": "Judith W. Rogers"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Associate Justice of the Supreme Court of the United States"
+      ],
+      "stated_as": "Associate Justice of the Supreme Court of the United States"
+    },
+    "P580": "1991-10-23",
+    "P1365": {
+      "links": [
+        "Thurgood Marshall"
+      ],
+      "stated_as": "Thurgood Marshall"
+    }
+  }
+]

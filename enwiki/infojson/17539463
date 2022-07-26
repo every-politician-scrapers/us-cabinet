@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Alabama State Treasurer"
+      ],
+      "stated_as": "38th Treasurer of Alabama"
+    },
+    "P580": "2003-01-20",
+    "P1365": {
+      "links": [
+        "Lucy Baxley"
+      ],
+      "stated_as": "Lucy Baxley"
+    },
+    "P582": "2011-01-17",
+    "P1366": {
+      "links": [
+        "Young Boozer"
+      ],
+      "stated_as": "Young Boozer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Alabama"
+      ],
+      "stated_as": "30th Lieutenant Governor of Alabama"
+    },
+    "P580": "2011-01-17",
+    "P1365": {
+      "links": [
+        "Jim Folsom Jr."
+      ],
+      "stated_as": "Jim Folsom Jr."
+    },
+    "P582": "2017-04-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Will Ainsworth"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Alabama"
+      ],
+      "stated_as": "54th Governor of Alabama"
+    },
+    "P1545": "54",
+    "P580": "2017-04-10",
+    "P1365": {
+      "links": [
+        "Robert J. Bentley"
+      ],
+      "stated_as": "Robert Bentley"
+    }
+  }
+]

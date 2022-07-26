@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy National Security Advisor (United States)"
+      ],
+      "stated_as": "United States Deputy National Security Advisor for International Economics"
+    },
+    "P580": "2015",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Caroline Atkinson"
+    },
+    "P582": "2016",
+    "P1366": {
+      "links": [
+        "Daleep Singh"
+      ],
+      "stated_as": "Daleep Singh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Obama Foundation"
+      ],
+      "stated_as": "1st President of the Obama Foundation"
+    },
+    "P580": "2019-08-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2021-03-25",
+    "P1366": {
+      "links": [
+        "Valerie Jarrett"
+      ],
+      "stated_as": "Valerie Jarrett (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of the Treasury"
+      ],
+      "stated_as": "15th United States Deputy Secretary of the Treasury"
+    },
+    "P580": "2021-03-26",
+    "P1365": {
+      "links": [
+        "Justin Muzinich"
+      ],
+      "stated_as": "Justin Muzinich"
+    }
+  }
+]

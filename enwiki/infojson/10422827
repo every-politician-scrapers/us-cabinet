@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Colorado State Board of Education"
+      ],
+      "stated_as": "Member of the Colorado State Board of Education from the at-large district"
+    },
+    "P580": "2001-01-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ben Alexander"
+    },
+    "P582": "2007-01-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Seat abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Colorado"
+      ],
+      "stated_as": "43rd Governor of Colorado"
+    },
+    "P580": "2009-01-03",
+    "P1365": {
+      "links": [
+        "Mark Udall"
+      ],
+      "stated_as": "Mark Udall"
+    },
+    "P582": "2019-01-03",
+    "P1366": {
+      "links": [
+        "Joe Neguse"
+      ],
+      "stated_as": "Joe Neguse"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Colorado"
+      ],
+      "stated_as": "43rd Governor of Colorado"
+    },
+    "P1545": "43",
+    "P580": "2019-01-08",
+    "P1365": {
+      "links": [
+        "John Hickenlooper"
+      ],
+      "stated_as": "John Hickenlooper"
+    }
+  }
+]

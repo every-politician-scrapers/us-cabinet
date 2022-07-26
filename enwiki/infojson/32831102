@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Georgia"
+      ],
+      "stated_as": "United States Ambassador to Georgia"
+    },
+    "P580": "2009-10-16",
+    "P1365": {
+      "links": [
+        "John F. Tefft"
+      ],
+      "stated_as": "John F. Tefft"
+    },
+    "P582": "2012-07-17",
+    "P1366": {
+      "links": [
+        "Richard Norland"
+      ],
+      "stated_as": "Richard Norland"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Executive Secretary of the Department of State"
+      ],
+      "stated_as": "Executive Secretary of the Department of State"
+    },
+    "P580": "2012-10-08",
+    "P1365": {
+      "links": [
+        "Stephen Mull"
+      ],
+      "stated_as": "Stephen Mull"
+    },
+    "P582": "2014-07-18",
+    "P1366": {
+      "links": [
+        "Joseph Macmanus"
+      ],
+      "stated_as": "Joseph Macmanus"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Turkey"
+      ],
+      "stated_as": "United States Ambassador to Turkey"
+    },
+    "P580": "2014-10-20",
+    "P1365": {
+      "links": [
+        "Francis J. Ricciardone Jr."
+      ],
+      "stated_as": "Francis J. Ricciardone Jr."
+    },
+    "P582": "2017-10-15",
+    "P1366": {
+      "links": [
+        "David M. Satterfield"
+      ],
+      "stated_as": "David M. Satterfield"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Afghanistan"
+      ],
+      "stated_as": "United States Ambassador to Afghanistan"
+    },
+    "P580": "2017-12-12",
+    "P1365": {
+      "links": [
+        "Hugo Llorens"
+      ],
+      "stated_as": "Hugo Llorens"
+    },
+    "P582": "2020-01-06",
+    "P1366": {
+      "links": [
+        "Ross Wilson (ambassador)"
+      ],
+      "stated_as": "Ross Wilson (chargé d'affaires)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Under Secretary of State for Management"
+      ],
+      "stated_as": "Under Secretary of State for Management"
+    },
+    "P580": "2021-12-29",
+    "P1365": {
+      "links": [
+        "Brian Bulatao"
+      ],
+      "stated_as": "Brian Bulatao"
+    }
+  }
+]

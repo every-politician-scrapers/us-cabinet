@@ -1,0 +1,85 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director General of the Foreign Service",
+        "Bureau of Human Resources"
+      ],
+      "stated_as": "Director General of the Foreign Service and Director of Human Resources"
+    },
+    "P580": "2008-07-18",
+    "P1365": {
+      "links": [
+        "Donald E. Booth"
+      ],
+      "stated_as": "Donald E. Booth"
+    },
+    "P582": "2012-02-29",
+    "P1366": {
+      "links": [
+        "Deborah R. Malac"
+      ],
+      "stated_as": "Deborah R. Malac"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Director General of the Foreign Service",
+        "Bureau of Human Resources"
+      ],
+      "stated_as": "Director General of the Foreign Service and Director of Human Resources"
+    },
+    "P580": "2012-04-02",
+    "P1365": {
+      "links": [
+        "Nancy Jo Powell"
+      ],
+      "stated_as": "Nancy Jo Powell"
+    },
+    "P582": "2013-08-02",
+    "P1366": {
+      "links": [
+        "Arnold A. Chacón"
+      ],
+      "stated_as": "Arnold A. Chacón"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Assistant Secretary of State for African Affairs"
+      ],
+      "stated_as": "18th United States Assistant Secretary of State for African Affairs"
+    },
+    "P580": "2013-08-06",
+    "P1365": {
+      "links": [
+        "Johnnie Carson"
+      ],
+      "stated_as": "Johnnie Carson"
+    },
+    "P582": "2017-03-10",
+    "P1366": {
+      "links": [
+        "Tibor P. Nagy"
+      ],
+      "stated_as": "Tibor P. Nagy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to the United Nations"
+      ],
+      "stated_as": "31st United States Ambassador to the United Nations"
+    },
+    "P580": "2021-02-25",
+    "P1365": {
+      "links": [
+        "Kelly Craft"
+      ],
+      "stated_as": "Kelly Craft"
+    }
+  }
+]

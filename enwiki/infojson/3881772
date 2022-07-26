@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Vermont"
+      ],
+      "stated_as": "82nd Lieutenant Governor of Vermont"
+    },
+    "P580": "1997-01-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Multi-member district"
+    },
+    "P582": "2011-01-05",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Multi-member district"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Vermont"
+      ],
+      "stated_as": "82nd Lieutenant Governor of Vermont"
+    },
+    "P580": "2013-01-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Multi-member district"
+    },
+    "P582": "2017-01-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Multi-member district"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Vermont"
+      ],
+      "stated_as": "82nd Lieutenant Governor of Vermont"
+    },
+    "P580": "2017-01-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Phil Scott"
+    },
+    "P582": "2021-01-07",
+    "P1366": {
+      "links": [
+        "Molly Gray"
+      ],
+      "stated_as": "Molly Gray"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the Senate of the Northern Mariana Islands"
+      ],
+      "stated_as": "President of the Northern Mariana Islands Senate"
+    },
+    "P580": "2013-02-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jude Hofschneider"
+    },
+    "P582": "2015-01-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Victor Hocog"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of the Northern Mariana Islands"
+      ],
+      "stated_as": "10th Lieutenant Governor of the Northern Mariana Islands"
+    },
+    "P580": "2015-01-11",
+    "P1365": {
+      "links": [
+        "Jude Hofschneider"
+      ],
+      "stated_as": "Jude Hofschneider"
+    },
+    "P582": "2015-12-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Victor Hocog"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of the Northern Mariana Islands"
+      ],
+      "stated_as": "9th Governor of the Northern Mariana Islands"
+    },
+    "P1545": "9",
+    "P580": "2015-12-29",
+    "P1365": {
+      "links": [
+        "Eloy Inos"
+      ],
+      "stated_as": "Eloy Inos"
+    }
+  }
+]

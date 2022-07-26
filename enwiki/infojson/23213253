@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Council of Economic Advisers"
+      ],
+      "stated_as": "Member of the Council of Economic Advisers"
+    },
+    "P580": "2009-03-11",
+    "P1365": {
+      "links": [
+        "Donald B. Marron Jr."
+      ],
+      "stated_as": "Donald B. Marron Jr."
+    },
+    "P582": "2011-02-28",
+    "P1366": {
+      "links": [
+        "Katharine Abraham"
+      ],
+      "stated_as": "Katharine Abraham"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Princeton School of Public and International Affairs"
+      ],
+      "stated_as": "Dean of the Princeton School of Public and International Affairs"
+    },
+    "P580": "2012-09-01",
+    "P1365": {
+      "links": [
+        "Anne Case"
+      ],
+      "stated_as": "Anne Case (acting)"
+    },
+    "P582": "2021-01-04",
+    "P1366": {
+      "links": [
+        "Amaney Jamal"
+      ],
+      "stated_as": "Amaney Jamal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chair of the Council of Economic Advisers"
+      ],
+      "stated_as": "30th Chair of the Council of Economic Advisers"
+    },
+    "P580": "2021-03-12",
+    "P1365": {
+      "links": [
+        "Rachael Slobodien"
+      ],
+      "stated_as": "Rachael Slobodien (Acting)"
+    }
+  }
+]

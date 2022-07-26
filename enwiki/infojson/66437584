@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Solicitor General of the United States"
+      ],
+      "stated_as": "48th Solicitor General of the United States"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Jeff Wall (lawyer)"
+      ],
+      "stated_as": "Jeff Wall (acting)"
+    },
+    "P582": "2021-08-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Brian Fletcher (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Solicitor General of the United States"
+      ],
+      "stated_as": "Principal Deputy Solicitor General of the United States"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Jeff Wall (lawyer)"
+      ],
+      "stated_as": "Jeff Wall"
+    },
+    "P582": "2021-10-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Brian Fletcher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Solicitor General of the United States"
+      ],
+      "stated_as": "48th Solicitor General of the United States"
+    },
+    "P580": "2021-10-28",
+    "P1365": {
+      "links": [
+        "Brian Fletcher (attorney)"
+      ],
+      "stated_as": "Brian Fletcher (acting)"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "office": {
+      "links": [
+        "Hawaii House of Representatives"
+      ],
+      "stated_as": "Member of the Hawaii House of Representatives"
+    },
+    "P580": "1985-12-02",
+    "P1365": {
+      "links": [
+        "Arnold Morgado"
+      ],
+      "stated_as": "Arnold Morgado"
+    },
+    "P582": "1993-01-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Henry Haalilio Peters"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Hawaii House of Representatives"
+      ],
+      "stated_as": "Member of the Hawaii House of Representatives"
+    },
+    "P580": "1993-01-15",
+    "P1365": {
+      "links": [
+        "Suzanne Chun Oakland"
+      ],
+      "stated_as": "Suzanne Chun Oakland"
+    },
+    "P582": "1995-01-15",
+    "P1366": {
+      "links": [
+        "Mark Takai"
+      ],
+      "stated_as": "Mark Takai"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Hawaii State Senate"
+      ],
+      "stated_as": "Member of the Hawaii State Senate"
+    },
+    "P580": "1995-01-15",
+    "P1365": {
+      "links": [
+        "Eloise Tungpalan"
+      ],
+      "stated_as": "Eloise Tungpalan"
+    },
+    "P582": "2003-01-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ron Menor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Hawaii State Senate"
+      ],
+      "stated_as": "Member of the Hawaii State Senate"
+    },
+    "P580": "2003-01-15",
+    "P1365": {
+      "links": [
+        "Norman Sakamoto"
+      ],
+      "stated_as": "Norman Sakamoto"
+    },
+    "P582": "2014-12-01",
+    "P1366": {
+      "links": [
+        "Breene Harimoto"
+      ],
+      "stated_as": "Breene Harimoto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Hawaii"
+      ],
+      "stated_as": "8th Governor of Hawaii"
+    },
+    "P1545": "8",
+    "P580": "2014-12-01",
+    "P1365": {
+      "links": [
+        "Neil Abercrombie"
+      ],
+      "stated_as": "Neil Abercrombie"
+    }
+  }
+]

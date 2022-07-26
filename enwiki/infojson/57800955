@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Georgia"
+      ],
+      "stated_as": "12th Lieutenant Governor of Georgia"
+    },
+    "P580": "2013-01-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carl Rogers"
+    },
+    "P582": "2017-08-28",
+    "P1366": {
+      "links": [
+        "Marc Morris (politician)"
+      ],
+      "stated_as": "Marc Morris"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Georgia"
+      ],
+      "stated_as": "12th Lieutenant Governor of Georgia"
+    },
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Casey Cagle"
+      ],
+      "stated_as": "Casey Cagle"
+    }
+  }
+]

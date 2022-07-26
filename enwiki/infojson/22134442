@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of Health and Human Services of Massachusetts"
+      ],
+      "stated_as": "Secretary of Health and Human Services of Massachusetts"
+    },
+    "P580": "1992-10",
+    "P1365": {
+      "links": [
+        "David Forsberg"
+      ],
+      "stated_as": "David Forsberg"
+    },
+    "P582": "1994-11",
+    "P1366": {
+      "links": [
+        "Gerald Whitburn"
+      ],
+      "stated_as": "Gerald Whitburn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Administration and Finance of Massachusetts"
+      ],
+      "stated_as": "Secretary of Administration and Finance of Massachusetts"
+    },
+    "P580": "1994-11",
+    "P1365": {
+      "links": [
+        "Mark E. Robinson"
+      ],
+      "stated_as": "Mark E. Robinson"
+    },
+    "P582": "1998-09",
+    "P1366": {
+      "links": [
+        "Frederick Laskey"
+      ],
+      "stated_as": "Frederick Laskey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Massachusetts"
+      ],
+      "stated_as": "72nd Governor of Massachusetts"
+    },
+    "P1545": "72",
+    "P580": "2015-01-08",
+    "P1365": {
+      "links": [
+        "Deval Patrick"
+      ],
+      "stated_as": "Deval Patrick"
+    }
+  }
+]

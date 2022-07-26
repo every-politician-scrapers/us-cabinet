@@ -1,0 +1,158 @@
+[
+  {
+    "office": {
+      "links": [
+        "California Democratic Party"
+      ],
+      "stated_as": "Chair of the California Democratic Party"
+    },
+    "P580": "1981-02-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Richard J. O'Neill"
+    },
+    "P582": "1983-04-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Peter Kelly"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States House of Representatives",
+        "California"
+      ],
+      "stated_as": "Member of the U.S. House of Representatives from California"
+    },
+    "P580": "1987-06-02",
+    "P1365": {
+      "links": [
+        "Sala Burton"
+      ],
+      "stated_as": "Sala Burton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House Minority Whip"
+      ],
+      "stated_as": "House Minority Whip"
+    },
+    "P580": "2002-01-15",
+    "P1365": {
+      "links": [
+        "David Bonior"
+      ],
+      "stated_as": "David Bonior"
+    },
+    "P582": "2003-01-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Steny Hoyer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House Minority Leader"
+      ],
+      "stated_as": "House Minority Leader"
+    },
+    "P580": "2003-01-03",
+    "P1365": {
+      "links": [
+        "Dick Gephardt"
+      ],
+      "stated_as": "Dick Gephardt"
+    },
+    "P582": "2007-01-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "John Boehner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House Democratic Caucus"
+      ],
+      "stated_as": "Leader of the House Democratic Caucus"
+    },
+    "P580": "2003-01-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Dick Gephardt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the United States House of Representatives"
+      ],
+      "stated_as": "52nd Speaker of the United States House of Representatives"
+    },
+    "P580": "2007-01-04",
+    "P1365": {
+      "links": [
+        "Dennis Hastert"
+      ],
+      "stated_as": "Dennis Hastert"
+    },
+    "P582": "2011-01-03",
+    "P1366": {
+      "links": [
+        "John Boehner"
+      ],
+      "stated_as": "John Boehner"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House Minority Leader"
+      ],
+      "stated_as": "House Minority Leader"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "John Boehner"
+    },
+    "P582": "2019-01-03",
+    "P1366": {
+      "links": [
+        "Kevin McCarthy (California politician)"
+      ],
+      "stated_as": "Kevin McCarthy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the United States House of Representatives"
+      ],
+      "stated_as": "52nd Speaker of the United States House of Representatives"
+    },
+    "P580": "2019-01-03",
+    "P1365": {
+      "links": [
+        "Paul Ryan"
+      ],
+      "stated_as": "Paul Ryan"
+    }
+  }
+]

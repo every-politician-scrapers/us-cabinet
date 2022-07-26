@@ -1,0 +1,173 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Attorney",
+        "United States District Court for the Western District of Arkansas"
+      ],
+      "stated_as": "United States Attorney for the Western District of Arkansas"
+    },
+    "P580": "1982-09-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Larry McCord"
+    },
+    "P582": "1985-01-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Michael Fitzhugh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Republican Party of Arkansas"
+      ],
+      "stated_as": "Chair of the Republican Party of Arkansas"
+    },
+    "P580": "1990-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ken Coon"
+    },
+    "P582": "1995-01-01",
+    "P1366": {
+      "links": [
+        "Sheffield Nelson"
+      ],
+      "stated_as": "Sheffield Nelson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Drug Enforcement Administration"
+      ],
+      "stated_as": "Administrator of the Drug Enforcement Administration"
+    },
+    "P580": "1997-01-03",
+    "P1365": {
+      "links": [
+        "Tim Hutchinson"
+      ],
+      "stated_as": "Tim Hutchinson"
+    },
+    "P582": "2001-08-06",
+    "P1366": {
+      "links": [
+        "John Boozman"
+      ],
+      "stated_as": "John Boozman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Drug Enforcement Administration"
+      ],
+      "stated_as": "Administrator of the Drug Enforcement Administration"
+    },
+    "P580": "2001-08-08",
+    "P1365": {
+      "links": [
+        "Donnie R. Marshall"
+      ],
+      "stated_as": "Donnie R. Marshall"
+    },
+    "P582": "2003-01-23",
+    "P1366": {
+      "links": [
+        "Karen Tandy"
+      ],
+      "stated_as": "Karen Tandy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Department of Homeland Security"
+      ],
+      "stated_as": "Under Secretary of Homeland Security for Border and Transportation Security"
+    },
+    "P580": "2003-01-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2005-03-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Randy Beardsworth (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Arkansas"
+      ],
+      "stated_as": "46th Governor of Arkansas"
+    },
+    "P1545": "46",
+    "P580": "2015-01-13",
+    "P1365": {
+      "links": [
+        "Mike Beebe"
+      ],
+      "stated_as": "Mike Beebe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Governors Association"
+      ],
+      "stated_as": "Vice Chair of the National Governors Association"
+    },
+    "P580": "2020-08-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Andrew Cuomo"
+    },
+    "P582": "2021-07-08",
+    "P1366": {
+      "links": [
+        "Phil Murphy"
+      ],
+      "stated_as": "Phil Murphy"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Governors Association"
+      ],
+      "stated_as": "Chair of the National Governors Association"
+    },
+    "P580": "2021-07-08",
+    "P1365": {
+      "links": [
+        "Andrew Cuomo"
+      ],
+      "stated_as": "Andrew Cuomo"
+    },
+    "P582": "2022-07-15",
+    "P1366": {
+      "links": [
+        "Phil Murphy"
+      ],
+      "stated_as": "Phil Murphy"
+    }
+  }
+]

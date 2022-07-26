@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Attorney",
+        "United States District Court for the Eastern District of Arkansas"
+      ],
+      "stated_as": "United States Attorney for the Eastern District of Arkansas"
+    },
+    "P580": "2006-12-20",
+    "P1365": {
+      "links": [
+        "Bud Cummins"
+      ],
+      "stated_as": "Bud Cummins"
+    },
+    "P582": "2007-06-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jane Duke"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Arkansas"
+      ],
+      "stated_as": "20th Lieutenant Governor of Arkansas"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+        "Vic Snyder"
+      ],
+      "stated_as": "Vic Snyder"
+    },
+    "P582": "2015-01-03",
+    "P1366": {
+      "links": [
+        "French Hill (politician)"
+      ],
+      "stated_as": "French Hill"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Arkansas"
+      ],
+      "stated_as": "20th Lieutenant Governor of Arkansas"
+    },
+    "P580": "2015-01-13",
+    "P1365": {
+      "links": [
+        "Mark Darr"
+      ],
+      "stated_as": "Mark Darr (2014)"
+    }
+  }
+]

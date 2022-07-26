@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Vermont"
+      ],
+      "stated_as": "81st Lieutenant Governor of Vermont"
+    },
+    "P580": "2001-01-05",
+    "P1365": {
+      "links": [
+        "Jeb Spaulding"
+      ],
+      "stated_as": "Jeb Spaulding"
+    },
+    "P582": "2011-01-05",
+    "P1366": {
+      "links": [
+        "Anthony Pollina"
+      ],
+      "stated_as": "Anthony Pollina"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Vermont"
+      ],
+      "stated_as": "81st Lieutenant Governor of Vermont"
+    },
+    "P580": "2011-01-06",
+    "P1365": {
+      "links": [
+        "Brian Dubie"
+      ],
+      "stated_as": "Brian Dubie"
+    },
+    "P582": "2017-01-05",
+    "P1366": {
+      "links": [
+        "David Zuckerman (politician)"
+      ],
+      "stated_as": "David Zuckerman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Vermont"
+      ],
+      "stated_as": "82nd Governor of Vermont"
+    },
+    "P1545": "82",
+    "P580": "2017-01-05",
+    "P1365": {
+      "links": [
+        "Peter Shumlin"
+      ],
+      "stated_as": "Peter Shumlin"
+    }
+  }
+]

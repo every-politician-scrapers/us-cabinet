@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for International Organization Affairs"
+      ],
+      "stated_as": "Assistant Secretary of State for International Organization Affairs"
+    },
+    "P580": "1981-05-13",
+    "P1365": {
+      "links": [
+        "Richard Lee McCall, Jr."
+      ],
+      "stated_as": "Richard McCall"
+    },
+    "P582": "1981-12-01",
+    "P1366": {
+      "links": [
+        "Gregory J. Newell"
+      ],
+      "stated_as": "Gregory Newell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for Democracy, Human Rights, and Labor"
+      ],
+      "stated_as": "Assistant Secretary of State for Human Rights and Humanitarian Affairs"
+    },
+    "P580": "1981-12-12",
+    "P1365": {
+      "links": [
+        "Patricia M. Derian"
+      ],
+      "stated_as": "Patt Derian"
+    },
+    "P582": "1985-07-17",
+    "P1366": {
+      "links": [
+        "Richard Schifter"
+      ],
+      "stated_as": "Richard Schifter"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for Western Hemisphere Affairs"
+      ],
+      "stated_as": "Assistant Secretary of State for Inter-American Affairs"
+    },
+    "P580": "1985-07-17",
+    "P1365": {
+      "links": [
+        "Langhorne A. Motley"
+      ],
+      "stated_as": "Langhorne Motley"
+    },
+    "P582": "1989-01-20",
+    "P1366": {
+      "links": [
+        "Bernard W. Aronson"
+      ],
+      "stated_as": "Bernard Aronson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States National Security Advisor"
+      ],
+      "stated_as": "24th United States Deputy National Security Advisor"
+    },
+    "P580": "2005-02-02",
+    "P1365": {
+      "links": [
+        "Stephen Hadley"
+      ],
+      "stated_as": "Stephen Hadley"
+    },
+    "P582": "2009-01-20",
+    "P1366": {
+      "links": [
+        "Tom Donilon"
+      ],
+      "stated_as": "Tom Donilon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ambassadors of the United States",
+        "2019 Venezuelan presidential crisis"
+      ],
+      "stated_as": "United States Special Representative\nfor Venezuela"
+    },
+    "P580": "2019-01-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2021-01-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ambassadors of the United States",
+        "Iran"
+      ],
+      "stated_as": "United States Special Representative\nfor Iran"
+    },
+    "P580": "2020-09-01",
+    "P1365": {
+      "links": [
+        "Brian Hook"
+      ],
+      "stated_as": "Brian Hook"
+    },
+    "P582": "2021-01-20",
+    "P1366": {
+      "links": [
+        "Robert Malley"
+      ],
+      "stated_as": "Robert Malley"
+    }
+  }
+]

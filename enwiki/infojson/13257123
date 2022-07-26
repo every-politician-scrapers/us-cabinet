@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Nevada"
+      ],
+      "stated_as": "17th Secretary of State of Nevada"
+    },
+    "P580": "1996",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jeannine Stroth"
+    },
+    "P582": "2002",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Valerie Weber"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Nevada"
+      ],
+      "stated_as": "17th Secretary of State of Nevada"
+    },
+    "P580": "2002",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mark James"
+    },
+    "P582": "2014",
+    "P1366": {
+      "links": [
+        "Patricia Farley"
+      ],
+      "stated_as": "Patricia Farley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Nevada"
+      ],
+      "stated_as": "17th Secretary of State of Nevada"
+    },
+    "P580": "2015-01-05",
+    "P1365": {
+      "links": [
+        "Ross Miller"
+      ],
+      "stated_as": "Ross Miller"
+    }
+  }
+]

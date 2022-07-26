@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Governor of South Dakota"
+      ],
+      "stated_as": "33rd Governor of South Dakota"
+    },
+    "P580": "2007-01-09",
+    "P1365": {
+      "links": [
+        "Art Fryslie"
+      ],
+      "stated_as": "Art Fryslie"
+    },
+    "P582": "2011-01-03",
+    "P1366": {
+      "links": [
+        "Burt Tulson"
+      ],
+      "stated_as": "Burt Tulson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of South Dakota"
+      ],
+      "stated_as": "33rd Governor of South Dakota"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+        "Stephanie Herseth Sandlin"
+      ],
+      "stated_as": "Stephanie Herseth Sandlin"
+    },
+    "P582": "2019-01-03",
+    "P1366": {
+      "links": [
+        "Dusty Johnson"
+      ],
+      "stated_as": "Dusty Johnson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of South Dakota"
+      ],
+      "stated_as": "33rd Governor of South Dakota"
+    },
+    "P1545": "33",
+    "P580": "2019-01-05",
+    "P1365": {
+      "links": [
+        "Dennis Daugaard"
+      ],
+      "stated_as": "Dennis Daugaard"
+    }
+  }
+]

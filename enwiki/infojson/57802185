@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Georgia Secretary of State"
+      ],
+      "stated_as": "29th Secretary of State of Georgia"
+    },
+    "P580": "2015-02-10",
+    "P1365": {
+      "links": [
+        "Lynne Riley"
+      ],
+      "stated_as": "Lynne Riley"
+    },
+    "P582": "2019-01-14",
+    "P1366": {
+      "links": [
+        "Angelika Kausche"
+      ],
+      "stated_as": "Angelika Kausche"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Georgia Secretary of State"
+      ],
+      "stated_as": "29th Secretary of State of Georgia"
+    },
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "Robyn Crittenden"
+      ],
+      "stated_as": "Robyn Crittenden"
+    }
+  }
+]

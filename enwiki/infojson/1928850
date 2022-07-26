@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "White House Counsel"
+      ],
+      "stated_as": "Associate Counsel to the President"
+    },
+    "P580": "1982-11-28",
+    "P1365": {
+      "links": [
+        "J. Michael Luttig"
+      ],
+      "stated_as": "J. Michael Luttig"
+    },
+    "P582": "1986-04-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Robert M. Kruger"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Solicitor General of the United States"
+      ],
+      "stated_as": "Principal Deputy Solicitor General of the United States"
+    },
+    "P580": "1989-10-24",
+    "P1365": {
+      "links": [
+        "Donald B. Ayer"
+      ],
+      "stated_as": "Donald B. Ayer"
+    },
+    "P582": "1993-01",
+    "P1366": {
+      "links": [
+        "Paul Bender (jurist)"
+      ],
+      "stated_as": "Paul Bender"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Court of Appeals for the District of Columbia Circuit"
+      ],
+      "stated_as": "Judge of the United States Court of Appeals for the District of Columbia Circuit"
+    },
+    "P580": "2003-06-02",
+    "P1365": {
+      "links": [
+        "James L. Buckley"
+      ],
+      "stated_as": "James L. Buckley"
+    },
+    "P582": "2005-09-29",
+    "P1366": {
+      "links": [
+        "Patricia Millett"
+      ],
+      "stated_as": "Patricia Millett"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of the United States"
+    },
+    "P1545": "17",
+    "P580": "2005-09-29",
+    "P1365": {
+      "links": [
+        "William Rehnquist"
+      ],
+      "stated_as": "William Rehnquist"
+    }
+  }
+]

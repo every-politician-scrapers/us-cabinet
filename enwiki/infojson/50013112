@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "German Marshall Fund"
+      ],
+      "stated_as": "President of the German Marshall Fund"
+    },
+    "P580": "2014-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Craig Kennedy"
+    },
+    "P582": "2021-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Heather Conley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Assistant Secretary of State for European and Eurasian Affairs"
+      ],
+      "stated_as": "Assistant Secretary of State for European and Eurasian Affairs"
+    },
+    "P580": "2021-10-01",
+    "P1365": {
+      "links": [
+        "A. Wess Mitchell"
+      ],
+      "stated_as": "A. Wess Mitchell"
+    }
+  }
+]

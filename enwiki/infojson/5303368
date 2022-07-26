@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mayoralty in the United States",
+        "Braddock, Pennsylvania"
+      ],
+      "stated_as": "Mayor of Braddock"
+    },
+    "P580": "2006-01-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Pauline Abdullah"
+    },
+    "P582": "2019-01-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Chardaé Jones"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Pennsylvania"
+      ],
+      "stated_as": "34th Lieutenant Governor of Pennsylvania"
+    },
+    "P580": "2019-01-15",
+    "P1365": {
+      "links": [
+        "Mike Stack"
+      ],
+      "stated_as": "Mike Stack"
+    }
+  }
+]

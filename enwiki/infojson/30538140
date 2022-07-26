@@ -1,0 +1,106 @@
+[
+  {
+    "office": {
+      "links": [
+        "Polk County, Missouri"
+      ],
+      "stated_as": "Sheriff of Polk County"
+    },
+    "P580": "1993",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Charles Simmons"
+    },
+    "P582": "2004",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Steven Bruce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Missouri"
+      ],
+      "stated_as": "47th Lieutenant Governor of Missouri"
+    },
+    "P580": "2005-01-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ronnie Miller"
+    },
+    "P582": "2011-01-05",
+    "P1366": {
+      "links": [
+        "Sue Entlicher"
+      ],
+      "stated_as": "Sue Entlicher"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Missouri"
+      ],
+      "stated_as": "47th Lieutenant Governor of Missouri"
+    },
+    "P580": "2011-01-05",
+    "P1365": {
+      "links": [
+        "Delbert Scott"
+      ],
+      "stated_as": "Delbert Scott"
+    },
+    "P582": "2017-01-04",
+    "P1366": {
+      "links": [
+        "Sandy Crawford"
+      ],
+      "stated_as": "Sandy Crawford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Missouri"
+      ],
+      "stated_as": "47th Lieutenant Governor of Missouri"
+    },
+    "P580": "2017-01-09",
+    "P1365": {
+      "links": [
+        "Peter Kinder"
+      ],
+      "stated_as": "Peter Kinder"
+    },
+    "P582": "2018-06-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mike Kehoe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Missouri"
+      ],
+      "stated_as": "57th Governor of Missouri"
+    },
+    "P1545": "57",
+    "P580": "2018-06-01",
+    "P1365": {
+      "links": [
+        "Eric Greitens"
+      ],
+      "stated_as": "Eric Greitens"
+    }
+  }
+]

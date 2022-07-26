@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Wisconsin Department of Health Services"
+      ],
+      "stated_as": "Secretary-Designee of the Wisconsin Department of Health Services"
+    },
+    "P580": "2019-01-07",
+    "P1365": {
+      "links": [
+        "Linda Seemeyer"
+      ],
+      "stated_as": "Linda Seemeyer"
+    },
+    "P582": "2021-01-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Karen Timberlake (interim)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Deputy Secretary of Health and Human Services"
+      ],
+      "stated_as": "United States Deputy Secretary of Health and Human Services"
+    },
+    "P580": "2021-05-12",
+    "P1365": {
+      "links": [
+        "Eric Hargan"
+      ],
+      "stated_as": "Eric Hargan"
+    }
+  }
+]

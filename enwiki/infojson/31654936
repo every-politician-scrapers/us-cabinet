@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Superintendent of Public Instruction of Wisconsin"
+    },
+    "P1545": "26",
+    "P580": "2009-07-06",
+    "P1365": {
+      "links": [
+        "Elizabeth Burmaster"
+      ],
+      "stated_as": "Elizabeth Burmaster"
+    },
+    "P582": "2019-01-07",
+    "P1366": {
+      "links": [
+        "Carolyn Stanford Taylor"
+      ],
+      "stated_as": "Carolyn Stanford Taylor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Wisconsin"
+      ],
+      "stated_as": "46th Governor of Wisconsin"
+    },
+    "P1545": "46",
+    "P580": "2019-01-07",
+    "P1365": {
+      "links": [
+        "Scott Walker (politician)"
+      ],
+      "stated_as": "Scott Walker"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy National Security Advisor"
+      ],
+      "stated_as": "25th United States Deputy National Security Advisor"
+    },
+    "P580": "2010-10-20",
+    "P1365": {
+      "links": [
+        "Thomas E. Donilon"
+      ],
+      "stated_as": "Thomas E. Donilon"
+    },
+    "P582": "2013-01-20",
+    "P1366": {
+      "links": [
+        "Antony Blinken"
+      ],
+      "stated_as": "Antony Blinken"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "White House Chief of Staff"
+      ],
+      "stated_as": "26th White House Chief of Staff"
+    },
+    "P580": "2013-01-20",
+    "P1365": {
+      "links": [
+        "Jack Lew"
+      ],
+      "stated_as": "Jack Lew"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Reince Priebus"
+      ],
+      "stated_as": "Reince Priebus"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of Veterans Affairs"
+      ],
+      "stated_as": "11th United States Secretary of Veterans Affairs"
+    },
+    "P580": "2021-02-09",
+    "P1365": {
+      "links": [
+        "Robert Wilkie"
+      ],
+      "stated_as": "Robert Wilkie"
+    }
+  }
+]

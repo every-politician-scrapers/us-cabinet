@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Arkansas Commissioner of State Lands"
+      ],
+      "stated_as": "Land Commissioner of Arkansas"
+    },
+    "P580": "2011-01-11",
+    "P1365": {
+      "links": [
+        "Mark Wilcox"
+      ],
+      "stated_as": "Mark Wilcox"
+    },
+    "P582": "2019-01-15",
+    "P1366": {
+      "links": [
+        "Tommy Land"
+      ],
+      "stated_as": "Tommy Land"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of State of Arkansas"
+      ],
+      "stated_as": "34th Secretary of State of Arkansas"
+    },
+    "P580": "2019-01-15",
+    "P1365": {
+      "links": [
+        "Mark Martin (politician)"
+      ],
+      "stated_as": "Mark Martin"
+    }
+  }
+]

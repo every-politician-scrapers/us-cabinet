@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bureau of Ocean Energy Management"
+      ],
+      "stated_as": "1st Director of the Bureau of Ocean Energy Management"
+    },
+    "P580": "2011-10-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position created"
+    },
+    "P582": "2014-05-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Abigail Ross Hopper"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Department of the Interior"
+      ],
+      "stated_as": "Chief of Staff to the United States Department of the Interior"
+    },
+    "P580": "2014-05-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Laura Davis"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Caroline Gary Romano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "United States Deputy Secretary of the Interior"
+    },
+    "P1545": "9",
+    "P580": "2021-06-23",
+    "P1365": {
+      "links": [
+        "Katharine MacGregor"
+      ],
+      "stated_as": "Katharine MacGregor"
+    }
+  }
+]

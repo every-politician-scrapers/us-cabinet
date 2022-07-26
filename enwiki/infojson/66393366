@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director of the Office of Management and Budget"
+      ],
+      "stated_as": "43rd Director of the Office of Management and Budget"
+    },
+    "P580": "2021-03-17",
+    "P1365": {
+      "links": [
+        "Russell Vought"
+      ],
+      "stated_as": "Russell Vought"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Office of Management and Budget"
+      ],
+      "stated_as": "Deputy Director of the Office of Management and Budget"
+    },
+    "P580": "2021-03-24",
+    "P1365": {
+      "links": [
+        "Derek Kan"
+      ],
+      "stated_as": "Derek Kan"
+    },
+    "P582": "2022-03-17",
+    "P1366": {
+      "links": [
+        "Nani A. Coloretti"
+      ],
+      "stated_as": "Nani A. Coloretti"
+    }
+  }
+]

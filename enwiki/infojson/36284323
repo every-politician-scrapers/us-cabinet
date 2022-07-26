@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Florida House of Representatives"
+      ],
+      "stated_as": "Member of the Florida House of Representatives"
+    },
+    "P580": "2010-11-02",
+    "P1365": {
+      "links": [
+        "David Rivera"
+      ],
+      "stated_as": "David Rivera"
+    },
+    "P582": "2018-11-06",
+    "P1366": {
+      "links": [
+        "Juan Fernandez-Barquin"
+      ],
+      "stated_as": "Juan Fernandez-Barquin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Florida House of Representatives"
+      ],
+      "stated_as": "Speaker pro tempore of the Florida House of Representatives"
+    },
+    "P580": "2016-11-22",
+    "P1365": {
+      "links": [
+        "Matt Hudson"
+      ],
+      "stated_as": "Matt Hudson"
+    },
+    "P582": "2018-11-20",
+    "P1366": {
+      "links": [
+        "MaryLynn Magar"
+      ],
+      "stated_as": "MaryLynn Magar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Florida"
+      ],
+      "stated_as": "20th Lieutenant Governor of Florida"
+    },
+    "P580": "2019-01-08",
+    "P1365": {
+      "links": [
+        "Carlos Lopez-Cantera"
+      ],
+      "stated_as": "Carlos Lopez-Cantera"
+    }
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "office": {
+      "links": [
+        "Androscoggin County, Maine",
+        "Franklin County, Maine",
+        "Oxford County, Maine"
+      ],
+      "stated_as": "District Attorney of Androscoggin, Franklin, and Oxford Counties"
+    },
+    "P580": "1980",
+    "P1365": {
+      "links": [
+        "Thomas E. Delahanty II"
+      ],
+      "stated_as": "Thomas E. Delahanty II"
+    },
+    "P582": "1995-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Norman Croteau"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Maine House of Representatives"
+      ],
+      "stated_as": "Member of the Maine House of Representatives"
+    },
+    "P580": "2002-12-04",
+    "P1365": {
+      "links": [
+        "Walter Gooley"
+      ],
+      "stated_as": "Walter Gooley"
+    },
+    "P582": "2004-12-01",
+    "P1366": {
+      "links": [
+        "Robert Nutting (politician)"
+      ],
+      "stated_as": "Robert Nutting"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Maine House of Representatives"
+      ],
+      "stated_as": "Member of the Maine House of Representatives"
+    },
+    "P580": "2004-12-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Lillian LaFontaine O'Brien"
+    },
+    "P582": "2009-01-06",
+    "P1366": {
+      "links": [
+        "Lance Harvell"
+      ],
+      "stated_as": "Lance Harvell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Maine Attorney General"
+      ],
+      "stated_as": "55th and 57th Attorney General of Maine"
+    },
+    "P580": "2009-01-06",
+    "P1365": {
+      "links": [
+        "G. Steven Rowe"
+      ],
+      "stated_as": "Steven Rowe"
+    },
+    "P582": "2011-01-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "William Schneider"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Maine Attorney General"
+      ],
+      "stated_as": "55th and 57th Attorney General of Maine"
+    },
+    "P580": "2013-01-07",
+    "P1365": {
+      "links": [
+        "William Schneider (politician)"
+      ],
+      "stated_as": "William Schneider"
+    },
+    "P582": "2019-01-02",
+    "P1366": {
+      "links": [
+        "Aaron Frey"
+      ],
+      "stated_as": "Aaron Frey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Maine"
+      ],
+      "stated_as": "75th Governor of Maine"
+    },
+    "P580": "2019-01-02",
+    "P1365": {
+      "links": [
+        "Paul LePage"
+      ],
+      "stated_as": "Paul LePage"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Kansas"
+      ],
+      "stated_as": "44th Lieutenant Governor of Kansas"
+    },
+    "P580": "1989-01-09",
+    "P1365": {
+      "links": [
+        "Richard Gannon"
+      ],
+      "stated_as": "Richard Gannon"
+    },
+    "P582": "1995-01-09",
+    "P1366": {
+      "links": [
+        "Stan Clark (Kansas politician)"
+      ],
+      "stated_as": "Stan Clark"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Kansas"
+      ],
+      "stated_as": "44th Lieutenant Governor of Kansas"
+    },
+    "P580": "1995-01-09",
+    "P1365": {
+      "links": [
+        "Jim Francisco"
+      ],
+      "stated_as": "Jim Francisco"
+    },
+    "P582": "1996-06-11",
+    "P1366": {
+      "links": [
+        "Gary Sherrer (Kansas politician)"
+      ],
+      "stated_as": "Gary Sherrer"
+    }
+  }
+]

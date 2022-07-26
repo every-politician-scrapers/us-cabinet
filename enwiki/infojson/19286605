@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Warrensville Heights, Ohio"
+      ],
+      "stated_as": "Mayor of Warrensville Heights"
+    },
+    "P580": "2000-01-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Clinton Hall"
+    },
+    "P582": "2008-11-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "William Pegues"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Congressional Black Caucus"
+      ],
+      "stated_as": "Chair of the Congressional Black Caucus"
+    },
+    "P580": "2008-11-19",
+    "P1365": {
+      "links": [
+        "Stephanie Tubbs Jones"
+      ],
+      "stated_as": "Stephanie Tubbs Jones"
+    },
+    "P582": "2021-03-10",
+    "P1366": {
+      "links": [
+        "Shontel Brown"
+      ],
+      "stated_as": "Shontel Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Congressional Black Caucus"
+      ],
+      "stated_as": "Chair of the Congressional Black Caucus"
+    },
+    "P580": "2013-01-03",
+    "P1365": {
+      "links": [
+        "Emanuel Cleaver"
+      ],
+      "stated_as": "Emanuel Cleaver"
+    },
+    "P582": "2015-01-03",
+    "P1366": {
+      "links": [
+        "G. K. Butterfield"
+      ],
+      "stated_as": "G. K. Butterfield"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Secretary of Housing and Urban Development"
+      ],
+      "stated_as": "18th United States Secretary of Housing and Urban Development"
+    },
+    "P580": "2021-03-10",
+    "P1365": {
+      "links": [
+        "Ben Carson"
+      ],
+      "stated_as": "Ben Carson"
+    }
+  }
+]

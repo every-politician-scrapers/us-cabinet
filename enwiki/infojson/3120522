@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "San Francisco District Attorney's Office"
+      ],
+      "stated_as": "27th District Attorney of San Francisco"
+    },
+    "P580": "2004-01-08",
+    "P1365": {
+      "links": [
+        "Terence Hallinan"
+      ],
+      "stated_as": "Terence Hallinan"
+    },
+    "P582": "2011-01-03",
+    "P1366": {
+      "links": [
+        "George Gascón"
+      ],
+      "stated_as": "George Gascón"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of California"
+      ],
+      "stated_as": "32nd Attorney General of California"
+    },
+    "P580": "2011-01-03",
+    "P1365": {
+      "links": [
+        "Jerry Brown"
+      ],
+      "stated_as": "Jerry Brown"
+    },
+    "P582": "2017-01-03",
+    "P1366": {
+      "links": [
+        "Xavier Becerra"
+      ],
+      "stated_as": "Xavier Becerra"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of the United States"
+      ],
+      "stated_as": "49th Vice President of the United States"
+    },
+    "P580": "2017-01-03",
+    "P1365": {
+      "links": [
+        "Barbara Boxer"
+      ],
+      "stated_as": "Barbara Boxer"
+    },
+    "P582": "2021-01-18",
+    "P1366": {
+      "links": [
+        "Alex Padilla"
+      ],
+      "stated_as": "Alex Padilla"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of the United States"
+      ],
+      "stated_as": "49th Vice President of the United States"
+    },
+    "P580": "2021-01-20",
+    "P1365": {
+      "links": [
+        "Mike Pence"
+      ],
+      "stated_as": "Mike Pence"
+    }
+  }
+]

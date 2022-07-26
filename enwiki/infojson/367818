@@ -1,0 +1,90 @@
+[
+  {
+    "office": {
+      "links": [
+        "Texas State Treasurer"
+      ],
+      "stated_as": "Treasurer of Texas"
+    },
+    "P580": "1973-01-09",
+    "P1365": {
+      "links": [
+        "Tom Bass (politician)"
+      ],
+      "stated_as": "Tom Bass"
+    },
+    "P582": "1976-07-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Brad Wright"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Texas State Treasurer"
+      ],
+      "stated_as": "Treasurer of Texas"
+    },
+    "P580": "1991-01-15",
+    "P1365": {
+      "links": [
+        "Ann Richards"
+      ],
+      "stated_as": "Ann Richards"
+    },
+    "P582": "1993-06-14",
+    "P1366": {
+      "links": [
+        "Martha Whitehead"
+      ],
+      "stated_as": "Martha Whitehead"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Permanent Representative to NATO"
+      ],
+      "stated_as": "22nd United States Permanent Representative to NATO"
+    },
+    "P580": "1993-06-14",
+    "P1365": {
+      "links": [
+        "Bob Krueger"
+      ],
+      "stated_as": "Bob Krueger"
+    },
+    "P582": "2013-01-03",
+    "P1366": {
+      "links": [
+        "Ted Cruz"
+      ],
+      "stated_as": "Ted Cruz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "United States Permanent Representative to NATO"
+      ],
+      "stated_as": "22nd United States Permanent Representative to NATO"
+    },
+    "P580": "2017-08-28",
+    "P1365": {
+      "links": [
+        "Douglas Lute"
+      ],
+      "stated_as": "Douglas Lute"
+    },
+    "P582": "2021-01-20",
+    "P1366": {
+      "links": [
+        "Julianne Smith (diplomat)"
+      ],
+      "stated_as": "Julianne Smith"
+    }
+  }
+]

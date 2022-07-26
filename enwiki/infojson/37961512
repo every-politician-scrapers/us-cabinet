@@ -1,0 +1,46 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the Hawaii Senate"
+      ],
+      "stated_as": "12th President of the Hawaii Senate"
+    },
+    "P580": "2010-11-06",
+    "P1365": {
+      "links": [
+        "Colleen Hanabusa"
+      ],
+      "stated_as": "Colleen Hanabusa"
+    },
+    "P582": "2012-12-27",
+    "P1366": {
+      "links": [
+        "Donna Mercado Kim"
+      ],
+      "stated_as": "Donna Mercado Kim"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Lieutenant Governor of Hawaii"
+      ],
+      "stated_as": "12th Lieutenant Governor of Hawaii"
+    },
+    "P580": "2012-12-27",
+    "P1365": {
+      "links": [
+        "Brian Schatz"
+      ],
+      "stated_as": "Brian Schatz"
+    },
+    "P582": "2018-01-31",
+    "P1366": {
+      "links": [
+        "Doug Chin"
+      ],
+      "stated_as": "Doug Chin"
+    }
+  }
+]

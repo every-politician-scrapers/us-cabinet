@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Louisiana House of Representatives"
+      ],
+      "stated_as": "Minority Leader of the Louisiana House of Representatives"
+    },
+    "P580": "2008-01-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Robby Carter"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Robby Carter"
+      ],
+      "stated_as": "Robby Carter"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Louisiana House of Representatives"
+      ],
+      "stated_as": "Minority Leader of the Louisiana House of Representatives"
+    },
+    "P580": "2012-01-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jane Smith"
+    },
+    "P582": "2015-12-10",
+    "P1366": {
+      "links": [
+        "Gene Reynolds (Louisiana politician)"
+      ],
+      "stated_as": "Gene Reynolds"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Louisiana"
+      ],
+      "stated_as": "56th Governor of Louisiana"
+    },
+    "P1545": "56",
+    "P580": "2016-01-11",
+    "P1365": {
+      "links": [
+        "Bobby Jindal"
+      ],
+      "stated_as": "Bobby Jindal"
+    }
+  }
+]

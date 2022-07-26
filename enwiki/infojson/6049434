@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "United States Court of Appeals for the Tenth Circuit"
+      ],
+      "stated_as": "Judge of the United States Court of Appeals for the Tenth Circuit"
+    },
+    "P580": "2006-08-08",
+    "P1365": {
+      "links": [
+        "David M. Ebel"
+      ],
+      "stated_as": "David M. Ebel"
+    },
+    "P582": "2017-04-09",
+    "P1366": {
+      "links": [
+        "Allison H. Eid"
+      ],
+      "stated_as": "Allison H. Eid"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Associate Justice of the Supreme Court of the United States"
+      ],
+      "stated_as": "Associate Justice of the Supreme Court of the United States"
+    },
+    "P580": "2017-04-10",
+    "P1365": {
+      "links": [
+        "Antonin Scalia"
+      ],
+      "stated_as": "Antonin Scalia"
+    }
+  }
+]

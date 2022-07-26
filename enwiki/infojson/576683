@@ -1,0 +1,109 @@
+[
+  {
+    "office": {
+      "links": [
+        "Majority leader",
+        "North Carolina Senate"
+      ],
+      "stated_as": "Majority Leader of the North Carolina Senate"
+    },
+    "P580": "1987-02-09",
+    "P1365": {
+      "links": [
+        "Allen Barbee"
+      ],
+      "stated_as": "Allen Barbee"
+    },
+    "P582": "1991-02-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Edward McGee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Majority leader",
+        "North Carolina Senate"
+      ],
+      "stated_as": "Majority Leader of the North Carolina Senate"
+    },
+    "P580": "1991-02-21",
+    "P1365": {
+      "links": [
+        "Jim Ezzell"
+      ],
+      "stated_as": "Jim Ezzell"
+    },
+    "P582": "2001-01-01",
+    "P1366": {
+      "links": [
+        "A. B. Swindell"
+      ],
+      "stated_as": "A. B. Swindell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Majority leader",
+        "North Carolina Senate"
+      ],
+      "stated_as": "Majority Leader of the North Carolina Senate"
+    },
+    "P580": "1997-07-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "J. Richard Conder"
+    },
+    "P582": "2001-01-01",
+    "P1366": {
+      "links": [
+        "Tony Rand"
+      ],
+      "stated_as": "Tony Rand"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "North Carolina Attorney General"
+      ],
+      "stated_as": "49th Attorney General of North Carolina"
+    },
+    "P580": "2001-01-01",
+    "P1365": {
+      "links": [
+        "Mike Easley"
+      ],
+      "stated_as": "Mike Easley"
+    },
+    "P582": "2017-01-01",
+    "P1366": {
+      "links": [
+        "Josh Stein"
+      ],
+      "stated_as": "Josh Stein"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of North Carolina"
+      ],
+      "stated_as": "75th Governor of North Carolina"
+    },
+    "P1545": "75",
+    "P580": "2017-01-01",
+    "P1365": {
+      "links": [
+        "Pat McCrory"
+      ],
+      "stated_as": "Pat McCrory"
+    }
+  }
+]

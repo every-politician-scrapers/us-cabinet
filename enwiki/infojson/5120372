@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of the United States to Belgium"
+      ],
+      "stated_as": "United States Ambassador to Belgium"
+    },
+    "P580": "2013-09-26",
+    "P1365": {
+      "links": [
+        "Howard Gutman"
+      ],
+      "stated_as": "Howard Gutman"
+    },
+    "P582": "2017-01-20",
+    "P1366": {
+      "links": [
+        "Ronald Gidwitz"
+      ],
+      "stated_as": "Ronald Gidwitz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of ambassadors of the United States to France",
+        "List of ambassadors of the United States to Monaco"
+      ],
+      "stated_as": "United States Ambassador to France and Monaco"
+    },
+    "P580": "2022-02-05",
+    "P1365": {
+      "links": [
+        "Jamie McCourt"
+      ],
+      "stated_as": "Jamie McCourt"
+    }
+  }
+]

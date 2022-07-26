@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "United States Chargé d’Affaires to Saudi Arabia"
+    },
+    "P580": "2017-01-08",
+    "P582": "2019-04-17"
+  },
+  {
+    "office": {
+      "links": [
+        "United States Ambassador to Yemen"
+      ],
+      "stated_as": "United States Ambassador to Yemen"
+    },
+    "P580": "2019-05-20",
+    "P1365": {
+      "links": [
+        "Matthew H. Tueller"
+      ],
+      "stated_as": "Matthew H. Tueller"
+    },
+    "P582": "2021-05",
+    "P1366": {
+      "links": [
+        "Steven Fagin"
+      ],
+      "stated_as": "Steven Fagin"
+    }
+  }
+]

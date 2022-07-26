@@ -1,0 +1,151 @@
+[
+  {
+    "office": {
+      "links": [
+        "Greene County, Ohio"
+      ],
+      "stated_as": "Prosecutor of Greene County"
+    },
+    "P580": "1977",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nicholas Carrera"
+    },
+    "P582": "1981",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "William Schenck"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Ohio"
+      ],
+      "stated_as": "59th Lieutenant Governor of Ohio"
+    },
+    "P580": "1981-01-02",
+    "P1365": {
+      "links": [
+        "John Mahoney (Ohio politician)"
+      ],
+      "stated_as": "John Mahoney"
+    },
+    "P582": "1982-12-13",
+    "P1366": {
+      "links": [
+        "Dave Hobson"
+      ],
+      "stated_as": "Dave Hobson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Ohio"
+      ],
+      "stated_as": "59th Lieutenant Governor of Ohio"
+    },
+    "P580": "1983-01-03",
+    "P1365": {
+      "links": [
+        "Bud Brown (politician)"
+      ],
+      "stated_as": "Bud Brown"
+    },
+    "P582": "1991-01-03",
+    "P1366": {
+      "links": [
+        "Dave Hobson"
+      ],
+      "stated_as": "Dave Hobson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of lieutenant governors of Ohio"
+      ],
+      "stated_as": "59th Lieutenant Governor of Ohio"
+    },
+    "P580": "1991-01-14",
+    "P1365": {
+      "links": [
+        "Paul Leonard (politician)"
+      ],
+      "stated_as": "Paul Leonard"
+    },
+    "P582": "1994-11-12",
+    "P1366": {
+      "links": [
+        "Nancy Hollister"
+      ],
+      "stated_as": "Nancy Hollister"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of Ohio"
+      ],
+      "stated_as": "50th Attorney General of Ohio"
+    },
+    "P580": "1995-01-03",
+    "P1365": {
+      "links": [
+        "Howard Metzenbaum"
+      ],
+      "stated_as": "Howard Metzenbaum"
+    },
+    "P582": "2007-01-03",
+    "P1366": {
+      "links": [
+        "Sherrod Brown"
+      ],
+      "stated_as": "Sherrod Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of Ohio"
+      ],
+      "stated_as": "50th Attorney General of Ohio"
+    },
+    "P1545": "50",
+    "P580": "2011-01-10",
+    "P1365": {
+      "links": [
+        "Richard Cordray"
+      ],
+      "stated_as": "Richard Cordray"
+    },
+    "P582": "2019-01-14",
+    "P1366": {
+      "links": [
+        "Dave Yost"
+      ],
+      "stated_as": "Dave Yost"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Ohio"
+      ],
+      "stated_as": "70th Governor of Ohio"
+    },
+    "P1545": "70",
+    "P580": "2019-01-14",
+    "P1365": {
+      "links": [
+        "John Kasich"
+      ],
+      "stated_as": "John Kasich"
+    }
+  }
+]
