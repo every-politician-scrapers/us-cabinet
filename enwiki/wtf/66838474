@@ -7193,7 +7193,7 @@
         {
           "sentences": [
             {
-              "text": "Asked if he accepts the scientific consensus on the causes of climate change, Youngkin said he does not know what causes climate change and that the cause is irrelevant.",
+              "text": "Asked if he accepts the scientific consensus on the causes of climate change, Youngkin said he does not know what causes climate change and that he considers the cause to be irrelevant.",
               "links": [
                 {
                   "text": "scientific consensus on the causes of climate change",
@@ -7343,6 +7343,75 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Additional action taken by Youngkin in April 2022 included signing legislation that revised the state's permit-issuing process for controversial projects with environmental impacts."
+            },
+            {
+              "text": "This revision transferred authority to grant such permits away from two citizen review boards and to the Department of Environmental Quality, which oversees those boards.",
+              "links": [
+                {
+                  "text": "Department of Environmental Quality",
+                  "type": "internal",
+                  "page": "List of environmental agencies in the United States",
+                  "anchor": "Virginia"
+                }
+              ]
+            },
+            {
+              "text": "Virginia's two review boards impacted by the legislation were the Water Control Board and the Air Pollution Control Board."
+            },
+            {
+              "text": "According to VPM, a Virginia NPR affiliate, before Youngkin's legislation, these two review boards were \"only responsible\" for permitting decisions when projects were \"considered to be controversial\".",
+              "links": [
+                {
+                  "text": "VPM",
+                  "type": "internal",
+                  "page": "VPM Media Corporation"
+                }
+              ]
+            },
+            {
+              "text": "That same publication noted that the review boards almost always based their permitting decisions on recommendations made by the Department of Environmental Quality."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Only a few months before the permitting process was changed under Youngkin, the state Air Pollution Control Board had made the decision to deny a permit for a compressor station that would have been part of the Mountain Valley Pipeline.",
+              "links": [
+                {
+                  "text": "compressor station",
+                  "type": "internal",
+                  "page": "compressor station"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mountain Valley Pipeline"
+                }
+              ]
+            },
+            {
+              "text": "The Air Pollution Control Board made this decision even though the Department of Environmental Quality had recommended approval for the compressor station, and this marked one of only four instances in the preceding twenty years that any citizen review board in Virginia had decided against issuing a permit recommended for approval by that department."
+            },
+            {
+              "text": "The Richmond-Times Dispatch reported that in making this decision, the Air Pollution Control Board was \"angering business groups\".",
+              "formatting": {
+                "italic": [
+                  "The Richmond-Times Dispatch"
+                ]
+              }
+            },
+            {
+              "text": "VPM reported that the decision was cited by Republicans as a reason for transferring permitting authority away from citizen review boards."
+            },
+            {
+              "text": "Although Youngkin's legislation revising the permitting process gained some bipartisan support in the state legislature, it was opposed by environmental groups."
+            }
+          ]
         }
       ],
       "references": [
@@ -7388,6 +7457,14 @@
           "type": "news"
         },
         {
+          "title": "LIS > Bill Tracking > SB657 > 2022 session",
+          "url": "https://lis.virginia.gov/cgi-bin/legp604.exe?ses=221&typ=bil&val=sb657",
+          "access-date": "2022-07-26",
+          "website": "lis.virginia.gov",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last": "Hankerson",
           "first": "Mechelle",
           "date": "12 October 2021",
@@ -7410,6 +7487,46 @@
           "issn": "0190-8286",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Hammack",
+          "first": "Laurence",
+          "title": "Appeals court won't revisit decision to reject Mountain Valley Pipeline permit",
+          "url": "https://roanoke.com/news/local/appeals-court-wont-revisit-decision-to-reject-mountain-valley-pipeline-permit/article_5e2363b2-b1ff-11ec-bc46-9f17ce54ba39.html",
+          "access-date": "2022-07-26",
+          "website": "Roanoke Times",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Wilson",
+          "first": "Patrick",
+          "title": "Va. Senate Democrats pass GOP bill to remove power of citizen environmental boards",
+          "url": "https://richmond.com/news/state-and-regional/va-senate-democrats-pass-gop-bill-to-remove-power-of-citizen-environmental-boards/article_3a0a60df-fea9-584a-984e-88de0a8be1ef.html",
+          "access-date": "2022-07-26",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Bills stripping pollution permitting power from citizen boards advance, find bipartisan support",
+          "url": "https://vpm.org/news/articles/29819/bills-stripping-pollution-permitting-power-from-citizen-boards-advance-find",
+          "access-date": "2022-07-26",
+          "website": "VPM.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Efforts to roll back, adjust new climate legislation stall",
+          "url": "https://vpm.org/news/articles/29997/efforts-to-roll-back-adjust-new-climate-legislation-stall",
+          "access-date": "2022-07-26",
+          "website": "VPM.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -7738,7 +7855,7 @@
     },
     {
       "title": "Marijuana",
-      "depth": 2,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [

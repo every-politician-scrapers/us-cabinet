@@ -107,6 +107,12 @@
           "template": "use mdy dates"
         },
         {
+          "list": [
+            "Served from January 20, 2021 to August 12, 2021; Dunn's temporary position concluded. She returned on May 5, 2022 in the midst of the upcoming midterm elections."
+          ],
+          "template": "efn"
+        },
+        {
           "age": "60",
           "year": "2019",
           "month": "12",
@@ -251,6 +257,24 @@
       ],
       "references": [
         {
+          "title": "Top Biden adviser Anita Dunn leaves White House",
+          "url": "https://www.politico.com/news/2021/08/12/biden-adviser-anita-dunn-white-house-504216",
+          "access-date": "July 26, 2022",
+          "work": "Politico",
+          "date": "August 12, 2021",
+          "template": "citation",
+          "type": "cite"
+        },
+        {
+          "title": "Top Biden Adviser Anita Dunn to return to White House",
+          "url": "https://www.cbsnews.com/news/anita-dunn-white-house-returning/",
+          "access-date": "July 26, 2022",
+          "work": "CBS News",
+          "date": "April 25, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "https://www.politico.com/news/magazine/2019/12/19/biden-2020-campaign-president-advisers-087410",
           "title": "Why Biden's Retro Inner Circle Is Succeeding So Far",
           "first": "Ryan",
@@ -311,18 +335,6 @@
         {
           "sentences": [
             {
-              "text": "He is the son of Theresa A. Donilon (née Conway), who worked two jobs, as a school secretary and a message service operator while also leading a school secretary and janitors' union; and Edward T. Donilon, who was a product control manager and a local school board chairman."
-            },
-            {
-              "text": "His father was of Irish descent, and his maternal grandparents had immigrated from Ireland.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ireland"
-                }
-              ]
-            },
-            {
               "text": "Donilon is a graduate of La Salle Academy in Providence, Rhode Island.",
               "links": [
                 {
@@ -357,23 +369,6 @@
         }
       ],
       "references": [
-        {
-          "title": "Theresa Ann Conway Donilon (1926-1998) - Find A...",
-          "url": "https://www.findagrave.com/memorial/47175308/theresa-ann-donilon",
-          "access-date": "September 17, 2020",
-          "website": "www.findagrave.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://freepages.genealogy.rootsweb.ancestry.com/~battle/celeb/donilon.htm",
-          "title": "Tom Donilon ancestry",
-          "publisher": "Freepages.genealogy.rootsweb.ancestry.com",
-          "access-date": "April 17, 2015",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "url": "http://www.lasalle-academy.org/podium/default.aspx?t=204&tn=Washington+Post+Does+Lenghty+Profile+on+La+Salle+Alum+Tom+Donilon+%2773&nid=579838&ptid=2218&sdb=False&pf=pcrw&mode=0&vcm=False",
           "title": "Washington Post Does Lengthy Profile on La Salle Alum Tom Donilon '73",
@@ -697,6 +692,15 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "notelist"
         }
       ]
     },

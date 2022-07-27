@@ -923,7 +923,7 @@
               "text": "Pritzker later apologized for a number of controversial and incendiary comments he made in that conversation."
             },
             {
-              "text": "He and Blagojevich discussed filling Barack Obama's U.S. Senate seat, with Pritzker saying that appointing then-Secretary of State Jesse White would \"cover you on the African-American thing\" and was the \"least offensive\" candidate."
+              "text": "He and Blagojevich discussed filling Barack Obama's U.S. Senate seat, with Pritzker saying that appointing then-Secretary of State Jesse White would \"cover you on the African-American thing\" and that he was the \"least offensive\" candidate."
             }
           ]
         }
@@ -1351,6 +1351,135 @@
       ]
     },
     {
+      "title": "Cannabis",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On May 31, 2019, the Illinois General Assembly passed the Illinois Cannabis Regulation and Tax Act legalizing and regulating the production, consumption, and sale of adult-use cannabis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Illinois General Assembly"
+                },
+                {
+                  "type": "internal",
+                  "page": "Illinois Cannabis Regulation and Tax Act"
+                }
+              ]
+            },
+            {
+              "text": "On June 25, 2019, Pritzker signed the legislation into law, which went into effect on January 1, 2020."
+            },
+            {
+              "text": "Illinois was the 11th U.S. state to legalize recreational use of marijuana."
+            },
+            {
+              "text": "Criminal records of individuals caught possessing less than 30 grams were cleared."
+            },
+            {
+              "text": "Tax revenue collected from marijuana sales is used to invest in impoverished communities affected by the War on Drugs and in drug rehabilitation programs.",
+              "links": [
+                {
+                  "text": "War on Drugs",
+                  "type": "internal",
+                  "page": "War on drugs"
+                }
+              ]
+            },
+            {
+              "text": "After the first month of legalization, marijuana sales generated approximately $10.4 million in tax revenue."
+            },
+            {
+              "text": "By July 2020, it had generated over $52 million."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On December 31, 2019, Pritzker pardoned approximately 11,000 people for low-level marijuana convictions."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Sfondeles",
+          "first1": "Tina",
+          "date": "31 May 2019",
+          "title": "High time? Pritzker vows to sign legal recreational pot bill heading to his desk",
+          "work": "Chicago Sun-Times",
+          "url": "https://chicago.suntimes.com/cannabis/2019/5/31/18647398/high-time-legal-recreational-pot-bill-on-way-to-governors-desk",
+          "access-date": "7 June 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "May 31, 2019",
+          "title": "Illinois Poised to Be 11th State to Legalize Marijuana Use",
+          "url": "https://www.usnews.com/news/best-states/illinois/articles/2019-05-31/illinois-lawmakers-final-day-budget-marijuana-gambling",
+          "magazine": "U.S. News & World Report",
+          "access-date": "7 June 2019",
+          "template": "citation",
+          "type": "magazine"
+        },
+        {
+          "last1": "McCoppin",
+          "first1": "Robert",
+          "date": "25 June 2019",
+          "title": "Legal marijuana is coming to Illinois as Gov. Pritzker signs bill he calls an 'important and overdue change to our state'",
+          "work": "Chicago Tribune",
+          "url": "https://www.chicagotribune.com/news/breaking/ct-governor-to-sign-recreational-marijuana-law-20190624-ee2bswlsq5eqvkcbuq6oz6id5i-story.html",
+          "access-date": "25 June 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Marotti",
+          "first": "Ally",
+          "title": "Recreational marijuana sales in Illinois generated more than $10 million in tax revenue in January",
+          "url": "https://www.chicagotribune.com/marijuana/illinois/ct-biz-illinois-legal-weed-tax-revenue-20200224-iorl7m53qfburbrh7lv7gzszhm-story.html",
+          "access-date": "2020-05-18",
+          "website": "chicagotribune.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Marotti",
+          "first": "Ally",
+          "title": "Higher than expected: Illinois' $52.8M take from weed sales exceeds what state projected",
+          "url": "https://www.chicagotribune.com/business/ct-biz-illinois-marijuana-taxes-20200714-2cncxxi4orci5i7lmunbmhxntu-story.html",
+          "access-date": "2020-08-16",
+          "website": "chicagotribune.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-12-31",
+          "title": "Governor JB Pritzker issues 11K pardons for marijuana convictions",
+          "url": "https://abc7chicago.com/5801970/",
+          "access-date": "2020-01-01",
+          "website": "ABC7 Chicago",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Molina",
+          "first": "Tara",
+          "date": "June 25, 2019",
+          "title": "Gov. JB Pritzker Signs Bill Legalizing Recreational Marijuana In Illinois",
+          "work": "CBS Chicago",
+          "url": "https://chicago.cbslocal.com/2019/06/25/gov-jb-pritzker-signs-bill-legalizing-recreational-marijuana-in-illinois/",
+          "access-date": "July 11, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "title": "Child welfare and education",
       "depth": 2,
       "paragraphs": [
@@ -1772,7 +1901,7 @@
         {
           "sentences": [
             {
-              "text": "On March 25, Pritzker announced the extension of Illinois's tax filling deadline from April 15 to July 15."
+              "text": "On March 25, Pritzker announced the extension of Illinois's tax filing deadline from April 15 to July 15."
             },
             {
               "text": "He also announced three new emergency assistance programs that allowed small businesses to access more than $90 million in aid."
@@ -1843,7 +1972,7 @@
         {
           "sentences": [
             {
-              "text": "On December 4, Pritzker announced that Illinois would receive 109,000 initial doses of Pfizer's COVID-19 vaccine once the the U.S. Food and Drug Administration approved the vaccine."
+              "text": "On December 4, Pritzker announced that Illinois would receive 109,000 initial doses of Pfizer's COVID-19 vaccine once the U.S. Food and Drug Administration approved the vaccine."
             }
           ]
         },
@@ -2935,135 +3064,6 @@
       ]
     },
     {
-      "title": "Cannabis",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "On May 31, 2019, the Illinois General Assembly passed the Illinois Cannabis Regulation and Tax Act legalizing and regulating the production, consumption, and sale of adult-use cannabis.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Illinois General Assembly"
-                },
-                {
-                  "type": "internal",
-                  "page": "Illinois Cannabis Regulation and Tax Act"
-                }
-              ]
-            },
-            {
-              "text": "On June 25, 2019, Pritzker signed the legislation into law, which went into effect on January 1, 2020."
-            },
-            {
-              "text": "Illinois was the 11th U.S. state to legalize recreational use of marijuana."
-            },
-            {
-              "text": "Criminal records of individuals caught possessing less than 30 grams were cleared."
-            },
-            {
-              "text": "Tax revenue collected from marijuana sales is used to invest in impoverished communities affected by the War on Drugs and in drug rehabilitation programs.",
-              "links": [
-                {
-                  "text": "War on Drugs",
-                  "type": "internal",
-                  "page": "War on drugs"
-                }
-              ]
-            },
-            {
-              "text": "After the first month of legalization, marijuana sales generated approximately $10.4 million in tax revenue."
-            },
-            {
-              "text": "By July 2020, it had generated over $52 million."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On December 31, 2019, Pritzker pardoned approximately 11,000 people for low-level marijuana convictions."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://chicago.suntimes.com/cannabis/2019/5/31/18647398/high-time-legal-recreational-pot-bill-on-way-to-governors-desk",
-          "title": "High time? Pritzker vows to sign legal recreational pot bill heading to his desk",
-          "last1": "Sfondeles",
-          "first1": "Tina",
-          "date": "31 May 2019",
-          "work": "Chicago Sun-Times",
-          "access-date": "7 June 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.usnews.com/news/best-states/illinois/articles/2019-05-31/illinois-lawmakers-final-day-budget-marijuana-gambling",
-          "title": "Illinois Poised to Be 11th State to Legalize Marijuana Use",
-          "date": "May 31, 2019",
-          "access-date": "7 June 2019",
-          "magazine": "U.S. News & World Report",
-          "template": "citation",
-          "type": "magazine"
-        },
-        {
-          "url": "https://www.chicagotribune.com/news/breaking/ct-governor-to-sign-recreational-marijuana-law-20190624-ee2bswlsq5eqvkcbuq6oz6id5i-story.html",
-          "title": "Legal marijuana is coming to Illinois as Gov. Pritzker signs bill he calls an 'important and overdue change to our state'",
-          "last1": "McCoppin",
-          "first1": "Robert",
-          "date": "25 June 2019",
-          "work": "Chicago Tribune",
-          "access-date": "25 June 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Recreational marijuana sales in Illinois generated more than $10 million in tax revenue in January",
-          "url": "https://www.chicagotribune.com/marijuana/illinois/ct-biz-illinois-legal-weed-tax-revenue-20200224-iorl7m53qfburbrh7lv7gzszhm-story.html",
-          "last": "Marotti",
-          "first": "Ally",
-          "website": "chicagotribune.com",
-          "access-date": "2020-05-18",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Marotti",
-          "first": "Ally",
-          "title": "Higher than expected: Illinois' $52.8M take from weed sales exceeds what state projected",
-          "url": "https://www.chicagotribune.com/business/ct-biz-illinois-marijuana-taxes-20200714-2cncxxi4orci5i7lmunbmhxntu-story.html",
-          "access-date": "2020-08-16",
-          "website": "chicagotribune.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://abc7chicago.com/5801970/",
-          "title": "Governor JB Pritzker issues 11K pardons for marijuana convictions",
-          "date": "2019-12-31",
-          "website": "ABC7 Chicago",
-          "language": "en",
-          "access-date": "2020-01-01",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://chicago.cbslocal.com/2019/06/25/gov-jb-pritzker-signs-bill-legalizing-recreational-marijuana-in-illinois/",
-          "title": "Gov. JB Pritzker Signs Bill Legalizing Recreational Marijuana In Illinois",
-          "last": "Molina",
-          "first": "Tara",
-          "date": "June 25, 2019",
-          "work": "CBS Chicago",
-          "access-date": "July 11, 2019",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
       "title": "Taxation",
       "depth": 2,
       "paragraphs": [
@@ -4109,7 +4109,7 @@
       ]
     },
     {
-      "title": "Marijuana",
+      "title": "Cannabis",
       "depth": 1,
       "paragraphs": [
         {

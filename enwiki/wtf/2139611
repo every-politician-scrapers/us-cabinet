@@ -1379,10 +1379,9 @@
         {
           "sentences": [
             {
-              "text": "During the 2020 Biden campaign, Klain served as an advisor on the Covid-19 pandemic.",
+              "text": "During the 2020 Biden campaign, Klain served as an advisor on the COVID-19 pandemic.",
               "links": [
                 {
-                  "text": "Covid-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic"
                 }

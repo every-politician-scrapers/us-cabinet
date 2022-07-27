@@ -85,14 +85,14 @@
               "text": "Noem was elected governor in 2018 and is South Dakota's first female governor.",
               "links": [
                 {
-                  "text": "2018",
+                  "text": "elected governor in 2018",
                   "type": "internal",
                   "page": "2018 South Dakota gubernatorial election"
                 }
               ]
             },
             {
-              "text": "She was elected as an ally of the Donald Trump.",
+              "text": "She was elected as an ally of Donald Trump.",
               "links": [
                 {
                   "type": "internal",
@@ -106,7 +106,7 @@
                 {
                   "text": "conservative",
                   "type": "internal",
-                  "page": "Conservatism"
+                  "page": "Conservatism in the United States"
                 }
               ]
             }
@@ -173,7 +173,7 @@
             "text": "Kristi Noem"
           },
           "image": {
-            "text": "Noem Portrait.jpg"
+            "text": "File:Noem Portrait.jpg"
           },
           "alt": {
             "text": "Kristi Noem"
@@ -390,7 +390,7 @@
         {
           "sentences": [
             {
-              "text": "Kristi Noem was born to Ron and Corinne Arnold in Watertown, South Dakota, and raised with her siblings on their family ranch and farm in rural Hamlin County.",
+              "text": "Kristi Noem was born to Ron and Corinne Arnold in Watertown, South Dakota, and was raised with her siblings on their family ranch and farm in rural Hamlin County.",
               "links": [
                 {
                   "type": "internal",
