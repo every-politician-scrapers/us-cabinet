@@ -29,13 +29,8 @@
         {
           "sentences": [
             {
-              "text": "William Joseph Burns (born April 4, 1956) is an American diplomat and career ambassador serving as the director of the Central Intelligence Agency in the Biden administration since March 19, 2021.",
+              "text": "William Joseph Burns (born April 4, 1956) is an American diplomat serving as the director of the Central Intelligence Agency in the Biden administration since March 19, 2021.",
               "links": [
-                {
-                  "text": "career ambassador",
-                  "type": "internal",
-                  "page": "United States Foreign Service Career Ambassador"
-                },
                 {
                   "text": "director of the Central Intelligence Agency",
                   "type": "internal",

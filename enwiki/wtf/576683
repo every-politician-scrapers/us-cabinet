@@ -405,14 +405,14 @@
             ]
           },
           "education": {
-            "text": "University of North Carolina at Chapel Hill (AB, JD)",
+            "text": "University of North Carolina at Chapel Hill (BA, JD)",
             "links": [
               {
                 "type": "internal",
                 "page": "University of North Carolina at Chapel Hill"
               },
               {
-                "text": "AB",
+                "text": "BA",
                 "type": "internal",
                 "page": "Bachelor of Arts"
               },

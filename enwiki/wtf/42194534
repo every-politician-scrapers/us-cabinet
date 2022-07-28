@@ -850,6 +850,41 @@
                   "page": "Dan Cox"
                 }
               ]
+            },
+            {
+              "text": "Hogan blamed \"collusion\" between the Democratic Governors Association (DGA) and former president Donald Trump for Cox's primary win.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Governors Association"
+                },
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            },
+            {
+              "text": "The DGA having spent over $1.16 million on pro-Cox television advertisements, according to the New York Times.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New York Times"
+                }
+              ]
+            },
+            {
+              "text": "Hogan also criticized Democrats for \"emboldening\" Cox, who Hogan called a \"QAnon conspiracy theorist\", and \"play[ing] Russian roulette with the Maryland statehouse,\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "QAnon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russian roulette"
+                }
+              ]
             }
           ]
         }
@@ -943,6 +978,40 @@
           "access-date": "July 20, 2022",
           "work": "The Hill",
           "date": "July 20, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Mueller",
+          "first1": "Julia",
+          "title": "Hogan blames ‘collusion’ between Trump and Democrats for Dan Cox winning GOP primary",
+          "url": "https://thehill.com/homenews/sunday-talk-shows/3572082-hogan-blames-collusion-between-trump-and-democrats-for-dan-cox-winning-gop-primary/",
+          "access-date": "27 July 2022",
+          "work": "The Hill",
+          "publisher": "Nexstar Inc.",
+          "date": "July 24, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Pengelly",
+          "first1": "Martin",
+          "title": "How a Trump-backed ‘QAnon whack job’ won with Democratic ‘collusion’",
+          "url": "https://www.theguardian.com/us-news/2022/jul/25/hogan-trump-maryland-democratic-collusion-dan-cox-qanon-wes-moore",
+          "access-date": "27 July 2022",
+          "work": "The Guardian",
+          "date": "July 25, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Montellaro",
+          "first1": "Zach",
+          "title": "Dems meddle in Trump-Hogan proxy war in Maryland",
+          "url": "https://www.politico.com/news/2022/07/02/dems-trump-hogan-maryland-00043837",
+          "access-date": "27 July 2022",
+          "work": "Politico",
+          "date": "July 2, 2022",
           "template": "citation",
           "type": "news"
         },

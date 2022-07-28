@@ -421,12 +421,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.yahoo.com/entertainment/education-glenn-youngkin-100032931.html",
-          "title": "The Education of Glenn Youngkin",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "Glenn Youngkin '85 Helps Create Nonprofit Aimed At Supporting Unemployed Workers",
           "url": "https://www.norfolkacademy.org/news/post-details-page/~board/school-news/post/glenn-youngkin-85-helps-create-nonprofit-aimed-at-supporting-unemployed-workers",
           "access-date": "February 20, 2021",
@@ -496,6 +490,16 @@
           "archive-date": "February 13, 2021",
           "archive-url": "https://web.archive.org/web/20210213040817/https://www.alumni.hbs.edu/stories/Pages/story-bulletin.aspx?num=6426",
           "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ball",
+          "first": "Molly",
+          "date": "June 30, 2022",
+          "title": "The Education of Glenn Youngkin",
+          "url": "https://time.com/6191623/glenn-youngkin-interview-education-masks/",
+          "website": "Time",
           "template": "citation",
           "type": "web"
         },
@@ -4514,7 +4518,7 @@
               "text": "Either ban as proposed by Youngkin would include exceptions for rape, incest, or protecting the pregnant patient's life."
             },
             {
-              "text": "Youngkin has indicated that would support restricting abortion access in Virginia beyond a 15-week ban if can garner enough votes to do so."
+              "text": "Youngkin has indicated that he would support restricting abortion access in Virginia beyond a 15-week ban if can garner enough votes to do so."
             }
           ]
         }
@@ -7350,7 +7354,7 @@
               "text": "Additional action taken by Youngkin in April 2022 included signing legislation that revised the state's permit-issuing process for controversial projects with environmental impacts."
             },
             {
-              "text": "This revision transferred authority to grant such permits away from two citizen review boards and to the Department of Environmental Quality, which oversees those boards.",
+              "text": "This revision transferred authority to issue such permits away from two citizen review boards and to the Department of Environmental Quality, which oversees those boards.",
               "links": [
                 {
                   "text": "Department of Environmental Quality",
@@ -8245,11 +8249,31 @@
         {
           "sentences": [
             {
-              "text": "Youngkin and his wife helped found Holy Trinity Church, which met initially in their basement in McLean, Virginia.",
+              "text": "Youngkin and his wife attended St. John’s Episcopal Church in McLean but departed due to their disagreement with the denomination's support for same-sex marriage.",
+              "links": [
+                {
+                  "text": "McLean",
+                  "type": "internal",
+                  "page": "McLean, Virginia"
+                }
+              ]
+            },
+            {
+              "text": "In 2010, the couple helped found Holy Trinity Church, which met initially in their basement in McLean, Virginia.",
               "links": [
                 {
                   "type": "internal",
                   "page": "McLean, Virginia"
+                }
+              ]
+            },
+            {
+              "text": "Holy Trinity describes itself as a \"non-denominational church with Anglican roots and a contemporary charismatic expression.\"",
+              "links": [
+                {
+                  "text": "Anglican",
+                  "type": "internal",
+                  "page": "Anglicanism"
                 }
               ]
             },
@@ -8259,15 +8283,6 @@
                 {
                   "type": "internal",
                   "page": "Middleburg, Virginia"
-                }
-              ]
-            },
-            {
-              "text": "Holy Trinity describes itself as a \"non-denominational church with Anglican roots and a contemporary charismatic expression.\"",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Anglican"
                 }
               ]
             }

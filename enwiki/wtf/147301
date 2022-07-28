@@ -583,7 +583,7 @@
           "predecessor4": {
             "text": "Dick Gephardt"
           },
-          "office5": {
+          "office6": {
             "text": "House Minority Whip",
             "links": [
               {
@@ -592,16 +592,16 @@
               }
             ]
           },
-          "leader5": {
+          "leader6": {
             "text": "Dick Gephardt"
           },
-          "term_start5": {
+          "term_start6": {
             "text": "January 15, 2002"
           },
-          "term_end5": {
+          "term_end6": {
             "text": "January 3, 2003"
           },
-          "predecessor5": {
+          "predecessor6": {
             "text": "David Bonior",
             "links": [
               {
@@ -610,10 +610,10 @@
               }
             ]
           },
-          "successor5": {
+          "successor6": {
             "text": "Steny Hoyer"
           },
-          "office6": {
+          "office5": {
             "text": "Member of the U.S. House of Representatives from California",
             "links": [
               {
@@ -627,10 +627,10 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start5": {
             "text": "June 2, 1987"
           },
-          "predecessor6": {
+          "predecessor5": {
             "text": "Sala Burton",
             "links": [
               {
@@ -639,7 +639,7 @@
               }
             ]
           },
-          "constituency6": {
+          "constituency5": {
             "text": "(1987–1993)\n\n(1993–2013)\n\n(2013–present)"
           },
           "office7": {
