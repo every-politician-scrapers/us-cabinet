@@ -2214,18 +2214,13 @@
         {
           "sentences": [
             {
-              "text": "Noem is anti-abortion.",
+              "text": "Noem opposes abortion and has celebrated that she believes South Dakota “is the most pro-life state in the nation.” Noem has a “100 percent pro-life voting record,” according to the anti-abortion Susan B. Anthony List.",
               "links": [
                 {
-                  "text": "anti-abortion",
+                  "text": "opposes abortion",
                   "type": "internal",
                   "page": "anti-abortion"
-                }
-              ]
-            },
-            {
-              "text": "She has the support of the anti-abortion group Susan B. Anthony List and has said she intends to maintain her 100% anti-abortion voting record.",
-              "links": [
+                },
                 {
                   "type": "internal",
                   "page": "Susan B. Anthony List"
@@ -2237,7 +2232,16 @@
         {
           "sentences": [
             {
-              "text": "Noem has signed several bills restricting abortion, saying that the bills would \"crack down on abortion providers in South Dakota\"."
+              "text": "Noem has signed several bills restricting abortion, including a ban on telemedicine abortions which she claims are four times more likely to cause a woman to end up in the emergency room."
+            },
+            {
+              "text": "She also signed a bill to ban abortions based on a diagnosis of Down Syndrome.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Down Syndrome"
+                }
+              ]
             },
             {
               "text": "She also said, \"A strong and growing body of medical research provides evidence that unborn babies can feel, think, and recognize sounds in the womb. These are people, they must be given the same basic dignities as anyone else.\""
@@ -2247,12 +2251,17 @@
         {
           "sentences": [
             {
-              "text": "Following the overturning of Roe v. Wade, Noem said that she \"can't even imagine\" changing the law to allow victims of rape to obtain an abortion in South Dakota.",
+              "text": "Following the overturning of Roe v. Wade in 2022, South Dakota’s trigger law took effect, banning all abortions except to save the life of the mother, which Noem celebrated.",
               "links": [
                 {
                   "text": "overturning of ''Roe v. Wade''",
                   "type": "internal",
                   "page": "Dobbs v. Jackson Women's Health Organization"
+                },
+                {
+                  "text": "trigger law",
+                  "type": "internal",
+                  "page": "trigger law"
                 }
               ],
               "formatting": {
@@ -2262,12 +2271,23 @@
               }
             },
             {
-              "text": "Noem called the predicament of the 10-year-old Ohio child who was pregnant, and needed to be taken to Indiana, \"horrific,\" though she added that no exceptions existed locally to the ban on terminations, saying, \"But, in South Dakota, the law today is that the abortions are illegal, except to save the life of the mother.\""
+              "text": "Noem called the predicament of the pregnant 10-year-old Ohio child who needed to be taken to Indiana \"horrific,\" though she added that “in South Dakota, the law today is that the abortions are illegal, except to save the life of the mother.\""
             }
           ]
         }
       ],
       "references": [
+        {
+          "last": "Groves",
+          "first": "Stephen",
+          "date": "2022-07-15",
+          "title": "South Dakota Gov. Noem: No special session on abortion",
+          "url": "https://apnews.com/article/abortion-us-supreme-court-kristi-noem-south-dakota-government-and-politics-2508e7b4e6d80d68b2c323b9367e83ed",
+          "work": "Associated Press",
+          "access-date": "2022-07-28",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "date": "June 6, 2018",
           "title": "SBA List Declares Victory as Rep. Kristi Noem Wins Primary for Governor of South Dakota",
@@ -2276,6 +2296,26 @@
           "website": "Susan B. Anthony List",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "2022-01-11",
+          "title": "Read Gov. Kristi Noem's full State of the State address to South Dakota Legislature",
+          "url": "https://www.argusleader.com/story/news/politics/2022/01/11/governor-kristi-noem-full-adress-state-of-the-state-2022-south-dakota-legislature/9173984002/",
+          "work": "Argus Leader",
+          "access-date": "2022-07-28",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Sneve",
+          "first": "Joe",
+          "date": "2021-03-26",
+          "title": "South Dakota Gov. Noem: No special session on abortion",
+          "url": "https://www.argusleader.com/story/news/2021/03/26/gov-kristi-noem-bans-abortions-based-down-syndrome-bill-diagnosis/7017653002/",
+          "work": "Argus Leader",
+          "access-date": "2022-07-28",
+          "template": "citation",
+          "type": "news"
         },
         {
           "last1": "Kaczke",
@@ -2301,6 +2341,17 @@
           "archive-date": "November 16, 2020",
           "archive-url": "https://web.archive.org/web/20201116193236/https://abcnews.go.com/US/wireStory/south-dakota-governor-signs-bills-aimed-curbing-abortion-61853868",
           "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Cline",
+          "first": "Melissa",
+          "date": "2022-06-22",
+          "title": "South Dakota’s “trigger law” bans nearly all abortions following US Supreme Court decision",
+          "url": "https://www.newscenter1.tv/1293522-2/",
+          "work": "Argus Leader",
+          "access-date": "2022-07-28",
           "template": "citation",
           "type": "news"
         },
@@ -3444,9 +3495,10 @@
           "type": "web"
         },
         {
-          "date": "2021",
+          "date": "June 1, 2021",
+          "access-date": "July 28, 2022",
           "title": "These States Have Banned Vaccine Passports",
-          "work": "US News",
+          "work": "US News & World Report",
           "url": "https://www.usnews.com/news/best-states/articles/which-states-have-banned-vaccine-passports",
           "template": "citation",
           "type": "news"

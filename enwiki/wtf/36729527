@@ -283,16 +283,36 @@
               "text": "In May 2021, he signed into law a bill that prohibited businesses, schools, cruise ships, and government entities from requiring proof of vaccination."
             },
             {
-              "text": "In March 2022, DeSantis signed into law the Parental Rights in Education Act, which prohibits instruction on sexual orientation or gender identity in public school classrooms from kindergarten to grade 3.",
+              "text": "In March 2022, DeSantis signed into law the Parental Rights in Education Act (deemed by many of its critics as the \"Don't Say Gay\" law), which prohibits instruction on sexual orientation or gender identity in public school classrooms from kindergarten to grade 3.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Parental Rights in Education Act"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "Critics nicknamed it the \"Don't Say Gay\" bill or law."
+              "text": "DeSantis is seen as a possible contender for the Republican nominee in the upcoming 2024 presidential election, with many authors writing about how DeSantis could beat former president Trump and how he is seen as a more preferred Republican compared to Trump, especially after the January 6th hearings and following straw polls.",
+              "links": [
+                {
+                  "text": "2024 presidential election",
+                  "type": "internal",
+                  "page": "2024 United States presidential election"
+                },
+                {
+                  "type": "internal",
+                  "page": "January 6th hearings"
+                },
+                {
+                  "text": "straw polls",
+                  "type": "internal",
+                  "page": "straw polls"
+                }
+              ]
             }
           ]
         }
@@ -2637,6 +2657,38 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022, DeSantis was increasingly seen as a possible contender for the 2024 Republican presidential nomination.",
+              "links": [
+                {
+                  "text": "2024 Republican presidential nomination",
+                  "type": "internal",
+                  "page": "2024 United States presidential election"
+                }
+              ]
+            },
+            {
+              "text": "Various authors predicted that DeSantis could defeat former president Donald Trump or opined that DeSantis is preferable to Trump in view of the January 6th hearings and following straw polls.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                },
+                {
+                  "type": "internal",
+                  "page": "January 6th hearings"
+                },
+                {
+                  "text": "straw polls",
+                  "type": "internal",
+                  "page": "straw polls"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -3060,6 +3112,39 @@
           "access-date": "December 11, 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "GOP insiders think DeSantis could beat Trump in 2024. Here's how.",
+          "url": "https://news.yahoo.com/gop-insiders-think-de-santis-could-beat-trump-in-2024-heres-how-190820108.html",
+          "access-date": "2022-07-28",
+          "website": "news.yahoo.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Hart",
+          "first": "Benjamin",
+          "date": "2022-07-19",
+          "title": "Trump Is Losing Ground to DeSantis in Poll After Poll",
+          "url": "https://nymag.com/intelligencer/2022/07/trump-is-losing-ground-to-desantis-in-poll-after-poll.html",
+          "access-date": "2022-07-28",
+          "website": "Intelligencer",
+          "language": "en-us",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Gancarski",
+          "first": "A. G.",
+          "date": "2022-07-18",
+          "title": "Poll shows Ron DeSantis above 50% versus Donald Trump in Florida",
+          "url": "https://floridapolitics.com/archives/539692-poll-shows-ron-desantis-above-50-against-donald-trump-in-florida/",
+          "access-date": "2022-07-28",
+          "website": "Florida Politics - Campaigns & Elections. Lobbying & Government.",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Davis",
@@ -3718,7 +3803,7 @@
               "text": "DeSantis responded, \"We will not allow Joe Biden and his bureaucratic flunkies to come in and commandeer the rights and freedoms of Floridians.\""
             },
             {
-              "text": "DeSantis also said, \"No elected official is doing more to enable the transmission of COVID in America than Joe Biden with his open borders policies.\""
+              "text": "He also said, \"No elected official is doing more to enable the transmission of COVID in America than Joe Biden with his open borders policies.\""
             },
             {
               "text": "The Washington Post reported that this claim was based on \"guesswork and assumptions, not evidence\", while PolitiFact reported that COVID-19 hot spots tend to be clustered far from the border, in places with low rates of public vaccination, not along the southern border, as would be expected if migrants were driving the surge in cases.",
@@ -3755,7 +3840,7 @@
               "text": "On August 27, 2021, Judge John Cooper ruled that DeSantis could not ban mask mandates in schools."
             },
             {
-              "text": "The state appealed, causing Cooper's ruling to be automatically suspended while the appeal was considered, but Cooper overruled that suspension on September 8, lifting DeSantis's ban, citing the need to protect unvaccinated children."
+              "text": "The state appealed, automatically suspending Cooper's ruling while the appeal was considered, but Cooper overruled that suspension on September 8, lifting DeSantis's ban, citing the need to protect unvaccinated children."
             }
           ]
         },

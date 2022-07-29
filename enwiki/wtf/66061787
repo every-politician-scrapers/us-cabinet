@@ -713,7 +713,21 @@
     },
     {
       "title": "Trade Representative (2021-present)",
-      "depth": 0
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:P20220517AS-2585_(52196843990).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/P20220517AS-2585_(52196843990).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/P20220517AS-2585_(52196843990).jpg",
+          "caption": "Tai with President Joe Biden and Vice President Kamala Harris in 2022",
+          "links": []
+        }
+      ]
     },
     {
       "title": "Nomination",

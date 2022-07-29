@@ -1249,7 +1249,13 @@
               ]
             },
             {
-              "text": "He aimed part of his speech at the \"straight community\": He further showed his support for the LBGTQ+ community when during an April 2021 town hall meeting he announced that his personal pronouns are \"he\", \"him\", and \"his\", and in March 2022, when he vetoed HB11, banning transgender youth from participating in high school sports."
+              "text": "He aimed part of his speech at the \"straight community\": He has since shown his ardent support for the LBGTQ+ community supporting then Gov. Herbert to sign an executive order on January 21, 2020 to ban conversion therapy after a bill that would've done so died in the state senate earlier in May 2019."
+            },
+            {
+              "text": "In a town hall meeting in April 2021 he announced his personal pronouns are \"he\", \"him\", and \"his\", In March 2022, he vetoed HB11, which would ban transgender youth from participating in high school sports, as he pointed out only 4 trans kids were playing high school sports in the state at the time, and stated \"these kids, they're just trying to stay alive\" referring to studies showing nearly 56% of Trans Youth have attempted suicide."
+            },
+            {
+              "text": "He also became the first governor in the states history to recognize June as LGBTQ+ Pride Month when he issued an official proclamation on June 1, 2022 and encouraged Utahans to \"be more welcoming and accepting of the LGBTQ community\""
             }
           ]
         }
@@ -1372,6 +1378,24 @@
           "type": "news"
         },
         {
+          "last": "Giardinelli",
+          "first": "Christina",
+          "title": "LGBTQ Youth Sat in Front of Governor’s Office Demanding an Apology. They Got One.",
+          "url": "https://dailyutahchronicle.com/2019/03/08/lgbtq-youth-sat-in-front-of-governors-office-demanding-an-apology-they-got-one/",
+          "access-date": "2022-07-28",
+          "website": "The Daily Utah Chronicle",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://twitter.com/spencerjcox/status/1103652548169261056",
+          "access-date": "2022-07-28",
+          "website": "Twitter",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.sltrib.com/news/politics/2022/04/06/conservative-group-posts/",
           "title": "Conservative group shares misleading video of Utah Gov. Spencer Cox listing his pronouns",
           "template": "citation",
@@ -1385,6 +1409,25 @@
           "url": "https://governor.utah.gov/2022/03/24/gov-cox-why-im-vetoing-hb11/",
           "access-date": "2022-06-24",
           "website": "Governor Spencer J. Cox",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "BREAKING: Human Rights Campaign Commends Republican Gov. Spencer Cox for Vetoing Anti-Trans Sports Ban",
+          "url": "https://www.hrc.org/press-releases/breaking-human-rights-campaign-commends-republican-gov-spencer-cox-for-vetoing-anti-trans-sports-ban",
+          "access-date": "2022-07-28",
+          "website": "Human Rights Campaign",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-06-01",
+          "title": "Governor issues proclamation marking LGBTQ Pride Month",
+          "url": "https://www.fox13now.com/news/local-news/utahs-governor-issues-proclamation-marking-lgbtq-pride-month",
+          "access-date": "2022-07-28",
+          "website": "KSTU",
           "language": "en",
           "template": "citation",
           "type": "web"
