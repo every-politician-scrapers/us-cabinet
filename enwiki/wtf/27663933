@@ -2020,7 +2020,7 @@
         {
           "sentences": [
             {
-              "text": "Noem claimed that the 2020 presidential election, in which Joe Biden defeated Donald Trump, was marred by widespread voter fraud; no evidence supports this claim.",
+              "text": "Shortly after media outlets called the 2020 presidential election, Noem called the announcement \"premature\", saying, \"we have not finished counting votes.” In January 2021, when asked if the election was \"free and fair\", she said, \"I think that we deserve fair and transparent elections.",
               "links": [
                 {
                   "text": "2020 presidential election",
@@ -2030,10 +2030,7 @@
               ]
             },
             {
-              "text": "On December 8, 2020, Noem tacitly acknowledged the outcome of the election when she referred to a \"Biden administration\" during her annual state budget address, but even after Biden was inaugurated in January, she still refused to accept that the election was \"free and fair.\""
-            },
-            {
-              "text": "Noem was initially designated to be one of Trump's three presidential electors for South Dakota, but later withdrew.",
+              "text": "I think there’s a lot of people who have doubts about that.\" Noem was initially designated to be one of Trump's three presidential electors for South Dakota, but later withdrew. In 2020 the Trump-Pence ticket carried South Dakota, receiving 261,043 votes to 150,471 for the Biden-Harris ticket.",
               "links": [
                 {
                   "text": "presidential electors",
@@ -2042,19 +2039,16 @@
                   "anchor": "Electors"
                 }
               ]
-            },
-            {
-              "text": "In 2020 the Trump-Pence ticket carried South Dakota, receiving 261,043 votes to 150,471 for the Biden-Harris ticket."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "After the U.S. Capitol was attacked by a pro-Trump mob on January 6, 2021, disrupting the counting of the electoral votes formalizing Biden's victory, Noem spoke out against the violence, saying, \"We are all entitled to peacefully protest. Violence is not a part of that.\"",
+              "text": "After a pro-Trump mob attacked the U.S. Capitol on January 6, 2021, disrupting the counting of the electoral votes formalizing Biden's victory, Noem spoke out against the violence, saying, \"We are all entitled to peacefully protest. Violence is not a part of that.\"",
               "links": [
                 {
-                  "text": "U.S. Capitol was attacked by a pro-Trump mob",
+                  "text": "a pro-Trump mob attacked the U.S. Capitol",
                   "type": "internal",
                   "page": "2021 storming of the United States Capitol"
                 },
@@ -2064,75 +2058,28 @@
                   "page": "2021 United States Electoral College vote count"
                 }
               ]
-            },
-            {
-              "text": "One day after calling for peace and reconciliation in the aftermath of the assault on the Capitol, Noem called the two newly elected Democratic senators from Georgia, Jon Ossoff and Raphael Warnock, \"communists\" in an op-ed for The Federalist, prompting criticism from South Dakota Democrats.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jon Ossoff"
-                },
-                {
-                  "type": "internal",
-                  "page": "Raphael Warnock"
-                },
-                {
-                  "type": "internal",
-                  "page": "The Federalist"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "The Federalist"
-                ]
-              }
             }
           ]
         }
       ],
       "references": [
         {
-          "last": "Burns",
-          "first": "Katelyn",
-          "date": "November 8, 2020",
-          "title": "GOP lawmakers are refusing to acknowledge the reality that Biden won the election",
-          "url": "https://www.vox.com/policy-and-politics/2020/11/8/21555382/republicans-gop-refuse-accept-biden-election-win-results",
-          "access-date": "January 1, 2021",
-          "work": "Vox",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Strubinger",
-          "first1": "Lee",
-          "title": "Noem Acknowledges Incoming Biden Administration During Budget Address With A Warning",
-          "url": "https://listen.sdpb.org/post/noem-acknowledges-incoming-biden-administration-during-budget-address-warning",
-          "work": "South Dakota Public Broadcasting",
-          "access-date": "January 3, 2021",
-          "date": "December 8, 2020",
+          "date": "2020-11-08",
+          "title": "'This Week' Transcript 11-8-20: Gov. Andrew Cuomo, Sen. Chris Coons, Gov. Kristi Noem and Sen. Roy Blunt",
+          "url": "https://abcnews.go.com/Politics/week-transcript-11-20-gov-andrew-cuomo-sen/story?id=74089407",
+          "work": "ABC News",
+          "access-date": "2022-07-29",
           "template": "citation",
           "type": "news"
         },
         {
-          "last1": "Sneve",
-          "first1": "Joe",
-          "title": "Noem warns of economic slowdown with Biden in White House, poses $5B budget",
-          "url": "https://www.argusleader.com/story/news/politics/2020/12/08/gov-kristi-noem-south-dakota-budget-address/6489202002/",
-          "website": "Argus Leader",
-          "access-date": "January 3, 2021",
-          "date": "December 8, 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "first": "Stephen",
           "last": "Groves",
-          "date": "January 28, 2021",
+          "first": "Stephen",
+          "date": "2021-01-28",
           "title": "Noem refuses to say whether Biden victory was free and fair",
           "url": "https://apnews.com/article/joe-biden-donald-trump-south-dakota-coronavirus-pandemic-elections-1155ffcaa922757b213ffeac58f93aec",
-          "access-date": "February 16, 2021",
           "work": "Associated Press",
+          "access-date": "2022-07-29",
           "template": "citation",
           "type": "news"
         },
@@ -2198,12 +2145,6 @@
           "access-date": "January 12, 2021",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     },
@@ -2214,13 +2155,18 @@
         {
           "sentences": [
             {
-              "text": "Noem opposes abortion and has celebrated that she believes South Dakota “is the most pro-life state in the nation.” Noem has a “100 percent pro-life voting record,” according to the anti-abortion Susan B. Anthony List.",
+              "text": "Noem opposes abortion and has celebrated that she believes South Dakota \"is the most pro-life state in the nation\".",
               "links": [
                 {
                   "text": "opposes abortion",
                   "type": "internal",
                   "page": "anti-abortion"
-                },
+                }
+              ]
+            },
+            {
+              "text": "She has a 100% pro-life voting record according to the anti-abortion Susan B. Anthony List.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Susan B. Anthony List"
@@ -2232,7 +2178,7 @@
         {
           "sentences": [
             {
-              "text": "Noem has signed several bills restricting abortion, including a ban on telemedicine abortions which she claims are four times more likely to cause a woman to end up in the emergency room."
+              "text": "Noem has signed several bills restricting abortion, including a ban on telemedicine abortions, which she claims are four times more likely to cause a woman to end up in the emergency room."
             },
             {
               "text": "She also signed a bill to ban abortions based on a diagnosis of Down Syndrome.",
@@ -2244,17 +2190,17 @@
               ]
             },
             {
-              "text": "She also said, \"A strong and growing body of medical research provides evidence that unborn babies can feel, think, and recognize sounds in the womb. These are people, they must be given the same basic dignities as anyone else.\""
+              "text": "Noem has said, \"A strong and growing body of medical research provides evidence that unborn babies can feel, think, and recognize sounds in the womb. These are people, they must be given the same basic dignities as anyone else.\""
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Following the overturning of Roe v. Wade in 2022, South Dakota’s trigger law took effect, banning all abortions except to save the life of the mother, which Noem celebrated.",
+              "text": "After Roe v. Wade was overturned in 2022, South Dakota’s trigger law took effect, banning all abortions except to save the life of the mother, which Noem celebrated.",
               "links": [
                 {
-                  "text": "overturning of ''Roe v. Wade''",
+                  "text": "''Roe v. Wade'' was overturned",
                   "type": "internal",
                   "page": "Dobbs v. Jackson Women's Health Organization"
                 },
@@ -2271,7 +2217,7 @@
               }
             },
             {
-              "text": "Noem called the predicament of the pregnant 10-year-old Ohio child who needed to be taken to Indiana \"horrific,\" though she added that “in South Dakota, the law today is that the abortions are illegal, except to save the life of the mother.\""
+              "text": "She called the predicament of a pregnant 10-year-old Ohio child who needed to be taken to Indiana \"horrific\", but added, \"in South Dakota, the law today is that the abortions are illegal, except to save the life of the mother.\""
             }
           ]
         }

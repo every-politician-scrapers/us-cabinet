@@ -292,29 +292,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "DeSantis is seen as a possible contender for the Republican nominee in the upcoming 2024 presidential election, with many authors writing about how DeSantis could beat former president Trump and how he is seen as a more preferred Republican compared to Trump, especially after the January 6th hearings and following straw polls.",
-              "links": [
-                {
-                  "text": "2024 presidential election",
-                  "type": "internal",
-                  "page": "2024 United States presidential election"
-                },
-                {
-                  "type": "internal",
-                  "page": "January 6th hearings"
-                },
-                {
-                  "text": "straw polls",
-                  "type": "internal",
-                  "page": "straw polls"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
@@ -2671,7 +2648,7 @@
               ]
             },
             {
-              "text": "Various authors predicted that DeSantis could defeat former president Donald Trump or opined that DeSantis is preferable to Trump in view of the January 6th hearings and following straw polls.",
+              "text": "Various authors predicted that DeSantis could defeat former president Donald Trump or said that DeSantis is preferable to Trump in view of the January 6th hearings and following straw polls.",
               "links": [
                 {
                   "type": "internal",
@@ -4515,9 +4492,8 @@
               "text": "DeSantis is considered a Trumpist and Tea Party conservative.",
               "links": [
                 {
-                  "text": "Trumpist",
                   "type": "internal",
-                  "page": "Trumpism"
+                  "page": "Trumpist"
                 },
                 {
                   "text": "Tea Party",

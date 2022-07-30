@@ -2323,6 +2323,31 @@
       "depth": 1,
       "paragraphs": [
         {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Secretary_Blinken_Meets_with_Israeli_Prime_Minister_Benjamin_Netanyahu_(51205142971).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Israeli_Prime_Minister_Benjamin_Netanyahu_(51205142971).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Israeli_Prime_Minister_Benjamin_Netanyahu_(51205142971).jpg",
+          "caption": "Blinken with Israeli Prime Minister Benjamin Netanyahu in Jerusalem, May 25, 2021",
+          "links": []
+        },
+        {
+          "file": "File:Secretary_Blinken_Meets_with_UK_Prime_Minister_Johnson_(51159396154).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_UK_Prime_Minister_Johnson_(51159396154).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_UK_Prime_Minister_Johnson_(51159396154).jpg",
+          "caption": "Blinken with British Prime Minister Boris Johnson in London, May 4, 2021",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Myanmar",
+      "depth": 2,
+      "paragraphs": [
+        {
           "sentences": [
             {
               "text": "On January 31, 2021, Blinken condemned the 2021 Myanmar coup d'état and expressed grave concerns on the detention of government officials and civil society leaders, calling for their immediate release.",
@@ -2338,7 +2363,31 @@
               "text": "He stated that, \"the United States will continue to take firm action against those who perpetrate violence against the people of Burma as they demand the restoration of their democratically elected government.\""
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Top U.S. diplomat Blinken calls on Myanmar military leaders to release Suu Kyi, others",
+          "url": "https://www.reuters.com/article/us-myanmar-politics-usa-idUSKBN2A117K",
+          "work": "Reuters",
+          "date": "February 1, 2021",
+          "template": "citation",
+          "type": "news"
         },
+        {
+          "title": "U.S.'s Blinken vows 'firm action' against Myanmar military",
+          "url": "https://www.reuters.com/article/us-myanmar-politics-usa-blinken-idUSKBN2AM056",
+          "work": "Reuters",
+          "date": "February 4, 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Afghanistan",
+      "depth": 2,
+      "paragraphs": [
         {
           "sentences": [
             {
@@ -2368,97 +2417,11 @@
                   "page": "Islamism"
                 }
               ]
-            },
-            {
-              "text": "That same month, Blinken condemned ethnic cleansing in the Tigray region of northern Ethiopia and called for the immediate withdrawal of Eritrean forces and other fighters.",
-              "links": [
-                {
-                  "text": "ethnic cleansing in the Tigray region",
-                  "type": "internal",
-                  "page": "War crimes in the Tigray War"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ethiopia"
-                },
-                {
-                  "text": "Eritrean",
-                  "type": "internal",
-                  "page": "Eritrean Defence Forces"
-                }
-              ]
-            },
-            {
-              "text": "Blinken spoke with the interim president of Venezuela, Juan Guaidó, whom the Biden administration will continue to recognize as the country's head of state and not Nicolás Maduro.",
-              "links": [
-                {
-                  "text": "interim president",
-                  "type": "internal",
-                  "page": "Venezuelan presidential crisis"
-                },
-                {
-                  "type": "internal",
-                  "page": "Venezuela"
-                },
-                {
-                  "type": "internal",
-                  "page": "Juan Guaidó"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nicolás Maduro"
-                }
-              ]
-            },
-            {
-              "text": "Blinken made his first international trip with Secretary of Defense Austin to Tokyo and Seoul on March 15, during which he warned China against coercion and aggression.",
-              "links": [
-                {
-                  "text": "Secretary of Defense Austin",
-                  "type": "internal",
-                  "page": "Lloyd Austin"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tokyo"
-                },
-                {
-                  "type": "internal",
-                  "page": "Seoul"
-                },
-                {
-                  "type": "internal",
-                  "page": "China"
-                }
-              ]
-            },
-            {
-              "text": "He also condemned the Chinese government for committing genocide against ethnic Uyghurs.",
-              "links": [
-                {
-                  "text": "genocide against ethnic Uyghurs",
-                  "type": "internal",
-                  "page": "Uyghur genocide"
-                }
-              ]
-            },
-            {
-              "text": "Later that month, Blinken traveled to Brussels for a NATO Ministerial with European Union counterparts to underscore the Biden administration's determination to strengthen transatlantic alliances.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Brussels"
-                },
-                {
-                  "type": "internal",
-                  "page": "NATO"
-                },
-                {
-                  "type": "internal",
-                  "page": "European Union"
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Blinken made an unannounced visit to Kabul on April 15 and met with U.S. military and diplomatic personnel following the Biden administration's announcement of the 2021 withdrawal of U.S. troops from Afghanistan.",
               "links": [
@@ -2494,6 +2457,263 @@
         {
           "sentences": [
             {
+              "text": "In August 2021, Blinken rejected comparisons between the deteriorating situation in Afghanistan due to the Taliban offensive, which started in May 2021 after U.S. and coalition military forces began withdrawing from Afghanistan, and the chaotic American departure from Saigon in 1975, saying that \"We went to Afghanistan 20 years ago with one mission, and that mission was to deal with the folks who attacked us on 9/11 and we have succeeded in that mission.\"",
+              "links": [
+                {
+                  "text": "Taliban offensive",
+                  "type": "internal",
+                  "page": "2021 Taliban offensive"
+                },
+                {
+                  "text": "American departure from Saigon",
+                  "type": "internal",
+                  "page": "Fall of Saigon"
+                },
+                {
+                  "text": "9/11",
+                  "type": "internal",
+                  "page": "September 11 attacks"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Blinken tells Ghani U.S. supports Afghanistan peace process – statement",
+          "url": "https://www.reuters.com/article/usa-afghanistan-call/blinken-tells-ghani-u-s-supports-afghanistan-peace-process-statement-idINKBN2AI2DY",
+          "work": "Reuters",
+          "date": "February 18, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Hansler",
+          "first1": "Jennifer",
+          "date": "April 15, 2021",
+          "title": "Secretary of State Blinken visits Afghanistan day after US announces plans for withdrawal",
+          "work": "CNN",
+          "url": "https://www.cnn.com/2021/04/15/politics/blinken-afghanistan/index.html",
+          "access-date": "May 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "18 April 202",
+          "title": "U.S. Focus Shifting to China From Afghanistan, Blinken Says",
+          "agency": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2021-04-18/afghan-pullout-fits-with-u-s-shift-to-china-focus-blinken-says",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210418141617/https://www.bloomberg.com/news/articles/2021-04-18/afghan-pullout-fits-with-u-s-shift-to-china-focus-blinken-says",
+          "archive-date": "18 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-08-20",
+          "title": "Secretary of State Antony Blinken needs to resign",
+          "url": "https://nypost.com/2021/08/20/secretary-of-state-antony-blinken-needs-to-resign/",
+          "access-date": "2022-02-13",
+          "website": "New York Post",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Blinken must resign",
+          "url": "https://www.washingtontimes.com/news/2021/sep/14/editorial-antony-blinken-must-resign/",
+          "access-date": "2022-02-13",
+          "website": "The Washington Times",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chasmar",
+          "first": "Jessica",
+          "date": "2021-09-13",
+          "title": "Multiple GOP congressmen tell Blinken to resign during heated Afghanistan hearing",
+          "url": "https://www.foxnews.com/politics/wilson-secretary-state-blinken-resign-afghanistan-hearing",
+          "access-date": "2022-02-13",
+          "website": "Fox News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-09-13",
+          "title": "\"Fatally Flawed\": GOP congressman tells Blinken to resign as Afghanistan hearing heats up",
+          "url": "https://www.newsweek.com/fatally-flawed-gop-congressman-tells-blinken-resign-afghanistan-hearing-heats-1628709",
+          "access-date": "2022-02-13",
+          "website": "Newsweek",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Choi",
+          "first": "Joseph",
+          "date": "August 15, 2021",
+          "title": "Blinken on Afghanistan: 'This is not Saigon'",
+          "work": "The Hill",
+          "url": "https://thehill.com/homenews/sunday-talk-shows/567926-blinken-on-afghanistan-situation-this-is-not-saigon",
+          "access-date": "August 21, 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Africa",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In February of 2021, Blinken condemned ethnic cleansing in the Tigray region of northern Ethiopia and called for the immediate withdrawal of Eritrean forces and other fighters.",
+              "links": [
+                {
+                  "text": "ethnic cleansing in the Tigray region",
+                  "type": "internal",
+                  "page": "War crimes in the Tigray War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ethiopia"
+                },
+                {
+                  "text": "Eritrean",
+                  "type": "internal",
+                  "page": "Eritrean Defence Forces"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the midst of the Biden administration's continuing review of the normalization agreement between Morocco and Israel enacted during the previous administration, Blinken maintained that the recognition of Morocco's sovereignty over the disputed territory of Western Sahara will not be reversed imminently."
+            },
+            {
+              "text": "During internal discussions, he supported improving relations between the two countries and expressed urgency in appointing a United Nations envoy to Western Sahara."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Top US diplomat decries 'ethnic cleansing' in Ethiopia's Tigray",
+          "url": "https://www.aljazeera.com/news/2021/3/10/us-top-diplomat-decries-ethnic-cleansing-in-ethiopias-tigray",
+          "work": "Al Jazeera",
+          "date": "10 March 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The World's Deadliest War Isn't in Ukraine, But in Ethiopia",
+          "url": "https://www.washingtonpost.com/business/the-worlds-deadliest-war-isnt-in-ukraine-but-in-ethiopia/2022/03/22/eaf4b83c-a9b6-11ec-8a8e-9c6e9fc7a0de_story.html",
+          "newspaper": "The Washington Post",
+          "date": "23 March 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "South America",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Blinken spoke with the interim president of Venezuela, Juan Guaidó, whom the Biden administration will continue to recognize as the country's head of state and not Nicolás Maduro.",
+              "links": [
+                {
+                  "text": "interim president",
+                  "type": "internal",
+                  "page": "Venezuelan presidential crisis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Venezuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juan Guaidó"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicolás Maduro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Secretary Blinken's Call with Venezuelan Interim President Guaidó",
+          "url": "https://www.state.gov/secretary-blinkens-call-with-venezuelan-interim-president-guaido/",
+          "access-date": "March 19, 2021",
+          "publisher": "United States Department of State",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Asia",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Blinken made his first international trip with Secretary of Defense Austin to Tokyo and Seoul on March 15, during which he warned China against coercion and aggression.",
+              "links": [
+                {
+                  "text": "Secretary of Defense Austin",
+                  "type": "internal",
+                  "page": "Lloyd Austin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tokyo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seoul"
+                },
+                {
+                  "type": "internal",
+                  "page": "China"
+                }
+              ]
+            },
+            {
+              "text": "He also condemned the Chinese government for committing genocide against ethnic Uyghurs.",
+              "links": [
+                {
+                  "text": "genocide against ethnic Uyghurs",
+                  "type": "internal",
+                  "page": "Uyghur genocide"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2021, the Biden administration accused China of a global cyberespionage campaign, which Blinken said posed \"a major threat to our economic and national security\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "In late April 2021, Blinken denounced the sentencing of Hong Kong pro-democracy activists Jimmy Lai, Albert Ho, and Lee Cheuk-yan among others, for their roles in the 2019 Hong Kong protests, calling it a \"politically-motivated\" decision.",
               "links": [
                 {
@@ -2518,46 +2738,79 @@
                   "page": "2019–2020 Hong Kong protests"
                 }
               ]
-            },
-            {
-              "text": "In the midst of the Biden administration's continuing review of the normalization agreement between Morocco and Israel enacted during the previous administration, Blinken maintained that the recognition of Morocco's sovereignty over the disputed territory of Western Sahara will not be reversed imminently.",
-              "links": [
-                {
-                  "text": "normalization agreement between Morocco and Israel",
-                  "type": "internal",
-                  "page": "Israel–Morocco normalization agreement"
-                },
-                {
-                  "text": "Morocco's sovereignty",
-                  "type": "internal",
-                  "page": "Political status of Western Sahara"
-                },
-                {
-                  "text": "disputed territory",
-                  "type": "internal",
-                  "page": "Territorial dispute"
-                },
-                {
-                  "type": "internal",
-                  "page": "Western Sahara"
-                }
-              ]
-            },
-            {
-              "text": "During internal discussions, he supported improving relations between the two countries and expressed urgency in appointing a United Nations envoy to Western Sahara.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "United Nations"
-                },
-                {
-                  "text": "envoy",
-                  "type": "internal",
-                  "page": "Envoy (title)"
-                }
-              ]
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Nunley",
+          "first": "Christian",
+          "date": "2021-03-10",
+          "title": "Pentagon chief, secretary of State announce first trips abroad as Biden looks to reset global relations",
+          "url": "https://www.cnbc.com/2021/03/10/blinken-austin-reveal-upcoming-international-travel.html",
+          "access-date": "2021-03-16",
+          "website": "CNBC",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Pamuk",
+          "last2": "Takenaka",
+          "last3": "Park",
+          "first1": "Humeyra",
+          "first2": "Kiyoshi",
+          "first3": "Ju-min",
+          "title": "Blinken warns China against 'coercion and aggression' on first Asia trip",
+          "url": "https://www.reuters.com/article/us-usa-asia-blinken-japan/blinken-warns-china-against-coercion-and-aggression-on-first-asia-trip-idUSKBN2B71C9",
+          "access-date": "13 April 2021",
+          "work": "Reuters",
+          "publisher": "Reuters",
+          "date": "17 March 2021",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Toosi",
+          "first1": "Nahal",
+          "title": "U.S., allies announce sanctions on China over Uyghur 'genocide'",
+          "url": "https://www.politico.com/news/2021/03/22/us-allies-sanctions-china-uighers-genocide-477434",
+          "work": "Politico",
+          "date": "March 22, 2021",
+          "access-date": "March 22, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Cheung",
+          "first1": "Eric",
+          "title": "Hong Kong court convicts media tycoon Jimmy Lai and other activists over peaceful protest",
+          "url": "https://edition.cnn.com/2021/04/01/media/hong-kong-jimmy-lai-trial-intl-hnk/index.html",
+          "access-date": "May 21, 2021",
+          "work": "CNN",
+          "date": "April 1, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sentencing of Hong Kong Pro-Democracy Activists for Unlawful Assembly",
+          "url": "https://www.state.gov/sentencing-of-hong-kong-pro-democracy-activists-for-unlawful-assembly/",
+          "access-date": "April 16, 2021",
+          "publisher": "United States Department of State",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "G7 Meeting",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": []
         },
         {
           "sentences": [
@@ -2651,7 +2904,115 @@
                   "page": "Physicians for Human Rights"
                 }
               ]
-            },
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Secretary_Blinken_Meets_with_Afghan_President_Ghani_(51126100940).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Afghan_President_Ghani_(51126100940).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Afghan_President_Ghani_(51126100940).jpg",
+          "caption": "Blinken meeting with Afghan President Ashraf Ghani to discuss U.S. troop withdrawal from Afghanistan",
+          "links": []
+        },
+        {
+          "file": "File:Secretary_Blinken_Participates_in_a_Virtual_Discussion_With_Young_Democratic_Leaders_From_Around_the_World_(51733416203).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Participates_in_a_Virtual_Discussion_With_Young_Democratic_Leaders_From_Around_the_World_(51733416203).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Participates_in_a_Virtual_Discussion_With_Young_Democratic_Leaders_From_Around_the_World_(51733416203).jpg",
+          "caption": "Blinken participates in a virtual discussion with young democratic leaders during the Summit for Democracy, December 2021",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "last1": "Hansler",
+          "first1": "Jennifer",
+          "title": "Blinken says US 'actively looking' at boosting security cooperation with Ukraine during trip to Kiev",
+          "url": "https://www.cnn.com/2021/05/06/politics/blinken-ukraine/index.html",
+          "access-date": "May 21, 2021",
+          "work": "CNN",
+          "date": "May 6, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The Latest: Netanyahu raps 'anarchy' of Jewish-Arab fighting",
+          "url": "https://apnews.com/article/middle-east-israel-3a1c810bc2c08023543c911635cc83cf",
+          "work": "Associated Press",
+          "date": "May 13, 2021",
+          "access-date": "May 13, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/isreal-palestine-war-blinken-jerusalem-b1855676.html",
+          "title": "US 'warns Israeli leaders evicting Palestinians could spark war'",
+          "date": "28 May 2021",
+          "website": "The Independent",
+          "location": "London",
+          "access-date": "1 June 2021",
+          "first": "Zoe",
+          "last": "Tidman",
+          "archive-date": "30 May 2021",
+          "archive-url": "https://web.archive.org/web/20210530012515/https://www.independent.co.uk/news/world/americas/us-politics/isreal-palestine-war-blinken-jerusalem-b1855676.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.reuters.com/world/middle-east/gaza-ceasefire-holding-egyptian-mediators-consult-hamas-israel-2021-05-22/",
+          "title": "Egyptian mediators try to build on Israel-Hamas ceasefire",
+          "date": "22 May 2021",
+          "website": "Reuters",
+          "url-access": "limited",
+          "access-date": "23 May 2021",
+          "archive-date": "22 May 2021",
+          "archive-url": "https://web.archive.org/web/20210522194254/https://www.reuters.com/world/middle-east/gaza-ceasefire-holding-egyptian-mediators-consult-hamas-israel-2021-05-22/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first1": "Emma",
+          "last1": "Graham-Harrison",
+          "first2": "Julian",
+          "last2": "Borger",
+          "url": "https://www.theguardian.com/world/2021/may/25/us-secretary-of-state-antony-blinken-says-rebuilding-gaza-should-not-benefit-hamas",
+          "title": "'US to reopen Palestinian diplomatic mission in Jerusalem",
+          "work": "The Guardian",
+          "date": "25 May 2021",
+          "access-date": "27 May 2021",
+          "archive-date": "26 May 2021",
+          "archive-url": "https://web.archive.org/web/20210526133826/https://www.theguardian.com/world/2021/may/25/us-secretary-of-state-antony-blinken-says-rebuilding-gaza-should-not-benefit-hamas",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.state.gov/secretary-travel/travel-to-the-united-kingdom-and-ukraine-may-3-5-2021/",
+          "title": "Travel to United Kingdom and Ukraine, May 3-6, 2021",
+          "publisher": "United States Department of State",
+          "access-date": "April 25, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.state.gov/secretary-travel/travel-to-denmark-iceland-and-greenland-may-16-20-2021/",
+          "title": "Travel to Denmark, Iceland, and Greenland, May 16-20, 2021",
+          "publisher": "United States Department of State",
+          "access-date": "May 17, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Europe",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
             {
               "text": "The decision to waive sanctions against Nord Stream AG and its chief executive Matthias Warnig, subsequent to the completion of the Nord Stream 2 natural gas pipeline, has drawn congressional criticisms.",
               "links": [
@@ -2766,41 +3127,69 @@
         {
           "sentences": [
             {
-              "text": "In July 2021, the Biden administration accused China of a global cyberespionage campaign, which Blinken said posed \"a major threat to our economic and national security\".",
-              "links": [
-                {
-                  "text": "global cyberespionage campaign",
-                  "type": "internal",
-                  "page": "Chinese intelligence activity abroad"
-                }
-              ]
+              "text": "Later that month, Blinken traveled to Brussels for a NATO Ministerial with European Union counterparts to underscore the Biden administration's determination to strengthen transatlantic alliances."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Secretary_Blinken_Meets_With_the_Foreign_Ministers_of_the_Gulf_Cooperation_Council_Nations_(51508714814).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_the_Foreign_Ministers_of_the_Gulf_Cooperation_Council_Nations_(51508714814).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_the_Foreign_Ministers_of_the_Gulf_Cooperation_Council_Nations_(51508714814).jpg",
+          "caption": "Blinken and Victoria Nuland meet with the foreign ministers of the Gulf Cooperation Council nations on September 23, 2021",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "last1": "Zengerle",
+          "first1": "Patricia",
+          "title": "Blinken: U.S. able to mitigate Nord Stream 2 pipeline effects",
+          "url": "https://www.reuters.com/business/energy/blinken-us-working-with-germany-mitigate-nord-stream-2-effects-2021-06-07/",
+          "work": "Reuters",
+          "date": "June 7, 2021",
+          "access-date": "June 23, 2021",
+          "template": "citation",
+          "type": "news"
         },
         {
-          "sentences": [
-            {
-              "text": "In August 2021, Blinken rejected comparisons between the deteriorating situation in Afghanistan due to the Taliban offensive, which started in May 2021 after U.S. and coalition military forces began withdrawing from Afghanistan, and the chaotic American departure from Saigon in 1975, saying that \"We went to Afghanistan 20 years ago with one mission, and that mission was to deal with the folks who attacked us on 9/11 and we have succeeded in that mission.\"",
-              "links": [
-                {
-                  "text": "Taliban offensive",
-                  "type": "internal",
-                  "page": "2021 Taliban offensive"
-                },
-                {
-                  "text": "American departure from Saigon",
-                  "type": "internal",
-                  "page": "Fall of Saigon"
-                },
-                {
-                  "text": "9/11",
-                  "type": "internal",
-                  "page": "September 11 attacks"
-                }
-              ]
-            }
-          ]
+          "last1": "Price",
+          "first1": "Ned",
+          "url": "https://www.state.gov/secretary-travel/travel-to-the-united-kingdom-belgium-and-switzerland-june-9-15-2021/",
+          "title": "Travel to the United Kingdom, Belgium, and Switzerland, June 9-15, 2021",
+          "access-date": "June 9, 2021",
+          "date": "June 9, 2021",
+          "template": "citation",
+          "type": "web"
         },
+        {
+          "last1": "Clark",
+          "first1": "Joseph",
+          "title": "Blinken says U.S.-Russia relations at a low point going into summit",
+          "url": "https://www.washingtontimes.com/news/2021/jun/13/blinken-says-us-russia-relations-at-a-low-point-go/",
+          "access-date": "June 15, 2021",
+          "work": "The Washington Times",
+          "date": "June 13, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Price",
+          "first1": "Ned",
+          "url": "https://www.state.gov/secretary-antony-j-blinken-with-chris-wallace-of-fox-news-sunday",
+          "title": "Secretary Antony J. Blinken with Chris Wallace of Fox News Sunday",
+          "access-date": "June 15, 2021",
+          "date": "June 13, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Russia-Ukraine War",
+      "depth": 2,
+      "paragraphs": [
         {
           "sentences": [
             {
@@ -2849,308 +3238,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "file": "File:Secretary_Blinken_Meets_with_Israeli_Prime_Minister_Benjamin_Netanyahu_(51205142971).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Israeli_Prime_Minister_Benjamin_Netanyahu_(51205142971).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Israeli_Prime_Minister_Benjamin_Netanyahu_(51205142971).jpg",
-          "caption": "Blinken with Israeli Prime Minister Benjamin Netanyahu in Jerusalem, May 25, 2021",
-          "links": []
-        },
-        {
-          "file": "File:Secretary_Blinken_Meets_with_UK_Prime_Minister_Johnson_(51159396154).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_UK_Prime_Minister_Johnson_(51159396154).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_UK_Prime_Minister_Johnson_(51159396154).jpg",
-          "caption": "Blinken with British Prime Minister Boris Johnson in London, May 4, 2021",
-          "links": []
-        },
-        {
-          "file": "File:Secretary_Blinken_Meets_with_Afghan_President_Ghani_(51126100940).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Afghan_President_Ghani_(51126100940).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Afghan_President_Ghani_(51126100940).jpg",
-          "caption": "Blinken meeting with Afghan President Ashraf Ghani to discuss U.S. troop withdrawal from Afghanistan",
-          "links": []
-        },
-        {
-          "file": "File:Secretary_Blinken_Participates_in_a_Virtual_Discussion_With_Young_Democratic_Leaders_From_Around_the_World_(51733416203).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Participates_in_a_Virtual_Discussion_With_Young_Democratic_Leaders_From_Around_the_World_(51733416203).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Participates_in_a_Virtual_Discussion_With_Young_Democratic_Leaders_From_Around_the_World_(51733416203).jpg",
-          "caption": "Blinken participates in a virtual discussion with young democratic leaders during the Summit for Democracy, December 2021",
-          "links": []
-        },
-        {
-          "file": "File:Secretary_Blinken_Meets_With_the_Foreign_Ministers_of_the_Gulf_Cooperation_Council_Nations_(51508714814).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_the_Foreign_Ministers_of_the_Gulf_Cooperation_Council_Nations_(51508714814).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_the_Foreign_Ministers_of_the_Gulf_Cooperation_Council_Nations_(51508714814).jpg",
-          "caption": "Blinken and Victoria Nuland meet with the foreign ministers of the Gulf Cooperation Council nations on September 23, 2021",
-          "links": []
-        }
-      ],
       "references": [
-        {
-          "title": "Top U.S. diplomat Blinken calls on Myanmar military leaders to release Suu Kyi, others",
-          "url": "https://www.reuters.com/article/us-myanmar-politics-usa-idUSKBN2A117K",
-          "work": "Reuters",
-          "date": "February 1, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "U.S.'s Blinken vows 'firm action' against Myanmar military",
-          "url": "https://www.reuters.com/article/us-myanmar-politics-usa-blinken-idUSKBN2AM056",
-          "work": "Reuters",
-          "date": "February 4, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Blinken tells Ghani U.S. supports Afghanistan peace process – statement",
-          "url": "https://www.reuters.com/article/usa-afghanistan-call/blinken-tells-ghani-u-s-supports-afghanistan-peace-process-statement-idINKBN2AI2DY",
-          "work": "Reuters",
-          "date": "February 18, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Top US diplomat decries 'ethnic cleansing' in Ethiopia's Tigray",
-          "url": "https://www.aljazeera.com/news/2021/3/10/us-top-diplomat-decries-ethnic-cleansing-in-ethiopias-tigray",
-          "work": "Al Jazeera",
-          "date": "10 March 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The World's Deadliest War Isn't in Ukraine, But in Ethiopia",
-          "url": "https://www.washingtonpost.com/business/the-worlds-deadliest-war-isnt-in-ukraine-but-in-ethiopia/2022/03/22/eaf4b83c-a9b6-11ec-8a8e-9c6e9fc7a0de_story.html",
-          "newspaper": "The Washington Post",
-          "date": "23 March 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Secretary Blinken's Call with Venezuelan Interim President Guaidó",
-          "url": "https://www.state.gov/secretary-blinkens-call-with-venezuelan-interim-president-guaido/",
-          "access-date": "March 19, 2021",
-          "publisher": "United States Department of State",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Nunley",
-          "first": "Christian",
-          "date": "2021-03-10",
-          "title": "Pentagon chief, secretary of State announce first trips abroad as Biden looks to reset global relations",
-          "url": "https://www.cnbc.com/2021/03/10/blinken-austin-reveal-upcoming-international-travel.html",
-          "access-date": "2021-03-16",
-          "website": "CNBC",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Pamuk",
-          "last2": "Takenaka",
-          "last3": "Park",
-          "first1": "Humeyra",
-          "first2": "Kiyoshi",
-          "first3": "Ju-min",
-          "title": "Blinken warns China against 'coercion and aggression' on first Asia trip",
-          "url": "https://www.reuters.com/article/us-usa-asia-blinken-japan/blinken-warns-china-against-coercion-and-aggression-on-first-asia-trip-idUSKBN2B71C9",
-          "access-date": "13 April 2021",
-          "work": "Reuters",
-          "publisher": "Reuters",
-          "date": "17 March 2021",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Toosi",
-          "first1": "Nahal",
-          "title": "U.S., allies announce sanctions on China over Uyghur 'genocide'",
-          "url": "https://www.politico.com/news/2021/03/22/us-allies-sanctions-china-uighers-genocide-477434",
-          "work": "Politico",
-          "date": "March 22, 2021",
-          "access-date": "March 22, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.state.gov/secretary-travel/travel-to-brussels-march-22-25-2021/",
-          "title": "Travel to Brussels, March 22-25, 2021",
-          "publisher": "United States Department of State",
-          "access-date": "March 22, 2021",
-          "date": "March 22, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Hansler",
-          "first1": "Jennifer",
-          "title": "Secretary of State Blinken visits Afghanistan day after US announces plans for withdrawal",
-          "url": "https://www.cnn.com/2021/04/15/politics/blinken-afghanistan/index.html",
-          "access-date": "May 21, 2021",
-          "work": "CNN",
-          "date": "April 15, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "18 April 202",
-          "title": "U.S. Focus Shifting to China From Afghanistan, Blinken Says",
-          "agency": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2021-04-18/afghan-pullout-fits-with-u-s-shift-to-china-focus-blinken-says",
-          "archive-date": "18 April 2021",
-          "archive-url": "https://web.archive.org/web/20210418141617/https://www.bloomberg.com/news/articles/2021-04-18/afghan-pullout-fits-with-u-s-shift-to-china-focus-blinken-says",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2021-08-20",
-          "title": "Secretary of State Antony Blinken needs to resign",
-          "url": "https://nypost.com/2021/08/20/secretary-of-state-antony-blinken-needs-to-resign/",
-          "access-date": "2022-02-13",
-          "website": "New York Post",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Blinken must resign",
-          "url": "https://www.washingtontimes.com/news/2021/sep/14/editorial-antony-blinken-must-resign/",
-          "access-date": "2022-02-13",
-          "website": "The Washington Times",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Chasmar",
-          "first": "Jessica",
-          "date": "2021-09-13",
-          "title": "Multiple GOP congressmen tell Blinken to resign during heated Afghanistan hearing",
-          "url": "https://www.foxnews.com/politics/wilson-secretary-state-blinken-resign-afghanistan-hearing",
-          "access-date": "2022-02-13",
-          "website": "Fox News",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-09-13",
-          "title": "\"Fatally Flawed\": GOP congressman tells Blinken to resign as Afghanistan hearing heats up",
-          "url": "https://www.newsweek.com/fatally-flawed-gop-congressman-tells-blinken-resign-afghanistan-hearing-heats-1628709",
-          "access-date": "2022-02-13",
-          "website": "Newsweek",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Cheung",
-          "first1": "Eric",
-          "title": "Hong Kong court convicts media tycoon Jimmy Lai and other activists over peaceful protest",
-          "url": "https://edition.cnn.com/2021/04/01/media/hong-kong-jimmy-lai-trial-intl-hnk/index.html",
-          "access-date": "May 21, 2021",
-          "work": "CNN",
-          "date": "April 1, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Sentencing of Hong Kong Pro-Democracy Activists for Unlawful Assembly",
-          "url": "https://www.state.gov/sentencing-of-hong-kong-pro-democracy-activists-for-unlawful-assembly/",
-          "access-date": "April 16, 2021",
-          "publisher": "United States Department of State",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Hansler",
-          "first1": "Jennifer",
-          "title": "Blinken says US 'actively looking' at boosting security cooperation with Ukraine during trip to Kiev",
-          "url": "https://www.cnn.com/2021/05/06/politics/blinken-ukraine/index.html",
-          "access-date": "May 21, 2021",
-          "work": "CNN",
-          "date": "May 6, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The Latest: Netanyahu raps 'anarchy' of Jewish-Arab fighting",
-          "url": "https://apnews.com/article/middle-east-israel-3a1c810bc2c08023543c911635cc83cf",
-          "work": "Associated Press",
-          "date": "May 13, 2021",
-          "access-date": "May 13, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/isreal-palestine-war-blinken-jerusalem-b1855676.html",
-          "title": "US 'warns Israeli leaders evicting Palestinians could spark war'",
-          "date": "28 May 2021",
-          "website": "The Independent",
-          "location": "London",
-          "access-date": "1 June 2021",
-          "first": "Zoe",
-          "last": "Tidman",
-          "archive-date": "30 May 2021",
-          "archive-url": "https://web.archive.org/web/20210530012515/https://www.independent.co.uk/news/world/americas/us-politics/isreal-palestine-war-blinken-jerusalem-b1855676.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.reuters.com/world/middle-east/gaza-ceasefire-holding-egyptian-mediators-consult-hamas-israel-2021-05-22/",
-          "title": "Egyptian mediators try to build on Israel-Hamas ceasefire",
-          "date": "22 May 2021",
-          "website": "Reuters",
-          "url-access": "limited",
-          "access-date": "23 May 2021",
-          "archive-date": "22 May 2021",
-          "archive-url": "https://web.archive.org/web/20210522194254/https://www.reuters.com/world/middle-east/gaza-ceasefire-holding-egyptian-mediators-consult-hamas-israel-2021-05-22/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "first1": "Emma",
-          "last1": "Graham-Harrison",
-          "first2": "Julian",
-          "last2": "Borger",
-          "url": "https://www.theguardian.com/world/2021/may/25/us-secretary-of-state-antony-blinken-says-rebuilding-gaza-should-not-benefit-hamas",
-          "title": "'US to reopen Palestinian diplomatic mission in Jerusalem",
-          "work": "The Guardian",
-          "date": "25 May 2021",
-          "access-date": "27 May 2021",
-          "archive-date": "26 May 2021",
-          "archive-url": "https://web.archive.org/web/20210526133826/https://www.theguardian.com/world/2021/may/25/us-secretary-of-state-antony-blinken-says-rebuilding-gaza-should-not-benefit-hamas",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "US and allies accuse China of global hacking spree",
-          "url": "https://www.reuters.com/technology/us-allies-accuse-china-global-cyber-hacking-campaign-2021-07-19/",
-          "work": "Reuters",
-          "date": "July 19, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Blinken on Afghanistan: 'This is not Saigon'",
-          "url": "https://thehill.com/homenews/sunday-talk-shows/567926-blinken-on-afghanistan-situation-this-is-not-saigon",
-          "work": "The Hill",
-          "date": "August 15, 2021",
-          "first": "Joseph",
-          "last": "Choi",
-          "access-date": "August 21, 2021",
-          "template": "citation",
-          "type": "news"
-        },
         {
           "title": "Blinken Authorizes Baltic Countries to Send US Weapons to Ukraine",
           "url": "https://www.voanews.com/a/blinken-authorizes-baltic-countries-to-send-us-weapons-to-ukraine/6408170.html",
@@ -3185,73 +3273,65 @@
           "date": "February 13, 2022",
           "template": "citation",
           "type": "news"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Americans detained abroad",
+      "depth": 2,
+      "paragraphs": [
         {
-          "last1": "Ravid",
-          "first1": "Barak",
-          "title": "Biden won't reverse Trump's Western Sahara move, U.S. tells Morocco",
-          "url": "https://www.axios.com/biden-keep-trump-western-sahara-recogntion-morocco-349f187f-bfe7-444b-a4e2-437045ae5dcf.html",
-          "access-date": "June 23, 2021",
-          "work": "Axios",
-          "date": "April 30, 2021",
-          "template": "citation",
-          "type": "news"
-        },
+          "sentences": [
+            {
+              "text": "Blinken and the Biden Administration have been criticized for the handling of Americans who are wrongfully imprisoned abroad.",
+              "links": [
+                {
+                  "text": "Americans who are wrongfully imprisoned abroad",
+                  "type": "internal",
+                  "page": "List of American people imprisoned abroad"
+                }
+              ]
+            },
+            {
+              "text": "Families U.S. detainees in the Middle East were upset that they were left off of a call with Secretary Blinken."
+            },
+            {
+              "text": "In July 2020, Blinken had a meeting with Sergey Lavrov to discuss a prisoner swap to secure the release of Paul Whelan (security director) and Brittney Griner.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sergey Lavrov"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paul Whelan (security director)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brittney Griner"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
         {
-          "url": "https://www.state.gov/secretary-travel/travel-to-the-united-kingdom-and-ukraine-may-3-5-2021/",
-          "title": "Travel to United Kingdom and Ukraine, May 3-6, 2021",
-          "publisher": "United States Department of State",
-          "access-date": "April 25, 2021",
+          "date": "2022-07-05",
+          "title": "Anger as families of US detainees in Middle East left off Blinken call",
+          "url": "https://www.theguardian.com/us-news/2022/jul/05/us-detainees-middle-east-antony-blinken-biden",
+          "access-date": "2022-07-29",
+          "website": "the Guardian",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
         {
-          "url": "https://www.state.gov/secretary-travel/travel-to-denmark-iceland-and-greenland-may-16-20-2021/",
-          "title": "Travel to Denmark, Iceland, and Greenland, May 16-20, 2021",
-          "publisher": "United States Department of State",
-          "access-date": "May 17, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Zengerle",
-          "first1": "Patricia",
-          "title": "Blinken: U.S. able to mitigate Nord Stream 2 pipeline effects",
-          "url": "https://www.reuters.com/business/energy/blinken-us-working-with-germany-mitigate-nord-stream-2-effects-2021-06-07/",
-          "work": "Reuters",
-          "date": "June 7, 2021",
-          "access-date": "June 23, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Price",
-          "first1": "Ned",
-          "url": "https://www.state.gov/secretary-travel/travel-to-the-united-kingdom-belgium-and-switzerland-june-9-15-2021/",
-          "title": "Travel to the United Kingdom, Belgium, and Switzerland, June 9-15, 2021",
-          "access-date": "June 9, 2021",
-          "date": "June 9, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Clark",
-          "first1": "Joseph",
-          "title": "Blinken says U.S.-Russia relations at a low point going into summit",
-          "url": "https://www.washingtontimes.com/news/2021/jun/13/blinken-says-us-russia-relations-at-a-low-point-go/",
-          "access-date": "June 15, 2021",
-          "work": "The Washington Times",
-          "date": "June 13, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Price",
-          "first1": "Ned",
-          "url": "https://www.state.gov/secretary-antony-j-blinken-with-chris-wallace-of-fox-news-sunday",
-          "title": "Secretary Antony J. Blinken with Chris Wallace of Fox News Sunday",
-          "access-date": "June 15, 2021",
-          "date": "June 13, 2021",
+          "title": "Blinken says he ‘pressed’ Lavrov on release of US prisoners",
+          "url": "https://www.aljazeera.com/news/2022/7/29/lavrov-confirms-call-request-from-blinken-regarding-prisoner-swap",
+          "access-date": "2022-07-29",
+          "website": "www.aljazeera.com",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }

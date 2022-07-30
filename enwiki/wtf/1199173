@@ -1957,12 +1957,13 @@
       ],
       "references": [
         {
+          "date": "September 9, 2003",
           "url": "http://vls.law.villanova.edu/locator/3d/Sept2003/002305p.pdf",
-          "title": "Archived copy",
+          "title": "Ronald A. Williams v. James Price, Superintendent, SCI-Pittsburgh; D. Michael Fisher, Attorney General",
           "access-date": "October 31, 2005",
           "archive-date": "February 17, 2006",
           "archive-url": "https://web.archive.org/web/20060217211512/http://vls.law.villanova.edu/locator/3d/Sept2003/002305p.pdf",
-          "url-status": "live",
+          "url-status": "dead",
           "template": "citation",
           "type": "web"
         }
@@ -2346,7 +2347,7 @@
           "access-date": "3 November 2017",
           "archive-date": "March 4, 2016",
           "archive-url": "https://web.archive.org/web/20160304025743/http://www.americanbar.org/content/dam/aba/migrated/scfedjud/SCpage/Alito_testimony.authcheckdam.pdf",
-          "url-status": "live",
+          "url-status": "dead",
           "template": "citation",
           "type": "web"
         },
@@ -3148,6 +3149,33 @@
                   "Roe"
                 ]
               }
+            },
+            {
+              "text": "In July 2022, Alito gave his first public comments on the ruling in a keynote address for Notre Dame Law School's Religious Liberty Initiative in Rome.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Notre Dame Law School"
+                }
+              ]
+            },
+            {
+              "text": "He mocked several foreign leaders for criticizing the decision, particularly U.K. Prime Minister Boris Johnson, whose pending resignation Alito referenced; and Prince Harry, Duke of Sussex, who had compared the ruling to the 2022 Russian invasion of Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prince Harry, Duke of Sussex"
+                },
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
             }
           ]
         }
@@ -3176,6 +3204,27 @@
           "access-date": "June 24, 2022",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Gerstein",
+          "first": "Josh",
+          "title": "Alito mocks foreign critics of Supreme Court abortion ruling",
+          "url": "https://www.politico.com/news/2022/07/28/alito-mocks-foreign-critics-of-ruling-00048607",
+          "access-date": "2022-07-28",
+          "website": "POLITICO",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Reporter",
+          "first": "Ariane de Vogue, CNN Supreme Court",
+          "title": "Samuel Alito mocks foreign critics of repealing Roe v. Wade in Rome speech",
+          "url": "https://www.cnn.com/2022/07/28/politics/samuel-alito-religious-liberty-notre-dame-rome/index.html",
+          "access-date": "2022-07-28",
+          "website": "CNN",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -3412,7 +3461,7 @@
         },
         {
           "url": "https://www.pbs.org/newshour/bb/government_programs-july-dec13-whistleblowers_08-01/",
-          "title": "\"I held in my hand Judge Alito's targeting information for his phones and his staff and his family.\"",
+          "title": "I held in my hand Judge Alito's targeting information for his phones and his staff and his family.",
           "website": "PBS",
           "date": "August 2013",
           "access-date": "September 11, 2017",

@@ -592,6 +592,69 @@
       ]
     },
     {
+      "title": "Russian invasion of Ukraine",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Brink has supported Ukraine throughout the 2022 Russian invasion of Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
+                },
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "On July 22, Brink stated that the United States will continue to “support Ukraine for as long as it takes”."
+            },
+            {
+              "text": "She made these statements after the White House announced they would send 270 million dollars for military assistance to Ukraine."
+            },
+            {
+              "text": "On July 26, she met with Jonathan Markovitch, the Chief Rabbi of Kyiv.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jonathan Markovitch"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kyiv"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Exclusive: U.S. Ambassador To Ukraine Says Washington Will Support Kyiv 'For As Long As It Takes'",
+          "url": "https://www.rferl.org/a/ukraine-us-ambassador-brink-support-kyiv/31957319.html",
+          "access-date": "2022-07-29",
+          "website": "RadioFreeEurope/RadioLiberty",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "U.S. ambassador to Ukraine meets with chief rabbi of Kyiv",
+          "url": "https://www.ukrinform.net/rubric-society/3537763-us-ambassador-to-ukraine-meets-with-chief-rabbi-of-kyiv.html",
+          "access-date": "2022-07-29",
+          "website": "www.ukrinform.net",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "Personal life",
       "depth": 0,
       "paragraphs": [

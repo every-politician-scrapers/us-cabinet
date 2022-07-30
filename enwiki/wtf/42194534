@@ -865,13 +865,18 @@
               ]
             },
             {
-              "text": "The DGA having spent over $1.16 million on pro-Cox television advertisements, according to the New York Times.",
+              "text": "The DGA having spent over $1.16 million on pro-Cox television advertisements, according to The New York Times.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "New York Times"
+                  "page": "The New York Times"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "The New York Times"
+                ]
+              }
             },
             {
               "text": "Hogan also criticized Democrats for \"emboldening\" Cox, who Hogan called a \"QAnon conspiracy theorist\", and \"play[ing] Russian roulette with the Maryland statehouse,\".",

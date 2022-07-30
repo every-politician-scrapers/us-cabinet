@@ -86,7 +86,16 @@
         {
           "sentences": [
             {
-              "text": "Currently in her 18th term, Pelosi was first elected to Congress in a 1987 special election, following her father, Thomas D'Alesandro Jr., into politics.",
+              "text": "A member of the D’Alesandro political family, her father, Thomas D'Alesandro Jr., was a notable longtime politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Thomas D'Alesandro Jr."
+                }
+              ]
+            },
+            {
+              "text": "Before her election to Congress, she served as the chairwoman of the California Democratic Party from 1981 until 1983.",
               "links": [
                 {
                   "text": "Congress",
@@ -94,13 +103,18 @@
                   "page": "United States Congress"
                 },
                 {
+                  "type": "internal",
+                  "page": "California Democratic Party"
+                }
+              ]
+            },
+            {
+              "text": "Currently in her 18th term, Pelosi was first elected to Congress in a 1987 special election.",
+              "links": [
+                {
                   "text": "1987 special election",
                   "type": "internal",
                   "page": "1987 United States House of Representatives elections"
-                },
-                {
-                  "type": "internal",
-                  "page": "Thomas D'Alesandro Jr."
                 }
               ]
             },
@@ -2131,7 +2145,7 @@
               "text": "In May 2006, with an eye on the upcoming congressional elections—which offered the possibility of Democrats taking back control of the House for the first time since 1994—Pelosi told colleagues that, while the Democrats would conduct vigorous oversight of Bush administration policy, an impeachment investigation was \"off the table\"."
             },
             {
-              "text": "(A week earlier, she had told The Washington Post that, although Democrats would not set out to impeach Bush, \"you never know where\" investigations might lead.)",
+              "text": "A week earlier, she had told The Washington Post that, although Democrats would not set out to impeach Bush, \"you never know where\" investigations might lead.",
               "links": [
                 {
                   "type": "internal",
@@ -6240,7 +6254,7 @@
           "title": "Venezuelan crisis deepens as Trump backs opposition",
           "first": "Suzanne",
           "last": "Lynch",
-          "website": "The Irish Times",
+          "newspaper": "The Irish Times",
           "language": "en",
           "access-date": "November 18, 2019",
           "archive-date": "October 20, 2019",

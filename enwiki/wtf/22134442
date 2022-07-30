@@ -76,14 +76,14 @@
         {
           "sentences": [
             {
-              "text": "Baker grew up in Needham, Massachusetts, earned a AB from Harvard University in 1979, and later obtained an MBA from Northwestern University's Kellogg School of Management.",
+              "text": "Baker grew up in Needham, Massachusetts, earned a BA from Harvard University in 1979, and later obtained an MBA from Northwestern University's Kellogg School of Management.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Needham, Massachusetts"
                 },
                 {
-                  "text": "AB",
+                  "text": "BA",
                   "type": "internal",
                   "page": "Bachelor of Arts"
                 },

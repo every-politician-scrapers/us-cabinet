@@ -346,8 +346,9 @@
             "text": "Barack Obama",
             "links": [
               {
+                "text": "Barack Obama",
                 "type": "internal",
-                "page": "Barack Obama"
+                "page": "List of federal judges appointed by Barack Obama"
               }
             ]
           },
@@ -386,8 +387,9 @@
             "text": "Bill Clinton",
             "links": [
               {
+                "text": "Bill Clinton",
                 "type": "internal",
-                "page": "Bill Clinton"
+                "page": "List of federal judges appointed by Bill Clinton"
               }
             ]
           },
@@ -428,8 +430,9 @@
             "text": "George H. W. Bush",
             "links": [
               {
+                "text": "George H. W. Bush",
                 "type": "internal",
-                "page": "George H. W. Bush"
+                "page": "List of federal judges appointed by George H. W. Bush"
               }
             ]
           },

@@ -14607,19 +14607,6 @@
       ]
     },
     {
-      "title": "Notes",
-      "depth": 0,
-      "templates": [
-        {
-          "group": "n",
-          "template": "reflist"
-        },
-        {
-          "template": "notelist"
-        }
-      ]
-    },
-    {
       "title": "See also",
       "depth": 0,
       "paragraphs": [
@@ -14648,6 +14635,19 @@
             ]
           }
         ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "group": "n",
+          "template": "reflist"
+        },
+        {
+          "template": "notelist"
+        }
       ]
     },
     {
