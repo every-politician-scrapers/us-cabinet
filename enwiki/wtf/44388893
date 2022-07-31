@@ -1412,6 +1412,9 @@
         {
           "sentences": [
             {
+              "text": "Beshear's tenure in office has been marked by several natural disasters throughout the state."
+            },
+            {
               "text": "In December 2021, Beshear led the emergency response to a devastating tornado outbreak in western Kentucky, which devastated the town of Mayfield and killed more than 70 people, the deadliest in the state's history.",
               "links": [
                 {
@@ -1423,6 +1426,20 @@
                   "text": "Mayfield",
                   "type": "internal",
                   "page": "Mayfield, Kentucky"
+                }
+              ]
+            },
+            {
+              "text": "In July of 2022, extreme torrential rains caused severe flooding across Kentucky's Appalachia region and led to the deaths of over 25 people; Beshear worked with the federal government to coordinate search and rescue missions as President Biden declared a federal disaster to direct relief money to the state.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Appalachia"
+                },
+                {
+                  "text": "President Biden",
+                  "type": "internal",
+                  "page": "Joe Biden"
                 }
               ]
             }
@@ -1596,6 +1613,26 @@
           "url": "https://www.theguardian.com/us-news/2021/dec/12/kentucky-tornadoes-death-toll",
           "access-date": "2021-12-12",
           "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-30",
+          "title": "Governor: Search for Kentucky flood victims could take weeks",
+          "url": "https://apnews.com/article/floods-storms-science-kentucky-jackson-519185ea0be464c61ce76477359b019f",
+          "access-date": "2022-07-30",
+          "website": "AP NEWS",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-30",
+          "title": "Kentucky governor: Death toll from flooding rises to 25",
+          "url": "https://apnews.com/article/floods-storms-kentucky-211cfd992341efe964ca996051916796",
+          "access-date": "2022-07-30",
+          "website": "AP NEWS",
           "language": "en",
           "template": "citation",
           "type": "web"

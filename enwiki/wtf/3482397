@@ -1415,6 +1415,13 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/South_Carolina_National_Guard_prepares_to_respond_to_Hurricane_Dorian%E2%80%99s_impact_to_state_(48660779981).jpg",
           "caption": "McMaster briefs press on South Carolina's emergency response to Hurricane Dorian, 2019",
           "links": []
+        },
+        {
+          "file": "File:Boeing_787-10_rollout_with_President_Trump_(33109601676).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Boeing_787-10_rollout_with_President_Trump_(33109601676).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Boeing_787-10_rollout_with_President_Trump_(33109601676).jpg",
+          "caption": "President Donald Trump and Henry McMaster rollout the first Boeing 787-10 at the factor in Charleston, South Carolina.",
+          "links": []
         }
       ],
       "references": [
@@ -2681,8 +2688,8 @@
               "text": ""
             },
             "Total": {
-              "text": "635",
-              "number": 635
+              "text": "655",
+              "number": 655
             }
           },
           {
@@ -2699,8 +2706,8 @@
               "text": ""
             },
             "Total": {
-              "text": "4",
-              "number": 4
+              "text": "5",
+              "number": 5
             }
           },
           {
@@ -2708,8 +2715,8 @@
               "text": ""
             },
             "Total": {
-              "text": "4",
-              "number": 4
+              "text": "5",
+              "number": 5
             }
           },
           {
@@ -2796,28 +2803,36 @@
               "text": "On February 18, 2021, he signed a bill into law that would ban most abortions."
             },
             {
-              "text": "The next day, a federal judge suspended the law."
+              "text": "The next day, a federal judge suspended the law until June 2022."
             },
             {
-              "text": "In May 2022, McMaster said that he would support a stricter abortion law if Roe v. Wade is overturned.",
+              "text": "After the U.S. Supreme Court overturned Roe v. Wade, McMaster stated he \"looks forward to the day we don’t have abortions.\"",
               "links": [
+                {
+                  "text": "U.S. Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of the United States"
+                },
                 {
                   "type": "internal",
                   "page": "Roe v. Wade"
                 }
               ]
+            },
+            {
+              "text": "He indicated that he would sign any anti-abortion bill that comes across his desk."
             }
           ]
         }
       ],
       "references": [
         {
-          "last1": "Green",
-          "first1": "Mary",
-          "title": "McMaster supportive of stricter anti-abortion laws in SC if Roe is overturned",
-          "url": "https://www.wistv.com/2022/05/04/mcmaster-supportive-stricter-anti-abortion-laws-sc-if-roe-is-overturned/",
-          "website": "WISTV",
-          "access-date": "1 June 2022",
+          "last1": "Adcox",
+          "first1": "Seanna",
+          "title": "McMaster prefers no abortions in SC as protesters converge on Statehouse",
+          "url": "https://www.postandcourier.com/columbia/mcmaster-prefers-no-abortions-in-sc-as-protesters-converge-on-statehouse/article_2bae9dae-f6f4-11ec-b530-831c649e4a38.html",
+          "publisher": "Post and Courrier",
+          "access-date": "30 July 2022",
           "template": "citation",
           "type": "web"
         },

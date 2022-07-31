@@ -6332,6 +6332,9 @@
                   "The Washington Post"
                 ]
               }
+            },
+            {
+              "text": "The provisions of the bill will take effect in 2023."
             }
           ]
         },
@@ -6341,7 +6344,77 @@
               "text": "In May 2022, Youngkin sent a letter to the Council of Presidents overseeing Virginia colleges and universities, urging mandatory political diversity in their hiring practices."
             },
             {
-              "text": "That year, he introduced a budget amendment, which was passed by the General Assembly, requiring that the state's public colleges and universities promote \"free speech and diversity of thought on [their] campuses.\""
+              "text": "That year, he introduced a budget amendment, which succeeded in the General Assembly, requiring that the state's public colleges and universities promote \"free speech and diversity of thought on [their] campuses.\""
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the 2022 legislative session, Youngkin advocated for a bill that would have reversed reforms that had been recently adopted to the admissions processes at some Governor's Schools in Virginia, specifically at Thomas Jefferson High School for Science and Technology in Alexandria and at Maggie L. Walker Governor's School for Government and International Studies in Richmond.",
+              "links": [
+                {
+                  "text": "Governor's Schools",
+                  "type": "internal",
+                  "page": "Governor's Schools (Virginia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Thomas Jefferson High School for Science and Technology"
+                },
+                {
+                  "text": "Alexandria",
+                  "type": "internal",
+                  "page": "Alexandria, Virginia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maggie L. Walker Governor's School for Government and International Studies"
+                }
+              ]
+            },
+            {
+              "text": "The reforms that Youngkin wanted to reverse had been adopted to increase racial diversity among the student bodies at those two schools, where Black and Hispanic students had been consistently underrepresented."
+            },
+            {
+              "text": "Although race blind, the reforms achieved their goal by implementing an approach largely based on geographic and socioeconomic factors.",
+              "links": [
+                {
+                  "text": "race blind",
+                  "type": "internal",
+                  "page": "Racial color blindness"
+                }
+              ]
+            },
+            {
+              "text": "The bill supported by Youngkin would have banned such an approach, characterizing the use of geographic and socioeconomic factors in the application process as \"proxy discrimination\"."
+            },
+            {
+              "text": "This bill passed in the Republican-controlled House of Delegates but failed in the Democratic-controlled State Senate."
+            },
+            {
+              "text": "A separate bill signed by Youngkin that same year bans Governor's Schools in Virginia \"from discriminating against any individual or group on the basis of race, sex, color, ethnicity, or national origin in the process of admitting students to such school.\""
+            },
+            {
+              "text": "This bill, which received bipartisan support, was described by The Richmond Times-Dispatch as \"a watered-down version\" of Youngkin's preferred bill.",
+              "formatting": {
+                "italic": [
+                  "The Richmond Times-Dispatch"
+                ]
+              }
+            },
+            {
+              "text": "According to WRIC-TV, a Virginia ABC News affiliate, it has been argued that the bill signed by Youngkin \"has no legal impact because it largely reiterates existing federal law.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "WRIC-TV"
+                },
+                {
+                  "type": "internal",
+                  "page": "ABC News"
+                }
+              ]
             }
           ]
         }
@@ -6459,6 +6532,34 @@
           "url": "https://apnews.com/article/virginia-richmond-government-and-politics-state-budgets-bad8bc4a986fde70a3ec156d8e6150ce",
           "access-date": "2022-07-14",
           "website": "AP NEWS",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The legislative session is over halfway through. How are Youngkin’s education proposals faring?",
+          "url": "https://vpm.org/news/articles/30029/the-legislative-session-is-over-halfway-through-how-are-youngkins-education",
+          "access-date": "2022-07-30",
+          "website": "VPM.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "LIS > Bill Tracking > HB127 > 2022 session",
+          "url": "https://lis.virginia.gov/cgi-bin/legp604.exe?ses=221&typ=bil&val=hb127",
+          "access-date": "2022-07-30",
+          "website": "lis.virginia.gov",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "reports",
+          "first": "From staff",
+          "title": "30 reasons why the Virginia General Assembly session mattered",
+          "url": "https://richmond.com/news/state-and-regional/govt-and-politics/30-reasons-why-the-virginia-general-assembly-session-mattered/article_c7d2dac3-67de-56b6-9fba-3a8055f239ae.html",
+          "access-date": "2022-07-30",
+          "website": "Richmond Times-Dispatch",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -6589,6 +6690,47 @@
           "issn": "0190-8286",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Virginia bill targets admissions systems at Governor’s Schools — with possible repercussions for TJ High",
+          "language": "en-US",
+          "work": "Washington Post",
+          "url": "https://www.washingtonpost.com/education/2022/01/10/virginia-bill-governors-school-admissions/",
+          "access-date": "2022-07-30",
+          "issn": "0190-8286",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Hunter",
+          "first": "Kenya",
+          "date": "January 17, 2022",
+          "title": "A Republican bill would bar Va. Governor's Schools from using race in admissions",
+          "url": "https://richmond.com/news/local/a-republican-bill-would-bar-va-governors-schools-from-using-race-in-admissions/article_09b81c9f-82b6-589a-9325-2ec8f1f06380.html",
+          "access-date": "2022-07-30",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Youngkin pushing to undo measures that increased diversity at governor’s schools",
+          "url": "https://vpm.org/news/articles/29262/youngkin-pushing-to-undo-measures-that-increased-diversity-at-governors-schools",
+          "access-date": "2022-07-30",
+          "website": "VPM.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-09",
+          "title": "Bill banning discrimination during governor’s school admissions passes",
+          "url": "https://www.wric.com/news/bill-banning-discrimination-during-governors-schools-admissions-passes/",
+          "access-date": "2022-07-30",
+          "website": "WRIC ABC 8News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

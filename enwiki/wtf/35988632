@@ -313,6 +313,14 @@
               {
                 "type": "internal",
                 "page": "Barack Obama"
+              },
+              {
+                "type": "internal",
+                "page": "Donald Trump"
+              },
+              {
+                "type": "internal",
+                "page": "Joe Biden"
               }
             ]
           },

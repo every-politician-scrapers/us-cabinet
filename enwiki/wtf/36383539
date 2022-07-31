@@ -722,7 +722,7 @@
         {
           "sentences": [
             {
-              "text": "Alejandro Nicholas Mayorkas, nicknamed Ali, was born in Havana, Cuba, on November 24, 1959.",
+              "text": "Alejandro Nicholas Mayorkas was born in Havana, Cuba, on November 24, 1959.",
               "links": [
                 {
                   "type": "internal",
@@ -897,20 +897,6 @@
       ],
       "references": [
         {
-          "last1": "Sands",
-          "first1": "Geneva",
-          "last2": "Alvarez",
-          "first2": "Priscilla",
-          "date": "November 24, 2020",
-          "url": "https://www.cnn.com/2020/11/23/politics/biden-picks-mayorkas-dhs-secretary/index.html",
-          "title": "Mayorkas could bring stability to DHS after years of interim leadership",
-          "archive-url": "https://web.archive.org/web/20201125123940/https://www.cnn.com/2020/11/23/politics/biden-picks-mayorkas-dhs-secretary/index.html",
-          "archive-date": "November 25, 2020",
-          "work": "CNN",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://forward.com/opinion/459218/alejandro-mayorkass-historic-nomination-should-be-a-wake-up-call-for/",
           "title": "Alejandro Mayorkas' historic nomination is a wake up call: Stop erasing Sepharadim.",
           "author": "Ethan Marcus",
@@ -975,17 +961,6 @@
           "archive-url": "https://web.archive.org/web/20201123224303/https://www.congress.gov/nomination/113th-congress/640",
           "archive-date": "November 23, 2020",
           "publisher": "United States Congress",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "HIAS Congratulates Board Member Alejandro Mayorkas on DHS Nomination",
-          "url": "https://www.hias.org/news/press-releases/hias-congratulates-board-member-alejandro-mayorkas-dhs-nomination",
-          "publisher": "HIAS",
-          "date": "November 23, 2020",
-          "archive-url": "https://web.archive.org/web/20201125231659/https://www.hias.org/news/press-releases/hias-congratulates-board-member-alejandro-mayorkas-dhs-nomination",
-          "archive-date": "November 25, 2020",
-          "url-status": "live",
           "template": "citation",
           "type": "web"
         },

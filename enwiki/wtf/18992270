@@ -243,9 +243,6 @@
             "text": "2006",
             "number": 2006
           },
-          "doctoral_advisor": {
-            "text": "Barbara Curry"
-          },
           "workplaces": {
             "text": "Delaware Technical Community College\nNorthern Virginia Community College",
             "links": [
@@ -1184,7 +1181,7 @@
               "text": "Biden later returned to school for her doctoral degree, studying under her birth name, Jill Jacobs."
             },
             {
-              "text": "In January 2007, at age 55, she received a Doctor of Education (Ed.D.) in educational leadership from the University of Delaware under the direction of professor Barbara Curry.",
+              "text": "In January 2007, at age 55, she received a Doctor of Education (Ed.D.) in educational leadership from the University of Delaware.",
               "links": [
                 {
                   "type": "internal",
@@ -4034,6 +4031,70 @@
         {
           "sentences": [
             {
+              "text": "Biden is also an advocate for cancer education and prevention since 1993, after four of her friends were diagnosed with breast cancer."
+            },
+            {
+              "text": "In the same year, she launched the Biden Breast Health Initiative to educate high school female student from Delaware about the importance of cancer prevention."
+            },
+            {
+              "text": "On February 5, 2021, Biden undertook a virtual meeting with the members of National Cancer Institute.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Cancer Institute"
+                }
+              ]
+            },
+            {
+              "text": "On February 24, 2021, Biden visited Virginia Commonwealth University's Massey Cancer Center.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Virginia Commonwealth University"
+                }
+              ]
+            },
+            {
+              "text": "There, she met with scientists, doctors and community leaders to learn about their work to address cancer disparities."
+            },
+            {
+              "text": "On October 21, 2021, Biden was interviewed by Good Morning America's anchor Robin Roberts where they discussed about breast cancer screenings access and the effect of COVID-19 pandemic on screening and mammograms of people in the U.S. On February 21, 2022, Biden visited Moffitt Cancer Center.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Good Morning America"
+                },
+                {
+                  "text": "Robin Roberts",
+                  "type": "internal",
+                  "page": "Robin Roberts (newscaster)"
+                },
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic"
+                }
+              ]
+            },
+            {
+              "text": "There, she met with leading experts to learn about their work in cancer prevention, health disparities, screenings and community engagement."
+            },
+            {
+              "text": "In June 2022, Biden visited Palm Beach, Florida to deliver a speech on public support toward cancer screening and treatments.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Palm Beach, Florida"
+                }
+              ]
+            },
+            {
+              "text": "She also toured FoundCare Palm Springs, a health center which received funding from The Promise Fund of Florida, a fund which pays for cancer screenings and treatments for disadvantaged women."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "In May 2022, Jill Biden accompanied her husband to Buffalo, New York after the racially motivated mass shooting which had occurred several days previously.",
               "links": [
                 {
@@ -4071,6 +4132,15 @@
                   "page": "Robb Elementary School"
                 }
               ]
+            },
+            {
+              "text": "On July 20, 2022, Biden held a private meeting with the first lady of Ukraine, Olena Zelenska, at the White House.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Olena Zelenska"
+                }
+              ]
             }
           ]
         }
@@ -4095,6 +4165,9 @@
           "url": "https://thehill.com/homenews/administration/539687-jill-biden-picks-up-where-she-left-off",
           "work": "The Hill",
           "access-date": "February 21, 2021",
+          "archive-url": "https://web.archive.org/web/20220730102013/https://thehill.com/homenews/administration/539687-jill-biden-picks-up-where-she-left-off/",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4107,6 +4180,9 @@
           "title": "First lady Jill Biden visits Washington military bases in support of families",
           "url": "https://www.seattletimes.com/seattle-news/politics/first-lady-jill-biden-visits-washington-military-bases-in-support-of-families/",
           "newspaper": "The Seattle Times",
+          "archive-url": "https://web.archive.org/web/20220730102252/https://www.seattletimes.com/seattle-news/politics/first-lady-jill-biden-visits-washington-military-bases-in-support-of-families/",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4141,6 +4217,9 @@
           "author-last": "Hilton",
           "work": "Politico",
           "date": "April 28, 2021",
+          "archive-url": "https://web.archive.org/web/20220730102429/https://www.politico.com/news/2021/04/28/jill-biden-community-college-tuition-484979",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4151,8 +4230,43 @@
           "author-last": "Camera",
           "newspaper": "U.S. News & World Report",
           "date": "October 19, 2021",
+          "archive-url": "https://web.archive.org/web/20220730102612/https://www.usnews.com/news/education-news/articles/2021-10-19/house-democrats-rally-to-preserve-biden-plans-free-community-college-provision",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://cancerletter.com/the-cancer-letter/20210205_1/",
+          "title": "Jill Biden signals White House resolve on cancer research: “This is the fight of our lives”",
+          "date": "February 5, 2021",
+          "website": "Cancer Letter",
+          "access-date": "July 30, 2022",
+          "archive-url": "https://ghostarchive.org/archive/zuX7Y",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://abcnews.go.com/GMA/News/lady-dr-jill-biden-speaks-mission-people-screened/story?id=80680507",
+          "first1": "Jade",
+          "last1": "Anderson",
+          "first2": "Danielle",
+          "last2": "Genet",
+          "first3": "Angeline",
+          "last3": "Jane Bernabe",
+          "first4": "Nicole",
+          "last4": "Curtis",
+          "title": "First lady Dr. Jill Biden speaks out on her mission to get people screened for breast cancer",
+          "date": "October 21, 2021",
+          "website": "Good Morning America",
+          "access-date": "July 30, 2022",
+          "archive-url": "https://web.archive.org/web/20220730122143/https://abcnews.go.com/GMA/News/lady-dr-jill-biden-speaks-mission-people-screened/story?id=80680507",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.cbsnews.com/live-updates/texas-mass-shooting-joe-biden-jill-biden-uvalde-visit-watch-live-stream-today-2022-05-29/",
@@ -4191,8 +4305,64 @@
           "author-last": "Shabad",
           "publisher": "NBC News",
           "date": "February 7, 2022",
+          "archive-url": "https://web.archive.org/web/20220730102722/https://www.nbcnews.com/politics/congress/first-lady-jill-biden-say-free-community-college-wont-included-social-rcna15128",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/",
+          "title": "Fact Sheet: President Biden Reignites Cancer Moonshot to End Cancer as We Know It",
+          "date": "February 2, 2022",
+          "access-date": "July 30, 2022",
+          "website": "White House",
+          "archive-url": "https://web.archive.org/web/20220730104003/https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.vcu.edu/article/First_lady_Jill_Biden_a_longtime_advocate_for_cancer_education",
+          "first": "Brian",
+          "last": "McNeill",
+          "title": "First lady Jill Biden, a longtime advocate for cancer education and research, tours VCU’s Massey Cancer Center",
+          "date": "February 24, 2021",
+          "website": "Virginia Commonwealth University",
+          "access-date": "July 30, 2022",
+          "archive-url": "https://web.archive.org/web/20220730111453/https://news.vcu.edu/article/First_lady_Jill_Biden_a_longtime_advocate_for_cancer_education",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://moffitt.org/endeavor/archive/heres-the-moffitt-team-that-met-with-dr-jill-biden/",
+          "title": "Here’s the Moffitt Team that Met with Dr. Jill Biden",
+          "date": "February 21, 2022",
+          "website": "moffitt.org",
+          "archive-url": "https://ghostarchive.org/archive/sERVb",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "first": "Amanda",
+          "last": "Sangster",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.businessinsider.com/jill-biden-urges-unity-on-cancer-in-florida-desantis-trump-2022-6",
+          "first1": "Kimberly",
+          "last1": "Leonard",
+          "title": "First lady Jill Biden appeals for unity during cancer speech delivered on Trump and DeSantis' home turf",
+          "date": "June 23, 2022",
+          "website": "Business Insider",
+          "access-date": "July 30, 2022",
+          "archive-url": "https://web.archive.org/web/20220730125001/https://www.businessinsider.com/jill-biden-urges-unity-on-cancer-in-florida-desantis-trump-2022-6",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.axios.com/2022/05/17/photo-biden-visit-buffalo",
@@ -4200,11 +4370,24 @@
           "first": "Ivana",
           "last": "Saric",
           "access-date": "June 17, 2022",
+          "website": "Axios",
           "archive-date": "June 17, 2022",
           "archive-url": "https://web.archive.org/web/20220617101159/https://www.axios.com/2022/05/17/photo-biden-visit-buffalo",
           "url-status": "live",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.washingtonpost.com/politics/2022/07/20/ukraine-olena-zelenska-congress/",
+          "title": "Ukraine's first lady asks Congress for more arms to counter Russia",
+          "newspaper": "The Washington Post",
+          "author": "Amy B Wang",
+          "date": "2022-07-20",
+          "archive-url": "https://web.archive.org/web/20220730103150/https://www.washingtonpost.com/politics/2022/07/20/ukraine-olena-zelenska-congress/",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -4311,10 +4494,10 @@
               ]
             },
             {
-              "text": "Later in that month, Biden followed that trip with one to Latin America, visiting in Ecuador, Panama, and Costa Rica."
+              "text": "Later in that month, Biden followed that trip with one to Latin America, visiting Ecuador, Panama, and Costa Rica."
             },
             {
-              "text": "At each stop she engaged in diplomatic discussions and public appearances that emphasized the value that partnership with the United States brought in by addressing a variety of issues within those countries."
+              "text": "At each stop, she engaged in diplomatic discussions and public appearances that emphasized the value that partnership with the United States brought in by addressing a variety of issues within those countries."
             }
           ]
         }
@@ -4336,6 +4519,9 @@
           "url": "https://www.reuters.com/world/uk/britains-queen-elizabeth-hosts-biden-g7-reception-2021-06-11/",
           "agency": "Reuters",
           "date": "June 12, 2021",
+          "archive-url": "https://web.archive.org/web/20220730130831/https://www.reuters.com/world/uk/britains-queen-elizabeth-hosts-biden-g7-reception-2021-06-11/",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4346,6 +4532,9 @@
           "url": "https://www.cnn.com/2021/06/10/politics/jill-biden-kate-middleton/index.html",
           "publisher": "CNN",
           "date": "June 13, 2021",
+          "archive-url": "https://web.archive.org/web/20220730131223/https://www.cnn.com/2021/06/10/politics/jill-biden-kate-middleton/index.html",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4370,6 +4559,9 @@
           "author-last": "Quinn",
           "publisher": "CBS News",
           "date": "May 8, 2022",
+          "archive-url": "https://web.archive.org/web/20220730131439/https://www.cbsnews.com/news/jill-biden-ukraine-surprise-visit/",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4390,6 +4582,9 @@
           "author-last": "Bennett",
           "publisher": "CNN",
           "date": "May 23, 2022",
+          "archive-url": "https://web.archive.org/web/20220730131624/https://www.cnn.com/2022/05/23/politics/jill-biden-latin-america-tour/index.html",
+          "archive-date": "July 30, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         }

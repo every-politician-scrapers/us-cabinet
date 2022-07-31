@@ -48,6 +48,7 @@
     "Recipients of Hilal-i-Pakistan",
     "Recipients of the Order of the Cross of Terra Mariana, 1st Class",
     "Recipients of St. George's Order of Victory",
+    "Recipients of the Presidential Medal of Distinction of Israel",
     "Syracuse University College of Law alumni",
     "Time Person of the Year",
     "United States senators from Delaware",
@@ -10897,6 +10898,9 @@
                   "page": "Paxlovid"
                 }
               ]
+            },
+            {
+              "text": "He worked in isolation in the White House for five days and returned to isolation when he tested positive again on July 30."
             }
           ]
         }
@@ -11103,6 +11107,31 @@
           "date": "2022-07-21",
           "url": "https://www.bloomberg.com/news/articles/2022-07-21/biden-is-positive-for-covid-has-mild-symptoms-white-house-says",
           "access-date": "2022-07-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Liptak",
+          "first": "Kevin",
+          "last2": "Klein",
+          "first2": "Betsy",
+          "last3": "Sullivan",
+          "first3": "Kate",
+          "date": "27 July 2022",
+          "title": "Biden 'feeling great' and back to work in person after testing negative for Covid-19",
+          "url": "https://www.cnn.com/2022/07/27/politics/joe-biden-negative-covid-test/index.html",
+          "access-date": "2022-07-30",
+          "website": "CNN",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "CNN",
+          "first": "Kevin Liptak",
+          "title": "President Joe Biden tests positive for Covid-19 again",
+          "url": "https://www.cnn.com/2022/07/30/politics/joe-biden-covid-19-positive/index.html",
+          "access-date": "2022-07-30",
+          "website": "CNN",
           "template": "citation",
           "type": "web"
         },

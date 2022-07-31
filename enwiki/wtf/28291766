@@ -108,6 +108,11 @@
               "text": "After his father abandoned the family, he was raised by his grandfather in a poor Gullah community in Savannah.",
               "links": [
                 {
+                  "text": "raised by his grandfather",
+                  "type": "internal",
+                  "page": "My Grandfather's Son"
+                },
+                {
                   "type": "internal",
                   "page": "Gullah"
                 },
@@ -119,7 +124,7 @@
               ]
             },
             {
-              "text": "Growing up as a devout Catholic, Thomas originally intended to be a priest in the Catholic Church, but was frustrated over the church's insufficient attempts to combat racism.",
+              "text": "Growing up as a devout Catholic, Thomas originally intended to be a priest in the Catholic Church but was frustrated over the church's insufficient attempts to combat racism.",
               "links": [
                 {
                   "text": "priest",
@@ -129,6 +134,11 @@
                 {
                   "type": "internal",
                   "page": "Catholic Church"
+                },
+                {
+                  "text": "racism",
+                  "type": "internal",
+                  "page": "racism"
                 }
               ]
             },
@@ -225,8 +235,12 @@
         {
           "sentences": [
             {
-              "text": "President Bush nominated Thomas to the United States Court of Appeals for the District of Columbia Circuit in 1990.",
+              "text": "President George H. W. Bush nominated Thomas to the United States Court of Appeals for the District of Columbia Circuit in 1990.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "George H. W. Bush"
+                },
                 {
                   "type": "internal",
                   "page": "United States Court of Appeals for the District of Columbia Circuit"
@@ -488,6 +502,7 @@
             "text": "Chair of the Equal Employment Opportunity Commission",
             "links": [
               {
+                "text": "Chair of the Equal Employment Opportunity Commission",
                 "type": "internal",
                 "page": "Equal Employment Opportunity Commission"
               }
