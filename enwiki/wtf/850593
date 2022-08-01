@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "John Charles Carney Jr. (born May 20, 1956) is an American politician and former football coach who is the 74th governor of Delaware, serving since 2017.",
+              "text": "John Charles Carney Jr. (born May 20, 1956) is an American former football coach and politician serving as the 74th governor of Delaware since 2017.",
               "links": [
                 {
                   "text": "74th governor of Delaware",
@@ -40,7 +40,7 @@
               }
             },
             {
-              "text": "He is a member of the Democratic Party, and served as the U.S. representative for from 2011 to 2017.",
+              "text": "A member of the Democratic Party, Carney previously served as the U.S. representative for from 2011 to 2017, and as the 24th lieutenant governor of Delaware from 2001 to 2009.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -51,12 +51,7 @@
                   "text": "U.S. representative",
                   "type": "internal",
                   "page": "United States House of Representatives"
-                }
-              ]
-            },
-            {
-              "text": "Carney was the 24th lieutenant governor of Delaware from 2001 to 2009 and also served as Delaware's secretary of finance.",
-              "links": [
+                },
                 {
                   "text": "24th",
                   "type": "internal",
@@ -68,6 +63,9 @@
                   "page": "lieutenant governor of Delaware"
                 }
               ]
+            },
+            {
+              "text": "He also served as Delaware's secretary of finance."
             },
             {
               "text": "He first unsuccessfully sought the Democratic nomination for governor in 2008, losing to Jack Markell.",

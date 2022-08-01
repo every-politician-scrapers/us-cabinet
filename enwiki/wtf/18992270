@@ -4025,6 +4025,160 @@
             },
             {
               "text": "In a February 2022 appearance before the Community College National Legislative Summit, Biden publicly acknowledged that the free community college tuition item had been dropped from any BBB bill and said that she was \"disappointed ... these aren't just bills and budgets to me.\""
+            },
+            {
+              "text": "Biden supported Child Tax Credit, a tax benefit to help families with young children and a part of American Rescue Plan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "American Rescue Plan"
+                }
+              ]
+            },
+            {
+              "text": "She visited Des Moines, Iowa in September 2021 to highlight the benefit of child tax credit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Des Moines, Iowa"
+                }
+              ]
+            },
+            {
+              "text": "In April 2022, she held virtual event to highlight child tax credit for Americans of Latino descent with several institutions such as UnidosUS, the Hispanic Federation, United Way of Puerto Rico and others.",
+              "links": [
+                {
+                  "text": "Americans of Latino descent",
+                  "type": "internal",
+                  "page": "Hispanic and Latino Americans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jill Biden is an advocate for COVID-19 vaccination and travelled the United States as a part of President Biden's campaign to vaccinate Americans against COVID-19.",
+              "links": [
+                {
+                  "text": "COVID-19 vaccination",
+                  "type": "internal",
+                  "page": "COVID-19 vaccination in the United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            },
+            {
+              "text": "Biden began her trip on March 31, 2021 where she visited the headquarters of United Farm Workers of America in Delano, California to promote vaccine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Farm Workers of America"
+                },
+                {
+                  "type": "internal",
+                  "page": "Delano, California"
+                }
+              ]
+            },
+            {
+              "text": "On June 7, 2021, she and Chief Medical Advisor Anthony Fauci attended Choose Healthy Life, a vaccination event in New York City.",
+              "links": [
+                {
+                  "text": "Chief Medical Advisor",
+                  "type": "internal",
+                  "page": "Chief Medical Advisor to the President"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anthony Fauci"
+                },
+                {
+                  "type": "internal",
+                  "page": "New York City"
+                }
+              ]
+            },
+            {
+              "text": "Later, Biden and Fauci visited Florida to visit vaccine sites."
+            },
+            {
+              "text": "On June 29, 2021, Biden and Second Gentleman Doug Emhoff visited Texas to attend vaccination events in Houston and Dallas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Doug Emhoff"
+                },
+                {
+                  "text": "Houston",
+                  "type": "internal",
+                  "page": "Houston, Texas"
+                },
+                {
+                  "text": "Dallas",
+                  "type": "internal",
+                  "page": "Dallas, Texas"
+                }
+              ]
+            },
+            {
+              "text": "On July 25, 2021, Biden visited Waipahu, Hawaii to encourage Hawaiians to get vaccinated.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Waipahu, Hawaii"
+                }
+              ]
+            },
+            {
+              "text": "She also visited other states such as Tennessee, Mississippi, Utah, Arizona, New Mexico, Washington, Wisconsin, West Virginia, Alabama, and Alaska.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tennessee"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mississippi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Utah"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arizona"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Mexico"
+                },
+                {
+                  "text": "Washington",
+                  "type": "internal",
+                  "page": "Washington (state)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wisconsin"
+                },
+                {
+                  "type": "internal",
+                  "page": "West Virginia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alabama"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alaska"
+                }
+              ]
             }
           ]
         },
@@ -4032,9 +4186,6 @@
           "sentences": [
             {
               "text": "Biden is also an advocate for cancer education and prevention since 1993, after four of her friends were diagnosed with breast cancer."
-            },
-            {
-              "text": "In the same year, she launched the Biden Breast Health Initiative to educate high school female student from Delaware about the importance of cancer prevention."
             },
             {
               "text": "On February 5, 2021, Biden undertook a virtual meeting with the members of National Cancer Institute.",
@@ -4088,12 +4239,25 @@
               ]
             },
             {
-              "text": "She also toured FoundCare Palm Springs, a health center which received funding from The Promise Fund of Florida, a fund which pays for cancer screenings and treatments for disadvantaged women."
+              "text": "She also toured FoundCare Palm Springs, a health center which received funding from The Promise Fund of Florida, an organization which pays for cancer screenings and treatments for disadvantaged women."
             }
           ]
         },
         {
           "sentences": [
+            {
+              "text": "In March 2022, Biden and Doug Emhoff hosted the Ukrainian ambassador to the United States, Oksana Markarova, in her box at the State of the Union address.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oksana Markarova"
+                },
+                {
+                  "type": "internal",
+                  "page": "State of the Union"
+                }
+              ]
+            },
             {
               "text": "In May 2022, Jill Biden accompanied her husband to Buffalo, New York after the racially motivated mass shooting which had occurred several days previously.",
               "links": [
@@ -4139,6 +4303,19 @@
                 {
                   "type": "internal",
                   "page": "Olena Zelenska"
+                }
+              ]
+            },
+            {
+              "text": "In the same month, Biden hosted the first lady of Mexico, Beatriz Gutiérrez Müller, at the Library of Congress.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beatriz Gutiérrez Müller"
+                },
+                {
+                  "type": "internal",
+                  "page": "Library of Congress"
                 }
               ]
             }
@@ -4237,6 +4414,157 @@
           "type": "news"
         },
         {
+          "url": "https://www.whitehouse.gov/child-tax-credit/",
+          "title": "The Child Tax Credit",
+          "website": "White House",
+          "access-date": "August 1, 2022",
+          "archive-url": "https://web.archive.org/web/20220801014842/https://www.whitehouse.gov/child-tax-credit/",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.desmoinesregister.com/story/money/business/2021/09/15/first-lady-jill-biden-child-tax-credits-extension-iowa-dmacc-ankeny-des-moines-community-college/8279917002/",
+          "first": "Tyler",
+          "last": "Jett",
+          "title": "First lady Jill Biden pushes for child tax credit extension during Iowa visit",
+          "website": "Des Moines Register",
+          "date": "September 15, 2021",
+          "access-date": "August 1, 2022",
+          "archive-url": "https://ghostarchive.org/archive/aFJQA",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://unitedwaynyc.org/first-lady-jill-biden-and-dr-anthony-fauci-visit-chl-covid-19-vaccination-event/",
+          "title": "FIRST LADY JILL BIDEN AND DR. ANTHONY FAUCI VISIT CHOOSE HEALTHY LIFE COVID-19 VACCINATION EVENT",
+          "date": "June 7, 2021",
+          "website": "United Way of New York City",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731095327/https://unitedwaynyc.org/first-lady-jill-biden-and-dr-anthony-fauci-visit-chl-covid-19-vaccination-event/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/biden-heads-north-carolina-tout-vaccines-us-injections-slow-2021-06-24/",
+          "title": "Biden touts vaccines in North Carolina as U.S. injections slow",
+          "website": "Reuters",
+          "date": "June 25, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731100208/https://www.reuters.com/world/us/biden-heads-north-carolina-tout-vaccines-us-injections-slow-2021-06-24/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "first": "Jarrett",
+          "last": "Renshaw",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.usnews.com/news/health-news/articles/2021-07-25/jill-biden-calls-on-unvaccinated-in-hawaii-to-get-shots",
+          "title": "Jill Biden Calls on Unvaccinated in Hawaii to Get Shots",
+          "website": "US News & World Report",
+          "date": "July 25, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731100635/https://www.usnews.com/news/health-news/articles/2021-07-25/jill-biden-calls-on-unvaccinated-in-hawaii-to-get-shots",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "author": "Associated Press",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.usnews.com/news/best-states/tennessee/articles/2021-06-22/first-lady-to-visit-nashville-encourage-vaccinations",
+          "title": "First Lady to Visit Nashville, Encourage Vaccinations",
+          "website": "US News & World Report",
+          "date": "July 22, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731103004/https://www.usnews.com/news/best-states/tennessee/articles/2021-06-22/first-lady-to-visit-nashville-encourage-vaccinations",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "author": "Associated Press",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.usatoday.com/story/news/factcheck/2021/06/30/fact-check-jill-biden-comments-covid-19-taken-out-context/7798254002/",
+          "title": "Fact check: Clip takes Jill Biden's remarks about pandemic planning taken out of context",
+          "website": "USA Today",
+          "date": "July 22, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731103218/https://www.usatoday.com/story/news/factcheck/2021/06/30/fact-check-jill-biden-comments-covid-19-taken-out-context/7798254002/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "first": "Devon",
+          "last": "Link",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://apnews.com/article/az-state-wire-jill-biden-phoenix-health-coronavirus-pandemic-251749e2b758359c560594175b12cba2",
+          "title": "First lady Jill Biden to tour a Phoenix vaccination clinic",
+          "website": "Associated Press",
+          "date": "June 29, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731103659/https://apnews.com/article/az-state-wire-jill-biden-phoenix-health-coronavirus-pandemic-251749e2b758359c560594175b12cba2",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.azcentral.com/story/news/local/arizona-health/2021/06/24/jill-biden-douglas-emhoff-visit-phoenix-encourage-covid-19-vaccination/7781994002/",
+          "title": "First lady, second gentleman to visit Phoenix, encourage vaccination",
+          "website": "azcentral.com",
+          "date": "June 28, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://ghostarchive.org/archive/zFl58",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "first": "Alison",
+          "last": "Steinbach",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://apnews.com/article/health-jill-biden-coronavirus-c5b53d474408e92868d4f8c667800faa",
+          "title": "Jill Biden visits US Southwest amid vaccine push",
+          "location": "Alberquerque",
+          "website": "Associated Press",
+          "date": "April 22, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731104818/https://apnews.com/article/health-jill-biden-coronavirus-c5b53d474408e92868d4f8c667800faa",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "first1": "Susan Montoya",
+          "last1": "Brian",
+          "first2": "Morgan",
+          "last2": "Lee",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://apnews.com/article/biden-covid-health-jill-government-and-politics-d6b3521f4f565af2dbc6a67302e3826a",
+          "title": "Biden visits clinic, celebrates COVID shots for kids under 5",
+          "location": "Washington",
+          "website": "Associated Press",
+          "date": "June 22, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731105549/https://apnews.com/article/biden-covid-health-jill-government-and-politics-d6b3521f4f565af2dbc6a67302e3826a",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "first1": "Zeke",
+          "last1": "Miller",
+          "first2": "Josh",
+          "last2": "Boak",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://cancerletter.com/the-cancer-letter/20210205_1/",
           "title": "Jill Biden signals White House resolve on cancer research: “This is the fight of our lives”",
           "date": "February 5, 2021",
@@ -4264,6 +4592,19 @@
           "access-date": "July 30, 2022",
           "archive-url": "https://web.archive.org/web/20220730122143/https://abcnews.go.com/GMA/News/lady-dr-jill-biden-speaks-mission-people-screened/story?id=80680507",
           "archive-date": "July 30, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cnn.com/2022/03/01/politics/state-of-the-union-guests/index.html",
+          "title": "First lady Jill Biden includes Ukraine ambassador on her list of State of the Union guests",
+          "first": "Kate",
+          "last": "Bennett",
+          "date": "March 1, 2022",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731130513/https://www.cnn.com/2022/03/01/politics/state-of-the-union-guests/index.html",
+          "archive-date": "July 31, 2022",
           "url-status": "live",
           "template": "citation",
           "type": "web"
@@ -4299,6 +4640,18 @@
           "type": "web"
         },
         {
+          "url": "https://www.ky3.com/2022/07/12/jill-biden-apologizes-saying-latinos-unique-tacos/",
+          "title": "Jill Biden apologizes after remark about Latinos causes stir",
+          "date": "July 12, 2022",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731133601/https://www.ky3.com/2022/07/12/jill-biden-apologizes-saying-latinos-unique-tacos/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "website": "ky3.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.nbcnews.com/politics/congress/first-lady-jill-biden-say-free-community-college-wont-included-social-rcna15128",
           "title": "Jill Biden says free community college won't be included in social spending bill",
           "author-first": "Rebecca",
@@ -4310,6 +4663,46 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/first-lady-jill-biden-leads-administration-officials-in-call-for-puerto-rican-families-to-sign-up-for-the-american-rescue-plans-expanded-child-tax-credit/",
+          "title": "First Lady Jill Biden Leads Administration Officials in Call for Puerto Rican Families to Sign Up for the American Rescue Plan’s Expanded Child Tax Credit",
+          "website": "White House",
+          "date": "April 11, 2022",
+          "access-date": "August 1, 2022",
+          "archive-url": "https://ghostarchive.org/archive/szwUg",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.usnews.com/news/health-news/articles/2021-06-29/jill-biden-teams-up-with-nfl-great-to-push-vaccinations?context=amp",
+          "title": "Jill Biden Teams up With NFL Great to Push Vaccinations",
+          "website": "US News & World Report",
+          "date": "June 29, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731100208/https://www.reuters.com/world/us/biden-heads-north-carolina-tout-vaccines-us-injections-slow-2021-06-24/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "author": "Associated Press",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.washingtonpost.com/lifestyle/2021/12/22/jill-biden-fauci-vaccine-vaccination/",
+          "title": "Jill Biden has become the premier vaccine ambassador from a worried White House",
+          "location": "Milwaukee",
+          "website": "The Washington Post",
+          "date": "December 22, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731110218/https://www.washingtonpost.com/lifestyle/2021/12/22/jill-biden-fauci-vaccine-vaccination/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "first": "Jada",
+          "last": "Yuan",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/",
@@ -4437,6 +4830,55 @@
                   "page": "CNN"
                 }
               ]
+            },
+            {
+              "text": "In July 2021, Biden visited Tokyo, Japan in her first solo trip abroad as the first lady.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tokyo, Japan"
+                }
+              ]
+            },
+            {
+              "text": "There, she met Japanese Prime Minister Yoshihide Suga with his wife Mariko Suga at Akasaka Palace and met Emperor Naruhito at Tokyo Imperial Palace.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yoshihide Suga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mariko Suga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Akasaka Palace"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emperor Naruhito"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tokyo Imperial Palace"
+                }
+              ]
+            },
+            {
+              "text": "She also visited American athletes at the 2020 Summer Olympic Games and attended the Olympics opening ceremony at the Olympic Stadium.",
+              "links": [
+                {
+                  "text": "2020 Summer Olympic Games",
+                  "type": "internal",
+                  "page": "2020 Summer Olympic Games"
+                },
+                {
+                  "text": "Olympic Stadium",
+                  "type": "internal",
+                  "page": "Japan National Stadium"
+                }
+              ]
             }
           ]
         },
@@ -4494,10 +4936,59 @@
               ]
             },
             {
-              "text": "Later in that month, Biden followed that trip with one to Latin America, visiting Ecuador, Panama, and Costa Rica."
+              "text": "Later in that month, Biden visited Ecuador, Panama, and Costa Rica."
             },
             {
-              "text": "At each stop, she engaged in diplomatic discussions and public appearances that emphasized the value that partnership with the United States brought in by addressing a variety of issues within those countries."
+              "text": "At each stop, she engaged in public appearances and diplomatic discussions that emphasized the value that partnership with the United States brought in by addressing a variety of issues within those countries."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, Biden visited Spain."
+            },
+            {
+              "text": "She arrived two days before President Joe Biden, who will attend the annual NATO summit."
+            },
+            {
+              "text": "There, Biden met Queen Letizia at Zarzuela Palace and Begoña Gómez, wife of Spanish Prime Minister Pedro Sánchez, at Moncloa Palace.",
+              "links": [
+                {
+                  "text": "Queen Letizia",
+                  "type": "internal",
+                  "page": "Queen Letizia of Spain"
+                },
+                {
+                  "text": "Zarzuela Palace",
+                  "type": "internal",
+                  "page": "Palace of Zarzuela"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pedro Sánchez"
+                },
+                {
+                  "text": "Moncloa Palace",
+                  "type": "internal",
+                  "page": "Palace of Moncloa"
+                }
+              ]
+            },
+            {
+              "text": "She also visited headquarters of Spanish Association Against Cancer and met Ukrainian families at a greeting center for Ukrainian refugees."
+            },
+            {
+              "text": "She and President Biden attended a dinner hosted by King Felipe VI and Queen Letizia, which is part of the official NATO program.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "King Felipe VI"
+                }
+              ]
+            },
+            {
+              "text": "She also participated in an agenda for spouses of the NATO country leaders."
             }
           ]
         }
@@ -4553,6 +5044,61 @@
           "type": "news"
         },
         {
+          "url": "https://www.niusdiario.es/nacional/seguridad/20220628/encuentro-jill-biden-begona-gomez_18_06872423.html",
+          "title": "El encuentro entre Jill Biden y Begoña Gómez",
+          "trans-title": "The Meeting Between Jill Biden and Begoña Gómez",
+          "language": "Spanish",
+          "date": "July 28, 2022",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731114216/https://www.niusdiario.es/nacional/seguridad/20220628/encuentro-jill-biden-begona-gomez_18_06872423.html",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "website": "niusdiario.es",
+          "author": "Redacción Nius",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/dr-jill-biden-first-lady-ukraine-refugees/",
+          "title": "Dr. Jill Biden: \"First ladies across the globe are committed\" to helping Ukrainian refugees",
+          "website": "CBS News",
+          "date": "June 28, 2022",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731120309/https://www.cbsnews.com/news/dr-jill-biden-first-lady-ukraine-refugees/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "first": "Nancy",
+          "last": "Cordes",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.politico.eu/article/g7-spouses-club-heads-to-the-mountains/",
+          "title": "G7 spouses’ club heads to the mountains",
+          "website": "Politico",
+          "date": "June 27, 2022",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731115940/https://www.politico.eu/article/g7-spouses-club-heads-to-the-mountains/",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://amp.cnn.com/cnn/2021/07/21/politics/jill-biden-tokyo-olympics-covid/index.html",
+          "title": "Jill Biden heads to Tokyo amid growing concern about Covid and the Olympics",
+          "first": "Kate",
+          "last": "Bennett",
+          "website": "CNN Politics",
+          "date": "July 21, 2021",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731121504/https://amp.cnn.com/cnn/2021/07/21/politics/jill-biden-tokyo-olympics-covid/index.html",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.cbsnews.com/news/jill-biden-ukraine-surprise-visit-first-lady/",
           "title": "First lady Dr. Jill Biden makes surprise visit to Ukraine",
           "author-first": "Melissa",
@@ -4587,6 +5133,18 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.usnews.com/news/world/articles/2022-06-27/jill-biden-has-company-on-trip-to-spain",
+          "title": "Jill Biden Has Company on Trip to Spain: 2 Granddaughters",
+          "website": "U.S. News & World Report",
+          "date": "June 27, 2022",
+          "access-date": "July 31, 2022",
+          "archive-url": "https://web.archive.org/web/20220731113656/https://www.usnews.com/news/world/articles/2022-06-27/jill-biden-has-company-on-trip-to-spain",
+          "archive-date": "July 31, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

@@ -616,13 +616,23 @@
         {
           "sentences": [
             {
-              "text": "After practicing law with his family's law firm for a number of years, Cooper was elected to the North Carolina House of Representatives in 1986.",
+              "text": "Cooper was elected to the North Carolina House of Representatives in 1986 after defeating longtime incumbent Allen Barbee in the Democratic primary.",
               "links": [
                 {
                   "type": "internal",
                   "page": "North Carolina House of Representatives"
+                },
+                {
+                  "type": "internal",
+                  "page": "Allen Barbee"
                 }
               ]
+            },
+            {
+              "text": "He drew little attention to himself during his first term aside from resolving a school merger dispute in Nash County."
+            },
+            {
+              "text": "He continued to practice law while serving in the legislature."
             },
             {
               "text": "In 1989 he joined with Republicans and dissident Democrats to unseat Speaker Liston B. Ramsey.",
@@ -671,13 +681,25 @@
           "links": []
         }
       ],
-      "templates": [
-        {
-          "date": "July 2022",
-          "template": "cn"
-        }
-      ],
       "references": [
+        {
+          "title": "Roy Cooper III",
+          "newspaper": "The Charlotte Observer",
+          "page": "10A",
+          "date": "January 3, 1988",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Brannan",
+          "first": "Dan",
+          "title": "Legislators gain editor's respect",
+          "newspaper": "Rocky Mount Telegram",
+          "page": "4",
+          "date": "July 1, 1990",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "url": "https://www.theassemblync.com/long-form/burlington-maple-avenue/",
           "title": "King of the Road",
@@ -702,13 +724,18 @@
         {
           "sentences": [
             {
-              "text": "Cooper was elected North Carolina attorney general in November 2000 and took office on January 6, 2001; he was reelected in 2004.",
+              "text": "Cooper was elected North Carolina attorney general in November 2000, defeating Republican lawyer Dan Boyce and Reform Party candidate Margaret Palms.",
               "links": [
                 {
                   "text": "North Carolina attorney general",
                   "type": "internal",
                   "page": "North Carolina Attorney General"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He took office on January 6, 2001; he was reelected in 2004.",
+              "links": [
                 {
                   "text": "in 2004",
                   "type": "internal",
@@ -780,6 +807,16 @@
         }
       ],
       "references": [
+        {
+          "last": "Metrick",
+          "first": "Gene",
+          "title": "Cooper: Message was winning edge",
+          "newspaper": "Rocky Mount Telegram",
+          "pages": "1A–2A",
+          "date": "November 9, 2000",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "url": "http://www.newsobserver.com/114/story/459634.html",
           "archive-url": "https://archive.today/20120915103810/http://www.newsobserver.com/114/story/459634.html",

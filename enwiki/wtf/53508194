@@ -336,7 +336,7 @@
         {
           "sentences": [
             {
-              "text": "Jean-Pierre was born on August 13, 1977, in Fort-de-France, Martinique, the daughter of Haitian parents.",
+              "text": "Jean-Pierre was born on August 13, 1977, in Fort-de-France, Martinique, France, the daughter of Haitian parents.",
               "links": [
                 {
                   "type": "internal",
@@ -345,6 +345,10 @@
                 {
                   "type": "internal",
                   "page": "Martinique"
+                },
+                {
+                  "type": "internal",
+                  "page": "France"
                 }
               ]
             },

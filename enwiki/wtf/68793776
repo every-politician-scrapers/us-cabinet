@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Erik D. Ramanathan is an American attorney, philanthropist, and political fundraiser who is serving as United States ambassador to Sweden under President Joe Biden.",
+              "text": "Erik Douglas Ramanathan  is an American attorney, philanthropist, and political fundraiser who is serving as United States ambassador to Sweden under President Joe Biden.",
               "links": [
                 {
                   "text": "United States ambassador to Sweden",
@@ -36,7 +36,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Erik D. Ramanathan"
+                  "Erik Douglas Ramanathan "
                 ]
               }
             }
@@ -122,6 +122,18 @@
               }
             ]
           }
+        }
+      ],
+      "references": [
+        {
+          "last": "Ministry of Foreign Affairs, Protocol Department",
+          "url": "https://www.government.se/4a2369/contentassets/fbe729b57a7b4cd8a6cc2ebb882fff02/stockholm-diplomatic-list-29-july-2022.pdf",
+          "title": "Stockholm Diplomatic List",
+          "year": "2022",
+          "archive-url": "https://web.archive.org/web/20220731071400/https://www.government.se/4a2369/contentassets/fbe729b57a7b4cd8a6cc2ebb882fff02/stockholm-diplomatic-list-29-july-2022.pdf",
+          "archive-date": "2022-07-31",
+          "template": "citation",
+          "type": "book"
         }
       ]
     },

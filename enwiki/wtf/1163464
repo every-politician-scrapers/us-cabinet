@@ -2388,6 +2388,13 @@
               "text": "In August 2021, Cuellar joined a group of conservative Democrats, dubbed \"The Unbreakable Nine\", who threatened to derail the Biden administration's $3.5 trillion budget reconciliation package meant to address the nation's physical infrastructure and social safety net."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On July 29, 2022, Cuellar and four other Democrats joined the Republicans in voting against a bill banning assault weapons."
+            }
+          ]
         }
       ],
       "references": [
@@ -2506,8 +2513,10 @@
           "type": "news"
         },
         {
-          "author1": "Ryan Grim",
-          "author2": "Sara Sirota",
+          "first1": "Ryan",
+          "last1": "Grim",
+          "first2": "Sara",
+          "last2": "Sirota",
           "date": "August 24, 2021",
           "work": "The Intercept",
           "url": "https://theintercept.com/2021/08/24/reconciliation-infrastructure-gottheimer-democrats-unbreakable-nine/",
@@ -2524,6 +2533,17 @@
           "quote": "about pilots going on at Laredo that sound a lot like Perceptics'",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last1": "Lee",
+          "first1": "Ella",
+          "title": "Who are the 7 House members who broke with their party in voting on assault weapons ban?",
+          "url": "https://www.usatoday.com/story/news/politics/2022/07/30/congress-members-broke-party-assault-weapons-ban/10191151002/",
+          "access-date": "30 July 2022",
+          "publisher": "USA Today",
+          "date": "30 July 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
