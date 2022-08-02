@@ -204,6 +204,40 @@
                 "page": "White House Communications Director"
               }
             ]
+          },
+          {
+            "text": "American Rescue Plan Coordination (COVID-19 Relief Plan)",
+            "links": [
+              {
+                "text": "American Rescue Plan Coordination",
+                "type": "internal",
+                "page": "American Rescue Plan Act of 2021"
+              },
+              {
+                "type": "internal",
+                "page": "COVID-19"
+              }
+            ]
+          },
+          {
+            "text": "Infrastructure Implementation Coordination",
+            "links": [
+              {
+                "text": " Infrastructure Implementation Coordination",
+                "type": "internal",
+                "page": "Infrastructure Investment and Jobs Act"
+              }
+            ]
+          },
+          {
+            "text": "United States Digital Services",
+            "links": [
+              {
+                "text": "United States Digital Services",
+                "type": "internal",
+                "page": "United States Digital Service"
+              }
+            ]
           }
         ]
       ]
@@ -264,7 +298,11 @@
     },
     {
       "title": "List of senior advisors to the president",
-      "depth": 0,
+      "depth": 0
+    },
+    {
+      "title": "Senior Advisors to President Bill Clinton",
+      "depth": 1,
       "tables": [
         [
           {
@@ -285,9 +323,6 @@
             },
             "col6": {
               "text": "Party"
-            },
-            "col7": {
-              "text": "President"
             }
           },
           {
@@ -319,15 +354,6 @@
                   "text": "Democratic",
                   "type": "internal",
                   "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Bill Clinton",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bill Clinton"
                 }
               ]
             }
@@ -363,15 +389,6 @@
                   "page": "Democratic Party (United States)"
                 }
               ]
-            },
-            "col7": {
-              "text": "Bill Clinton",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bill Clinton"
-                }
-              ]
             }
           },
           {
@@ -405,15 +422,6 @@
                   "page": "Democratic Party (United States)"
                 }
               ]
-            },
-            "col7": {
-              "text": "Bill Clinton",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bill Clinton"
-                }
-              ]
             }
           },
           {
@@ -445,15 +453,6 @@
                   "text": "Democratic",
                   "type": "internal",
                   "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Bill Clinton",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bill Clinton"
                 }
               ]
             }
@@ -490,1069 +489,11 @@
                   "page": "Democratic Party (United States)"
                 }
               ]
-            },
-            "col7": {
-              "text": "Bill Clinton",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bill Clinton"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Karl Rove.jpg"
-            },
-            "col3": {
-              "text": "Karl Rove (born 1950)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Karl Rove"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Political Affairs Strategic Planning Communications"
-            },
-            "col5": {
-              "text": "January 20, 2001 – August 31, 2007"
-            },
-            "col6": {
-              "text": "Republican",
-              "links": [
-                {
-                  "text": "Republican",
-                  "type": "internal",
-                  "page": "Republican Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "George W. Bush",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "George W. Bush"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Barry Steven Jackson.jpg"
-            },
-            "col3": {
-              "text": "Barry Steven Jackson (born 1960)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barry Steven Jackson"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Political Affairs Strategic Planning Communications"
-            },
-            "col5": {
-              "text": "September 1, 2007 – January 20, 2009"
-            },
-            "col6": {
-              "text": "Republican",
-              "links": [
-                {
-                  "text": "Republican",
-                  "type": "internal",
-                  "page": "Republican Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "George W. Bush",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "George W. Bush"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Valerie Jarrett official portrait small.jpg"
-            },
-            "col3": {
-              "text": "Valerie Jarrett (born 1956)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Valerie Jarrett"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Public Engagement Intergovernmental Affairs"
-            },
-            "col5": {
-              "text": "January 20, 2009 – January 20, 2017"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Barack Obama",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Pete Rouse in the Oval Office.jpg"
-            },
-            "col3": {
-              "text": "Pete Rouse (born 1946)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pete Rouse"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Strategic Planning"
-            },
-            "col5": {
-              "text": "January 20, 2009 – October 1, 2010"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Barack Obama",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "David Axelrod.jpg"
-            },
-            "col3": {
-              "text": "David Axelrod (born 1955)",
-              "links": [
-                {
-                  "text": "David Axelrod",
-                  "type": "internal",
-                  "page": "David Axelrod (political consultant)"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Political Affairs Communications"
-            },
-            "col5": {
-              "text": "January 20, 2009 – January 10, 2011"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Barack Obama",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "David Plouffe official portrait.jpg"
-            },
-            "col3": {
-              "text": "David Plouffe (born 1967)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "David Plouffe"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Political Affairs Communications"
-            },
-            "col5": {
-              "text": "January 10, 2011 – January 25, 2013"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Barack Obama",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Daniel Pfeiffer.jpg"
-            },
-            "col3": {
-              "text": "Daniel Pfeiffer (born 1975)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Daniel Pfeiffer"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Political Affairs Communications"
-            },
-            "col5": {
-              "text": "January 25, 2013 – March 6, 2015"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Barack Obama",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Brian Deese official portrait.jpg"
-            },
-            "col3": {
-              "text": "Brian Deese (born 1978)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Brian Deese"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Climate and Energy"
-            },
-            "col5": {
-              "text": "February 13, 2015 – January 20, 2017"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Barack Obama",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Shailagh Murray.jpg"
-            },
-            "col3": {
-              "text": "Shailagh Murray (born 1965)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Shailagh Murray"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Communications"
-            },
-            "col5": {
-              "text": "April 3, 2015 – January 20, 2017"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Barack Obama",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barack Obama"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Jared Kushner June 2019.jpg"
-            },
-            "col3": {
-              "text": "Jared Kushner (born 1981)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jared Kushner"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Strategic Planning"
-            },
-            "col5": {
-              "text": "January 20, 2017 – January 20, 2021"
-            },
-            "col6": {
-              "text": "Republican",
-              "links": [
-                {
-                  "text": "Republican",
-                  "type": "internal",
-                  "page": "Republican Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Donald Trump",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Donald Trump"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Stephen Miller by Gage Skidmore.jpg"
-            },
-            "col3": {
-              "text": "Stephen Miller (born 1985)",
-              "links": [
-                {
-                  "text": "Stephen Miller",
-                  "type": "internal",
-                  "page": "Stephen Miller (political advisor)"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Policy"
-            },
-            "col5": {
-              "text": "January 20, 2017 – January 20, 2021"
-            },
-            "col6": {
-              "text": "Republican",
-              "links": [
-                {
-                  "text": "Republican",
-                  "type": "internal",
-                  "page": "Republican Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Donald Trump",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Donald Trump"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "100px|Kevin Hassett]]"
-            },
-            "col3": {
-              "text": "Kevin Hassett (born 1962)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kevin Hassett"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Economic Issues"
-            },
-            "col5": {
-              "text": "April 15, 2020 – July 1, 2020"
-            },
-            "col6": {
-              "text": "Republican",
-              "links": [
-                {
-                  "text": "Republican",
-                  "type": "internal",
-                  "page": "Republican Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Donald Trump",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Donald Trump"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "100px|Eric Herschmann]]"
-            },
-            "col3": {
-              "text": "Eric Herschmann",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eric Herschmann"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Opposition research Legal issues",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Opposition research"
-                }
-              ]
-            },
-            "col5": {
-              "text": "August 3, 2020 – January 20, 2021"
-            },
-            "col6": {
-              "text": "Republican",
-              "links": [
-                {
-                  "text": "Republican",
-                  "type": "internal",
-                  "page": "Republican Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Donald Trump",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Donald Trump"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Mike Donilon - January 2013.jpg"
-            },
-            "col3": {
-              "text": "Mike Donilon",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mike Donilon"
-                }
-              ]
-            },
-            "col4": {
-              "text": ""
-            },
-            "col5": {
-              "text": "January 20, 2021 – present"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Cedric Richmond official photo.jpg"
-            },
-            "col3": {
-              "text": "Cedric Richmond (born 1973)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cedric Richmond"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Public Engagement"
-            },
-            "col5": {
-              "text": "January 20, 2021 – May 18, 2022"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Anita Dunn.jpg"
-            },
-            "col3": {
-              "text": "Anita Dunn (born 1958)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Anita Dunn"
-                }
-              ]
-            },
-            "col4": {
-              "text": ""
-            },
-            "col5": {
-              "text": "January 20, 2021 – August 12, 2021 May 5, 2022 – present"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Gene Sperling (National Economic Council) (cropped).jpg"
-            },
-            "col3": {
-              "text": "Gene Sperling (born 1958)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gene Sperling"
-                }
-              ]
-            },
-            "col4": {
-              "text": "COVID-19 Relief",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "COVID-19"
-                }
-              ]
-            },
-            "col5": {
-              "text": "March 15, 2021 – present"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Neera Tanden by Gage Skidmore (cropped).jpg"
-            },
-            "col3": {
-              "text": "Neera Tanden (born 1970)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Neera Tanden"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Health care United States Digital Service",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "United States Digital Service"
-                }
-              ]
-            },
-            "col5": {
-              "text": "May 17, 2021 – present"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Former NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg"
-            },
-            "col3": {
-              "text": "Mitch Landrieu (born 1960)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mitch Landrieu"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Infrastructure Investment and Jobs Act",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Infrastructure Investment and Jobs Act"
-                }
-              ]
-            },
-            "col5": {
-              "text": "November 15, 2021 – present"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Julie Chavez Rodriguez (cropped).jpg"
-            },
-            "col3": {
-              "text": "Julie Rodriguez (born 1979)",
-              "links": [
-                {
-                  "text": "Julie Rodriguez",
-                  "type": "internal",
-                  "page": "Julie Chávez Rodriguez"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Intergovernmental Affairs",
-              "links": [
-                {
-                  "text": "Intergovernmental Affairs",
-                  "type": "internal",
-                  "page": "White House Office of Intergovernmental Affairs"
-                }
-              ]
-            },
-            "col5": {
-              "text": "June 15, 2022 – present"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
-            }
-          },
-          {
-            "col1": {
-              "text": ""
-            },
-            "col2": {
-              "text": "Keisha Lance Bottoms in 2019.jpg"
-            },
-            "col3": {
-              "text": "Keisha Lance Bottoms (born 1970)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Keisha Lance Bottoms"
-                }
-              ]
-            },
-            "col4": {
-              "text": "Public Engagement",
-              "links": [
-                {
-                  "text": "Public Engagement",
-                  "type": "internal",
-                  "page": "Office of Public Liaison"
-                }
-              ]
-            },
-            "col5": {
-              "text": "July 1, 2022 – present"
-            },
-            "col6": {
-              "text": "Democratic",
-              "links": [
-                {
-                  "text": "Democratic",
-                  "type": "internal",
-                  "page": "Democratic Party (United States)"
-                }
-              ]
-            },
-            "col7": {
-              "text": "Joe Biden",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Joe Biden"
-                }
-              ]
             }
           }
         ]
       ],
       "templates": [
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Republican Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Republican Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Republican Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Republican Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Republican Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Republican Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            "Democratic Party (United States)"
-          ],
-          "template": "party color"
-        },
         {
           "list": [
             "Democratic Party (United States)"
@@ -1629,7 +570,117 @@
           "title": "Joel Johnson - Glover Park Group",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Senior Advisors to President George W. Bush",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Senior Advisor"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Portfolio"
+            },
+            "col5": {
+              "text": "Term of office"
+            },
+            "col6": {
+              "text": "Party"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Karl Rove.jpg"
+            },
+            "col3": {
+              "text": "Karl Rove (born 1950)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Karl Rove"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Political Affairs Strategic Planning Communications"
+            },
+            "col5": {
+              "text": "January 20, 2001 – August 31, 2007"
+            },
+            "col6": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Barry Steven Jackson.jpg"
+            },
+            "col3": {
+              "text": "Barry Steven Jackson (born 1960)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Barry Steven Jackson"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Political Affairs Strategic Planning Communications"
+            },
+            "col5": {
+              "text": "September 1, 2007 – January 20, 2009"
+            },
+            "col6": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Republican Party (United States)"
+          ],
+          "template": "party color"
         },
+        {
+          "list": [
+            "Republican Party (United States)"
+          ],
+          "template": "party color"
+        }
+      ],
+      "references": [
         {
           "url": "http://www.rove.com/bio",
           "title": "Bio",
@@ -1643,7 +694,313 @@
           "title": "Barry S. Jackson - American Australian Council",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Senior Advisors to President Barack Obama",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Senior Advisor"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Portfolio"
+            },
+            "col5": {
+              "text": "Term of office"
+            },
+            "col6": {
+              "text": "Party"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Valerie Jarrett official portrait small.jpg"
+            },
+            "col3": {
+              "text": "Valerie Jarrett (born 1956)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Valerie Jarrett"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Public Engagement Intergovernmental Affairs"
+            },
+            "col5": {
+              "text": "January 20, 2009 – January 20, 2017"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Pete Rouse in the Oval Office.jpg"
+            },
+            "col3": {
+              "text": "Pete Rouse (born 1946)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pete Rouse"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Strategic Planning"
+            },
+            "col5": {
+              "text": "January 20, 2009 – October 1, 2010"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "David Axelrod.jpg"
+            },
+            "col3": {
+              "text": "David Axelrod (born 1955)",
+              "links": [
+                {
+                  "text": "David Axelrod",
+                  "type": "internal",
+                  "page": "David Axelrod (political consultant)"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Political Affairs Communications"
+            },
+            "col5": {
+              "text": "January 20, 2009 – January 10, 2011"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "David Plouffe official portrait.jpg"
+            },
+            "col3": {
+              "text": "David Plouffe (born 1967)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Plouffe"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Political Affairs Communications"
+            },
+            "col5": {
+              "text": "January 10, 2011 – January 25, 2013"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Daniel Pfeiffer.jpg"
+            },
+            "col3": {
+              "text": "Daniel Pfeiffer (born 1975)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daniel Pfeiffer"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Political Affairs Communications"
+            },
+            "col5": {
+              "text": "January 25, 2013 – March 6, 2015"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Brian Deese official portrait.jpg"
+            },
+            "col3": {
+              "text": "Brian Deese (born 1978)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brian Deese"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Climate and Energy"
+            },
+            "col5": {
+              "text": "February 13, 2015 – January 20, 2017"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Shailagh Murray.jpg"
+            },
+            "col3": {
+              "text": "Shailagh Murray (born 1965)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shailagh Murray"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Communications"
+            },
+            "col5": {
+              "text": "April 3, 2015 – January 20, 2017"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
         },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        }
+      ],
+      "references": [
         {
           "url": "https://obamawhitehouse.archives.gov/administration/senior-leadership/valerie-jarrett",
           "work": "whitehouse.gov",
@@ -1736,7 +1093,202 @@
           "date": "January 29, 2016",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Senior Advisors to President Donald Trump",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Senior Advisor"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Portfolio"
+            },
+            "col5": {
+              "text": "Term of office"
+            },
+            "col6": {
+              "text": "Party"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Jared Kushner June 2019.jpg"
+            },
+            "col3": {
+              "text": "Jared Kushner (born 1981)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jared Kushner"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Strategic Planning"
+            },
+            "col5": {
+              "text": "January 20, 2017 – January 20, 2021"
+            },
+            "col6": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Stephen Miller by Gage Skidmore.jpg"
+            },
+            "col3": {
+              "text": "Stephen Miller (born 1985)",
+              "links": [
+                {
+                  "text": "Stephen Miller",
+                  "type": "internal",
+                  "page": "Stephen Miller (political advisor)"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Policy"
+            },
+            "col5": {
+              "text": "January 20, 2017 – January 20, 2021"
+            },
+            "col6": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "100px|Kevin Hassett]]"
+            },
+            "col3": {
+              "text": "Kevin Hassett (born 1962)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kevin Hassett"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Economic Issues"
+            },
+            "col5": {
+              "text": "April 15, 2020 – July 1, 2020"
+            },
+            "col6": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "100px|Eric Herschmann]]"
+            },
+            "col3": {
+              "text": "Eric Herschmann",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eric Herschmann"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Opposition research Legal issues",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Opposition research"
+                }
+              ]
+            },
+            "col5": {
+              "text": "August 3, 2020 – January 20, 2021"
+            },
+            "col6": {
+              "text": "Republican",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Republican Party (United States)"
+          ],
+          "template": "party color"
         },
+        {
+          "list": [
+            "Republican Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Republican Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Republican Party (United States)"
+          ],
+          "template": "party color"
+        }
+      ],
+      "references": [
         {
           "url": "https://www.washingtonpost.com/news/post-politics/wp/2017/01/09/tumps-son-in-law-jared-kushner-expected-to-join-white-house-as-a-senior-adviser/",
           "title": "Trump's son-in-law, Jared Kushner, to join White House as senior adviser; no formal role for Ivanka Trump",
@@ -1788,6 +1340,445 @@
           "template": "citation",
           "type": "web"
         },
+        {
+          "last": "Trump",
+          "first": "Donald J.",
+          "date": "March 27, 2017",
+          "title": "Presidential Memorandum on The White House Office of American Innovation",
+          "url": "https://trumpwhitehouse.archives.gov/the-press-office/2017/03/27/presidential-memorandum-white-house-office-american-innovation",
+          "via": "National Archives",
+          "work": "whitehouse.gov",
+          "quote": "The Senior Advisor to the President.",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "https://trumpwhitehouse.archives.gov/the-press-office/2017/03/27/press-briefing-press-secretary-sean-spicer-3272017-29",
+          "title": "Press Briefing by Press Secretary Sean Spicer, #29",
+          "date": "March 27, 2017",
+          "via": "National Archives",
+          "work": "whitehouse.gov",
+          "quote": "The effort will be led by Assistant to the President and Senior Adviser Jared Kushner.",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vice.com/en_us/article/mb8jeb/jared-kushner-wasnt-a-republican-until-2018",
+          "title": "Jared Kushner wasn't a Republican until 2018",
+          "last": "Ockerman",
+          "first": "Emma",
+          "date": "April 12, 2019",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20191114194751/https://www.vice.com/en_us/article/mb8jeb/jared-kushner-wasnt-a-republican-until-2018",
+          "archive-date": "November 14, 2019",
+          "publisher": "Vice News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-announces-addition-white-house-staff/",
+          "work": "whitehouse.gov",
+          "title": "President Donald J. Trump Announces Addition to White House Staff",
+          "via": "National Archives",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nytimes.com/2020/10/25/business/media/hunter-biden-wall-street-journal-trump.html?referringSource=articleShare",
+          "title": "Trump Had One Last Story to Sell. The Wall Street Journal Wouldn't Buy It",
+          "newspaper": "The New York Times",
+          "date": "25 October 2020",
+          "last1": "Smith",
+          "first1": "Ben",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.politico.com/news/2020/08/04/impeachment-lawyer-white-house-391506",
+          "title": "Former Trump impeachment lawyer heads to White House",
+          "website": "Politico",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Senior Advisors to President Joe Biden",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Senior Advisor"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Portfolio"
+            },
+            "col5": {
+              "text": "Term of office"
+            },
+            "col6": {
+              "text": "Party"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Mike Donilon - January 2013.jpg"
+            },
+            "col3": {
+              "text": "Mike Donilon",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mike Donilon"
+                }
+              ]
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": "January 20, 2021 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Cedric Richmond official photo.jpg"
+            },
+            "col3": {
+              "text": "Cedric Richmond (born 1973)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cedric Richmond"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Public Engagement"
+            },
+            "col5": {
+              "text": "January 20, 2021 – May 18, 2022"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Anita Dunn.jpg"
+            },
+            "col3": {
+              "text": "Anita Dunn (born 1958)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anita Dunn"
+                }
+              ]
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": "January 20, 2021 – August 12, 2021 May 5, 2022 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Gene Sperling (National Economic Council) (cropped).jpg"
+            },
+            "col3": {
+              "text": "Gene Sperling (born 1958)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gene Sperling"
+                }
+              ]
+            },
+            "col4": {
+              "text": "COVID-19 Relief",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            },
+            "col5": {
+              "text": "March 15, 2021 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Neera Tanden by Gage Skidmore (cropped).jpg"
+            },
+            "col3": {
+              "text": "Neera Tanden (born 1970)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Neera Tanden"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Health care United States Digital Service",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Digital Service"
+                }
+              ]
+            },
+            "col5": {
+              "text": "May 17, 2021 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Former NOLA Mayor Mitch Landrieu Sept. 2018 (cropped).jpg"
+            },
+            "col3": {
+              "text": "Mitch Landrieu (born 1960)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mitch Landrieu"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Infrastructure Implementation Coordination",
+              "links": [
+                {
+                  "text": "Infrastructure Implementation Coordination",
+                  "type": "internal",
+                  "page": "Infrastructure Investment and Jobs Act"
+                }
+              ]
+            },
+            "col5": {
+              "text": "November 15, 2021 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Julie Chavez Rodriguez (cropped).jpg"
+            },
+            "col3": {
+              "text": "Julie Rodriguez (born 1979)",
+              "links": [
+                {
+                  "text": "Julie Rodriguez",
+                  "type": "internal",
+                  "page": "Julie Chávez Rodriguez"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Intergovernmental Affairs",
+              "links": [
+                {
+                  "text": "Intergovernmental Affairs",
+                  "type": "internal",
+                  "page": "White House Office of Intergovernmental Affairs"
+                }
+              ]
+            },
+            "col5": {
+              "text": "June 15, 2022 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Keisha Lance Bottoms in 2019.jpg"
+            },
+            "col3": {
+              "text": "Keisha Lance Bottoms (born 1970)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Keisha Lance Bottoms"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Public Engagement",
+              "links": [
+                {
+                  "text": "Public Engagement",
+                  "type": "internal",
+                  "page": "Office of Public Liaison"
+                }
+              ]
+            },
+            "col5": {
+              "text": "July 1, 2022 – present"
+            },
+            "col6": {
+              "text": "Democratic",
+              "links": [
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "Democratic Party (United States)"
+          ],
+          "template": "party color"
+        }
+      ],
+      "references": [
         {
           "url": "https://www.nytimes.com/2020/11/17/us/politics/mike-donilon-biden.html",
           "title": "Mike Donilon, Who Helped Draft Biden's Message, is Named a Senior Adviser",
@@ -1862,67 +1853,6 @@
           "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/president-biden-announces-former-atlanta-mayor-keisha-lance-bottoms-as-senior-advisor-for-public-engagement/",
           "title": "President Biden Announces Former Atlanta Mayor Keisha Lance Bottoms as Senior Advisor for Public Engagement",
           "date": "June 15, 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Trump",
-          "first": "Donald J.",
-          "date": "March 27, 2017",
-          "title": "Presidential Memorandum on The White House Office of American Innovation",
-          "url": "https://trumpwhitehouse.archives.gov/the-press-office/2017/03/27/presidential-memorandum-white-house-office-american-innovation",
-          "via": "National Archives",
-          "work": "whitehouse.gov",
-          "quote": "The Senior Advisor to the President.",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
-          "url": "https://trumpwhitehouse.archives.gov/the-press-office/2017/03/27/press-briefing-press-secretary-sean-spicer-3272017-29",
-          "title": "Press Briefing by Press Secretary Sean Spicer, #29",
-          "date": "March 27, 2017",
-          "via": "National Archives",
-          "work": "whitehouse.gov",
-          "quote": "The effort will be led by Assistant to the President and Senior Adviser Jared Kushner.",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.vice.com/en_us/article/mb8jeb/jared-kushner-wasnt-a-republican-until-2018",
-          "title": "Jared Kushner wasn't a Republican until 2018",
-          "last": "Ockerman",
-          "first": "Emma",
-          "date": "April 12, 2019",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20191114194751/https://www.vice.com/en_us/article/mb8jeb/jared-kushner-wasnt-a-republican-until-2018",
-          "archive-date": "November 14, 2019",
-          "publisher": "Vice News",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-announces-addition-white-house-staff/",
-          "work": "whitehouse.gov",
-          "title": "President Donald J. Trump Announces Addition to White House Staff",
-          "via": "National Archives",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nytimes.com/2020/10/25/business/media/hunter-biden-wall-street-journal-trump.html?referringSource=articleShare",
-          "title": "Trump Had One Last Story to Sell. The Wall Street Journal Wouldn't Buy It",
-          "newspaper": "The New York Times",
-          "date": "25 October 2020",
-          "last1": "Smith",
-          "first1": "Ben",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.politico.com/news/2020/08/04/impeachment-lawyer-white-house-391506",
-          "title": "Former Trump impeachment lawyer heads to White House",
-          "website": "Politico",
           "template": "citation",
           "type": "web"
         }

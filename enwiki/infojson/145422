@@ -2,6 +2,28 @@
   {
     "office": {
       "links": [
+        "New Castle County Council"
+      ],
+      "stated_as": "Member of the New Castle County Council from the 4th district"
+    },
+    "P580": "1971-01-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Henry R. Folsom"
+    },
+    "P582": "1973-01-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Francis R. Swift"
+    }
+  },
+  {
+    "office": {
+      "links": [
 
       ],
       "stated_as": "Vice President of the United States"
