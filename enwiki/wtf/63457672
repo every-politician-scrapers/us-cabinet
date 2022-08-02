@@ -118,12 +118,12 @@
       ],
       "templates": [
         {
-          "small": "yes",
-          "template": "pp-vand"
-        },
-        {
           "description": "American public health official (born 1957)",
           "template": "short description"
+        },
+        {
+          "small": "yes",
+          "template": "pp-vand"
         },
         {
           "date": "March 2021",
@@ -701,7 +701,7 @@
               "text": "Levine was also criticized for mishandling COVID data reporting and insufficiently addressing the long-standing oversight problems in Pennsylvania nursing homes that were exacerbated by the COVID-19 pandemic."
             },
             {
-              "text": "Levine faced further scrutiny in May of 2020, when she moved her own mother out of a nursing home."
+              "text": "Levine faced further scrutiny in May 2020, when she moved her own mother out of a nursing home."
             },
             {
               "text": "In defending the move, Levine said, \"My mother requested, and my sister and I, as her children, complied to move her to another location during the COVID-19 outbreak\" and described her mother as \"more than competent to make her own decisions.\""
@@ -1031,8 +1031,7 @@
           "type": "journal"
         },
         {
-          "last": "Press",
-          "first": "The Associated",
+          "agency": "Associated Press",
           "date": "2022-06-10",
           "title": "A judge blocks Texas from investigating families of trans youth",
           "language": "en",

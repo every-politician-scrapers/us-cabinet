@@ -7219,6 +7219,79 @@
       ]
     },
     {
+      "title": "College athletics",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2022, Youngkin signed legislation allowing college athletes in Virginia to profit through name, image, and likeness deals.",
+              "links": [
+                {
+                  "text": "college athletes",
+                  "type": "internal",
+                  "page": "College athletics"
+                },
+                {
+                  "text": "name, image, and likeness",
+                  "type": "internal",
+                  "page": "Student athlete compensation"
+                }
+              ]
+            },
+            {
+              "text": "This permanently codified a policy that had already been enacted on a temporary basis a year earlier when Northam was in office."
+            },
+            {
+              "text": "The policy had been temporary under Northam because it had been enacted through the state budget."
+            },
+            {
+              "text": "As it had under Northam, the policy as enacted by Youngkin does not allow college athletes to sponsor or endorse alcohol, tobacco, marijuana, drugs, weapons, casinos, or adult entertainment."
+            },
+            {
+              "text": "The policy allows student athletes to hire agents and ensures that scholarships cannot be lost as a result of earning compensation through a name, image, and likeness deal."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Barber",
+          "first": "Mike",
+          "date": "August 2, 2021",
+          "title": "Virginia governor fast-tracks NIL legislation regulating college athletes' endorsement deals",
+          "url": "https://richmond.com/sports/college/virginia-governor-fast-tracks-nil-legislation-regulating-college-athletes-endorsement-deals/article_3b5ff9cb-a467-543b-af82-2070fe9109ec.html",
+          "access-date": "2022-08-01",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Kolenich",
+          "first": "Eric",
+          "date": "January 24, 2022",
+          "title": "Name, image, likeness law for college athletes is taking shape in Virginia Senate",
+          "url": "https://richmond.com/news/local/education/name-image-likeness-law-for-college-athletes-is-taking-shape-in-virginia-senate/article_8103a9c2-5bfb-503f-89f0-f1c1fc6678ba.html",
+          "access-date": "2022-08-01",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-18",
+          "title": "New name, image & likeness rules for Virginia college athletes on display during March Madness",
+          "url": "https://www.wric.com/college-sports/new-name-image-likeness-rules-for-virginia-college-athletes-on-display-during-march-madness/",
+          "access-date": "2022-08-01",
+          "website": "WRIC ABC 8News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "School safety",
       "depth": 2,
       "paragraphs": [
@@ -7279,6 +7352,23 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Another bill signed by Youngkin in 2022 requires that all members of student organizations at colleges or universities in Virginia receive training to prevent hazing.",
+              "links": [
+                {
+                  "text": "hazing",
+                  "type": "internal",
+                  "page": "hazing"
+                }
+              ]
+            },
+            {
+              "text": "The bill, which was adopted with near unanimous support in the state legislature, also requires chapter advisors to undergo such training, requires that all hazing violations be publicly disclosed, and provides immunity to bystanders who report hazing violations."
+            }
+          ]
         }
       ],
       "references": [
@@ -7307,6 +7397,27 @@
           "access-date": "June 8, 2022",
           "website": "WCYB",
           "date": "June 6, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-04-13",
+          "title": "‘Moment of Joy’: Adam’s Law signed by Gov. Youngkin, focused on college hazing education & transparency",
+          "url": "https://www.wric.com/news/virginia-news/moment-of-joy-adams-law-signed-by-gov-youngkin-focused-on-college-hazing-education-transparency/",
+          "access-date": "2022-08-01",
+          "website": "WRIC ABC 8News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Times-Dispatch",
+          "first": "ERIC KOLENICH Richmond",
+          "title": "Adam's Law, requiring hazing prevention training in college, is signed into law",
+          "url": "https://richmond.com/news/local/education/adams-law-requiring-hazing-prevention-training-in-college-is-signed-into-law/article_cacc751c-4542-55cb-b02b-2971ca0211f2.html",
+          "access-date": "2022-08-01",
+          "website": "Richmond Times-Dispatch",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },

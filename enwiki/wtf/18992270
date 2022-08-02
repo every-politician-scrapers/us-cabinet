@@ -3963,6 +3963,28 @@
         {
           "sentences": [
             {
+              "text": "Biden's first activity as the first lady was at Whitman-Walker Health HIV/AIDS clinic, an LGBT+ community clinic, in Washington, D.C. CNN reported that Biden will have an input in reuniting children who were separated from their parents at the border under enforcement policy of then President Donald Trump, eventhough her spokeperson Michael LaRosa stated that Biden's chief of staff, Julissa Reynoso, will monitoring the reunification.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "CNN"
+                },
+                {
+                  "text": "enforcement policy",
+                  "type": "internal",
+                  "page": "Trump administration family separation policy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "The Joining Forces program with Michelle Obama, which was put on hiatus by Melania Trump, has been revived by Biden."
             },
             {
@@ -4027,7 +4049,10 @@
               "text": "In a February 2022 appearance before the Community College National Legislative Summit, Biden publicly acknowledged that the free community college tuition item had been dropped from any BBB bill and said that she was \"disappointed ... these aren't just bills and budgets to me.\""
             },
             {
-              "text": "Biden supported Child Tax Credit, a tax benefit to help families with young children and a part of American Rescue Plan.",
+              "text": "Biden supported Child Tax Credit, a tax benefit to help families with young children."
+            },
+            {
+              "text": "The credit is a part of American Rescue Plan.",
               "links": [
                 {
                   "type": "internal",
@@ -4043,23 +4068,13 @@
                   "page": "Des Moines, Iowa"
                 }
               ]
-            },
-            {
-              "text": "In April 2022, she held virtual event to highlight child tax credit for Americans of Latino descent with several institutions such as UnidosUS, the Hispanic Federation, United Way of Puerto Rico and others.",
-              "links": [
-                {
-                  "text": "Americans of Latino descent",
-                  "type": "internal",
-                  "page": "Hispanic and Latino Americans"
-                }
-              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Jill Biden is an advocate for COVID-19 vaccination and travelled the United States as a part of President Biden's campaign to vaccinate Americans against COVID-19.",
+              "text": "Jill Biden is an advocate for COVID-19 vaccination and toured the United States as a part of President Biden's campaign to vaccinate Americans against COVID-19.",
               "links": [
                 {
                   "text": "COVID-19 vaccination",
@@ -4135,50 +4150,7 @@
               ]
             },
             {
-              "text": "She also visited other states such as Tennessee, Mississippi, Utah, Arizona, New Mexico, Washington, Wisconsin, West Virginia, Alabama, and Alaska.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tennessee"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mississippi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Utah"
-                },
-                {
-                  "type": "internal",
-                  "page": "Arizona"
-                },
-                {
-                  "type": "internal",
-                  "page": "New Mexico"
-                },
-                {
-                  "text": "Washington",
-                  "type": "internal",
-                  "page": "Washington (state)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Wisconsin"
-                },
-                {
-                  "type": "internal",
-                  "page": "West Virginia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alabama"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alaska"
-                }
-              ]
+              "text": "She also visited other states such as Tennessee, Mississippi, Utah, Arizona, New Mexico, Washington, Wisconsin, Virginia, West Virginia, Alabama, and Alaska."
             }
           ]
         },
@@ -4197,7 +4169,7 @@
               ]
             },
             {
-              "text": "On February 24, 2021, Biden visited Virginia Commonwealth University's Massey Cancer Center.",
+              "text": "On February 24, 2021, she visited Virginia Commonwealth University's Massey Cancer Center.",
               "links": [
                 {
                   "type": "internal",
@@ -4209,8 +4181,13 @@
               "text": "There, she met with scientists, doctors and community leaders to learn about their work to address cancer disparities."
             },
             {
-              "text": "On October 21, 2021, Biden was interviewed by Good Morning America's anchor Robin Roberts where they discussed about breast cancer screenings access and the effect of COVID-19 pandemic on screening and mammograms of people in the U.S. On February 21, 2022, Biden visited Moffitt Cancer Center.",
+              "text": "On October 21, 2021, Biden appeared on ABC's Good Morning America hosted by anchor Robin Roberts where they discussed about breast cancer screenings access and the effect of COVID-19 pandemic on screening and mammograms of people in the U.S. On February 21, 2022, Biden visited Moffitt Cancer Center.",
               "links": [
+                {
+                  "text": "ABC",
+                  "type": "internal",
+                  "page": "American Broadcasting Company"
+                },
                 {
                   "type": "internal",
                   "page": "Good Morning America"
@@ -4224,7 +4201,12 @@
                   "type": "internal",
                   "page": "COVID-19 pandemic"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Good Morning America"
+                ]
+              }
             },
             {
               "text": "There, she met with leading experts to learn about their work in cancer prevention, health disparities, screenings and community engagement."
@@ -4240,11 +4222,7 @@
             },
             {
               "text": "She also toured FoundCare Palm Springs, a health center which received funding from The Promise Fund of Florida, an organization which pays for cancer screenings and treatments for disadvantaged women."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In March 2022, Biden and Doug Emhoff hosted the Ukrainian ambassador to the United States, Oksana Markarova, in her box at the State of the Union address.",
               "links": [
@@ -4320,6 +4298,85 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the July 2022 conference of UnidosUS, Biden claimed Latinos were as \"unique\" as tacos.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UnidosUS"
+                }
+              ]
+            },
+            {
+              "text": "She also mispronounced the word \"bodegas\".",
+              "links": [
+                {
+                  "text": "bodegas",
+                  "type": "internal",
+                  "page": "bodega (store)"
+                }
+              ]
+            },
+            {
+              "text": "Her racial stereotyping caused widespread condemnation.",
+              "links": [
+                {
+                  "text": "racial stereotyping",
+                  "type": "internal",
+                  "page": "Stereotypes of Hispanic and Latino Americans in the United States"
+                }
+              ]
+            },
+            {
+              "text": "The National Association of Hispanic Journalists issued a statement saying, among other things, \"We are not tacos.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Association of Hispanic Journalists"
+                }
+              ]
+            },
+            {
+              "text": "According to The Times, the timing was unfortunate for the White House, as president Biden and his Democratic Party were working to win back Hispanic voters who had drifted to the Republican Party, before the midterm elections of November 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Times"
+                },
+                {
+                  "text": "Republican Party",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "text": "midterm elections of November 2022",
+                  "type": "internal",
+                  "page": "2022 United States elections"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Times"
+                ]
+              }
+            },
+            {
+              "text": "Biden apologized via a spokesman."
+            },
+            {
+              "text": "Her approval rating plunged after the controversy.",
+              "links": [
+                {
+                  "text": "approval rating",
+                  "type": "internal",
+                  "page": "approval rating"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -4332,6 +4389,36 @@
         }
       ],
       "references": [
+        {
+          "url": "https://www.lgbtqnation.com/2021/01/dr-jill-biden-visits-lgbtq-community-clinic-just-second-day-first-lady/",
+          "title": "Dr. Jill Biden visits a LGBTQ community clinic in just her second day as First Lady",
+          "website": "LGBT Nation",
+          "archive-url": "https://web.archive.org/web/20220801133656/https://www.lgbtqnation.com/2021/01/dr-jill-biden-visits-lgbtq-community-clinic-just-second-day-first-lady/",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://edition.cnn.com/2021/01/27/politics/jill-biden-immigration-family-separation/index.html",
+          "title": "First lady Jill Biden expected to take active role in immigrant family reunification",
+          "website": "CNN",
+          "archive-url": "https://web.archive.org/web/20220801133845/https://edition.cnn.com/favicon.ico",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.usatoday.com/story/entertainment/celebrities/2021/01/27/first-lady-jill-bidens-staff-monitor-task-force-reunite-separated-families/4283677001",
+          "title": "First lady Jill Biden's staff to monitor task force to reunite separated families",
+          "website": "USA Today",
+          "archive-url": "https://web.archive.org/web/20220801134950/https://www.usatoday.com/story/entertainment/celebrities/2021/01/27/first-lady-jill-bidens-staff-monitor-task-force-reunite-separated-families/4283677001/",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "last1": "Chalfant",
           "first1": "Morgan",
@@ -4412,17 +4499,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "https://www.whitehouse.gov/child-tax-credit/",
-          "title": "The Child Tax Credit",
-          "website": "White House",
-          "access-date": "August 1, 2022",
-          "archive-url": "https://web.archive.org/web/20220801014842/https://www.whitehouse.gov/child-tax-credit/",
-          "archive-date": "August 1, 2022",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
         },
         {
           "url": "https://www.desmoinesregister.com/story/money/business/2021/09/15/first-lady-jill-biden-child-tax-credits-extension-iowa-dmacc-ankeny-des-moines-community-college/8279917002/",
@@ -4533,7 +4609,7 @@
         {
           "url": "https://apnews.com/article/health-jill-biden-coronavirus-c5b53d474408e92868d4f8c667800faa",
           "title": "Jill Biden visits US Southwest amid vaccine push",
-          "location": "Alberquerque",
+          "location": "Albuquerque",
           "website": "Associated Press",
           "date": "April 22, 2021",
           "access-date": "July 31, 2022",
@@ -4561,6 +4637,16 @@
           "last1": "Miller",
           "first2": "Josh",
           "last2": "Boak",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html",
+          "website": "The New York Times",
+          "title": "Jill Biden Kicks Off Covid Vaccine Campaign for Young Children",
+          "archive-url": "https://web.archive.org/web/20220801125746/https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4652,6 +4738,99 @@
           "type": "web"
         },
         {
+          "quote": "[...] the bodegas of the Bronx, as beautiful as the blossoms of Miami, and as unique as the breakfast tacos here in San Antonio, is your strength,\" Biden said.",
+          "url": "https://www.reuters.com/world/us/jill-biden-chided-saying-latinos-unique-breakfast-tacos-2022-07-12/",
+          "archive-url": "http://web.archive.org/web/20220717111126/https://www.reuters.com/world/us/jill-biden-chided-saying-latinos-unique-breakfast-tacos-2022-07-12/",
+          "date": "July 12, 2022",
+          "archive-date": "July 17, 2022",
+          "title": "Jill Biden chided for saying Latinos as unique as 'breakfast tacos'",
+          "agency": "Reuters",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "website": "CNN",
+          "url": "https://edition.cnn.com/2022/07/12/politics/jill-biden-breakfast-tacos/index.html",
+          "date": "July 12, 2022",
+          "title": "Jill Biden apologizes after citing 'bodegas' and 'breakfast tacos' to praise Hispanic diversity",
+          "last1": "Bennett",
+          "first1": "Kate",
+          "last2": "Blaine",
+          "first2": "Kyle",
+          "archive-url": "http://web.archive.org/web/20220729072514/https://edition.cnn.com/2022/07/12/politics/jill-biden-breakfast-tacos/index.html",
+          "archive-date": "July 29, 2022",
+          "quote": "[...] Biden said, while mispronouncing the word \"bodega.\"",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "newspaper": "The Times",
+          "title": "Joe Biden’s wife Jill joins him in rock-bottom poll rating",
+          "url": "https://www.thetimes.co.uk/article/joe-biden-wife-jill-rock-bottom-poll-rating-democrats-tacos-nrv9trjlz",
+          "url-access": "subscription",
+          "date": "July 21, 2022",
+          "last": "Tomlinson",
+          "first": "Hugh",
+          "archive-url": "https://archive.ph/G8BqS",
+          "archive-date": "July 21, 2022",
+          "quote": "The racial stereotyping prompted widespread condemnation [...]",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "quote": "The National Association of Hispanic Journalists was not impressed, saying Biden and her speech writers ought to \"better understand the complexities of our people.\" \"We are not tacos. Our heritage as Latinos is shaped by a variety of diasporas, cultures and food traditions, and should not be reduced to a stereotype,\" the association said in a statement.",
+          "url": "https://www.reuters.com/world/us/jill-biden-chided-saying-latinos-unique-breakfast-tacos-2022-07-12/",
+          "archive-url": "http://web.archive.org/web/20220717111126/https://www.reuters.com/world/us/jill-biden-chided-saying-latinos-unique-breakfast-tacos-2022-07-12/",
+          "date": "July 12, 2022",
+          "archive-date": "July 17, 2022",
+          "title": "Jill Biden chided for saying Latinos as unique as 'breakfast tacos'",
+          "agency": "Reuters",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "newspaper": "The Times",
+          "title": "Joe Biden’s wife Jill joins him in rock-bottom poll rating",
+          "url": "https://www.thetimes.co.uk/article/joe-biden-wife-jill-rock-bottom-poll-rating-democrats-tacos-nrv9trjlz",
+          "url-access": "subscription",
+          "date": "July 21, 2022",
+          "last": "Tomlinson",
+          "first": "Hugh",
+          "archive-url": "https://archive.ph/G8BqS",
+          "archive-date": "July 21, 2022",
+          "quote": "The timing of her error is unfortunate for the White House as the president and his Democratic Party is fighting to win back Hispanic voters drifting towards to the Republicans before midterm elections in November.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "newspaper": "The Times",
+          "title": "Joe Biden’s wife Jill joins him in rock-bottom poll rating",
+          "url": "https://www.thetimes.co.uk/article/joe-biden-wife-jill-rock-bottom-poll-rating-democrats-tacos-nrv9trjlz",
+          "url-access": "subscription",
+          "date": "July 21, 2022",
+          "last": "Tomlinson",
+          "first": "Hugh",
+          "archive-url": "https://archive.ph/G8BqS",
+          "archive-date": "July 21, 2022",
+          "quote": "Michael LaRosa, Jill Biden’s spokesman, said she “apologises that her words conveyed anything but pure admiration and love for the Latino community”.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "newspaper": "The Times",
+          "title": "Joe Biden’s wife Jill joins him in rock-bottom poll rating",
+          "url": "https://www.thetimes.co.uk/article/joe-biden-wife-jill-rock-bottom-poll-rating-democrats-tacos-nrv9trjlz",
+          "url-access": "subscription",
+          "date": "July 21, 2022",
+          "last": "Tomlinson",
+          "first": "Hugh",
+          "archive-url": "https://archive.ph/G8BqS",
+          "archive-date": "July 21, 2022",
+          "quote": "A poll for CNN by SSRS, the market research company, found her approval rating had plunged to 34 per cent. That marks a fall of 24 points since she entered the White House last year, when her approval rating was at 58 per cent. The slump came after a racial gaffe last week that caused deep offence.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "https://www.nbcnews.com/politics/congress/first-lady-jill-biden-say-free-community-college-wont-included-social-rcna15128",
           "title": "Jill Biden says free community college won't be included in social spending bill",
           "author-first": "Rebecca",
@@ -4663,6 +4842,17 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.whitehouse.gov/child-tax-credit/",
+          "title": "The Child Tax Credit",
+          "website": "White House",
+          "access-date": "August 1, 2022",
+          "archive-url": "https://web.archive.org/web/20220801014842/https://www.whitehouse.gov/child-tax-credit/",
+          "archive-date": "August 1, 2022",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/first-lady-jill-biden-leads-administration-officials-in-call-for-puerto-rican-families-to-sign-up-for-the-american-rescue-plans-expanded-child-tax-credit/",

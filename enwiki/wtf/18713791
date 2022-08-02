@@ -128,11 +128,15 @@
             ]
           },
           "alongside": {
-            "text": "Mike Donilon, Gene Sperling, Neera Tanden, Mitch Landrieu, Julie Rodriguez, and Keisha Lance Bottoms",
+            "text": "Mike Donilon (Jan. 2021-present) Cedric Richmond (Jan. 2021-May 2022) Gene Sperling (Mar. 2021-present) Neera Tanden (May 2021-present) \nMitch Landrieu (Nov. 2021-present) Julie Rodriguez (June 2022-present) Keisha Lance Bottoms (July 2022-present)",
             "links": [
               {
                 "type": "internal",
                 "page": "Mike Donilon"
+              },
+              {
+                "type": "internal",
+                "page": "Cedric Richmond"
               },
               {
                 "type": "internal",
