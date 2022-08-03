@@ -1,0 +1,760 @@
+{
+  "title": "Barbara Cegavske",
+  "pageID": 13257123,
+  "categories": [
+    "1951 births",
+    "21st-century American politicians",
+    "21st-century American women politicians",
+    "Methodists from Nevada",
+    "20th-century American businesswomen",
+    "College of Southern Nevada alumni",
+    "Living people",
+    "Members of the Nevada Assembly",
+    "Nevada Republicans",
+    "Nevada state senators",
+    "People from Faribault, Minnesota",
+    "Politicians from Carson City, Nevada",
+    "Politicians from Las Vegas",
+    "Secretaries of State of Nevada",
+    "Women state legislators in Nevada",
+    "20th-century American businesspeople",
+    "20th-century American politicians",
+    "20th-century American women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Barbara Katherine Cegavske (née Jewson; born August 27, 1951) is an American businesswoman and politician, who is the current Secretary of State of Nevada.",
+              "links": [
+                {
+                  "text": "businesswoman",
+                  "type": "internal",
+                  "page": "Businesspeople"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary of State of Nevada"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Barbara Katherine Cegavske",
+                  "Jewson"
+                ]
+              }
+            },
+            {
+              "text": "She was a Republican member of the Nevada Senate, representing Clark County District 8 (map) from 2002 to 2014.",
+              "links": [
+                {
+                  "text": "map",
+                  "type": "external",
+                  "site": "https://web.archive.org/web/20041214081116/http://www.leg.state.nv.us/lcb/research/RedistMaps/dm72/color/sencl8.jpg"
+                },
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nevada Senate"
+                }
+              ]
+            },
+            {
+              "text": "Previously, she served in the Nevada Assembly from 1996 to 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nevada Assembly"
+                }
+              ]
+            },
+            {
+              "text": "According to her legislative biography, she was educated at Mayo High School in Rochester, Minnesota, and at Clark County Community College (now known as the College of Southern Nevada) in Las Vegas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayo High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Clark County Community College"
+                }
+              ]
+            },
+            {
+              "text": "With her husband, Tim, she was a 7-11 convenience store franchisee for thirteen years before seeking political office.",
+              "links": [
+                {
+                  "text": "7-11",
+                  "type": "internal",
+                  "page": "7-Eleven"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cegavske is a member of the American Legislative Exchange Council (ALEC), serving as Nevada state leader in 2012.",
+              "links": [
+                {
+                  "text": "member of",
+                  "type": "internal",
+                  "page": "List of members of the American Legislative Exchange Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "American Legislative Exchange Council"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cegavske successfully ran for the office of Secretary of State of Nevada in 2014, defeating Democratic state treasurer Kate Marshall.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary of State of Nevada"
+                },
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kate Marshall"
+                }
+              ]
+            },
+            {
+              "text": "Cegavske supports voter ID laws and opposes same-day voter registration.",
+              "links": [
+                {
+                  "text": "voter ID laws",
+                  "type": "internal",
+                  "page": "Voter identification laws in the United States"
+                },
+                {
+                  "text": "same-day voter registration",
+                  "type": "internal",
+                  "page": "same-day voter registration"
+                }
+              ]
+            },
+            {
+              "text": "She was reelected in 2018, very narrowly defeating Democrat Nelson Araujo.",
+              "links": [
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Nevada elections",
+                  "anchor": "Secretary of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nelson Araujo"
+                }
+              ]
+            },
+            {
+              "text": "With the defeat of several fellow Republicans in that election, Cegavske became the only member of her party holding statewide elected office in Nevada."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After Joe Biden won the 2020 election and Donald Trump lost while refusing to concede, Cegavske was censured by the Nevada Republican Party for not having conducted an investigation into allegations of fraud and for \"dismissive public statements regarding election integrity concerns.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nevada Republican Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American businesswoman and politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1951",
+          "month": "8",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Barbara Cegavske"
+          },
+          "image": {
+            "text": "Barbara-Cegvaske.png"
+          },
+          "office": {
+            "text": "17th Secretary of State of Nevada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of State of Nevada"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Brian Sandoval\nSteve Sisolak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brian Sandoval"
+              },
+              {
+                "type": "internal",
+                "page": "Steve Sisolak"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 5, 2015"
+          },
+          "predecessor": {
+            "text": "Ross Miller",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ross Miller"
+              }
+            ]
+          },
+          "state_senate1": {
+            "text": "Nevada"
+          },
+          "district1": {
+            "text": "8th",
+            "links": [
+              {
+                "text": "8th",
+                "type": "internal",
+                "page": "Nevada's 8th Senate district"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2002",
+            "number": 2002
+          },
+          "term_end1": {
+            "text": "2014",
+            "number": 2014
+          },
+          "predecessor1": {
+            "text": "Mark James"
+          },
+          "successor1": {
+            "text": "Patricia Farley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patricia Farley"
+              }
+            ]
+          },
+          "state_assembly2": {
+            "text": "Nevada"
+          },
+          "district2": {
+            "text": "5th"
+          },
+          "term_start2": {
+            "text": "1996",
+            "number": 1996
+          },
+          "term_end2": {
+            "text": "2002",
+            "number": 2002
+          },
+          "predecessor2": {
+            "text": "Jeannine Stroth"
+          },
+          "successor2": {
+            "text": "Valerie Weber"
+          },
+          "birth_name": {
+            "text": "Barbara Katherine Jewson"
+          },
+          "birth_date": {
+            "text": "August 27, 1951"
+          },
+          "birth_place": {
+            "text": "Faribault, Minnesota, U.S.",
+            "links": [
+              {
+                "text": "Faribault",
+                "type": "internal",
+                "page": "Faribault, Minnesota"
+              },
+              {
+                "type": "internal",
+                "page": "Minnesota"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican Party",
+            "links": [
+              {
+                "text": "Republican Party",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Tim Cegavske"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "education": {
+            "text": "College of Southern Nevada (BA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "College of Southern Nevada"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              }
+            ]
+          },
+          "website": {
+            "text": "Campaign website"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.alec.org/about-alec/state-chairmen/",
+          "title": "State Chairmen",
+          "publisher": "American Legislative Exchange Council",
+          "access-date": "May 19, 2012",
+          "archive-url": "https://web.archive.org/web/20120401235511/http://www.alec.org/about-alec/state-chairmen/",
+          "archive-date": "April 1, 2012",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Myers",
+          "first": "Laura",
+          "url": "http://www.reviewjournal.com/news/nevada/cegavske-backs-voter-id-law-nevada",
+          "title": "Cegavske backs voter ID law for Nevada",
+          "date": "September 26, 2014",
+          "newspaper": "Las Vegas Review-Journal",
+          "access-date": "September 30, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Jamerson",
+          "first": "Michael C. Bender, Alexa Corse and Joshua",
+          "date": "2021-11-23",
+          "title": "Trump’s False Claims of Voter Fraud Test Republican Candidates",
+          "language": "en-US",
+          "work": "Wall Street Journal",
+          "url": "https://www.wsj.com/articles/trumps-voter-fraud-claims-test-republican-candidates-election-youngkin-campaign-11637679164",
+          "access-date": "2021-11-24",
+          "issn": "0099-9660",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cegavske was elected in 1996 to the Nevada Assembly from the Clark County 5th District."
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Party": {
+              "text": "Republican",
+              "formatting": {
+                "bold": [
+                  "Republican"
+                ]
+              }
+            },
+            "Candidate": {
+              "text": "Barbara Cegavske",
+              "formatting": {
+                "bold": [
+                  "Barbara Cegavske"
+                ]
+              }
+            },
+            "Votes": {
+              "text": "942",
+              "number": 942,
+              "formatting": {
+                "bold": [
+                  "942"
+                ]
+              }
+            },
+            "%": {
+              "text": "46.73",
+              "number": 46.73,
+              "formatting": {
+                "bold": [
+                  "46.73"
+                ]
+              }
+            }
+          },
+          {
+            "Party": {
+              "text": "Republican"
+            },
+            "Candidate": {
+              "text": "Jeannine Stroth"
+            },
+            "Votes": {
+              "text": "799",
+              "number": 799
+            },
+            "%": {
+              "text": "39.63",
+              "number": 39.63
+            }
+          },
+          {
+            "Party": {
+              "text": "Republican"
+            },
+            "Candidate": {
+              "text": "Harry Pappas"
+            },
+            "Votes": {
+              "text": "275",
+              "number": 275
+            },
+            "%": {
+              "text": "13.64",
+              "number": 13.64
+            }
+          }
+        ],
+        [
+          {
+            "Party": {
+              "text": "Republican",
+              "formatting": {
+                "bold": [
+                  "Republican"
+                ]
+              }
+            },
+            "Candidate": {
+              "text": "Barbara Cegavske",
+              "formatting": {
+                "bold": [
+                  "Barbara Cegavske"
+                ]
+              }
+            },
+            "Votes": {
+              "text": "6,883",
+              "number": 6883,
+              "formatting": {
+                "bold": [
+                  "6,883"
+                ]
+              }
+            },
+            "%": {
+              "text": "77.46",
+              "number": 77.46,
+              "formatting": {
+                "bold": [
+                  "77.46"
+                ]
+              }
+            }
+          },
+          {
+            "Party": {
+              "text": "Libertarian"
+            },
+            "Candidate": {
+              "text": "Patrick O'Neill"
+            },
+            "Votes": {
+              "text": "2,003",
+              "number": 2003
+            },
+            "%": {
+              "text": "22.54",
+              "number": 22.54
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://cegavskeforsos.com/"
+          ],
+          "template": "official website"
+        },
+        {
+          "list": [
+            "82166"
+          ],
+          "template": "c-span"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Ross Miller",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of State of Nevada",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "current nevada statewide political officials"
+        },
+        {
+          "template": "u.s. state secretaries of state"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Nevada State Legislature – Senator Barbara Cegavske –official government website",
+            "links": [
+              {
+                "text": "Nevada State Legislature – Senator Barbara Cegavske",
+                "type": "external",
+                "site": "http://leg.state.nv.us/74th/Legislators/Senators/Cegavske.pdf"
+              }
+            ]
+          },
+          {
+            "text": "Project Vote Smart – Senator Barbara Cegavske (NV) profile",
+            "links": [
+              {
+                "text": "Project Vote Smart – Senator Barbara Cegavske (NV)",
+                "type": "external",
+                "site": "http://votesmart.org/candidate/biography/12503/barbara-cegavske"
+              }
+            ]
+          },
+          {
+            "text": "Follow the Money – Barbara Cegavske",
+            "formatting": {
+              "italic": [
+                "Follow the Money"
+              ]
+            }
+          },
+          {
+            "text": "2006 2004 2002 2000 1998 1996 campaign contributions",
+            "links": [
+              {
+                "text": "2006",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043908/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200633&c=419166"
+              },
+              {
+                "text": "2004",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043911/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200433&c=410794"
+              },
+              {
+                "text": "2002",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043901/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200233&c=21578"
+              },
+              {
+                "text": "2000",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043917/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200033&c=388645"
+              },
+              {
+                "text": "1998",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043930/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=199833&c=371495"
+              },
+              {
+                "text": "1996",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043924/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=199633&c=371315"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Follow the Money – Barbara Cegavske",
+            "formatting": {
+              "italic": [
+                "Follow the Money"
+              ]
+            }
+          },
+          {
+            "text": "2006 2004 2002 2000 1998 1996 campaign contributions",
+            "links": [
+              {
+                "text": "2006",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043908/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200633&c=419166"
+              },
+              {
+                "text": "2004",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043911/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200433&c=410794"
+              },
+              {
+                "text": "2002",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043901/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200233&c=21578"
+              },
+              {
+                "text": "2000",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043917/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=200033&c=388645"
+              },
+              {
+                "text": "1998",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043930/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=199833&c=371495"
+              },
+              {
+                "text": "1996",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120219043924/http://www.followthemoney.org/database/StateGlance/candidate.phtml?si=199633&c=371315"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

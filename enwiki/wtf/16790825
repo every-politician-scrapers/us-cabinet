@@ -1,0 +1,1344 @@
+{
+  "title": "Dan McKee",
+  "pageID": 16790825,
+  "categories": [
+    "1951 births",
+    "20th-century American businesspeople",
+    "20th-century American politicians",
+    "21st-century American politicians",
+    "Assumption University (Worcester) alumni",
+    "Businesspeople from Rhode Island",
+    "Governors of Rhode Island",
+    "Harvard Kennedy School alumni",
+    "Lieutenant Governors of Rhode Island",
+    "Living people",
+    "Mayors of places in Rhode Island",
+    "People from Cumberland, Rhode Island",
+    "Rhode Island Democrats",
+    "Rhode Island city council members"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniel J. McKee (born June 16, 1951) is an American businessman and politician serving as the 76th governor of Rhode Island since March 2021.",
+              "links": [
+                {
+                  "text": "governor of Rhode Island",
+                  "type": "internal",
+                  "page": "governor of Rhode Island"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel J. McKee"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Democratic Party, he previously served as the 69th lieutenant governor of Rhode Island from 2015 to 2021.",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "text": "lieutenant governor of Rhode Island",
+                  "type": "internal",
+                  "page": "Lieutenant Governor of Rhode Island"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in Cumberland, Rhode Island, McKee received his undergraduate degree from Assumption College and his Master's degree from Harvard Kennedy School.",
+              "links": [
+                {
+                  "text": "Assumption College",
+                  "type": "internal",
+                  "page": "Assumption University (Worcester)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard Kennedy School"
+                }
+              ]
+            },
+            {
+              "text": "He served as a member of the Cumberland town council from 1992 to 1998 and mayor of Cumberland twice, from 2000 to 2004 and from 2006 until 2014.",
+              "links": [
+                {
+                  "text": "Cumberland",
+                  "type": "internal",
+                  "page": "Cumberland, Rhode Island"
+                },
+                {
+                  "text": "town council",
+                  "type": "internal",
+                  "page": "town council"
+                }
+              ]
+            },
+            {
+              "text": "He was elected as the lieutenant governor of Rhode Island in 2014."
+            },
+            {
+              "text": "When Governor Gina Raimondo resigned to become President Joe Biden's secretary of commerce in 2021, McKee ascended to the post of governor of Rhode Island.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gina Raimondo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                },
+                {
+                  "text": "secretary of commerce",
+                  "type": "internal",
+                  "page": "United States Secretary of Commerce"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
+          "description": "76th governor of Rhode Island",
+          "template": "short description"
+        },
+        {
+          "year": "1951",
+          "month": "6",
+          "day": "16",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Dan McKee"
+          },
+          "image": {
+            "text": "Dan McKee Rose Garden October 2021.jpg"
+          },
+          "order": {
+            "text": "76th"
+          },
+          "lieutenant": {
+            "text": "Sabina Matos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sabina Matos"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 2, 2021"
+          },
+          "predecessor": {
+            "text": "Gina Raimondo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gina Raimondo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Lieutenant Governor of Rhode Island"
+          },
+          "governor1": {
+            "text": "Gina Raimondo"
+          },
+          "term_start1": {
+            "text": "January 6, 2015"
+          },
+          "term_end1": {
+            "text": "March 2, 2021"
+          },
+          "predecessor1": {
+            "text": "Elizabeth Roberts",
+            "links": [
+              {
+                "text": "Elizabeth Roberts",
+                "type": "internal",
+                "page": "Elizabeth H. Roberts"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Sabina Matos"
+          },
+          "office3": {
+            "text": "Mayor of Cumberland",
+            "links": [
+              {
+                "text": "Cumberland",
+                "type": "internal",
+                "page": "Cumberland, Rhode Island"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "January 2001"
+          },
+          "term_end4": {
+            "text": "January 2005"
+          },
+          "predecessor4": {
+            "text": "Frank Gaschen"
+          },
+          "successor4": {
+            "text": "David Iwuc"
+          },
+          "term_start3": {
+            "text": "January 7, 2007"
+          },
+          "term_end3": {
+            "text": "January 6, 2015"
+          },
+          "predecessor3": {
+            "text": "David Iwuc"
+          },
+          "successor3": {
+            "text": "William Murray"
+          },
+          "birth_date": {
+            "text": "June 16, 1951"
+          },
+          "birth_place": {
+            "text": "Cumberland, Rhode Island, U.S.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cumberland, Rhode Island"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Susan McGill"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "education": {
+            "text": "Assumption University (BA) Harvard University (MPA)",
+            "links": [
+              {
+                "text": "Assumption University",
+                "type": "internal",
+                "page": "Assumption University (Worcester)"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
+              },
+              {
+                "text": "MPA",
+                "type": "internal",
+                "page": "Master of Public Administration"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of the Cumberland Town Council"
+          },
+          "term_start5": {
+            "text": "1992",
+            "number": 1992
+          },
+          "term_end5": {
+            "text": "1998",
+            "number": 1998
+          },
+          "office": {
+            "text": "Governor of Rhode Island"
+          },
+          "order1": {
+            "text": "69th"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.providencejournal.com/article/20131113/NEWS/311139978",
+          "title": "Cumberland Mayor McKee announces bid for R.I. lieutenant governor",
+          "last": "Edgar",
+          "first": "Randal",
+          "website": "providencejournal.com",
+          "language": "en",
+          "access-date": "November 21, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Anderson",
+          "first": "Katherine Gregg and Patrick",
+          "title": "Raimondo resigns after winning Senate confirmation as U.S. commerce secretary; McKee sworn in as RI governor",
+          "url": "https://www.providencejournal.com/story/news/politics/2021/03/02/ri-may-have-new-governor-today-heres-how-would-happen/6883302002/",
+          "access-date": "2021-03-12",
+          "website": "The Providence Journal",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McKee's family has owned and operated small businesses in northern Rhode Island for over one hundred years."
+            },
+            {
+              "text": "He is a practicing Roman Catholic."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After graduating from Cumberland High School, McKee received a Bachelor of Arts degree from Assumption College in Worcester, Massachusetts and a Master of Public Administration from the Harvard Kennedy School.",
+              "links": [
+                {
+                  "text": "Cumberland High School",
+                  "type": "internal",
+                  "page": "Cumberland High School (Rhode Island)"
+                },
+                {
+                  "text": "Assumption College",
+                  "type": "internal",
+                  "page": "Assumption College (Worcester)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Worcester, Massachusetts"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master of Public Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard Kennedy School"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McKee was an officer of McKee Brothers, a heating, air conditioning, and home heating oil delivery business founded by his grandfather."
+            },
+            {
+              "text": "In addition, he ran a health and fitness business for more than 30 years."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his time on the Cumberland, Rhode Island Town Council (1992–1998), McKee was also a basketball coach, coaching groups of boys and girls at all levels, culminating in two State AAU Basketball Champions in 1998 and 2000.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cumberland, Rhode Island"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served six terms as Cumberland's mayor."
+            },
+            {
+              "text": "McKee worked with state and federal officials in the aftermath of Cumberland's historic spring flooding to minimize the damage; and he steered Cumberland through Rhode Island's unprecedented economic downturn."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2008, McKee worked with mayors across the state to pass a law allowing for the creation of new, regional, mayor-governed and highly autonomous public schools known as “Mayoral Academies.” In 2009 and 2010, McKee again helped organize mayors and education advocates to enact a new education funding policy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "For over twenty-five years, McKee has been a member of the board of directors of the Boys and Girls Club of Cumberland-Lincoln, serving as past president of the executive board and chairman of the endowment committee.",
+              "links": [
+                {
+                  "text": "Boys and Girls Club",
+                  "type": "internal",
+                  "page": "Boys & Girls Clubs of America"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2021",
+          "template": "cn"
+        }
+      ],
+      "references": [
+        {
+          "title": "Daniel McKee's file",
+          "url": "https://www.politifact.com/personalities/daniel-mckee/",
+          "access-date": "November 21, 2019",
+          "website": "@politifact",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Edgar",
+          "first": "Randal",
+          "date": "August 24, 2014",
+          "title": "Democrats in R.I. lieutenant governor race put economy first",
+          "url": "https://www.providencejournal.com/article/20140824/News/308249995?template=ampart",
+          "work": "The Providence Journal",
+          "location": "Providence, RI",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Lieutenant Governor of Rhode Island",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2013, McKee announced his candidacy for Rhode island lieutenant governor, defeating Secretary of State of Rhode Island Ralph Mollis and State Rep. Frank Ferri in the Democratic primary.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rhode island lieutenant governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary of State of Rhode Island"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ralph Mollis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Frank Ferri"
+                },
+                {
+                  "text": "Democratic",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                }
+              ]
+            },
+            {
+              "text": "McKee faced Republican Catherine Terry Taylor, a legislative aide and speechwriter for U.S. Senators John Chafee and Lincoln Chafee.",
+              "links": [
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Chafee"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lincoln Chafee"
+                }
+              ]
+            },
+            {
+              "text": "McKee won with 54.3% of the vote."
+            },
+            {
+              "text": "He was re-elected in 2018."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On January 7, 2021, President-elect Joe Biden selected Rhode Island Governor Gina Raimondo as his choice for Secretary of Commerce.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gina Raimondo"
+                },
+                {
+                  "text": "Secretary of Commerce",
+                  "type": "internal",
+                  "page": "United States Secretary of Commerce"
+                }
+              ]
+            },
+            {
+              "text": "Since McKee was next in line of succession, he would become governor once Raimondo would be confirmed by the United States Senate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Senate"
+                }
+              ]
+            },
+            {
+              "text": "She was confirmed on March 2, 2021 and submitted her resignation as governor shortly after."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2021, McKee began to form a COVID-19 advisory board in anticipation whenever he would become Rhode Island's governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            },
+            {
+              "text": "He had criticized the Raimondo administration over a slow COVID-19 vaccine rollout."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://ballotpedia.org/Rhode_Island_lieutenant_gubernatorial_election,_2014",
+          "title": "Rhode Island lieutenant gubernatorial election, 2014",
+          "website": "Ballotpedia",
+          "language": "en",
+          "access-date": "November 21, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.golocalprov.com/lifestyle/firstworks-names-taylor-president-of-board",
+          "title": "FirstWorks Names Taylor President of Board",
+          "last": "ChrisS",
+          "website": "GoLocalProv",
+          "language": "en",
+          "access-date": "November 21, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.wpri.com/news/lt-gov-mckee-wins-re-election/",
+          "title": "Lt. Gov. McKee wins re-election",
+          "date": "November 7, 2018",
+          "website": "WPRI.com",
+          "language": "en-US",
+          "access-date": "November 21, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.npr.org/2021/03/02/962856664/bidens-commerce-secretary-gina-raimondo-confirmed-by-senate",
+          "title": "Biden's Commerce Secretary, Gina Raimondo, Confirmed By Senate",
+          "website": "NPR.org",
+          "date": "March 2, 2021",
+          "accessdate": "March 3, 2021",
+          "last1": "Wang",
+          "first1": "Hansi Lo",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2021/02/03/metro/mckee-names-covid-19-advisory-group/",
+          "title": "McKee names COVID advisory board",
+          "publisher": "Boston Globe",
+          "date": "February 3, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.wpri.com/news/politics-government/mckee-criticizes-raimondo-administration-over-vaccine-rollout/",
+          "title": "McKee criticizes Raimondo administration over vaccine rollout",
+          "date": "February 15, 2021",
+          "publisher": "WPRI",
+          "accessdate": "3 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Governor of Rhode Island",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McKee was sworn in as the 76th Governor of Rhode Island on March 2, 2021 following Raimondo's appointment as U.S. commerce secretary.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Rhode Island"
+                }
+              ]
+            },
+            {
+              "text": "He is running for a full-term in the 2022 election.",
+              "links": [
+                {
+                  "text": "2022 election",
+                  "type": "internal",
+                  "page": "2022 Rhode Island gubernatorial election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:RI_Governor_Daniel_McKee_and_wife_Susal_McKee_at_the_2021_Bristol_Fourth_of_July_Parade.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/RI_Governor_Daniel_McKee_and_wife_Susal_McKee_at_the_2021_Bristol_Fourth_of_July_Parade.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/RI_Governor_Daniel_McKee_and_wife_Susal_McKee_at_the_2021_Bristol_Fourth_of_July_Parade.jpg",
+          "caption": "Governor McKee and wife Susan at the 2021 Bristol Fourth of July Parade",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.providencejournal.com/story/news/politics/2021/03/02/ri-may-have-new-governor-today-heres-how-would-happen/6883302002/",
+          "title": "Raimondo resigns after winning Senate confirmation as U.S. commerce secretary; McKee sworn in as RI governor",
+          "first1": "Katherine",
+          "last1": "Gregg",
+          "first2": "Patrick",
+          "last2": "Anderson",
+          "website": "The Providence Journal",
+          "accessdate": "March 3, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "COVID-19",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "McKee said his main priority was to advance COVID-19 vaccine rollout and to contain the COVID-19 pandemic in Rhode Island.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Rhode Island"
+                }
+              ]
+            },
+            {
+              "text": "By July 4, Rhode Island had fully vaccinated over 633,000 people, representing 70% of its eligible adult population."
+            },
+            {
+              "text": "It was the fifth state to reach that milestone."
+            },
+            {
+              "text": "Also in July, McKee terminated the state mask mandate but extended the COVID-19 emergency declaration to August 6, citing the prevalence of the delta variant.",
+              "links": [
+                {
+                  "text": "delta variant",
+                  "type": "internal",
+                  "page": "SARS-CoV-2 Delta variant"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Marty_J._Walsh_and_Dan_Mckee,_November_1,_2021_(cropped,_McKee).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Marty_J._Walsh_and_Dan_Mckee%2C_November_1%2C_2021_(cropped%2C_McKee).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Marty_J._Walsh_and_Dan_Mckee%2C_November_1%2C_2021_(cropped%2C_McKee).jpg",
+          "caption": "McKee speaks at an event in November 2021",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "COVID-19 pandemic in Rhode Island"
+          ],
+          "template": "see also"
+        },
+        {
+          "part": "section",
+          "date": "January 2022",
+          "template": "update"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.necn.com/news/local/ri-lt-gov-says-speeding-up-vaccine-distribution-is-his-top-priority/2406883/",
+          "title": "RI Lt. Gov. Says Speeding Up Vaccine Distribution Is His 'Top Priority'",
+          "publisher": "NECN",
+          "accessdate": "March 3, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Rhode Island reaches 70% COVID vaccination rate",
+          "url": "https://www.masslive.com/coronavirus/2021/07/rhode-island-reaches-70-covid-vaccination-rate.html",
+          "access-date": "10 July 2021",
+          "agency": "Associated Press",
+          "publisher": "MassLive",
+          "archive-url": "https://web.archive.org/web/20210710140933/https://www.masslive.com/coronavirus/2021/07/rhode-island-reaches-70-covid-vaccination-rate.html",
+          "archive-date": "10 July 2021",
+          "date": "3 July 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Anderson",
+          "first1": "Patrick",
+          "title": "Governor McKee extends emergency, 3 additional cases of delta variant in RI",
+          "url": "https://www.providencejournal.com/story/news/politics/2021/07/09/mckee-extends-emergency-order-ri-additional-cases-delta-variant/7906488002/",
+          "access-date": "10 July 2021",
+          "publisher": "The Providence Journal",
+          "date": "9 July 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0
+    },
+    {
+      "title": "Cumberland Mayor",
+      "depth": 1,
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "title": "Cumberland Mayor Election, 2000",
+          "template": "election box open primary begin no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee",
+          "votes": "4,390",
+          "percentage": "61.48",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Francis Gaschen",
+          "votes": "2,750",
+          "percentage": "38.52",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "7,140",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box open primary general election no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee",
+          "votes": "11,625",
+          "percentage": "100.00",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "votes": "11,625",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box end"
+        },
+        {
+          "title": "Cumberland Mayor Election, 2004",
+          "template": "election box open primary begin no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "David Iwuc",
+          "votes": "2,666",
+          "percentage": "54.98",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee (incumbent)",
+          "votes": "2,183",
+          "percentage": "45.02",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "4,849",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box end"
+        },
+        {
+          "title": "Cumberland Mayor Election, 2006",
+          "template": "election box open primary begin no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee",
+          "votes": "4,331",
+          "percentage": "62.33",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "David Iwuc (incumbent)",
+          "votes": "2,666",
+          "percentage": "37.67",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "4,849",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box open primary general election no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee",
+          "votes": "10,612",
+          "percentage": "100.00",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "votes": "10,612",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box end"
+        },
+        {
+          "title": "Cumberland Mayor Election, 2008",
+          "template": "election box open primary begin no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee (incumbent)",
+          "votes": "3,871",
+          "percentage": "64.40",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "David Iwuc",
+          "votes": "2,140",
+          "percentage": "35.60",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "6,011",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box open primary general election no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee (incumbent)",
+          "votes": "12,650",
+          "percentage": "100.00",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "votes": "12,650",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box end"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://elections.ri.gov/elections/results/2000/statewideprimary/localdem.php",
+          "title": "State Democratic Primary",
+          "website": "State of Rhode Island Board of Elections",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://elections.ri.gov/elections/results/2000/generalelection/",
+          "title": "2000 General Election",
+          "website": "State of Rhode Island Board of Elections",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://elections.ri.gov/elections/results/2004/statewideprimary/sumcumb.php",
+          "title": "Summary Results - Cumberland",
+          "website": "State of Rhode Island Board of Elections",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://elections.ri.gov/elections/results/2006/primary/sumcumb.php",
+          "title": "Summary Results - Cumberland",
+          "website": "State of Rhode Island Board of Elections",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://elections.ri.gov/elections/results/2006/generalelection/sumcumb.php",
+          "title": "Summary Results by Community: Cumberland",
+          "website": "State of Rhode Island Board of Elections",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://elections.ri.gov/elections/results/2008/statewide_primary/cumberland/index.php",
+          "title": "2008 Statewide Primary",
+          "website": "State of Rhode Island Board of Elections",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://elections.ri.gov/elections/results/2008/general_election/cumberland/index.php",
+          "title": "2008 General Election",
+          "website": "State of Rhode Island Board of Elections",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Lieutenant Governor",
+      "depth": 1,
+      "templates": [
+        {
+          "title": "Rhode Island Lieutenant Governor Election, 2014",
+          "template": "election box open primary begin no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee",
+          "votes": "48,634",
+          "percentage": "43.47",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Ralph Mollis",
+          "votes": "40,208",
+          "percentage": "35.94",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Frank Ferri",
+          "votes": "23,029",
+          "percentage": "20.59",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "111,871",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box open primary general election no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee",
+          "votes": "169,078",
+          "percentage": "54.29",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Republican Party (United States)",
+          "candidate": "Catherine Terry Taylor",
+          "votes": "105,305",
+          "percentage": "33.81",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "party": "Moderate Party of Rhode Island",
+          "candidate": "William H. Gilbert",
+          "votes": "25,951",
+          "percentage": "8.33",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "party": "Libertarian Party (United States)",
+          "candidate": "Tony Jones",
+          "votes": "10,221",
+          "percentage": "3.28",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "906",
+          "percentage": "0.29",
+          "template": "election box write-in with party link no change"
+        },
+        {
+          "votes": "311,461",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box end"
+        },
+        {
+          "title": "Rhode Island Lieutenant Governor Election, 2018",
+          "template": "election box open primary begin no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee (incumbent)",
+          "votes": "57,983",
+          "percentage": "51.09",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Aaron Regunberg",
+          "votes": "55,517",
+          "percentage": "48.91",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "133,500",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box open primary general election no change"
+        },
+        {
+          "party": "Democratic Party (United States)",
+          "candidate": "Dan McKee (incumbent)",
+          "votes": "226,528",
+          "percentage": "61.87",
+          "template": "election box winning candidate with party link no change"
+        },
+        {
+          "party": "Republican Party (United States)",
+          "candidate": "Paul Pence",
+          "votes": "106,505",
+          "percentage": "29.09",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "party": "Moderate Party of Rhode Island",
+          "candidate": "Joel Hellmann",
+          "votes": "11,332",
+          "percentage": "3.10",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "party": "Independent (politician)",
+          "candidate": "Jonathan J. Riccitelli",
+          "votes": "9,866",
+          "percentage": "2.70",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "party": "Independent (politician)",
+          "candidate": "Ross K. McCurdy",
+          "votes": "9,408",
+          "percentage": "2.57",
+          "template": "election box candidate with party link no change"
+        },
+        {
+          "votes": "2,513",
+          "percentage": "0.69",
+          "template": "election box write-in with party link no change"
+        },
+        {
+          "votes": "366,152",
+          "percentage": "100",
+          "template": "election box total no change"
+        },
+        {
+          "template": "election box end"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ourcampaigns.com/RaceDetail.html?RaceID=792470",
+          "title": "RI Lt. Governor - D Primary",
+          "website": "Our Campaigns",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ourcampaigns.com/RaceDetail.html?RaceID=792464",
+          "title": "RI Lt. Governor",
+          "website": "Our Campaigns",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ourcampaigns.com/RaceDetail.html?RaceID=834233",
+          "title": "RI Lt. Governor - D Primary",
+          "website": "Our Campaigns",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ourcampaigns.com/RaceDetail.html?RaceID=834245",
+          "title": "RI Lt. Governor",
+          "website": "Our Campaigns",
+          "accessdate": "7 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "101333"
+          ],
+          "template": "c-span"
+        },
+        {
+          "votesmart": "80328",
+          "template": "conglinks"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Elizabeth Roberts",
+          "template": "s-bef"
+        },
+        {
+          "title": "Lieutenant Governor of Rhode Island",
+          "years": "2015–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Sabina Matos",
+          "template": "s-aft"
+        },
+        {
+          "before": "Gina Raimondo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Rhode Island",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "usa"
+          ],
+          "template": "s-prec"
+        },
+        {
+          "template": "incumbent vpotus"
+        },
+        {
+          "rows": "2",
+          "as": "Vice President",
+          "template": "s-bef"
+        },
+        {
+          "rows": "2",
+          "title": "Order of precedence of the United States",
+          "years": "Within Rhode Island",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mayor of city in which event is held",
+          "template": "s-aft"
+        },
+        {
+          "template": "incumbent u.s. house speaker"
+        },
+        {
+          "after": "Otherwise as Speaker of the U.S. House of Representatives",
+          "template": "s-aft"
+        },
+        {
+          "before": "Roy Cooper",
+          "as": "Governor of North Carolina",
+          "template": "s-bef"
+        },
+        {
+          "title": "Order of precedence of the United States",
+          "years": "Outside Rhode Island",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Phil Scott",
+          "as": "Governor of Vermont",
+          "template": "s-aft"
+        },
+        {
+          "template": "current u.s. governors"
+        },
+        {
+          "template": "current rhode island statewide political officials"
+        },
+        {
+          "template": "governors of rhode island"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Government website",
+            "links": [
+              {
+                "text": "Government website",
+                "type": "external",
+                "site": "https://governor.ri.gov/"
+              }
+            ]
+          },
+          {
+            "text": "Campaign website",
+            "links": [
+              {
+                "text": "Campaign website",
+                "type": "external",
+                "site": "https://www.governordanmckee.com/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

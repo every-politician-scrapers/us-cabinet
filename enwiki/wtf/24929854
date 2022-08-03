@@ -1,0 +1,2158 @@
+{
+  "title": "Tom Wolf",
+  "pageID": 24929854,
+  "categories": [
+    "1948 births",
+    "20th-century American businesspeople",
+    "21st-century American businesspeople",
+    "21st-century American politicians",
+    "Alumni of the University of London",
+    "American Episcopalians",
+    "Businesspeople from Pennsylvania",
+    "Dartmouth College alumni",
+    "Democratic Party state governors of the United States",
+    "Governors of Pennsylvania",
+    "Living people",
+    "MIT School of Humanities, Arts, and Social Sciences alumni",
+    "Peace Corps volunteers",
+    "Pennsylvania Democrats",
+    "People from York County, Pennsylvania",
+    "State cabinet secretaries of Pennsylvania",
+    "The Hill School alumni",
+    "Former Methodists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Thomas Westerman Wolf (born November 17, 1948) is an American politician and businessman serving as the 47th and current governor of Pennsylvania since 2015.",
+              "links": [
+                {
+                  "text": "governor of Pennsylvania",
+                  "type": "internal",
+                  "page": "List of governors of Pennsylvania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Thomas Westerman Wolf"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Democratic Party, he defeated Republican incumbent Tom Corbett in the 2014 gubernatorial election and was reelected in 2018 by a margin of 17.1%.",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (United States)"
+                },
+                {
+                  "text": "Republican",
+                  "type": "internal",
+                  "page": "Republican Party (United States)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tom Corbett"
+                },
+                {
+                  "text": "2014 gubernatorial election",
+                  "type": "internal",
+                  "page": "2014 Pennsylvania gubernatorial election"
+                },
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Pennsylvania gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his election to the governorship, Wolf was the secretary of the Pennsylvania Department of Revenue from April 2007 to November 2008 and an executive in his family-owned business.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania Department of Revenue"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "47th governor of Pennsylvania",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Tom Wolfe"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "list": [
+            "",
+            "Thomas Wolf (disambiguation)"
+          ],
+          "template": "other people"
+        },
+        {
+          "date": "September 2018",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "July 2022",
+          "template": "use american english"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2015",
+            "month": "01",
+            "date": "20",
+            "template": "start date",
+            "text": "January 20, 2015"
+          }
+        },
+        {
+          "year": "1948",
+          "month": "11",
+          "day": "17",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Frances Donnelly",
+          "from": "1975",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Tom Wolf governor portrait 2019.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2019"
+          },
+          "order": {
+            "text": "47th"
+          },
+          "office": {
+            "text": "Governor of Pennsylvania"
+          },
+          "lieutenant": {
+            "text": "Mike Stack\n\nJohn Fetterman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mike Stack"
+              },
+              {
+                "type": "internal",
+                "page": "John Fetterman"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 20, 2015"
+          },
+          "predecessor": {
+            "text": "Tom Corbett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tom Corbett"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary of Revenue of Pennsylvania",
+            "links": [
+              {
+                "text": "Secretary of Revenue of Pennsylvania",
+                "type": "internal",
+                "page": "Pennsylvania Department of Revenue"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Ed Rendell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ed Rendell"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "April 25, 2007"
+          },
+          "term_end1": {
+            "text": "November 30, 2008"
+          },
+          "predecessor1": {
+            "text": "Gregory Fajt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gregory Fajt"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Stephen Stetler",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Stetler"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Thomas Westerman Wolf"
+          },
+          "birth_date": {
+            "text": "November 17, 1948"
+          },
+          "birth_place": {
+            "text": "Mount Wolf, Pennsylvania, U.S."
+          },
+          "party": {
+            "text": "Democratic",
+            "links": [
+              {
+                "text": "Democratic",
+                "type": "internal",
+                "page": "Democratic Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Frances Donnelly (m. 1975)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "education": {
+            "text": "Dartmouth College (BA) University of London (MPhil) Massachusetts Institute of Technology (PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dartmouth College"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of London"
+              },
+              {
+                "text": "MPhil",
+                "type": "internal",
+                "page": "Master of Philosophy"
+              },
+              {
+                "type": "internal",
+                "page": "Massachusetts Institute of Technology"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Tom Wolf Signature.svg"
+          },
+          "website": {
+            "text": "Government website"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sen. Harris Wofford's Advisory Committee on Judicial and U.S. Attorney Nominations for the Middle District",
+          "url": "http://archives.timesleader.com/1993_2/1993_01_28_THE_ADVISORY_COMMITTEE_HERE_ARE_THE_NAMES_AND_BIOGRAPHIES_OF_THE.html",
+          "archive-url": "https://web.archive.org/web/20141018102333/http://archives.timesleader.com/1993_2/1993_01_28_THE_ADVISORY_COMMITTEE_HERE_ARE_THE_NAMES_AND_BIOGRAPHIES_OF_THE.html",
+          "url-status": "dead",
+          "archive-date": "October 18, 2014",
+          "publisher": "Times Leader",
+          "access-date": "October 18, 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wolf was born and raised in Mount Wolf, Pennsylvania, the son of Cornelia Rohlman (née Westerman) (1923–2018) and William Trout Wolf (1921–2016), a business executive.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mount Wolf, Pennsylvania"
+                }
+              ]
+            },
+            {
+              "text": "His hometown was named after his ancestor, who was the town's postmaster."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was raised Methodist but is now affiliated with the Episcopal Church.",
+              "links": [
+                {
+                  "text": "Methodist",
+                  "type": "internal",
+                  "page": "Methodism"
+                },
+                {
+                  "text": "Episcopal Church",
+                  "type": "internal",
+                  "page": "Episcopal Church (United States)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wolf graduated from The Hill School, a boarding school in Pottstown, Pennsylvania, in 1967.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Hill School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pottstown, Pennsylvania"
+                }
+              ]
+            },
+            {
+              "text": "He went on to receive a B.A. in government, magna cum laude, from Dartmouth College in 1972, an M.Phil. from the University of London in 1978, and a Ph.D. in political science from the Massachusetts Institute of Technology in 1981.",
+              "links": [
+                {
+                  "text": "B.A.",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "text": "magna cum laude",
+                  "type": "internal",
+                  "page": "magna cum laude"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dartmouth College"
+                },
+                {
+                  "text": "M.Phil.",
+                  "type": "internal",
+                  "page": "Master of Philosophy"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of London"
+                },
+                {
+                  "text": "Ph.D.",
+                  "type": "internal",
+                  "page": "Doctor of Philosophy"
+                },
+                {
+                  "text": "political science",
+                  "type": "internal",
+                  "page": "political science"
+                },
+                {
+                  "type": "internal",
+                  "page": "Massachusetts Institute of Technology"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "magna cum laude"
+                ]
+              }
+            },
+            {
+              "text": "While a student at Dartmouth, Wolf joined the Peace Corps and spent two years in India.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peace Corps"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After earning his Ph.D., his dissertation on the United States House of Representatives was named the best of 1981 by the American Political Science Association.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States House of Representatives"
+                },
+                {
+                  "type": "internal",
+                  "page": "American Political Science Association"
+                }
+              ]
+            },
+            {
+              "text": "Wolf turned down an opportunity to interview for a tenure-track faculty position at Harvard University to begin his career at The Wolf Organization as manager of a True Value store owned by the company.",
+              "links": [
+                {
+                  "text": "tenure-track",
+                  "type": "internal",
+                  "page": "Academic tenure"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                },
+                {
+                  "type": "internal",
+                  "page": "True Value"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He met his wife, Frances, at school and married her in 1975."
+            },
+            {
+              "text": "They have two adult daughters."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Tom Wolf Profile: Perfect Stranger",
+          "url": "http://www.phillymag.com/articles/tom-wolf-perfect-stranger/",
+          "newspaper": "Philadelphia Magazine",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Notices",
+          "url": "https://www.newspapers.com/newspage/66124406/",
+          "access-date": "October 18, 2014",
+          "newspaper": "York Gazette and Daily",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Who's who in Finance and Industry",
+          "date": "1987",
+          "publisher": "Marquis Who's Who",
+          "url": "https://books.google.com/books?id=NiEcAQAAMAAJ&q=%22Wolf,+William+Trout%22",
+          "access-date": "October 18, 2014",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last1": "Fitzgerald",
+          "first1": "Thomas",
+          "title": "Tom Wolf seeks to bring small-town ethos to gubernatorial race",
+          "url": "http://articles.philly.com/2014-05-12/news/49773609_1_wolf-organization-tom-wolf-equity-firm",
+          "access-date": "October 18, 2014",
+          "newspaper": "Philly.com",
+          "date": "May 12, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Esack",
+          "first1": "Steve",
+          "title": "Tom Wolf runs as gentleman politician",
+          "url": "http://articles.mcall.com/2014-05-09/news/mc-pa-governor-tom-wolf-profile-20140509_1_congresswoman-allyson-schwartz-york-county-gentleman",
+          "access-date": "October 18, 2014",
+          "newspaper": "The Morning Call",
+          "date": "May 9, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "McColgan",
+          "first1": "Flint",
+          "title": "Tom Wolf's Inauguration Day activities begin in York and end in Hershey",
+          "url": "http://www.ldnews.com/local/ci_27339578/tom-wolfs-inauguration-day-activities-begin-york-and",
+          "access-date": "January 24, 2015",
+          "agency": "Lebanon Daily News",
+          "date": "January 17, 2015",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20150128114616/http://www.ldnews.com/local/ci_27339578/tom-wolfs-inauguration-day-activities-begin-york-and",
+          "archive-date": "January 28, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Hill alumnus Tom Wolf '67 elected Pennsylvania Governor",
+          "url": "http://www.thehill.org/RelId/1170551/InfoGroup/4483/ISvars/default/Hill_alumnus_Tom_Wolf_%2767_elected_Pennsylvania_Governor.htm",
+          "publisher": "The Hill School",
+          "access-date": "January 25, 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "O'Toole",
+          "first1": "James",
+          "title": "As Tom Wolf seeks the Pennsylvania governor's office, political life comes full circle",
+          "url": "http://www.post-gazette.com/news/politics-state/2014/10/12/For-candidate-Tom-Wolf-political-life-comes-full-circle/stories/201410120173",
+          "access-date": "July 29, 2015",
+          "agency": "Pittsburgh Post-Gazette",
+          "date": "October 12, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Lundquist",
+          "first": "Paulette",
+          "date": "2020-08-04",
+          "title": "Tom Wolf Biographical Data",
+          "url": "https://thehill.com/people/tom-wolf",
+          "url-status": "live",
+          "access-date": "2021-07-22",
+          "website": "The Hill",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "2014 Election Watch",
+          "url": "http://www.seventy.org/Elections_2014_Election_Watch.aspx",
+          "publisher": "Committee of Seventy",
+          "access-date": "March 13, 2014",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140225013845/http://www.seventy.org/Elections_2014_Election_Watch.aspx",
+          "archive-date": "February 25, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Steinhauer",
+          "first1": "Jennifer",
+          "title": "Pennsylvania's Governor Breaks Through a G.O.P. Tide",
+          "url": "https://www.nytimes.com/2015/01/24/us/politics/pennsylvania-governor-breaks-through-a-gop-tide.html?ref=politics",
+          "access-date": "January 25, 2015",
+          "agency": "The New York Times",
+          "date": "January 23, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Meet Tom Wolf",
+          "url": "http://tom.wolfforpa.com/",
+          "publisher": "Tom Wolf for Governor",
+          "access-date": "March 14, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "About Us – Thomas W. Wolf, Secretary",
+          "work": "www.revenue.state.pa.us",
+          "publisher": "Pennsylvania Department of Revenue",
+          "archive-date": "August 10, 2007",
+          "url": "http://www.revenue.state.pa.us/revenue/cwp/view.asp?A=6&Q=67924",
+          "archive-url": "https://web.archive.org/web/20070810212052/http://www.revenue.state.pa.us/revenue/cwp/view.asp?A=6&Q=67924",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Sidhu",
+          "first": "Sonia",
+          "title": "Penn Dems to host Pa. gov candidate Tom Wolf",
+          "url": "http://www.thedp.com/article/2013/09/tom-wolf-penn-dems-pennsylvania-governor",
+          "access-date": "March 13, 2014",
+          "newspaper": "The Daily Pennsylvanian",
+          "date": "September 17, 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Klein",
+          "first1": "Julia M.",
+          "title": "The Unlikely Governor",
+          "url": "http://dartmouthalumnimagazine.com/articles/unlikely-governor",
+          "publisher": "Dartmouth Alumni Magazine",
+          "access-date": "December 12, 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Business and early political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He purchased The Wolf Organization in 1985 with two partners."
+            },
+            {
+              "text": "During the administration of Governor Robert P. Casey, Wolf served on an economic development board and on the Pennsylvania Legislative Commission on Urban Schools.",
+              "links": [
+                {
+                  "text": "Robert P. Casey",
+                  "type": "internal",
+                  "page": "Bob Casey Sr."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After selling his company to a private equity firm in 2006, Wolf was nominated in January 2007 by then-governor Ed Rendell to be the secretary of revenue of Pennsylvania.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ed Rendell"
+                },
+                {
+                  "text": "secretary of revenue of Pennsylvania",
+                  "type": "internal",
+                  "page": "Pennsylvania Department of Revenue"
+                }
+              ]
+            },
+            {
+              "text": "He served in that position on Rendell's cabinet from his April 2007 confirmation by the Pennsylvania State Senate until resigning in November 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania State Senate"
+                }
+              ]
+            },
+            {
+              "text": "He had planned to run for governor of Pennsylvania in the 2010 election, but ultimately did not in order to repurchase the Wolf Organization, which was facing bankruptcy.",
+              "links": [
+                {
+                  "text": "2010 election",
+                  "type": "internal",
+                  "page": "2010 Pennsylvania gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "Wolf continued to serve as an executive in The Wolf Organization until his election as governor."
+            },
+            {
+              "text": "He served as chairman and chief executive officer until stepping down from the latter position in December 2013 to focus on his gubernatorial campaign and from the board altogether in December 2014 following his election."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wolf serves as chair of the York County United Way, the York County Community Foundation, the York College board of trustees, and as chairman of the York County Chamber of Commerce.",
+              "links": [
+                {
+                  "text": "York County",
+                  "type": "internal",
+                  "page": "York County, Pennsylvania"
+                },
+                {
+                  "text": "United Way",
+                  "type": "internal",
+                  "page": "United Way of America"
+                },
+                {
+                  "text": "York College",
+                  "type": "internal",
+                  "page": "York College of Pennsylvania"
+                }
+              ]
+            },
+            {
+              "text": "He has also been active in the York Jewish Community Center, the Memorial Hospital of York, and a regional public television system."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Levy",
+          "first": "Marc",
+          "title": "Company gives info in Democrat's race for Pa. gov.",
+          "url": "http://www.washingtontimes.com/news/2014/mar/5/wolfs-firm-gives-financial-info-cited-in-campaign/",
+          "access-date": "March 14, 2014",
+          "newspaper": "Associated Press",
+          "date": "March 5, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Field",
+          "first1": "Nick",
+          "title": "PA-Gov Round-Up: The End",
+          "url": "http://www.politicspa.com/pa-gov-round-up-the-end/61715/",
+          "newspaper": "PoliticsPA",
+          "access-date": "November 9, 2014",
+          "date": "November 7, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Thomas W. Wolf",
+          "url": "http://investing.businessweek.com/research/stocks/private/person.asp?personId=315320&privcapId=4222349",
+          "access-date": "March 14, 2014",
+          "newspaper": "Bloomberg Businessweek",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "O'Toole",
+          "first": "James",
+          "title": "York's Wolf spending own fortune in his bid for governor",
+          "url": "http://www.post-gazette.com/news/politics-state/2014/01/03/York-s-Wolf-spending-own-fortune-in-his-bid-for-governor/stories/201401030101",
+          "access-date": "March 13, 2014",
+          "newspaper": "Pittsburgh Post-Gazette",
+          "date": "March 13, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tom Wolf says he won't run for governor",
+          "url": "http://www.ydr.com/ci_11618547",
+          "access-date": "March 14, 2014",
+          "newspaper": "York Daily Record",
+          "date": "February 4, 2009",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140315013037/http://www.ydr.com/ci_11618547",
+          "archive-date": "March 15, 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Governor of Pennsylvania",
+      "depth": 0
+    },
+    {
+      "title": "2014 election",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On April 2, 2013, Wolf announced his candidacy for Governor of Pennsylvania in the 2014 election.",
+              "links": [
+                {
+                  "text": "2014 election",
+                  "type": "internal",
+                  "page": "2014 Pennsylvania gubernatorial election"
+                }
+              ]
+            },
+            {
+              "text": "He pledged $10 million of his personal wealth toward the primary election, with an intent to raise at least $5 million from supporters throughout the state."
+            },
+            {
+              "text": "He was the third person to announce candidacy, following John Hanger of the Pennsylvania Department of Environmental Protection and Max Meyers, a minister from Cumberland County, but at least four others were expected to join the race.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Hanger"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania Department of Environmental Protection"
+                },
+                {
+                  "text": "Cumberland County",
+                  "type": "internal",
+                  "page": "Cumberland County, Pennsylvania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "By March 2014, several polls suggested Wolf was the front-runner in the race for the Democratic nomination following an extensive television campaign."
+            },
+            {
+              "text": "A Franklin & Marshall College poll conducted in late February 2014 showed Wolf with a 27-point lead over his nearest competitor, Allyson Schwartz, and a Harper poll showed him leading Schwartz by 26 percentage points, as did an additional Franklin & Marshall poll in late March 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Franklin & Marshall College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Allyson Schwartz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In late April and early May, Wolf faced attacks from fellow candidate Rob McCord over his association with controversial former York, Pennsylvania, mayor Charlie Robertson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rob McCord"
+                },
+                {
+                  "text": "Charlie Robertson",
+                  "type": "internal",
+                  "page": "Charles Robertson (York, Pennsylvania)"
+                }
+              ]
+            },
+            {
+              "text": "Allyson Schwartz also accused Wolf's campaign of plagiarizing his \"Fresh Start\" plan from an energy equipment company."
+            },
+            {
+              "text": "Despite the attacks, a Muhlenberg College/Morning Call poll suggested Wolf continued to lead with 38% to Schwartz's 13% and McCord's 11%.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Muhlenberg College"
+                },
+                {
+                  "text": "Morning Call",
+                  "type": "internal",
+                  "page": "The Morning Call"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Morning Call"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the May 20 primary, Wolf defeated Schwartz, McCord, and Katie McGinty to win the Democratic nomination for governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Katie McGinty"
+                }
+              ]
+            },
+            {
+              "text": "He faced incumbent Republican Governor Tom Corbett in the November general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tom Corbett"
+                }
+              ]
+            },
+            {
+              "text": "Heading into the final two months of the campaign, a number of polls indicated a varying but consistent advantage for Wolf over Corbett."
+            },
+            {
+              "text": "Although Corbett slightly narrowed the deficit as the election approached, Wolf maintained a persistent lead in the race."
+            },
+            {
+              "text": "On November 4, Wolf was elected governor with 54.9% of the vote."
+            },
+            {
+              "text": "Wolf's victory was notable for engaging traditionally Republican areas of the state."
+            },
+            {
+              "text": "Insiders have attributed this phenomenon to Regional Field Director Brendan Murray and his extensive relationship network in north-central Pennsylvania."
+            },
+            {
+              "text": "Wolf is the first challenger to oust a sitting governor of Pennsylvania since the state's governors became eligible for immediate reelection in 1968."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Inaugural_ceremony_of_the_47th_Governor_of_Pennsylvania_Tom_Wolf.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Inaugural_ceremony_of_the_47th_Governor_of_Pennsylvania_Tom_Wolf.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Inaugural_ceremony_of_the_47th_Governor_of_Pennsylvania_Tom_Wolf.jpg",
+          "caption": "Wolf takes the oath of office as Governor on January 20, 2015.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2014 Pennsylvania gubernatorial election"
+          ],
+          "template": "see also"
+        }
+      ],
+      "references": [
+        {
+          "last": "Gibson",
+          "first": "Keegan",
+          "title": "Wolf Declares for Gov, Pledges $10 Mil to Campaign",
+          "url": "http://www.politicspa.com/wolf-declares-for-gov-pledges-10-mil-to-campaign/47134/",
+          "access-date": "April 22, 2013",
+          "newspaper": "PoliticsPA",
+          "date": "April 2, 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "O'Toole",
+          "first": "James",
+          "title": "Pittsburgh-area leaders expected to back Tom Wolf",
+          "url": "http://www.post-gazette.com/news/politics-state/2014/03/07/Local-leaders-expected-to-back-Wolf/stories/201403070108",
+          "access-date": "March 13, 2014",
+          "newspaper": "Pittsburgh Post-Gazette",
+          "date": "March 6, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Smith",
+          "first": "Vincent J.",
+          "title": "PA-Gov: Pittsburgh Politicos Back Wolf",
+          "url": "http://www.politicspa.com/pa-gov-pittsburgh-politicos-back-wolf/55851/",
+          "access-date": "March 13, 2014",
+          "newspaper": "PoliticsPA",
+          "date": "March 8, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Franklin & Marshall College Poll",
+          "url": "http://www.fandm.edu/uploads/media_items/february-2014-f-m-college-poll-release.original.pdf",
+          "publisher": "Franklin & Marshall College",
+          "access-date": "March 13, 2014",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140826002934/http://www.fandm.edu/uploads/media_items/february-2014-f-m-college-poll-release.original.pdf",
+          "archive-date": "August 26, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Pennsylvania Democratic Primary Poll",
+          "url": "http://www.harperpolling.com/polls/pennsylvania-democratic-primary-poll-wolf-goes-from-worst-to-first/",
+          "publisher": "Harper Polling",
+          "access-date": "March 13, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Durantine",
+          "first": "Pete",
+          "title": "FM Poll: Wolf Holds Lead in Democratic Primary",
+          "url": "http://www.fandm.edu/news/article/fm-poll-wolf-holds-lead-in-democratic-primary",
+          "publisher": "Franklin & Marshall College",
+          "access-date": "April 6, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Foster",
+          "first": "Brittany",
+          "title": "PA-Gov: McCord Releases Chilling Negative Ad Against Wolf",
+          "url": "http://www.politicspa.com/pa-gov-mccord-releases-chilling-negative-ad-against-wolf/57509/",
+          "access-date": "May 4, 2014",
+          "newspaper": "PoliticsPA",
+          "date": "May 2, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Foster",
+          "first": "Brittany",
+          "title": "PA-Gov: Schwartz Accuses Wolf of Plagiarizing \"Fresh Start\" Plan",
+          "url": "http://www.politicspa.com/pa-gov-schwartz-accuses-wolf-of-plagiarizing-fresh-start-plan/57258/",
+          "access-date": "May 4, 2014",
+          "newspaper": "PoliticsPA",
+          "date": "April 24, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Poll: Wolf maintains lead in Democratic governor race",
+          "url": "http://www.mcall.com/news/breaking/mc-pa-governor-poll-20140501,0,1498239.story",
+          "access-date": "May 4, 2014",
+          "newspaper": "The Morning Call",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Foster",
+          "first": "Brittany",
+          "title": "PA-Gov: Wolf Wins Democratic Nomination",
+          "url": "http://www.politicspa.com/pa-gov-wolf-wins-democratic-nomination/58081/",
+          "access-date": "May 21, 2014",
+          "newspaper": "PoliticsPA",
+          "date": "May 20, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "National Poll Report",
+          "url": "http://www.rmu.edu/cmp-media/docs/Poll/august2014fullreport-2.pdf",
+          "publisher": "Robert Morris University Polling Institute",
+          "access-date": "September 6, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Franklin & Marshall College Poll",
+          "url": "http://www.fandm.edu/uploads/media_items/august-2014-f-m-poll.original.pdf",
+          "publisher": "Franklin & Marshall College",
+          "access-date": "September 6, 2014",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140904103734/http://www.fandm.edu/uploads/media_items/august-2014-f-m-poll.original.pdf",
+          "archive-date": "September 4, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Pennsylvania Statewide Poll September 2–3, 2014",
+          "url": "http://harperpolling.com/polls/pennsylvania-statewide-poll--9-2-9-3",
+          "publisher": "Harper Polling",
+          "access-date": "September 6, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Pennsylvania Governor Poll October 26–27, 2014",
+          "url": "http://www.harperpolling.com/polls/pennsylvania-statewide-poll-38248933#ballot",
+          "publisher": "Harper Polling",
+          "access-date": "November 9, 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Lavender",
+          "first1": "Paige",
+          "title": "Pennsylvania Governor Election Results: Tom Wolf Defeats Incumbent Tom Corbett",
+          "url": "http://www.huffingtonpost.com/2014/11/04/pennsylvania-governor-election-results_n_5974022.html",
+          "access-date": "November 5, 2014",
+          "agency": "Huffington Post",
+          "date": "November 4, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "NBC News Projects: PA's Corbett Ousted by Democrat Tom Wolf",
+          "url": "http://www.nbcnews.com/politics/elections/nbc-news-projects-pas-corbett-ousted-democrat-tom-wolf-n241396",
+          "access-date": "November 5, 2014",
+          "agency": "NBC News",
+          "date": "November 4, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Owens",
+          "first1": "Leigh",
+          "title": "Field Organizer Brendan Murray balances caring for his ailing mother while campaigning",
+          "url": "http://wolfforpa.com/sections/blog/brendan-murray-transitions-from-volunteer-to-field-organizer",
+          "website": "Tom Wolf for Governor",
+          "access-date": "October 16, 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "First term",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wolf assumed office as the 47th Governor of Pennsylvania upon the expiration of Corbett's term on January 20, 2015, with the inaugural ceremony occurring in front of the Pennsylvania State Capitol in Harrisburg.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania State Capitol"
+                },
+                {
+                  "text": "Harrisburg",
+                  "type": "internal",
+                  "page": "Harrisburg, Pennsylvania"
+                }
+              ]
+            },
+            {
+              "text": "Upon taking office, Wolf opted not to move into the Pennsylvania Governor's Residence but instead commuting from his home in York.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania Governor's Residence"
+                }
+              ]
+            },
+            {
+              "text": "A spokesman for Wolf said the residence would still be used for official events and other functions."
+            },
+            {
+              "text": "Shortly after being sworn in, Wolf signed two executive orders banning gifts to state employees and requiring a bidding process for outside legal contracts."
+            },
+            {
+              "text": "Wolf also restored a ban on hydraulic fracturing, or \"fracking\", in state parks and placed a moratorium on the death penalty in Pennsylvania.",
+              "links": [
+                {
+                  "text": "hydraulic fracturing",
+                  "type": "internal",
+                  "page": "hydraulic fracturing"
+                },
+                {
+                  "text": "moratorium",
+                  "type": "internal",
+                  "page": "Moratorium (law)"
+                }
+              ]
+            },
+            {
+              "text": "The most significant executive action in his first days in office was his move to fully expand Medicaid under the Affordable Care Act.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Medicaid"
+                },
+                {
+                  "type": "internal",
+                  "page": "Affordable Care Act"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wolf proposed his first budget in March 2015, which included an increase in education spending, reductions in property taxes and the corporate tax, and a new severance tax on natural gas.",
+              "links": [
+                {
+                  "text": "property taxes",
+                  "type": "internal",
+                  "page": "property tax"
+                },
+                {
+                  "text": "corporate tax",
+                  "type": "internal",
+                  "page": "corporate tax"
+                },
+                {
+                  "text": "severance tax",
+                  "type": "internal",
+                  "page": "severance tax"
+                },
+                {
+                  "text": "natural gas",
+                  "type": "internal",
+                  "page": "natural gas"
+                }
+              ]
+            },
+            {
+              "text": "Six months into his tenure, in July 2015, the websites OnTheIssues and InsideGov named Wolf the most liberal incumbent governor in the United States, based on a rating of public statements and press releases among other measures; Wolf rejected this assessment, arguing that his policies are directed by practicality rather than ideology.",
+              "links": [
+                {
+                  "text": "OnTheIssues",
+                  "type": "internal",
+                  "page": "On the Issues"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On July 1, 2015, Wolf vetoed a budget submitted to him by the Pennsylvania General Assembly, causing a budget dispute between the governor's office and the legislature.",
+              "links": [
+                {
+                  "text": "vetoed",
+                  "type": "internal",
+                  "page": "Veto power in the United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania General Assembly"
+                }
+              ]
+            },
+            {
+              "text": "This marked the first time a Pennsylvania governor vetoed a budget bill in its entirety since Milton Shapp did so in 1976.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Milton Shapp"
+                }
+              ]
+            },
+            {
+              "text": "Wolf argued the budget was not balanced, disputing Republicans' claim that it would provide increased funding in certain areas without raising taxes."
+            },
+            {
+              "text": "A point of dispute in the budget process was the proposed privatization of Pennsylvania's wine and liquor sales, which Wolf opposes.",
+              "links": [
+                {
+                  "text": "wine and liquor sales",
+                  "type": "internal",
+                  "page": "Alcoholic beverage control state"
+                }
+              ]
+            },
+            {
+              "text": "The state operated without a full budget for 267 days—the longest period without a full budget in Pennsylvania history–until the 2015-16 budget became law without Wolf's signature in March 2016."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2016, at the Elizabethtown College, Wolf announced the launch of the \"It's On Us PA\" campaign, which aims to expand awareness of sexual assault in schools and on college campuses.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabethtown College"
+                },
+                {
+                  "text": "sexual assault",
+                  "type": "internal",
+                  "page": "sexual assault"
+                }
+              ]
+            },
+            {
+              "text": "This announcement made Pennsylvania the first state to implement a statewide campaign that called for a collaboration of schools, law enforcement, victim services organizations, and other community members to promote awareness, education, and bystander intervention of sexual violence specifically on school campuses."
+            },
+            {
+              "text": "Several schools, including Franklin and Marshall College, Butler County Community College, as well as the Pennsylvania State System of Higher Education Chancellor Frank Brogan signed on to the initiative.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Franklin and Marshall College"
+                },
+                {
+                  "text": "Butler County Community College",
+                  "type": "internal",
+                  "page": "Butler County Community College (Pennsylvania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pennsylvania State System of Higher Education"
+                },
+                {
+                  "type": "internal",
+                  "page": "Frank Brogan"
+                }
+              ]
+            },
+            {
+              "text": "On November 30, 2016, Wolf announced the awarding of \"It's On Us PA\" grants of one million dollars to 36 post-secondary schools in the state to combat sexual violence on their campuses."
+            },
+            {
+              "text": "Programs considered for funding included but were not limited to those that enhanced awareness of available resources as well as the rights of students and, most importantly, to increase mechanisms for anonymous reporting."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wolf has expressed his opposition to targeting countries with economic sanctions or boycotts, saying, \"We ... will not encourage economic punishment in place of peaceful solutions to challenging conflicts.\""
+            },
+            {
+              "text": ". However he has singled out Russia as an exemption from this policy and immediately declared his support for sanctions and for divesting financially from Russia following the 2022 invasion of Ukraine"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has signed into law bills that legalized medical marijuana in Pennsylvania, reformed pensions, and expanded the number of offenses former criminal defendants could get sealed, among other legislation.",
+              "links": [
+                {
+                  "text": "legalized medical marijuana",
+                  "type": "internal",
+                  "page": "Medical cannabis in the United States"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On February 24, 2016, Wolf announced that he had been diagnosed with prostate cancer.",
+              "links": [
+                {
+                  "text": "prostate cancer",
+                  "type": "internal",
+                  "page": "prostate cancer"
+                }
+              ]
+            },
+            {
+              "text": "Because it was diagnosed early, he said it would not hinder his ability to work."
+            },
+            {
+              "text": "Following treatment, Wolf's spokesperson announced in January 2017 that Wolf's physician had given him a \"clean bill of health\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wolf declared Pennsylvania's heroin and opioid addiction crisis a statewide emergency in January 2018."
+            },
+            {
+              "text": "Pennsylvania became the eighth state to do so."
+            },
+            {
+              "text": "Such a declaration lets Pennsylvania officials \"override any current rules or regulations they perceive as hampering the state's ability to address the opioid epidemic\"."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Gov._Wolf_Signs_Executive_Order_Reinstating_Moratorium_On_New_Leases_For_Oil_and_Gas_Development_In_State_Parks_and_Forests.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Gov._Wolf_Signs_Executive_Order_Reinstating_Moratorium_On_New_Leases_For_Oil_and_Gas_Development_In_State_Parks_and_Forests.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Gov._Wolf_Signs_Executive_Order_Reinstating_Moratorium_On_New_Leases_For_Oil_and_Gas_Development_In_State_Parks_and_Forests.jpg",
+          "caption": "Governor Wolf as he signs an executive order to ban fracking in state parks on January 29, 2015, while others look on.",
+          "links": []
+        },
+        {
+          "file": "File:Governor_Tom_Wolf_official_portrait_2015.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Governor_Tom_Wolf_official_portrait_2015.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Governor_Tom_Wolf_official_portrait_2015.jpg",
+          "caption": "Wolf's first gubernatorial portrait",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "last1": "Jackson",
+          "first1": "Peter",
+          "title": "WOLF TO TAKE AS PENNSYLVANIA GOVERNOR; STACK SWORN IN AS LT. GOVERNOR",
+          "url": "http://6abc.com/politics/tom-wolf-to-take-oath-as-pa-governor/482762/",
+          "access-date": "January 20, 2015",
+          "agency": "Associated Press",
+          "date": "January 20, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "McKelvey",
+          "first1": "Wallace",
+          "title": "Governor's Residence to remain open, even as Tom Wolf plans commute to Harrisburg",
+          "url": "http://www.pennlive.com/politics/index.ssf/2014/12/governors_residence_to_remain.html",
+          "access-date": "January 20, 2015",
+          "agency": "Harrisburg Patriot-News",
+          "date": "December 9, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "McKelvey",
+          "first1": "Wallace",
+          "title": "Wolf's first actions include gift ban, required bidding on legal contracts",
+          "url": "http://www.pennlive.com/politics/index.ssf/2015/01/gov_tom_wolf_signs_gift_ban_le.html",
+          "access-date": "January 20, 2015",
+          "agency": "Harrisburg Patriot-News",
+          "date": "January 20, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Finley",
+          "first1": "Ben",
+          "title": "Wolf restores fracking ban in state parkland",
+          "url": "http://articles.philly.com/2015-01-31/news/58629505_1_natural-gas-drilling-new-drilling-wolf",
+          "access-date": "February 15, 2015",
+          "agency": "The Philadelphia Inquirer",
+          "date": "January 31, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Slobodzian",
+          "first1": "Joseph",
+          "title": "Wolf halts death penalty in Pa.",
+          "url": "http://www.philly.com/philly/news/politics/20150214_Wolf_halts_death_penalty_in_Pa_.html",
+          "access-date": "February 14, 2015",
+          "agency": "The Philadelphia Inquirer",
+          "date": "February 13, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Kanuch",
+          "first1": "Nathan",
+          "title": "PA-Gov: Wolf Presents Budget Legislation",
+          "url": "http://www.politicspa.com/pa-gov-wolf-presents-budget-legislation/64394/",
+          "access-date": "March 27, 2015",
+          "agency": "PoliticsPA",
+          "date": "March 11, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Field",
+          "first1": "Nick",
+          "title": "PA-Gov: Wolf Rated Most Liberal Governor in U.S.",
+          "url": "http://www.politicspa.com/pa-gov-wolf-rated-most-liberal-governor-in-u-s/68066/",
+          "access-date": "August 11, 2015",
+          "agency": "PoliticsPA",
+          "date": "July 31, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Hardison",
+          "first1": "Lizzy",
+          "title": "PA-Gov: Wolf Rejects \"Most Liberal\" Ranking",
+          "url": "http://www.politicspa.com/pa-gov-wolf-rejects-most-liberal-ranking/68320/",
+          "access-date": "August 11, 2015",
+          "agency": "PoliticsPA",
+          "date": "August 11, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Alexandersen",
+          "first1": "Christian",
+          "title": "Gov. Tom Wolf vetoes Republican budget proposal. Now what?",
+          "url": "http://www.pennlive.com/midstate/index.ssf/2015/06/gov_tom_wolf_vetoes_republican.html",
+          "access-date": "August 11, 2015",
+          "agency": "The Harrisburg Patriot-News",
+          "date": "June 30, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Field",
+          "first1": "Nick",
+          "title": "PA-BGT: Wolf Vetoes Budget",
+          "url": "http://www.politicspa.com/pa-bgt-wolf-vetoes-budget/67385/",
+          "access-date": "August 11, 2015",
+          "agency": "PoliticsPA",
+          "date": "July 1, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Alexandersen",
+          "first1": "Christian",
+          "title": "Pa. House passes GOP-created budget proposal to the dismay of Democrats",
+          "url": "http://www.pennlive.com/politics/index.ssf/2015/06/pa_house_passes_gop-created_bu.html",
+          "access-date": "August 11, 2015",
+          "agency": "The Harrisburg Patriot-News",
+          "date": "June 27, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Langley",
+          "first1": "Karen",
+          "title": "Wolf vetoes GOP liquor privatization bill for Pennsylvania",
+          "url": "http://www.post-gazette.com/news/politics-state/2015/07/02/Wolf-vetoes-GOP-liquor-privatization-bill-pennsylvania/stories/201507020196",
+          "access-date": "August 11, 2015",
+          "agency": "The Pittsburgh Post-Gazette",
+          "date": "July 2, 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Addy",
+          "first1": "Jason",
+          "title": "Wolf: Year One",
+          "url": "http://www.politicspa.com/wolf-year-one/72107/",
+          "access-date": "January 21, 2016",
+          "agency": "PoliticsPA",
+          "date": "January 21, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Addy",
+          "first1": "Jason",
+          "title": "PA-BGT: PA Gets a Budget",
+          "url": "http://www.politicspa.com/pa-bgt-pa-gets-a-budget/73819/",
+          "access-date": "May 16, 2016",
+          "agency": "PoliticsPA",
+          "date": "March 23, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://wesa.fm/post/pennsylvania-implements-national-its-us-sexual-assault-initiative#stream/0",
+          "title": "Pennsylvania Implements National 'It's On Us' Sexual Assault Initiative",
+          "last": "Garcia",
+          "first": "Deanna",
+          "access-date": "December 9, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://gantdaily.com/2016/11/30/wolf-administration-awards-first-ever-its-on-us-pa-grants-to-combat-campus-sexual-assault/",
+          "title": "Wolf Administration Awards First-ever 'It's On Us PA' Grants to Combat Campus Sexual Assault {{!}} GantNews.com",
+          "website": "gantdaily.com",
+          "date": "November 30, 2016",
+          "access-date": "December 9, 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.governor.pa.gov/governor-wolf-signs-bill-prohibiting-state-from-contracting-with-businesses-that-boycott-israel/",
+          "title": "Governor Wolf Signs Bill Prohibiting State from Contracting with Businesses that Boycott Israel",
+          "date": "November 4, 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.governor.pa.gov/newsroom/gov-wolf-pennsylvania-stands-with-ukraine-will-continue-supportive-actions-and-efforts-to-sever-financial-ties-with-russia/",
+          "title": "Gov. Wolf: Pennsylvania Stands with Ukraine, Will Continue Supportive Actions and Efforts to Sever Financial Ties with Russia",
+          "date": "March 7, 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.cnn.com/2016/02/24/politics/tom-wolf-prostate-cancer/index.html",
+          "title": "Tom Wolf, Pennsylvania governor, diagnosed with prostate cancer",
+          "website": "CNN",
+          "date": "February 24, 2016",
+          "access-date": "February 25, 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "McKelvey",
+          "first1": "Wallace",
+          "title": "Gov. Tom Wolf wins cancer fight, gets 'clean bill of health'",
+          "url": "http://www.pennlive.com/politics/index.ssf/2017/01/gov_tom_wolf_received_clean_bi.html#incart_2box_politics",
+          "access-date": "January 29, 2017",
+          "agency": "Harrisburg Patriot-News",
+          "date": "January 25, 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Couloumbis",
+          "first1": "Angela",
+          "last2": "Navratil",
+          "first2": "Liz",
+          "title": "Gov. Wolf to declare opioid emergency in Pennsylvania",
+          "url": "http://www.post-gazette.com/news/politics-state/2018/01/09/Wolf-to-declare-opioid-emergency-naloxone-public-health-crisis-pennsylvania/stories/201801090182",
+          "website": "Pittsburgh Post-Gazette",
+          "access-date": "January 9, 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "2018 election",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wolf successfully ran for re-election to a second term in 2018 and was uncontested in the Democratic primary."
+            },
+            {
+              "text": "He defeated Republican State Senator Scott Wagner in the general election on November 8, 2018, with approximately 57% of the vote.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Scott Wagner"
+                }
+              ]
+            },
+            {
+              "text": "He is the first Pennsylvania governor to win election twice while losing both times in his home county (since 1968, when a new state constitution permitted governors to run for consecutive terms).",
+              "links": [
+                {
+                  "text": "state constitution",
+                  "type": "internal",
+                  "page": "Pennsylvania Constitution"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2018 Pennsylvania gubernatorial election"
+          ],
+          "template": "see also"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.vox.com/2018/5/15/17353736/pennsylvania-primary-election-results-2018-house-senate-governor",
+          "title": "Primary results for Pennsylvania's House, Senate, and governor races",
+          "work": "Vox",
+          "access-date": "August 12, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Levy",
+          "first1": "Mark",
+          "title": "Tom Wolf wins Pa. governor's race",
+          "url": "https://www.mcall.com/news/elections/mc-nws-pa-election-governor-race-wolf-wagner-20181026-story.html",
+          "access-date": "November 8, 2018",
+          "agency": "Associated Press",
+          "date": "November 6, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.ydr.com/story/news/politics/elections/2018/11/07/tom-wolf-wins-re-election-governor-loses-york-county-second-time-1968-pennsylvania-constitution/1837322002/",
+          "title": "Gov. Tom Wolf cruises to re-election but — again — loses York County",
+          "newspaper": "York Daily Record",
+          "publisher": "USA Today",
+          "date": "November 7, 2018",
+          "first": "Dylan",
+          "last": "Segelbaum",
+          "access-date": "November 12, 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Second term",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2019, Wolf signed reforms into law that would allow no-excuse mail-in ballot voting."
+            },
+            {
+              "text": "On June 23, 2020, State Representative Daryl Metcalfe (R-Butler) and 24 co-sponsors introduced five articles of impeachment in House Resolution 915 against Wolf based on charges that he damaged Pennsylvania's economy and exceeded his authority by unilaterally and unlawfully imposing his mitigation orders amid the COVID-19 pandemic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daryl Metcalfe"
+                },
+                {
+                  "text": "Butler",
+                  "type": "internal",
+                  "page": "Butler County, Pennsylvania"
+                },
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Pennsylvania"
+                }
+              ]
+            },
+            {
+              "text": "The bill was referred to the House Judiciary Committee but moved no further."
+            },
+            {
+              "text": "On September 14, 2020, District Court Judge William S. Stickman IV ruled that the restrictions placed by Wolf during the pandemic were unconstitutional, having violated the right to freedom of assembly guaranteed by the First Amendment.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "William S. Stickman IV"
+                },
+                {
+                  "text": "First Amendment",
+                  "type": "internal",
+                  "page": "First Amendment to the United States Constitution"
+                }
+              ]
+            },
+            {
+              "text": "Stickman was asked to delay his ruling by state officials while they appealed, but he declined."
+            },
+            {
+              "text": "The decision was later stayed by the United States Court of Appeals for the Third Circuit, allowing the restrictions to resume.",
+              "links": [
+                {
+                  "text": "stayed",
+                  "type": "internal",
+                  "page": "Stay of proceedings"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States Court of Appeals for the Third Circuit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September and October 2020, Wolf held a series of press conferences making the case for legalizing recreational cannabis in Pennsylvania, arguing that the reform was particularly needed in light of the economic downturn caused by COVID-19 and the prospect of losing revenue to New Jersey which recently legalized cannabis.",
+              "links": [
+                {
+                  "text": "legalizing recreational cannabis",
+                  "type": "internal",
+                  "page": "Legalization of non-medical cannabis in the United States"
+                }
+              ]
+            },
+            {
+              "text": "Wolf first came out for legalization in 2019 after a statewide listening tour conducted by Lieutenant Governor John Fetterman showed broad support for legalization in the state.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Fetterman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On December 9, 2020, Wolf announced that he had tested positive for COVID-19 and that he and his wife were self-quarantining at home in York."
+            },
+            {
+              "text": "His wife tested negative for COVID-19."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Republican lawmakers brought two questions limiting Wolf's gubernatorial powers to a statewide vote on May 18, 2021, limiting disaster declarations from 90 to 21 days, transferring power to extend emergency orders from the governor to the state legislature and permitting a simple majority of the legislature to terminate such a declaration at any time.",
+              "links": [
+                {
+                  "text": "state legislature",
+                  "type": "internal",
+                  "page": "Pennsylvania General Assembly"
+                }
+              ]
+            },
+            {
+              "text": "Both passed with publications declaring the measures victorious with 52 percent of the vote on May 19, making Pennsylvania the first state to approve a curb on a governor's emergency powers since the start of the COVID-19 pandemic."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Key swing state warns of November election 'nightmare'",
+          "url": "https://www.politico.com/news/2020/05/24/pennsylvania-election-nightmare-275410",
+          "website": "POLITICO",
+          "language": "en",
+          "access-date": "2020-05-24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "PA Lawmaker To Gov. Tom Wolf: Resign or Be Impeached",
+          "url": "https://patch.com/pennsylvania/cranberry/pa-lawmaker-gov-tom-wolf-resign-or-be-impeached",
+          "website": "PA Patch",
+          "date": "July 17, 2020",
+          "language": "en",
+          "access-date": "2020-08-30",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Gibson",
+          "first": "Bret",
+          "date": "June 16, 2020",
+          "title": "Rep. Daryl Metcalfe reveals 5 articles of impeachment against Gov. Tom Wolf",
+          "work": "Trib Live",
+          "url": "https://triblive.com/news/pennsylvania/rep-daryl-metcalfe-reveals-5-articles-of-impeachment-against-gov-tom-wolf/",
+          "access-date": "10 December 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "June 23, 2020",
+          "title": "Pennsylvania General Assembly House Resolution 915, Session of 2020",
+          "url": "https://trackbill.com/bill/pennsylvania-house-resolution-915-a-resolution-impeaching-thomas-w-wolf-governor-of-pennsylvania-for-misbehavior-in-office/1927791/",
+          "access-date": "10 December 2020",
+          "website": "TrackBill",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Reed Ward",
+          "first1": "Paula",
+          "title": "Federal judge rules Gov. Wolf's shutdown orders were unconstitutional {{!}} TribLIVE.com",
+          "url": "https://triblive.com/news/pennsylvania/federal-judge-rules-gov-wolfs-shutdown-orders-were-unconstitutional/",
+          "access-date": "December 29, 2020",
+          "work": "Trib Live",
+          "date": "September 14, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Coleman",
+          "first1": "Justine",
+          "title": "Federal judge rules Pennsylvania's coronavirus orders are unconstitutional",
+          "url": "https://thehill.com/regulation/court-battles/516333-federal-judge-rules-pennsylvanias-coronavirus-orders-are",
+          "access-date": "December 29, 2020",
+          "work": "The Hill",
+          "date": "September 14, 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "September 22, 2020",
+          "title": "Judge declines to stay ruling on Pennsylvania crowd size",
+          "work": "Associated Press",
+          "url": "https://apnews.com/article/virus-outbreak-pennsylvania-tom-wolf-archive-donald-trump-21859419cee2ad1c5350f68c045671eb",
+          "access-date": "June 15, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Rubinkam",
+          "first": "Michael",
+          "date": "October 1, 2020",
+          "title": "Appeals court allows Pennsylvania to restrict crowd size",
+          "work": "Associated Press",
+          "url": "https://apnews.com/article/virus-outbreak-donald-trump-pennsylvania-pittsburgh-tom-wolf-b458bed82c1b20cf77fdd89736687708",
+          "access-date": "June 15, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Tierney",
+          "first1": "Jacob",
+          "title": "Gov. Wolf renews call for legal recreational marijuana",
+          "url": "https://triblive.com/news/pennsylvania/wolf-renews-call-for-legal-recreational-marijuana/",
+          "access-date": "June 1, 2021",
+          "work": "triblive.com",
+          "date": "September 3, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Murphy",
+          "first1": "Jan",
+          "title": "'The time to end prohibition against cannabis has come'; advocates call for action in Pa. on marijuana legalization",
+          "url": "https://www.pennlive.com/news/2020/09/the-time-to-end-prohibition-against-cannabis-has-come-advocates-call-for-action-in-pa-on-marijuana-legalization.html",
+          "access-date": "June 1, 2021",
+          "work": "pennlive.com",
+          "date": "September 16, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Bresswein",
+          "first1": "Kurt",
+          "title": "Wolf, in Monroe County, calls a 3rd time for legalizing adult-use recreational marijuana",
+          "url": "https://www.lehighvalleylive.com/news/2020/10/wolf-in-monroe-county-calls-a-3rd-time-for-legalizing-adult-use-recreational-marijuana.html",
+          "access-date": "June 1, 2021",
+          "work": "lehighvalleylive.com",
+          "date": "October 13, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Murphy",
+          "first1": "Jan",
+          "title": "Gov. Tom Wolf calls for legalizing recreational marijuana in Pennsylvania",
+          "url": "https://www.pennlive.com/news/2019/09/gov-tom-wolf-calls-for-legalizing-recreational-marijuana-in-pennsylvania.html",
+          "access-date": "June 1, 2021",
+          "work": "pennlive.com",
+          "date": "September 25, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Brown",
+          "first1": "Kayla",
+          "title": "Governor Tom Wolf tests positive for COVID-19",
+          "url": "https://www.abc27.com/news/health/coronavirus/coronavirus-pennsylvania/pa-governor-tom-wolf-tests-positive-for-covid-19/",
+          "access-date": "10 December 2020",
+          "publisher": "ABC 27 News",
+          "date": "December 9, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Staff",
+          "title": "Pennsylvania First Lady Frances Wolf tests negative after governor contracts COVID-19",
+          "publisher": "WPVI-TV",
+          "location": "Philadelphia, PA",
+          "date": "December 10, 2020",
+          "url": "https://6abc.com/politics/pennsylvanias-first-lady-tests-negative-for-covid-19/8666339/",
+          "access-date": "December 10, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://apnews.com/article/pennsylvania-health-coronavirus-pandemic-government-and-politics-f5ce447986a26cca310a6639de37b5ce",
+          "title": "Pennsylvania voters impose new limits on governor's powers",
+          "first1": "Marc",
+          "last1": "Levy",
+          "first2": "Michael",
+          "last2": "Rubinkam",
+          "publisher": "Associated Press",
+          "date": "May 19, 2021",
+          "access-date": "May 19, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.inquirer.com/politics/election/spl/pa-primary-2021-ballot-question-disaster-declaration-results-20210519.html",
+          "title": "Pennsylvania voters backed curtailing Gov. Tom Wolf's emergency powers in a win for Republican lawmakers",
+          "first": "Sarah Anne",
+          "last": "Hughes",
+          "work": "The Philadelphia Inquirer",
+          "date": "May 19, 2021",
+          "access-date": "May 19, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        },
+        {
+          "template": "election box",
+          "candidates": []
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Tom Wolf"
+          ],
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "Regional/North_America/United_States/Pennsylvania/Government/Executive/Governor_Tom_Wolf"
+          ],
+          "template": "curlie"
+        },
+        {
+          "list": [
+            "49312"
+          ],
+          "template": "c-span"
+        },
+        {
+          "votesmart": "77203",
+          "template": "conglinks"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Dan Onorato",
+          "template": "s-bef"
+        },
+        {
+          "title": "Democratic nominee for Governor of Pennsylvania",
+          "years": "2014, 2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Josh Shapiro",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Tom Corbett",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Pennsylvania",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "usa"
+          ],
+          "template": "s-prec"
+        },
+        {
+          "template": "incumbent vpotus"
+        },
+        {
+          "rows": "2",
+          "as": "Vice President",
+          "template": "s-bef"
+        },
+        {
+          "rows": "2",
+          "title": "Order of precedence of the United States",
+          "years": "Within Pennsylvania",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mayor of city in which event is held",
+          "template": "s-aft"
+        },
+        {
+          "template": "incumbent u.s. house speaker"
+        },
+        {
+          "after": "Otherwise as Speaker of the U.S. House of Representatives",
+          "template": "s-aft"
+        },
+        {
+          "before": "John Carney",
+          "as": "Governor of Delaware",
+          "template": "s-bef"
+        },
+        {
+          "title": "Order of precedence of the United States",
+          "years": "Outside Pennsylvania",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Phil Murphy",
+          "as": "Governor of New Jersey",
+          "template": "s-aft"
+        },
+        {
+          "template": "governors and presidents of pennsylvania"
+        },
+        {
+          "template": "pennsylvania statewide political officials"
+        },
+        {
+          "template": "u.s. governors"
+        },
+        {
+          "template": "rendell cabinet"
+        },
+        {
+          "template": "wolf cabinet"
+        },
+        {
+          "list": [
+            "Biography",
+            "Pennsylvania",
+            "Politics"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Governor Tom Wolf official government website",
+            "links": [
+              {
+                "text": "Governor Tom Wolf",
+                "type": "external",
+                "site": "https://www.governor.pa.gov/"
+              }
+            ]
+          },
+          {
+            "text": "Tom Wolf for Governor campaign website",
+            "links": [
+              {
+                "text": "Tom Wolf for Governor",
+                "type": "external",
+                "site": "https://www.wolfforpa.com/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
