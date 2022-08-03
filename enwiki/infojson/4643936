@@ -4,7 +4,7 @@
       "links": [
         "Michigan House of Representatives"
       ],
-      "stated_as": "Member of the\nMichigan House of Representatives"
+      "stated_as": "Member of the Michigan House of Representatives"
     },
     "P580": "2001-01-01",
     "P1365": {
@@ -24,7 +24,7 @@
   {
     "office": {
       "links": [
-        "Michigan State Senate"
+        "Michigan Senate"
       ],
       "stated_as": "Minority Leader of the Michigan Senate"
     },
@@ -46,7 +46,7 @@
   {
     "office": {
       "links": [
-        "Michigan State Senate"
+        "Michigan Senate"
       ],
       "stated_as": "Minority Leader of the Michigan Senate"
     },
@@ -68,10 +68,10 @@
   {
     "office": {
       "links": [
-        "Ingham County, Michigan",
-        "List of district attorneys by county"
+        "List of district attorneys by county",
+        "Ingham County, Michigan"
       ],
-      "stated_as": "Ingham County Prosecuting Attorney"
+      "stated_as": "Prosecuting Attorney of Ingham County"
     },
     "P580": "2016-07-21",
     "P1365": {
@@ -91,9 +91,9 @@
   {
     "office": {
       "links": [
-
+        "Governor of Michigan"
       ],
-      "stated_as": "Governor of Michigan"
+      "stated_as": "49th Governor of Michigan"
     },
     "P1545": "49",
     "P580": "2019-01-01",
